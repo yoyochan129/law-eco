@@ -12936,5 +12936,484 @@
     "date_added": "2026-07-28T16:22:24.330029+00:00",
     "title_zh": "从外汇掉期市场的角度看Covid-19危机期间的美元融资成本",
     "abstract_zh": "自Covid-19大流行开始以来，外汇市场的美元融资成本指标急剧上升，反映了需求和供给因素。近年来，对美元融资的需求不断增长，反映出美国以外的企业和投资组合投资者的货币对冲需求。在此背景下，最近几周的金融动荡抑制了金融中介机构的美元融资供应，大幅提升了美元融资成本指标。在央行部署美元互换额度后，这些成本已经缩小，但在确保美元融资市场保持弹性以及央行流动性被引导到银行体系之外方面，更广泛的政策挑战仍然存在。"
+  },
+  {
+    "title": "Valuing Future Lives",
+    "authors": "Daniel J. Hemel et al.",
+    "abstract": "Federal regulation often involves a tradeoff between monetary costs in the present and life-saving benefits in the future. A central question in regulatory cost-benefit analysis is how to assign a present dollar value to future lives so that future lives and present dollars can be compared. For regulations that are projected to prevent deaths years or decades down the road, agencies make two key analytical moves. First, they adjust the value of a statistical life upward to reflect the fact that society’s willingness to pay to save lives will rise as people become wealthier in the future. Second, they discount future benefits downward to reflect the fact that the wealthier people of the future will derive less utility from each dollar precisely because they are wealthier. In theory, these upward and downward adjustments could offset exactly, such that lives saved in the future carry the same weight in agency cost-benefit analyses as lives saved today. In practice, agencies adjust the value of a statistical life upward at a much slower rate than they discount future benefits. The consequence is that agencies assign much less weight to lives in the future than to lives in the present.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1133",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Fri, 24 Apr 2026 18:03:03 PDT",
+    "id": "b52f24027fcf7f8a",
+    "topics": [
+      "金融监管"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "2026-04-24",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:16.906808+00:00",
+    "title_zh": "珍惜未来的生活",
+    "abstract_zh": "联邦监管通常涉及当前的货币成本和未来的救生利益之间的权衡。监管成本效益分析的一个核心问题是如何将当前的美元价值分配给未来的生活，以便可以比较未来的生活和当前的美元。对于预计在未来几年或几十年内防止死亡的法规，各机构采取了两项关键的分析举措。首先，他们向上调整了统计生命值，以反映这样一个事实：随着人们未来变得更加富裕，社会为拯救生命而付费的意愿将会上升。其次，他们将未来的福利向下贴现，以反映这样一个事实：未来较富裕的人将从每一美元中获得的效用较少，正是因为他们更加富有。理论上，这些向上和向下的调整可以完全抵消，这样在机构成本效益分析中，未来挽救的生命与今天挽救的生命具有相同的权重。在实践中，各机构向上调整统计寿命价值的速度比贴现未来福利的速度要慢得多。结果是，各机构对未来生活的重视程度远低于对现在生活的重视程度。"
+  },
+  {
+    "title": "Bankruptcy Judging After Williamson",
+    "authors": "Vincent S.J. Buccola",
+    "abstract": "This Essay asks how bankruptcy judges ought to orient their substantial, statutory discretion in business reorganization cases. The motivating observation is that bankruptcy law enacts a kind of forced integration of productive assets. To shed light on the contemporary problems that bankruptcy judges face, I thus look to two classic approaches to the economic theory of the firm-from Oliver Williamson and from Oliver Hart. I conclude that nonjudicial institutions have largely surmounted the problems to which their theories point, leaving a different, and probably narrower, set of issues to worry about. Bankruptcy judges who have a notion that their job is, in part, to push parties to a \"deal\" should instead focus on policing efforts by some of a debtor's investors to capture value from a recapitalization deal to which their pre-distress bargain does not entitle them.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1132",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Fri, 10 Apr 2026 11:55:43 PDT",
+    "id": "07633068218a027d",
+    "topics": [
+      "破产法",
+      "司法和执法"
+    ],
+    "primary_topic": "破产法",
+    "publish_date_norm": "2026-04-10",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:19.106836+00:00",
+    "title_zh": "威廉姆森之后的破产审判",
+    "abstract_zh": "本文询问破产法官应如何在企业重组案件中确定其实质性的法定自由裁量权。令人兴奋的观察是，破产法制定了一种生产性资产的强制整合。为了阐明破产法官面临的当代问题，我因此研究了奥利弗·威廉姆森和奥利弗·哈特的两种经典的公司经济理论方法。我的结论是，非司法机构在很大程度上克服了其理论所指出的问题，留下了一系列不同的、可能范围更窄的问题需要担心。破产法官认为，他们的工作在一定程度上是推动各方达成“协议”，而应该把重点放在监管债务人的一些投资者从资本重组协议中获取价值的努力上，而他们在困境前的讨价还价并没有赋予他们权利。"
+  },
+  {
+    "title": "Price Drop Damages",
+    "authors": "Vincent S.J. Buccola et al.",
+    "abstract": "Assessing damages is often hard. When a reference asset–like stock–that is affected by misconduct trades in a liquid market, there is an appealing shortcut: price drop damages. The logic is simple: a court can leverage the fact that the price of this asset will reflect the consensus view among market participants of harm caused by the misconduct. But because market prices also reflect the expected value of any legal remedy, price drop damages are biased. We develop a simple model that allows us to characterize the magnitude and direction of this bias. We show the price drop damages understate harm when the expected net award flowing to purchasers of the reference asset positive, as in a corporate derivative case. In contrast, when the net recovery is negative, as in a securities fraud case, they overstate harm. Our analysis thus identifies, and offers a means to weigh contextually, an overlooked downside to leveraging the wisdom of crowds.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1131",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Fri, 27 Feb 2026 12:53:18 PST",
+    "id": "c5333d4957669866",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-02-27",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:22.357096+00:00",
+    "title_zh": "价格下跌损害赔偿",
+    "abstract_zh": "评估损失通常很困难。当参考资产（例如股票）在流动性市场中受到不当行为影响时，有一个有吸引力的捷径：价格下跌损害赔偿。逻辑很简单：法院可以利用这一事实，即该资产的价格将反映市场参与者对不当行为造成的损害的共识。但由于市场价格也反映了任何法律补救措施的预期价值，因此价格下跌损害赔偿是有偏差的。我们开发了一个简单的模型，使我们能够描述这种偏差的大小和方向。我们表明，当流向参考资产购买者的预期净赔偿为正时（如公司衍生品案例），价格下跌损害低估了损害。相反，当净回收率为负时，例如在证券欺诈案件中，他们就会夸大损失。因此，我们的分析确定了利用群体智慧的一个被忽视的缺点，并提供了一种根据具体情况进行权衡的方法。"
+  },
+  {
+    "title": "Finding Debtor's Counsel",
+    "authors": "Anthony Casey et al.",
+    "abstract": "In this Essay, we explore the question of how to assess the independence of debtor’s counsel in Chapter 11. The question has arisen in recent high-profile bankruptcy cases, attracting renewed attention from commentators. We examine these cases and revisit the unique role that debtor’s counsel serves. From this analysis, a few guiding principles emerge for determining independence and managing conflicts that may arise. First, consistent with the rules outside of bankruptcy, sophisticated parties are capable of waiving conflicts and should be free to do so when their interests alone are affected by the conflict. Second, the possibility of conflicts—both real and apparent—is much higher for debtor’s counsel than for attorneys in other roles. This creates a challenge for courts, which must address both the real conflicts and the weaponization of apparent conflicts to shift leverage. Conscious of this, courts should rely, whenever possible, on intermediate remedies—such as conflicts counsel and ethical firewalls—to address allegations that debtor’s counsel is not independent. Finally, one should be careful to separate the analysis of the independence of a debtor’s managers (including it",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1130",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Fri, 27 Feb 2026 11:26:55 PST",
+    "id": "02403167c7b7ecfd",
+    "topics": [
+      "破产法"
+    ],
+    "primary_topic": "破产法",
+    "publish_date_norm": "2026-02-27",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:24.810227+00:00",
+    "title_zh": "寻找债务人的律师",
+    "abstract_zh": "在本文中，我们在第11章中探讨了如何评估债务人律师的独立性的问题。这个问题在最近备受瞩目的破产案件中出现，再次引起了评论家的关注。我们研究这些案例并重新审视债务人律师所发挥的独特作用。从这一分析中，我们得出了一些确定独立性和管理可能出现的冲突的指导原则。首先，与破产以外的规则一致，成熟的当事人能够放弃冲突，并且当其利益仅受到冲突影响时应该可以自由地这样做。其次，债务人律师发生冲突（无论是真实的还是表面的）的可能性比担任其他角色的律师要高得多。这给法院带来了挑战，法院必须解决真正的冲突以及将明显冲突武器化以转移影响力。意识到这一点，法院应尽可能依靠中间补救措施（例如冲突律师和道德防火墙）来解决债务人律师不独立的指控。最后，应谨慎区分对债务人管理者（包括债务人管理者）独立性的分析。"
+  },
+  {
+    "title": "Grading Machines: Can AI Exam-Grading Replace Law Professors?",
+    "authors": "Kevin L. Cope et al.",
+    "abstract": "In the past few years, large language models (LLMs) have achieved significant technical advances, such that legal-advocacy organizations are increasingly adopting them as complements to—or substitutes for— lawyers and other human experts. Several studies have examined LLMs’ performance in taking law school exams, finding mixed results. Yet there have been no published studies systematically analyzing LLMs’ competence at one of law professors’ chief responsibilities: grading law school exams. This paper presents results of an analysis of how LLMs perform in evaluating student responses to legal analysis questions of the kind typically administered in law school exams. The underlying data come from exams in four subjects administered at top-30 U.S. law schools. Unlike some projects in computer or data science, our goal is not to design a new LLM that minimizes error or that maximizes agreement with human graders. Rather, we seek to determine whether existing models—which can be straightforwardly applied by most professors and students—are already suitable for the task of law exam evaluation. We find that, when provided with a detailed rubric, the LLM grades correlate with the human g",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1128",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 08 Dec 2025 12:07:53 PST",
+    "id": "eb3e0d1465134c6e",
+    "topics": [
+      "AI",
+      "机器学习"
+    ],
+    "primary_topic": "AI",
+    "publish_date_norm": "2025-12-08",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:28.108418+00:00",
+    "title_zh": "评分机：人工智能考试评分能否取代法学教授？",
+    "abstract_zh": "在过去的几年中，大型语言模型（LLM）取得了重大的技术进步，因此法律倡导组织越来越多地采用它们作为律师和其他人类专家的补充或替代品。几项研究考察了法学硕士在法学院考试中的表现，结果好坏参半。然而，还没有发表的研究系统地分析法学硕士在法学教授的主要职责之一（即为法学院考试评分）方面的能力。本文介绍了法学硕士在评估学生对法学院考试中通常出现的法律分析问题的反应方面的表现的分析结果。基础数据来自美国前 30 名法学院的四个科目的考试。与计算机或数据科学中的一些项目不同，我们的目标不是设计一个新的法学硕士来最大限度地减少错误或最大限度地与人类评分者达成一致。相反，我们试图确定现有的模型（大多数教授和学生可以直接应用）是否已经适合法律考试评估的任务。我们发现，当提供详细的评分标准时，LLM 成绩与人类的 g 相关。"
+  },
+  {
+    "title": "Antitrust Analysis of Vertical Restraints in Labor Markets",
+    "authors": "Eric A. Posner",
+    "abstract": "Vertical restraints in labor markets are a neglected topic, but have taken on importance as the harms caused by labor market restraints have gained greater recognition. These restraints are typically a form of input foreclosure, which refers to action of a downstream buyer of inputs to hinder its competitors from accessing those inputs. But while labor markets are important input markets, there has been little discussion of how input foreclosure can be used to evaluate anticompetitive labor market transactions. This article fills that gap by providing a framework for analyzing input foreclosure in labor markets.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1127",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Wed, 19 Nov 2025 09:56:10 PST",
+    "id": "91a2c5343f60f6be",
+    "topics": [
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "竞争法和反垄断法",
+    "publish_date_norm": "2025-11-19",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:30.855632+00:00",
+    "title_zh": "劳动力市场纵向限制的反垄断分析",
+    "abstract_zh": "劳动力市场的纵向限制是一个被忽视的话题，但随着劳动力市场限制造成的危害得到更多认识，它变得越来越重要。这些限制通常是投入品取消赎回权的一种形式，是指投入品的下游买家采取行动阻止其竞争对手获得这些投入品。但是，尽管劳动力市场是重要的投入市场，但很少有人讨论如何利用投入止赎来评估反竞争的劳动力市场交易。本文通过提供分析劳动力市场投入止赎的框架来填补这一空白。"
+  },
+  {
+    "title": "Ideological Concordance Between Students and Professors",
+    "authors": "Adam Bonica et al.",
+    "abstract": "We develop a measure of student-professor ideological concordance based on the share of faculty members who are more liberal than the students at a given school. We then use data on the ideology of students and professors in American law schools over more than a twenty-year period to estimate the degree of ideological concordance in the legal academy. We find that as professors have become more liberal over time, their students have become even more liberal. The result is that ideological concordance has increased over time and that by 2010 the average law student actually attended a law school with more professors to their ideological right than to their ideological left. However, the overall trends mask considerable differences in concordance for liberal and conservative students. While the average liberal student attended a law school with roughly equal shares of professors to their ideological right and left, the average conservative student attended a law school where 90 percent of their professors were more liberal than them.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1126",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Tue, 14 Oct 2025 10:47:15 PDT",
+    "id": "016df956dd26fd66",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-14",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:33.169348+00:00",
+    "title_zh": "学生与教授思想一致",
+    "abstract_zh": "我们根据某所学校比学生更自由的教师比例来衡量学生与教授意识形态的一致性。然后，我们利用二十多年来美国法学院学生和教授的意识形态数据来估计法学院意识形态的一致性程度。我们发现，随着时间的推移，教授变得更加自由，他们的学生也变得更加自由。结果是，意识形态的一致性随着时间的推移而增加，到 2010 年，平均法学院学生实际上就读的法学院，其意识形态右派的教授多于意识形态左派的教授。然而，总体趋势掩盖了自由派和保守派学生的一致性的显着差异。自由派学生就读的法学院中，其意识形态右派和左派教授的比例大致相等，而保守派学生就读的法学院中，90%的教授都比他们更自由派。"
+  },
+  {
+    "title": "Safety Score Liability",
+    "authors": "Omri Ben-Shahar",
+    "abstract": "Data technology is increasingly deployed to assign safety scores to people and products. Could these scores be used by tort law to apportion liability for accidents? Instead of basing tort liability on negligence—on the level of care leading to the specific accident—“safety score liability” would impose liability commensurate with a party’s habitual propensity to behave unsafely. This article describes how safety score liability would work, the incentives it would create, and the principles limiting its adoption. The article suggests that the precision of AI tools generating such scores—scores that have already reshaped other channels of safety regulation in society— offers new and thought-provoking opportunity for tort law. Safety score liability is rooted in a new and intriguing foundation for the notion of fault in tort law, providing surprisingly strong incentives for care, and managing the post-accident compensatory goals of tort law in a simple, low-cost manner.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1125",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Tue, 14 Oct 2025 10:42:49 PDT",
+    "id": "44ede5bd55507997",
+    "topics": [
+      "金融监管"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "2025-10-14",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:35.767178+00:00",
+    "title_zh": "安全评分责任",
+    "abstract_zh": "数据技术越来越多地用于为人员和产品分配安全评分。侵权法可以使用这些分数来分配事故责任吗？ “安全评分责任”不是将侵权责任基于过失（即导致特定事故的谨慎程度），而是根据一方不安全行为的习惯倾向来施加相应的责任。本文介绍了安全评分责任的运作方式、其产生的激励措施以及限制其采用的原则。文章认为，人工智能工具生成此类分数的精确度（这些分数已经重塑了社会中其他安全监管渠道）为侵权法提供了新的、发人深省的机会。安全评分责任植根于侵权法过错概念的一个新的、有趣的基础，为护理提供了令人惊讶的强大激励，并以简单、低成本的方式管理侵权法的事故后补偿目标。"
+  },
+  {
+    "title": "Pillar Two: Much Ado About Next to Nothing?",
+    "authors": "Julie Roin",
+    "abstract": "The OECD has spent the last fifteen years working on the design and implementation of rules for the taxation of the income derived from international transactions, rules that its members hope will both increase corporate tax revenues and minimize “destructive” tax competition. In 2021, it released its two-part “Inclusive Framework.” Although Pillar One of this Framework still languishes, legislation necessary for the implementation of Pillar Two, which is designed to force all countries to impose a minimum tax on income derived by large multinational enterprises, has been enacted by most of the countries in the European Union, Japan, South Korea and other economically important countries. At present, though, the U.S. has refused to enact such legislation, and President Trump recently announced his opposition to participating in the entire endeavor. This article explains why the U.S should go forward with Pillar Two, but for reasons that are at odds with the general approbation of Pillar Two by tax academics and international authorities. It argues that, while Pillar Two will undoubtedly be somewhat disruptive, it is largely a “paper tiger.” Instead of reducing overall tax or econom",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1124",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Tue, 14 Oct 2025 10:35:05 PDT",
+    "id": "24e6568cfb8a34b9",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-14",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:38.319569+00:00",
+    "title_zh": "第二支柱：无事生非？",
+    "abstract_zh": "过去十五年来，经合组织一直致力于设计和实施国际交易收入征税规则，其成员国希望这些规则既能增加企业税收收入，又能最大限度地减少“破坏性”税收竞争。 2021 年，它发布了由两部分组成的“包容性框架”。尽管该框架的第一支柱仍然停滞不前，但大多数欧盟国家、日本、韩国和其他经济重要国家已经颁布了实施第二支柱所需的立法，旨在迫使所有国家对大型跨国企业的收入征收最低税。但目前美国拒绝颁布此类立法，特朗普总统最近也宣布反对参与整个努力。本文解释了为什么美国应该推进第二支柱，但其原因与税务学者和国际当局对第二支柱的普遍认可不一致。它认为，虽然第二支柱无疑会带来一定程度的破坏，但它在很大程度上是一只“纸老虎”。而不是减少总体税收或经济"
+  },
+  {
+    "title": "Fraudulent Transfer Law’s Forgotten Foundations",
+    "authors": "Douglas G. Baird",
+    "abstract": "Fraudulent transfer law is one of the principal bulwarks of private law. Fraudulent transfer law, however, now faces a crisis. Courts have long assumed that it was easy to determine whether a debtor made a fraudulent transfer of its property. One could use traditional markers of ownership to determine whether the debtor transferred property to a confederate. But today most assets are intangible. Transactions happen in the blink of an eye, and they take place entirely on corporate books. Reliance on simple notions of what constitutes a “transfer” of property are wholly inadequate. Understanding what it means for a debtor to transfer property for fraudulent transfer purposes requires revisiting the foundational principles of fraudulent transfer law, a task that has proved elusive because one of its foundational principles has been forgotten.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1123",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Tue, 14 Oct 2025 10:30:11 PDT",
+    "id": "64328144964f7b1f",
+    "topics": [
+      "破产法"
+    ],
+    "primary_topic": "破产法",
+    "publish_date_norm": "2025-10-14",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:41.089250+00:00",
+    "title_zh": "欺诈性转让法被遗忘的基础",
+    "abstract_zh": "欺诈性转让法是私法的主要堡垒之一。然而，欺诈性转让法现在面临着危机。法院长期以来一直认为很容易确定债务人是否对其财产进行了欺诈性转移。人们可以使用传统的所有权标记来确定债务人是否将财产转让给同盟者。但如今大多数资产都是无形的。交易发生在眨眼之间，并且完全发生在公司账簿上。仅仅依靠什么构成财产“转让”的简单概念是完全不够的。要了解债务人出于欺诈性转让目的转让财产意味着什么，需要重新审视欺诈性转让法的基本原则，事实证明这项任务难以实现，因为其中一项基本原则已被遗忘。"
+  },
+  {
+    "title": "Purdue Pharma and the New Bankruptcy Exceptionalism",
+    "authors": "Anthony Casey et al.",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1122",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 14:16:08 PDT",
+    "id": "54d854eddbf39736",
+    "topics": [
+      "破产法"
+    ],
+    "primary_topic": "破产法",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:43.669304+00:00",
+    "title_zh": "普渡制药公司和新的破产例外论",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Tom Sawyer Effect: Invisible Work and Labor Market Power",
+    "authors": "Eric A. Posner",
+    "abstract": "Certain types of work-like behavior are not treated as paid labor in the law and are therefore not taxed or given workplace protections and are often not understood to be work by ordinary people. This kind of “invisible work” is exceedingly common. It encompasses not only the frequently discussed example of household labor, but also the work, or some of the work, of athletes, soldiers, students, artists, volunteers, religious and political figures, and consumers who implicitly trade work—and money—for products and services. Invisible work is the product of cultural understandings left over from the past or manufactured by businesses, which become a source of monopsony power and enable employers to push down wages, often to zero. Workers and their advocates can push back by reclassifying invisible work as real work; which is to say, to commodify it.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1121",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 13:59:08 PDT",
+    "id": "64375a64160d2a7c",
+    "topics": [
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "竞争法和反垄断法",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:45.481035+00:00",
+    "title_zh": "汤姆索亚效应：无形的工作和劳动力市场力量",
+    "abstract_zh": "某些类型的类似工作的行为在法律上不被视为有偿劳动，因此不会被征税或受到工作场所保护，并且通常不被理解为普通人的工作。这种“看不见的工作”非常普遍。它不仅包括经常讨论的家务劳动的例子，还包括运动员、士兵、学生、艺术家、志愿者、宗教和政治人物以及用工作和金钱换取产品和服务的消费者的工作或部分工作。隐形工作是过去遗留下来的文化理解的产物，或者是企业制造的文化理解的产物，它们成为垄断权力的来源，使雇主能够将工资压低，常常压低至零。工人及其支持者可以通过将无形工作重新归类为实际工作来进行反击；也就是说，将其商品化。"
+  },
+  {
+    "title": "The Limits and Promise of Global Antitrust Law",
+    "authors": "Anu Bradford et al.",
+    "abstract": "A large body of evidence suggests that open, competitive markets are a key driver of economic development. In recognition of this fact, many of the world’s leading economies not only adopted their own antitrust laws to promote fair competition, but they also urged developing countries around the world to do the same. This resulted in a remarkable proliferation of global antitrust law over the last several decades. Many studies have empirically examined the effect of this development, and, consistent with the hopes of policymakers, they have largely found that adopting antitrust laws produces positive economic outcomes. In this Article, we reassess the relationship between countries’ antitrust laws and their economic growth. We improve on prior research by using more detailed data on countries’ antitrust regimes and deploying a research design that more accurately captures countries’ growth trajectories. This allows us to provide a more nuanced account of the relationship between antitrust law adoption and market outcomes. Our results suggest that, on average, antitrust laws have had little to no impact on economic development. But we also find evidence suggesting that these laws ha",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1120",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 12:50:43 PDT",
+    "id": "a4c1200f93ef9727",
+    "topics": [
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "竞争法和反垄断法",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:47.672051+00:00",
+    "title_zh": "全球反垄断法的局限性和前景",
+    "abstract_zh": "大量证据表明，开放、竞争的市场是经济发展的关键驱动力。认识到这一事实，许多世界主要经济体不仅通过了自己的反垄断法来促进公平竞争，而且还敦促世界各地的发展中国家也这样做。这导致过去几十年来全球反垄断法的显着扩散。许多研究都对这一发展的影响进行了实证检验，并且与政策制定者的希望一致，他们在很大程度上发现，采用反垄断法会产生积极的经济成果。在本文中，我们重新评估各国反垄断法与其经济增长之间的关系。我们通过使用有关各国反垄断制度的更详细数据并部署更准确地捕捉各国增长轨迹的研究设计来改进先前的研究。这使我们能够更细致地描述反垄断法的采用与市场结果之间的关系。我们的研究结果表明，平均而言，反垄断法对经济发展几乎没有影响。但我们也发现证据表明这些法律"
+  },
+  {
+    "title": "Forced Migration and Women’s Empowerment: Evidence from Rohingya Refugees",
+    "authors": "Adam Chilton et al.",
+    "abstract": "We explore a paradox: high levels of satisfaction among forcibly displaced Rohingya women in informal camps in Hyderabad, India. Despite experiencing extreme poverty, loss of family and community, and high levels of gender-based violence after resettlement, both men and women—particularly women—report significant increases in satisfaction. We structured a representative household survey, employed a trusted female Muslim interviewer with deep ties to the local community, interviewed comparable numbers of men and women, and embedded list experiments in our questionnaire, to allow people to answer sensitive questions indirectly. We attribute this paradoxical finding to increased freedom post-resettlement, facilitated by economic, legal, and cultural factors. We expand the literature on happiness and migration, showing that subjective well-being can improve significantly even for forced migrants in precarious conditions. Our findings sharply illustrate the capabilities approach to human development, which emphasizes increased autonomy, as distinct from greater wealth.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1119",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 12:18:49 PDT",
+    "id": "c1f4434675763e3c",
+    "topics": [
+      "司法和执法",
+      "实验"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:50.662062+00:00",
+    "title_zh": "强迫移民和妇女赋权：来自罗兴亚难民的证据",
+    "abstract_zh": "我们探讨了一个悖论：印度海得拉巴非正式营地中被迫流离失所的罗辛亚妇女的满意度很高。尽管在重新安置后经历了极端贫困、失去家庭和社区以及严重的性别暴力，但男性和女性——尤其是女性——都表示满意度显着提高。我们组织了一项具有代表性的家庭调查，聘请了一位与当地社区有深厚联系、值得信赖的穆斯林女性采访者，采访了相当数量的男性和女性，并在调查问卷中嵌入了列表实验，让人们间接回答敏感问题。我们将这一矛盾的发现归因于重新安置后自由度的增加，以及经济、法律和文化因素的推动。我们扩展了关于幸福和移民的文献，表明即使对于处于不稳定条件下的被迫移民来说，主观幸福感也可以显着改善。我们的研究结果清楚地说明了人类发展的能力方法，它强调增加自主权，与增加财富不同。"
+  },
+  {
+    "title": "Those Elusive Algorithmic Harms: A Comment on Bar-Gill and Sunstein, Algorithmic Harm",
+    "authors": "Omri Ben-Shahar",
+    "abstract": "Can we talk about harms of algorithms—of anything—without comparing them to the benefits? In Algorithmic Harm, Bar-Gill and Sunstein develop a theoretical framework to assess the impact of algorithms in consumer markets, focusing on harmful manipulation of unsophisticated buyers. But the same framework yields additional insights, not explored in the book—how algorithmic targeting and personalized prices benefit this same group of consumers. In this contribution to the book symposium, I examine this missing part, suggesting that algorithms’ ability to recognize different consumers often yields treatments favorable to weaker groups of consumers—an effect richly documented in the empirical economic literature. Absent a fuller account of both the offsetting benefits from algorithmic targeting, it is premature to recommend policy interventions that limit various uses of algorithms in markets populated by unsophisticated consumers",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1118",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 12:12:36 PDT",
+    "id": "dea27b69ae8a2aca",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:53.487832+00:00",
+    "title_zh": "那些难以捉摸的算法危害：对 Bar-Gill 和 Sunstein 《算法危害》的评论",
+    "abstract_zh": "我们可以在不将算法与好处进行比较的情况下谈论算法的危害吗？在《算法危害》一书中，巴吉尔和桑斯坦开发了一个理论框架来评估算法对消费市场的影响，重点关注对不成熟买家的有害操纵。但同一个框架产生了额外的见解，而本书中没有对此进行探讨——算法定位和个性化价格如何使同一组消费者受益。在本书研讨会的这篇文章中，我研究了这个缺失的部分，表明算法识别不同消费者的能力通常会产生有利于弱势消费者群体的治疗方法——这种效应在实证经济文献中得到了丰富的记录。如果没有更全面地考虑算法定位带来的抵消效益，那么建议在由不成熟的消费者组成的市场中限制算法的各种使用的政策干预措施还为时过早"
+  },
+  {
+    "title": "Informative Jury Disagreement",
+    "authors": "Roy Baharad",
+    "abstract": "The article introduces a counterintuitive argument, contending that jury disagreement on the defendant’s guilt—a nonunanimous conviction—may well provide a more informative signal, compared to consensus. Because stronger consensus implies higher likelihood of herding, it is shown that beyond some threshold, further accumulation of votes to convict would carry negligible epistemic contribution, barely enhancing the posterior probability of guilt. On the other hand, while dissenting votes provide a direct signal of innocence, they indicate that herding has not been involved in the decision-making process, hence increase the epistemic contribution of any vote generated by said process— including votes to convict—and may thus offer an indirect signal of guilt, potentially increasing the posterior. This unravels the informational value of dissent and the possible disadvantageousness of consensus.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1117",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 12:03:32 PDT",
+    "id": "ba2563dba1d6e1a6",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:55.943526+00:00",
+    "title_zh": "信息丰富的陪审团分歧",
+    "abstract_zh": "文章提出了一个反直觉的论点，认为陪审团对被告有罪的分歧（非一致定罪）很可能比共识提供更多信息。因为更强的共识意味着更大的羊群效应的可能性，所以研究表明，超过某个阈值，进一步积累定罪选票将带来可以忽略不计的认知贡献，几乎不会提高有罪的后验概率。另一方面，虽然反对票提供了无罪的直接信号，但它们表明羊群效应并未参与决策过程，因此增加了该过程产生的任何投票的认知贡献（包括定罪票），并可能因此提供有罪的间接信号，从而可能增加后验。这揭示了异议的信息价值和共识可能的不利之处。"
+  },
+  {
+    "title": "The Evolution of Experiential Legal Education",
+    "authors": "Adam Chilton et al.",
+    "abstract": "To help bridge the gap between legal education and legal practice, in 2014 the American Bar Association adopted a requirement that law students take at least six credits of “experiential” courses. Despite limited research on the effects of this reform, the ABA is currently considering a new re- form that would require law students to take twice as many experiential credits to graduate. We provide new evidence for this debate by studying the evolution of experiential legal education and the impacts of the 2014 reform. We compile data reported by law schools to the ABA to document a dramatic rise in the number of experiential opportunities available to students even before the reform, and we find no evidence that the re- form improved employment outcomes. However, we also find no evidence that the reform increased tuition or had a negative effect on bar passage. We then use transcript data from one law school to study how the 2014 reform impacted students’ course selections. We find evidence suggesting that the reform expanded access to clinics primarily to students least inclined to benefit from them but without displacing students most inclined to benefit from them.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1116",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 11:50:04 PDT",
+    "id": "8f5f718caa9d5759",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:43:57.442165+00:00",
+    "title_zh": "体验式法律教育的演变",
+    "abstract_zh": "为了缩小法律教育与法律实践之间的差距，2014 年，美国律师协会通过了一项要求，要求法学院学生至少修读 6 个学分的“体验式”课程。尽管对这项改革的影响的研究有限，美国律师协会目前正在考虑一项新的改革，要求法学院学生修读两倍的经验学分才能毕业。我们通过研究体验式法律教育的演变以及 2014 年改革的影响，为这场辩论提供了新的证据。我们汇编了法学院向美国律师协会报告的数据，记录了即使在改革之前学生可以获得的体验机会数量也急剧增加，但我们没有发现任何证据表明改革改善了就业结果。然而，我们也没有发现任何证据表明改革增加了学费或对律师通过产生负面影响。然后，我们使用一所法学院的成绩单数据来研究 2014 年的改革如何影响学生的课程选择。我们发现的证据表明，改革主要扩大了最不愿意从诊所受益的学生的就诊机会，但并没有取代最愿意从诊所受益的学生。"
+  },
+  {
+    "title": "Algorithmic Selection of Iconic Constitutions",
+    "authors": "Tejas Ramdas et al.",
+    "abstract": "This chapter examines the influence of pre-20th century constitutions using a quantitative approach, comparing expert-selected “iconic” constitutions with those identified algorithmically. In prior work, human experts identified four influential constitutions: the U.S. 1791, France 1791, Spain 1812, and France 1848. Here, we employ a genetic algorithm and Document Term Matrix (DTM) analysis to assess which one or four of 180 pre-1899 constitutions had the greatest textual impact on 581 post-1900 constitutions. Two criteria guide the selection: coverage and originality. Through iterative optimization, the algorithm identifies the most textually influential constitutions, allowing for a direct comparison with expert selections. This chapter contributes to both comparative constitutional law and law and economics by evaluating the strengths and limitations of expert judgment versus algorithmic analysis, shedding light on how constitutional ideas are transmitted and potentially uncovering underappreciated sources of constitutional influence.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1115",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 11:25:15 PDT",
+    "id": "1ab9f0a38c03a8c5",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:00.138978+00:00",
+    "title_zh": "标志性宪法的算法选择",
+    "abstract_zh": "本章采用定量方法研究了 20 世纪前宪法的影响，将专家选择的“标志性”宪法与算法识别的宪法进行比较。在之前的工作中，人类专家确定了四部有影响力的宪法：美国 1791 年、法国 1791 年、西班牙 1812 年和法国 1848 年。在这里，我们采用遗传算法和文档术语矩阵 (DTM) 分析来评估 1899 年之前的 180 部宪法中的哪一部或四部对 1900 年之后的 581 部宪法具有最大的文本影响。有两个标准指导选择：覆盖范围和原创性。通过迭代优化，该算法识别出最具文本影响力的构成，从而可以与专家选择进行直接比较。本章通过评估专家判断与算法分析的优势和局限性，阐明宪法思想的传播方式，并可能揭示宪法影响力的未被充分认识的来源，对比较宪法以及法律和经济学做出了贡献。"
+  },
+  {
+    "title": "The Genesis of Constitutions: A Natural Language Processing Approach",
+    "authors": "Tejas Ramdas et al.",
+    "abstract": "The diffusion of constitutional ideas and models has been the subject of extensive scholarship. In this paper, we use natural language processing methods to examine the persistence of constitutional ideas and models, focusing on how 16 core and iconic constitutions influence 572 newer constitutions over a long period (1900–2020). Our findings indicate that “old” core constitutions (such as those of the U.S. of 1789, Spain of 1812, France of 1848, and to a lesser extent France of 1791) have maintained significant influence over those 121 years. Austria of 1920 and France of 1946 are the most influential among the 20th -century iconic constitutions. In line with previous research, these old “core” constitutions experienced a sustainable decline in their impact from the early 1900s to World War II. However, remarkably, their formal influence tended to stabilize after the 1950s. Notably, the influence of the U.S. Constitution of 1789 and the French Constitution of 1848 never fully disappeared. The persistent impact of these older constitutions indicates a certain institutional inertia that shapes legal orders to this day.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1114",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 10:09:41 PDT",
+    "id": "bdf8b55dbe670c12",
+    "topics": [
+      "机器学习"
+    ],
+    "primary_topic": "机器学习",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:03.337199+00:00",
+    "title_zh": "宪法的起源：自然语言处理方法",
+    "abstract_zh": "宪法思想和模式的传播一直是广泛学术研究的主题。在本文中，我们使用自然语言处理方法来检验宪法思想和模式的持久性，重点关注16部核心和标志性宪法如何在很长一段时间内（1900年至2020年）影响572部新宪法。我们的研究结果表明，“旧”核心宪法（例如 1789 年的美国宪法、1812 年的西班牙宪法、1848 年的法国宪法，以及较小程度上的 1791 年法国宪法）在这 121 年中保持了重大影响。 1920年的奥地利和1946年的法国是20世纪最具影响力的标志性宪法。与之前的研究一致，从 1900 年代初到第二次世界大战，这些旧的“核心”宪法的影响力经历了持续下降。然而，值得注意的是，他们的正式影响力在 20 世纪 50 年代之后趋于稳定。值得注意的是，1789 年美国宪法和 1848 年法国宪法的影响从未完全消失。这些旧宪法的持续影响表明了某种制度惰性，至今仍塑造着法律秩序。"
+  },
+  {
+    "title": "Space Over Time: Housing for the Life Cycle",
+    "authors": "Lee Anne Fennell",
+    "abstract": "People need housing throughout the life cycle, and what they need from that housing changes over time. Yet the menu of residential options is often too static, rigid, and limited to respond to these changes. What would it mean to configure housing to adapt to households’ evolving spatial requirements, risk tolerances, health challenges, and financial statuses? How could greater flexibility in the built environment enable communities to deliver better residential services to their populations? Elder housing offers a illuminating window into these questions and their answers. Addressing life-stage correlated housing mismatches could help to loosen the larger supply constraints—and failures of imagination—that have perpetuated housing crises across the country.",
+    "keywords": [],
+    "url": "https://chicagounbound.uchicago.edu/law_and_economics/1113",
+    "source": "Coase-Sandor Institute for Law & Economics Research Paper Series",
+    "publish_date": "Mon, 13 Oct 2025 09:58:04 PDT",
+    "id": "28dfa0580365fc4f",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2025-10-13",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:06.691528+00:00",
+    "title_zh": "空间与时间：生命周期的住房",
+    "abstract_zh": "人们在整个生命周期中都需要住房，而且他们对住房的需求会随着时间的推移而变化。然而，住宅选择的菜单往往过于静态、僵化且有限，无法应对这些变化。配置住房以适应家庭不断变化的空间需求、风险承受能力、健康挑战和财务状况意味着什么？建筑环境的更大灵活性如何使社区能够为其人口提供更好的居住服务？老年人住房为了解这些问题及其答案提供了一个富有启发性的窗口。解决与生命阶段相关的住房不匹配问题可能有助于缓解更大的供应限制和想象力的失败，这些限制导致全国范围内的住房危机长期存在。"
+  },
+  {
+    "title": "Auditor’s liability, audit quality and inflation: an economic analysis",
+    "authors": "Steller, Marcel (Department of Accounting and Auditing, Johannes Kepler Universität Linz, Linz, Austria); Pummerer, Erich (Department of Accounting, Auditing and Taxation, Universität Innsbruck, Innsbruck, Austria)",
+    "abstract": "This article examines the relationship between audit quality and growth in audit-relevant parameters, especially in the context of recent inflationary trends within the European Union. Using a formal model, it analyses how increases in variable audit costs influence auditors’ decisions on the level of audit effort, which directly impacts audit quality. The study finds that if statutory liability limits remain fixed in nominal terms while audit costs rise, auditors’ incentives to maintain high-quality audits weaken. This leads to lower audit effort and thus to reduced audit quality. At the same time, total audit costs are increasing, resulting in higher audit fees for the auditee. From the auditee’s perspective, the value of an audit depends on balancing the benefits of improved quality—primarily through reducing the risk of financial misstatements—against rising costs. The paper derives a neutrality condition that shows how liability limits must grow to keep audit quality stable in real terms. While it is relatively straightforward for auditors to maintain incentives by adjusting liability limits, the auditee’s assessment is more complex due to differences between audit cost growth and inflation, and uncertainties about potential claims. Because of these factors, no universal solution for a constant optimal level of audit quality exists. The findings highlight the need for periodic review and adjustment of liability limits to sustain audit quality. This study contributes to a deeper understanding of the dynamic relationship between economic growth, audit costs, and liability frameworks, offering insights for policymakers and practitioners in a changing economic environment.",
+    "keywords": [],
+    "url": "https://link.springer.com/article/10.1007/s10657-026-09882-2",
+    "source": "European Journal of Law & Economics",
+    "publish_date": "2026/08",
+    "id": "b797cd5940bae0e6",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-08-28",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:09.664472+00:00",
+    "title_zh": "审计师责任、审计质量和通货膨胀：经济分析",
+    "abstract_zh": "本文探讨了审计质量与审计相关参数增长之间的关系，特别是在欧盟近期通胀趋势的背景下。使用正式模型，它分析了可变审计成本的增加如何影响审计师对审计工作水平的决策，从而直接影响审计质量。研究发现，如果法定责任限额在名义上保持固定，而审计成本上升，审计师维持高质量审计的动力就会减弱。这会导致审计工作量减少，从而降低审计质量。与此同时，审计总成本不断增加，导致被审计方的审计费用更高。从被审计方的角度来看，审计的价值取决于在提高质量带来的好处（主要是通过降低财务错报风险）与不断上升的成本之间取得平衡。该论文得出了一个中立条件，表明必须如何提高责任限额才能保持审计质量的实际稳定。虽然审计师通过调整责任限额来维持激励相对简单，但由于审计成本增长和通货膨胀之间的差异以及潜在索赔的不确定性，被审计方的评估更加复杂。由于这些因素，不存在能够持续保持最佳审计质量水平的通用解决方案。调查结果强调需要定期审查和调整责任限额以维持审计质量。这项研究有助于更深入地了解经济增长、审计成本和责任框架之间的动态关系，为不断变化的经济环境中的政策制定者和从业者提供见解。"
+  },
+  {
+    "title": "How is digital evidence used in the international criminal court? An exploratory analysis",
+    "authors": "Lecorps, Yann (CRED (UR 7321), Université Paris-Panthéon-Assas, Paris, France); Naili, Khaoula (CRESE (UR 3190), Université Marie et Louis Pasteur, Besançon, France); Obidzinski, Marie (CRED (UR 7321), Université Paris-Panthéon-Assas, Paris, France); Oytana, Yves (CRESE (UR 3190), Université Marie et Louis Pasteur, Besançon, France); Toutounji, Téa (CRED (UR 7321), Université Paris-Panthéon-Assas, Paris, France)",
+    "abstract": "We examine the use of digital versus classical evidence in cases handled by the International Criminal Court (ICC). We study and exploit variations in the use of evidence (i) between stages of proceedings, namely pre-trial and trial, and (ii) between parties in ICC trials. Since the standard of proof varies between stages of the proceedings, we frame the situation using a simple model and discuss the results we can empirically expect. The model predicts that the prosecution’s reliance on both types of evidence should increase from the pre-trial to the trial stage, although the relative magnitude of the increase remains ambiguous. Our empirical results confirm that references to both categories of evidence are more frequent at trial and show that the rise is proportionally larger for classical evidence than for digital evidence. For variations in the use of evidence between the parties involved in the trial, our approach is purely empirical. We find that the relative intensity of references to digital evidence by parties varies across cases and across trial sub-phases.",
+    "keywords": [],
+    "url": "https://link.springer.com/article/10.1007/s10657-026-09881-3",
+    "source": "European Journal of Law & Economics",
+    "publish_date": "2026/08",
+    "id": "11d24cbf47be3b07",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-28",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:11.607590+00:00",
+    "title_zh": "国际刑事法庭如何使用数字证据？探索性分析",
+    "abstract_zh": "我们研究了国际刑事法院 (ICC) 处理的案件中数字证据与经典证据的使用情况。我们研究和利用证据使用的差异（i）诉讼阶段之间，即预审和审判，以及（ii）国际刑事法院审判中各方之间的证据使用差异。由于诉讼阶段之间的证明标准有所不同，我们使用一个简单的模型来构建这种情况，并讨论我们凭经验可以预期的结果。该模型预测，从预审到审判阶段，检方对这两类证据的依赖应该会增加，尽管增加的相对幅度仍然不明确。我们的实证结果证实，在审判中对这两类证据的引用更加频繁，并且表明经典证据的上升比例比数字证据更大。对于参与审判的各方之间证据使用的差异，我们的方法纯粹是经验性的。我们发现，当事人引用数字证据的相对强度因案件和审判子阶段而异。"
+  },
+  {
+    "title": "Did the merger strategy towards optimal scale go too far? The case of Swedish district courts",
+    "authors": "Månsson, Jonas (Department of Industrial Economics, Blekinge Institute of Technology, Karlskrona, Sweden); Rasmussen, Kjartan (Department of Industrial Economics, Blekinge Institute of Technology, Karlskrona, Sweden); Unnikrishnan, Anupama (Department of Industrial Economics, Blekinge Institute of Technology, Karlskrona, Sweden)",
+    "abstract": "In Sweden, as in many other countries, the public sector has implemented merger policies to exploit economies of scale and improve efficiency. In previous work, Agrell et al. (Annals of Operations Research, 288:653–679, 2020) we showed that mergers had a positive impact on efficiency. In this study, we investigate the economies of scale argument for mergers. To measure scale elasticity, we estimate a global translog stochastic frontier input distance function covering the years 2000–2016. Our results show that the merger strategy is well supported in empirical results. In the early 2000s, the majority of district courts (94%) operated under increasing returns to scale (IRS), meaning that they were too small compared to optimal scale. About 3% operated under decreasing returns to scale (DRS) and 3% operated at optimal scale. In 2016, around 40% had targeted optimal scale, but 20% were operating at DRS, indicating that they had become too large. These findings show both the potential and the limits of public-sector mergers in demand-driven services such as courts.",
+    "keywords": [],
+    "url": "https://link.springer.com/article/10.1007/s10657-026-09880-4",
+    "source": "European Journal of Law & Economics",
+    "publish_date": "2026/08",
+    "id": "a570c382aadd5b48",
+    "topics": [
+      "公司并购"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-08-28",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:13.964250+00:00",
+    "title_zh": "追求最佳规模的合并策略是否走得太远了？瑞典地方法院的案例",
+    "abstract_zh": "与许多其他国家一样，瑞典的公共部门实施了合并政策，以利用规模经济并提高效率。在之前的工作中，Agrell 等人。 （运筹学年鉴，288：653-679，2020）我们表明合并对效率有积极影响。在这项研究中，我们研究了合并的规模经济论点。为了测量规模弹性，我们估计了覆盖 2000-2016 年的全球跨对数随机前沿输入距离函数。我们的结果表明，合并策略得到了实证结果的良好支持。在 2000 年代初，大多数地方法院 (94%) 在规模收益递增 (IRS) 下运作，这意味着与最佳规模相比，它们规模太小。大约 3% 的企业在规模收益递减 (DRS) 下运营，3% 的企业在最佳规模下运营。 2016年，大约40%的企业设定了最佳规模，但20%的企业在DRS上运营，这表明它们已经变得太大了。这些发现显示了法院等需求驱动型服务领域公共部门合并的潜力和局限性。"
+  },
+  {
+    "title": "The green transition and competition in public procurement",
+    "authors": "Arve, Malin (NHH, Norwegian School of Economics, Bergen, Norway); Desrieux, Claudine (CRED, Paris-Panthéon-Assas University, Paris, France)",
+    "abstract": "Over the last decade, the European legislation on public procurement has been clarified to facilitate green public procurement. Traditionally best value for money has been the main goal of public procurement, while new regulations have increased the scope for secondary goals such as environmental policy. We investigate how the secondary goal of greener public procurement has affected output of public tenders. Using the TED database, we investigate whether environmental criteria in public contracts are associated with a lower degree of competition. Exploring French public contracts between 2017 and 2019 for the largest cities and metropolitan areas, our results show that the introduction of a green criterion in the public procurement notices is associated with a reduction in the number of firms participating in the competitive tenders. Award prices also appear higher, both because of reduced competition and, more directly, because of environmental criteria.",
+    "keywords": [],
+    "url": "https://link.springer.com/article/10.1007/s10657-026-09879-x",
+    "source": "European Journal of Law & Economics",
+    "publish_date": "2026/06/25",
+    "id": "2d7baae1631fc485",
+    "topics": [
+      "金融监管",
+      "合同"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "2026-06-25",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:16.521181+00:00",
+    "title_zh": "公共采购的绿色转型与竞争",
+    "abstract_zh": "在过去的十年中，欧洲关于公共采购的立法已经得到澄清，以促进绿色公共采购。传统上，最佳性价比一直是公共采购的主要目标，而新法规扩大了环境政策等次要目标的范围。我们研究了绿色公共采购的次要目标如何影响公共招标的产出。使用 TED 数据库，我们调查了公共合同中的环境标准是否与较低程度的竞争相关。通过探索 2017 年至 2019 年法国最大城市和大都市区的公共合同，我们的结果表明，在公共采购通知中引入绿色标准与参与竞争性招标的公司数量减少有关。奖励价格也显得更高，这既是因为竞争减少，更直接的是因为环境标准。"
+  },
+  {
+    "title": "Is the Mafia responsible for technological backwardness in Sicily? An analysis from unification of the Italian Kingdom in 1861 to 1913",
+    "authors": "Di Vita, Fabio Paolo (Department of Political and Social Sciences, University of Catania, Catania, Italy); Di Vita, Giuseppe (Department of Economics and Business, University of Catania, Catania, Italy); Ferrante, Livio (Department of Economics and Business, University of Catania, Catania, Italy)",
+    "abstract": "This paper examines the potential impact of the Mafia on technological progress in Sicily. In particular, we investigate whether the presence of this criminal organisation can explain the technological backwardness observed in Sicily and among Sicilian municipalities from the unification of the Italian Kingdom in 1861 until 1913. We exploit the historical shock caused by the dissolution of the socialist Peasant Fasci organization in 1894 and find that the strengthening of the Mafia is closely associated with a reduction in both the intensity and duration of newly registered patents.",
+    "keywords": [],
+    "url": "https://link.springer.com/article/10.1007/s10657-026-09878-y",
+    "source": "European Journal of Law & Economics",
+    "publish_date": "2026/06",
+    "id": "da91a544e7fcaca6",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-06-28",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T16:44:19.093650+00:00",
+    "title_zh": "黑手党是西西里岛科技落后的罪魁祸首吗？ 1861年至1913年意大利王国统一分析",
+    "abstract_zh": "本文探讨了黑手党对西西里岛技术进步的潜在影响。我们特别调查了这个犯罪组织的存在是否可以解释从 1861 年意大利王国统一到 1913 年在西西里岛和西西里岛各市镇所观察到的技术落后。我们利用 1894 年社会主义农民法西斯组织解散所造成的历史冲击，发现黑手党的加强与新注册专利的强度和持续时间的减少密切相关。"
   }
 ]

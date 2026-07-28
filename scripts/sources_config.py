@@ -148,10 +148,11 @@ SOURCES = [
     {
         "id": "coase_sandor",
         "name": "Coase-Sandor Institute for Law & Economics Research Paper Series",
-        "type": "pending",
-        "page_url": "https://www.ssrn.com/index.cfm/en/",
-        "status": "pending",
-        "reason": "托管于SSRN,SSRN对自动化请求有Cloudflare人机验证(返回403 Just a moment),无法直接抓取",
+        "type": "rss",
+        "feed_url": "https://chicagounbound.uchicago.edu/law_and_economics/recent.rss",
+        "status": "active",
+        "note": "该系列实际托管于芝加哥大学 Chicago Unbound (Digital Commons平台),"
+                "而非SSRN;Digital Commons提供公开RSS,可直接抓取完整摘要与作者",
     },
     {
         "id": "nyu_law_econ",
@@ -223,7 +224,8 @@ SOURCES = [
         "type": "pending",
         "page_url": "https://academic.oup.com/rfs",
         "status": "pending",
-        "reason": "Oxford Academic(OUP)对自动化请求启用Cloudflare人机验证,无法直接抓取",
+        "reason": "Oxford Academic(OUP)对自动化请求启用Cloudflare人机验证,无法直接抓取"
+                  "(已用具体期号页面 /rfs/issue/39/8 重测,仍返回403,确认是站点级拦截而非页面级)",
     },
     {
         "id": "review_of_finance",
@@ -239,7 +241,8 @@ SOURCES = [
         "type": "pending",
         "page_url": "https://academic.oup.com/aler",
         "status": "pending",
-        "reason": "Oxford Academic(OUP)对自动化请求启用Cloudflare人机验证,无法直接抓取",
+        "reason": "Oxford Academic(OUP)对自动化请求启用Cloudflare人机验证,无法直接抓取"
+                  "(已用具体期号页面 /aler/issue/25/1 重测,仍返回403,确认是站点级拦截而非页面级)",
     },
     {
         "id": "jleo",
@@ -247,14 +250,18 @@ SOURCES = [
         "type": "pending",
         "page_url": "https://academic.oup.com/jleo",
         "status": "pending",
-        "reason": "Oxford Academic(OUP)对自动化请求启用Cloudflare人机验证,无法直接抓取",
+        "reason": "Oxford Academic(OUP)对自动化请求启用Cloudflare人机验证,无法直接抓取"
+                  "(已用具体期号页面 /jleo/issue/42/2 重测,仍返回403,确认是站点级拦截而非页面级)",
     },
     {
         "id": "ejle",
         "name": "European Journal of Law & Economics",
-        "type": "pending",
+        "type": "html_springer",
         "page_url": "https://link.springer.com/journal/10657",
-        "status": "pending",
-        "reason": "Springer未提供可用RSS(测试返回400),文章列表页为动态加载,需后续接入无头浏览器或Springer API",
+        "status": "active",
+        "note": "期刊主页本身无反爬限制,静态HTML里的\"最新文章\"区块可直接解析出"
+                "5篇左右最新文章链接;单篇文章详情页也无反爬限制,"
+                "citation_author/citation_author_institution元标签可拿到作者及机构,"
+                "正文中的Abstract区块可拿到完整摘要",
     },
 ]

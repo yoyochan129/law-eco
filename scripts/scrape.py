@@ -359,6 +359,78 @@ def enrich_repec_citation(item):
     return item
 
 
+def parse_html_springer(source):
+    """European Journal of Law & Economics: 期刊主页"最新文章"静态列表"""
+    items = []
+    try:
+        resp = requests.get(source["page_url"], headers=HEADERS, timeout=TIMEOUT)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for a in soup.select('a[href^="/article/10."]'):
+            title = a.get_text(strip=True)
+            href = a["href"]
+            if not title or len(title) < 5:
+                continue
+            items.append({
+                "title": title,
+                "authors": "",
+                "abstract": "",
+                "keywords": [],
+                "url": "https://link.springer.com" + href,
+                "source": source["name"],
+                "publish_date": "",
+            })
+    except Exception as exc:
+        print(f"[warn] Springer EJLE fetch failed: {exc}")
+    seen = set()
+    uniq = []
+    for it in items:
+        if it["url"] not in seen:
+            seen.add(it["url"])
+            uniq.append(it)
+    return uniq
+
+
+def enrich_springer_article(item):
+    """Springer 文章详情页: citation_author(+institution) 元标签 + 正文摘要区块"""
+    soup = fetch_soup(item["url"])
+    if not soup:
+        return item
+
+    abstract_el = soup.select_one(
+        "#Abs1-content, .c-article-section__content, [data-title=Abstract]"
+    )
+    if abstract_el:
+        text = abstract_el.get_text(" ", strip=True)
+        text = re.sub(r"^Abstract\s*", "", text)
+        if len(text) > 40:
+            item["abstract"] = text
+    elif not item.get("abstract"):
+        item["abstract"] = get_og_description(soup)
+
+    authors = []
+    pending_name = None
+    for m in soup.find_all("meta"):
+        name = m.get("name", "")
+        if name == "citation_author":
+            if pending_name:
+                authors.append(pending_name)
+            pending_name = m.get("content", "").strip()
+        elif name == "citation_author_institution" and pending_name:
+            inst = m.get("content", "").strip()
+            authors.append(f"{pending_name} ({inst})" if inst else pending_name)
+            pending_name = None
+    if pending_name:
+        authors.append(pending_name)
+    if authors:
+        item["authors"] = "; ".join(authors)
+
+    date_tag = soup.find("meta", attrs={"name": "citation_publication_date"}) or \
+        soup.find("meta", attrs={"name": "citation_online_date"})
+    if date_tag and date_tag.get("content"):
+        item["publish_date"] = date_tag["content"]
+    return item
+
+
 PARSERS = {
     "rss": parse_rss_generic,
     "rss_filtered": parse_rss_filtered,
@@ -366,6 +438,7 @@ PARSERS = {
     "html_yalejreg": parse_html_yalejreg,
     "ecgi_jsonapi": parse_ecgi,
     "repec_series": parse_repec_series,
+    "html_springer": parse_html_springer,
 }
 
 
@@ -436,6 +509,7 @@ ENRICHERS = {
     "yale_jreg": enrich_yalejreg,
     "nyfed_staff_reports": enrich_repec_citation,
     "bis_bulletin": enrich_repec_citation,
+    "ejle": enrich_springer_article,
 }
 
 
