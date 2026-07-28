@@ -13,15 +13,20 @@
   const news = (window.NEWS_DATA || []).slice().sort((a, b) => {
     return (b.date || "").localeCompare(a.date || "");
   });
+  const scholars = window.SCHOLARS_DATA || [];
   const lastReport = window.LAST_REPORT || {};
 
   const state = {
-    mode: "articles", // "articles" | "news"
+    mode: "articles", // "articles" | "news" | "scholars"
     search: "",
     week: null,
     sources: new Set(),
     topics: new Set(),
+    scholarSearch: "",
+    selectedScholar: null,
   };
+
+  const TIER_CLASS = { "第一梯队": "tier-1", "核心追踪": "tier-2", "专题追踪": "tier-3" };
 
   function activeDataset() {
     return state.mode === "news" ? news : articles;
@@ -44,6 +49,7 @@
       <span>数据来源 <b>${sources.size}</b> 个</span>
       <span>文章总数 <b>${articles.length}</b> 篇</span>
       <span>本周新闻 <b>${news.length}</b> 条</span>
+      <span>追踪学者 <b>${scholars.length}</b> 位</span>
       <span>最新报告 <b>${lastReport.period_end || "—"}</b></span>
     `;
   }
@@ -236,7 +242,94 @@
       .join("");
   }
 
+  function matchesScholar(s) {
+    if (!state.scholarSearch) return true;
+    const hay = [s.name, s.research_topics, s.research_methods].join(" ").toLowerCase();
+    return hay.includes(state.scholarSearch.toLowerCase());
+  }
+
+  function renderScholarGroup(category, containerId) {
+    const list = scholars.filter((s) => s.category === category).filter(matchesScholar);
+    const el = document.getElementById(containerId);
+    el.innerHTML = list
+      .map((s) => {
+        const tierClass = TIER_CLASS[s.tier] || "tier-3";
+        const active = state.selectedScholar && state.selectedScholar.name === s.name;
+        return `
+        <div class="scholar-item ${active ? "active" : ""}" data-scholar="${escapeAttr(s.name)}">
+          <span class="scholar-rank">${s.rank}</span>
+          <span class="scholar-tier-dot ${tierClass}" title="${escapeAttr(s.tier)}"></span>
+          <span class="scholar-name">${escapeHtml(s.name)}</span>
+        </div>`;
+      })
+      .join("");
+    el.querySelectorAll(".scholar-item").forEach((node) => {
+      node.addEventListener("click", () => {
+        const name = node.getAttribute("data-scholar");
+        state.selectedScholar = scholars.find((s) => s.name === name) || null;
+        renderScholars();
+      });
+    });
+  }
+
+  function renderScholarDetail() {
+    const el = document.getElementById("scholarsDetail");
+    const s = state.selectedScholar;
+    if (!s) {
+      el.innerHTML = '<div class="scholar-placeholder">从左侧选择一位学者查看详情</div>';
+      return;
+    }
+
+    const statusNote = s.tracking_status === "manual_only"
+      ? '<div class="scholar-status-note">该学者暂无法自动追踪最新文献，请通过主页链接自行查看。</div>'
+      : "";
+
+    const litCards = (s.literature || [])
+      .map((w) => `
+        <article class="article-card">
+          <h3 class="article-title"><a href="${escapeAttr(w.url)}" target="_blank" rel="noopener">${escapeHtml(w.title)}</a></h3>
+          ${w.title_zh ? `<div class="article-title-zh">${escapeHtml(w.title_zh)}</div>` : ""}
+          <div class="article-meta">${escapeHtml(w.authors || s.name)} ${w.date ? " · " + escapeHtml(w.date) : ""}</div>
+          <div class="article-abstract">${escapeHtml(w.abstract || "原文未提供摘要，详见链接。")}</div>
+          ${w.abstract_zh ? `<div class="article-abstract-zh">${escapeHtml(w.abstract_zh)}</div>` : ""}
+          <div class="article-footer">
+            <a class="read-link" href="${escapeAttr(w.url)}" target="_blank" rel="noopener">阅读原文 →</a>
+          </div>
+        </article>`)
+      .join("");
+
+    el.innerHTML = `
+      <div class="scholar-profile-card">
+        <div class="scholar-profile-header">
+          <h2>${escapeHtml(s.name)}</h2>
+          <a class="read-link" href="${escapeAttr(s.profile_url)}" target="_blank" rel="noopener">访问个人/学校主页 →</a>
+        </div>
+        <div class="scholar-profile-field"><b>研究领域</b>${escapeHtml(s.research_topics || "")}</div>
+        <div class="scholar-profile-field"><b>研究方法</b>${escapeHtml(s.research_methods || "")}</div>
+        <div class="scholar-profile-field"><b>为什么值得追踪</b>${escapeHtml(s.why_track || "")}</div>
+        ${statusNote}
+      </div>
+      <div class="article-section-header">
+        <h2>最新文献</h2>
+        <span class="result-count">${s.literature.length ? "共 " + s.literature.length + " 篇" : ""}</span>
+      </div>
+      <div class="article-list">
+        ${litCards || '<div class="empty-state">暂无可自动获取的文献，请通过主页链接查看。</div>'}
+      </div>
+    `;
+  }
+
+  function renderScholars() {
+    renderScholarGroup("法学", "lawScholarList");
+    renderScholarGroup("金融", "financeScholarList");
+    renderScholarDetail();
+  }
+
   function renderAll() {
+    if (state.mode === "scholars") {
+      renderScholars();
+      return;
+    }
     renderWeekList();
     renderSourceList();
     if (state.mode === "articles") {
@@ -256,6 +349,8 @@
     document.querySelectorAll(".tab-btn").forEach((btn) => {
       btn.classList.toggle("active", btn.getAttribute("data-tab") === mode);
     });
+    document.getElementById("mainLayout").style.display = mode === "scholars" ? "none" : "flex";
+    document.getElementById("scholarsLayout").style.display = mode === "scholars" ? "flex" : "none";
     document.getElementById("trendCard").style.display = mode === "articles" ? "" : "none";
     document.getElementById("articleSection").style.display = mode === "articles" ? "" : "none";
     document.getElementById("newsSection").style.display = mode === "news" ? "" : "none";
@@ -292,6 +387,11 @@
 
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     btn.addEventListener("click", () => switchTab(btn.getAttribute("data-tab")));
+  });
+
+  document.getElementById("scholarSearchInput").addEventListener("input", (e) => {
+    state.scholarSearch = e.target.value.trim();
+    renderScholars();
   });
 
   renderTopbarStats();

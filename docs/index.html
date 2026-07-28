@@ -19,10 +19,11 @@
   <div class="tabbar">
     <button class="tab-btn active" data-tab="articles">研究文章</button>
     <button class="tab-btn" data-tab="news">每周新闻</button>
+    <button class="tab-btn" data-tab="scholars">学者追踪</button>
   </div>
 </header>
 
-<div class="layout">
+<div class="layout" id="mainLayout">
   <aside class="sidebar">
     <div class="sidebar-block">
       <input id="searchInput" type="text" placeholder="搜索标题 / 摘要 / 关键词…" class="search-input">
@@ -72,8 +73,26 @@
   </main>
 </div>
 
+<div class="scholars-layout" id="scholarsLayout" style="display:none;">
+  <aside class="scholars-sidebar">
+    <input id="scholarSearchInput" type="text" placeholder="搜索学者姓名 / 研究领域…" class="search-input">
+    <div class="scholar-group">
+      <h3>法学学者</h3>
+      <div id="lawScholarList" class="scholar-list"></div>
+    </div>
+    <div class="scholar-group">
+      <h3>金融学者</h3>
+      <div id="financeScholarList" class="scholar-list"></div>
+    </div>
+  </aside>
+  <main class="scholars-detail" id="scholarsDetail">
+    <div class="scholar-placeholder">从左侧选择一位学者查看详情</div>
+  </main>
+</div>
+
 <script src="articles_data.js"></script>
 <script src="news_data.js"></script>
+<script src="scholars_data.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

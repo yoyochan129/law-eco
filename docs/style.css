@@ -312,3 +312,122 @@ body {
   .layout { flex-direction: column; }
   .sidebar { width: 100%; position: static; max-height: none; }
 }
+
+/* ---- 学者追踪板块 ---- */
+
+.scholars-layout {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 24px 28px 60px;
+}
+
+.scholars-sidebar {
+  width: 300px;
+  flex-shrink: 0;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  position: sticky;
+  top: 24px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+}
+
+.scholar-group { margin-top: 18px; }
+.scholar-group h3 {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+  margin: 0 0 8px;
+}
+
+.scholar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.scholar-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+  color: var(--text-primary);
+}
+.scholar-item:hover { background: var(--tag-bg); }
+.scholar-item.active { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+
+.scholar-rank {
+  font-size: 11px;
+  color: var(--text-secondary);
+  width: 20px;
+  flex-shrink: 0;
+  text-align: right;
+}
+
+.scholar-tier-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.scholar-tier-dot.tier-1 { background: #e0623a; }
+.scholar-tier-dot.tier-2 { background: #d6a12b; }
+.scholar-tier-dot.tier-3 { background: #9aa1b1; }
+
+.scholar-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.scholars-detail {
+  flex: 1;
+  min-width: 0;
+}
+
+.scholar-placeholder {
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 60px 0;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+.scholar-profile-card {
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 22px 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+
+.scholar-profile-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.scholar-profile-header h2 { margin: 0; font-size: 19px; }
+
+.scholar-profile-field { margin-bottom: 10px; font-size: 13.5px; line-height: 1.7; }
+.scholar-profile-field b { color: var(--text-secondary); font-weight: 600; margin-right: 6px; }
+
+.scholar-status-note {
+  font-size: 12.5px;
+  color: #a8621b;
+  background: #fff2e0;
+  border-radius: 6px;
+  padding: 8px 12px;
+  margin-top: 10px;
+}

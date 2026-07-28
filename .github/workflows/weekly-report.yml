@@ -36,6 +36,12 @@ jobs:
       - name: Scrape weekly news (past 7 days only)
         run: python3 scripts/scrape_news.py --period-end ${{ steps.period.outputs.end }}
 
+      - name: Scrape scholar updates
+        run: python3 scripts/scrape_scholars.py --period-end ${{ steps.period.outputs.end }}
+
+      - name: Rebuild scholars frontend data
+        run: python3 scripts/build_scholars_frontend_data.py
+
       - name: Build report (auto trend summary)
         run: |
           python3 scripts/build_report.py \

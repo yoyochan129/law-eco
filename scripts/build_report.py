@@ -41,6 +41,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_PATH = os.path.join(BASE_DIR, "database", "new_articles_raw.json")
 DB_PATH = os.path.join(BASE_DIR, "database", "articles.json")
 NEWS_DB_PATH = os.path.join(BASE_DIR, "database", "news.json")
+SCHOLARS_UPDATES_PATH = os.path.join(BASE_DIR, "database", "scholars_updates.json")
 STATE_PATH = os.path.join(BASE_DIR, "database", "state.json")
 DOCS_DATA_PATH = os.path.join(BASE_DIR, "docs", "articles_data.js")
 NEWS_DATA_PATH = os.path.join(BASE_DIR, "docs", "news_data.js")
@@ -130,7 +131,41 @@ def build_news_section(news_items):
     return lines
 
 
-def build_report(period_start, period_end, articles, trend_text, news_items=None):
+def build_scholars_section(scholar_updates):
+    lines = ["## 本周学者动态", ""]
+    if not scholar_updates:
+        lines.append("（本周窗口内追踪学者暂无新文献）")
+        lines.append("")
+        return lines
+
+    for category in ["法学", "金融"]:
+        items = [u for u in scholar_updates if u.get("category") == category]
+        if not items:
+            continue
+        lines.append(f"### {category}学者新作")
+        lines.append("")
+        by_scholar = defaultdict(list)
+        for u in items:
+            by_scholar[u["scholar_name"]].append(u)
+        for scholar, works in by_scholar.items():
+            for w in works:
+                lines.append(f"**{w['title']}**（{scholar}）")
+                if w.get("title_zh"):
+                    lines.append(f"*{w['title_zh']}*")
+                lines.append("")
+                lines.append(f"- 作者：{w.get('authors') or scholar}")
+                lines.append(f"- 日期：{w.get('date') or '未知'}")
+                if w.get("abstract"):
+                    lines.append(f"- 摘要：{w['abstract']}")
+                    if w.get("abstract_zh"):
+                        lines.append(f"- 摘要（中文）：{w['abstract_zh']}")
+                lines.append(f"- 原文链接：{w['url']}")
+                lines.append("")
+        lines.append("")
+    return lines
+
+
+def build_report(period_start, period_end, articles, trend_text, news_items=None, scholar_updates=None):
     lines = []
     lines.append("## 商业法律研究动向")
     lines.append(f"报告周期：{period_start} — {period_end}")
@@ -141,6 +176,8 @@ def build_report(period_start, period_end, articles, trend_text, news_items=None
     lines.append("")
     if news_items is not None:
         lines.extend(build_news_section(news_items))
+    if scholar_updates is not None:
+        lines.extend(build_scholars_section(scholar_updates))
     lines.append("## 各来源新文章")
     lines.append("")
 
@@ -197,9 +234,11 @@ def main():
     raw_articles = load_json(RAW_PATH, [])
     all_news = load_json(NEWS_DB_PATH, [])
     news_items = [n for n in all_news if n.get("week_of") == args.period_end]
+    all_scholar_updates = load_json(SCHOLARS_UPDATES_PATH, [])
+    scholar_updates = [u for u in all_scholar_updates if u.get("week_of") == args.period_end]
 
-    if not raw_articles and not news_items:
-        print("没有新文章也没有新新闻,跳过本次报告生成。")
+    if not raw_articles and not news_items and not scholar_updates:
+        print("没有新文章、新新闻、新学者动态,跳过本次报告生成。")
         return
 
     week_of = args.period_end
@@ -225,10 +264,10 @@ def main():
             classified, f"{args.period_start} 至 {args.period_end}"
         )
     else:
-        trend_text = "本期无新增研究文章，仅有新闻更新（见下方「本周新闻速览」）。"
+        trend_text = "本期无新增研究文章，仅有新闻或学者动态更新（见下方相应章节）。"
 
     report_md = build_report(
-        args.period_start, args.period_end, classified, trend_text, news_items
+        args.period_start, args.period_end, classified, trend_text, news_items, scholar_updates
     )
 
     os.makedirs(REPORT_DIR, exist_ok=True)
