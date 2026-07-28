@@ -15,6 +15,7 @@
       <p class="subtitle">Legal & Financial Research Trends — Weekly Digest</p>
     </div>
     <div class="topbar-stats" id="topbarStats"></div>
+    <button id="settingsBtn" class="settings-btn" title="配置标签编辑权限">⚙ 编辑设置</button>
   </div>
   <div class="tabbar">
     <button class="tab-btn active" data-tab="articles">研究文章</button>
@@ -22,6 +23,31 @@
     <button class="tab-btn" data-tab="scholars">学者追踪</button>
   </div>
 </header>
+
+<div class="modal-overlay" id="settingsModal" style="display:none;">
+  <div class="modal-card">
+    <h3>标签编辑设置</h3>
+    <p class="modal-desc">
+      本站是纯静态网页，要让"编辑标签"的修改真正保存下来，需要一个能写入
+      GitHub 仓库(yoyochan129/law-eco)的 Personal Access Token。
+      Token 只保存在你这台设备的浏览器本地存储里，只会发送给
+      api.github.com，不会经过其他任何服务器。
+    </p>
+    <ol class="modal-steps">
+      <li>访问 GitHub → Settings → Developer settings → Fine-grained tokens</li>
+      <li>新建token，Repository access 选择只授权 <code>law-eco</code> 这一个仓库</li>
+      <li>Permissions 里把 <code>Contents</code> 设为 Read and write，其余保持默认</li>
+      <li>生成后粘贴到下面，点保存</li>
+    </ol>
+    <input id="tokenInput" type="password" placeholder="粘贴 GitHub Personal Access Token" class="search-input">
+    <div class="modal-actions">
+      <button id="tokenClearBtn" class="reset-btn">清除已保存的Token</button>
+      <button id="tokenSaveBtn" class="tab-btn active" style="border-radius:8px;padding:8px 16px;">保存</button>
+      <button id="modalCloseBtn" class="reset-btn">关闭</button>
+    </div>
+    <p class="modal-status" id="tokenStatus"></p>
+  </div>
+</div>
 
 <div class="layout" id="mainLayout">
   <aside class="sidebar">
@@ -93,6 +119,7 @@
 <script src="articles_data.js"></script>
 <script src="news_data.js"></script>
 <script src="scholars_data.js"></script>
+<script src="github_sync.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

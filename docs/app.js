@@ -24,6 +24,10 @@
     topics: new Set(),
     scholarSearch: "",
     selectedScholar: null,
+    editingArticleId: null,
+    editDraftTopics: [],
+    editError: "",
+    editSaving: false,
   };
 
   const TIER_CLASS = { "第一梯队": "tier-1", "核心追踪": "tier-2", "专题追踪": "tier-3" };
@@ -165,6 +169,87 @@
     return true;
   }
 
+  function renderTagEditorHtml(a) {
+    const draft = state.editDraftTopics;
+    const chips = draft
+      .map(
+        (t) => `
+        <span class="tag-chip" data-topic="${escapeAttr(t)}">
+          ${escapeHtml(t)}
+          <button type="button" class="tag-remove-btn" data-topic="${escapeAttr(t)}">×</button>
+        </span>`
+      )
+      .join("");
+    const remaining = TOPIC_ORDER.filter((t) => !draft.includes(t));
+    const options = remaining.map((t) => `<option value="${escapeAttr(t)}">${escapeHtml(t)}</option>`).join("");
+    const disabled = draft.length >= 2 ? "disabled" : "";
+    const msg = state.editError
+      ? `<span class="tag-editor-msg" style="color:#cf222e;">${escapeHtml(state.editError)}</span>`
+      : state.editSaving
+      ? `<span class="tag-editor-msg">保存中…</span>`
+      : "";
+    return `
+      <div class="tag-editor" data-article-id="${escapeAttr(a.id)}">
+        <div class="tag-editor-current">${chips || '<span class="tag-editor-msg">还没有标签,从下面选择添加</span>'}</div>
+        <select class="tag-add-select" ${disabled}>
+          <option value="">${draft.length >= 2 ? "最多2个标签" : "+ 添加标签…"}</option>
+          ${options}
+        </select>
+        <div class="tag-editor-actions">
+          <button type="button" class="tab-btn active tag-save-btn" style="border-radius:8px;padding:6px 14px;">保存</button>
+          <button type="button" class="reset-btn tag-cancel-btn" style="width:auto;padding:6px 14px;">取消</button>
+          ${msg}
+        </div>
+      </div>`;
+  }
+
+  function openTagEditor(a) {
+    state.editingArticleId = a.id;
+    state.editDraftTopics = (a.topics || []).slice();
+    state.editError = "";
+    state.editSaving = false;
+    renderArticles();
+  }
+
+  function closeTagEditor() {
+    state.editingArticleId = null;
+    state.editDraftTopics = [];
+    state.editError = "";
+    state.editSaving = false;
+    renderArticles();
+  }
+
+  async function saveTagEdit(a) {
+    if (!window.GitHubSync || !window.GitHubSync.getToken()) {
+      state.editError = "请先点右上角「⚙ 编辑设置」配置GitHub Token";
+      renderArticles();
+      return;
+    }
+    state.editSaving = true;
+    state.editError = "";
+    renderArticles();
+    const newTopics = state.editDraftTopics.slice(0, 2);
+    const newPrimary = newTopics[0] || "其他";
+    try {
+      await window.GitHubSync.updateArticleTopics(a.id, newTopics.length ? newTopics : ["其他"], newPrimary);
+      a.topics = newTopics.length ? newTopics : ["其他"];
+      a.primary_topic = newPrimary;
+      closeTagEditor();
+    } catch (err) {
+      state.editSaving = false;
+      if (err.message === "NO_TOKEN") {
+        state.editError = "请先点右上角「⚙ 编辑设置」配置GitHub Token";
+      } else if (err.name === "CONFLICT") {
+        state.editError = "保存冲突(可能有其他修改正在进行),请重试一次";
+      } else if (err.status === 401 || err.status === 403) {
+        state.editError = "Token无效或权限不足,请在编辑设置里检查";
+      } else {
+        state.editError = "保存失败: " + (err.message || "未知错误");
+      }
+      renderArticles();
+    }
+  }
+
   function renderArticles() {
     const filtered = articles.filter(matchesArticle);
     const list = document.getElementById("articleList");
@@ -187,6 +272,7 @@
         const topicTags = (a.topics || [])
           .map((t) => `<span class="tag topic">${escapeHtml(t)}</span>`)
           .join("");
+        const isEditing = state.editingArticleId === a.id;
         return `
         <article class="article-card">
           <h3 class="article-title"><a href="${escapeAttr(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
@@ -198,13 +284,48 @@
             <span class="tag source">${escapeHtml(a.source)}</span>
             ${topicTags}
             ${keywordTags}
+            <button type="button" class="tag-edit-btn" data-article-id="${escapeAttr(a.id)}">✎ 编辑标签</button>
           </div>
+          ${isEditing ? renderTagEditorHtml(a) : ""}
           <div class="article-footer">
             <a class="read-link" href="${escapeAttr(a.url)}" target="_blank" rel="noopener">阅读原文 →</a>
           </div>
         </article>`;
       })
       .join("");
+
+    list.querySelectorAll(".tag-edit-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const id = btn.getAttribute("data-article-id");
+        const article = articles.find((x) => x.id === id);
+        if (article) openTagEditor(article);
+      });
+    });
+    list.querySelectorAll(".tag-remove-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const t = btn.getAttribute("data-topic");
+        state.editDraftTopics = state.editDraftTopics.filter((x) => x !== t);
+        renderArticles();
+      });
+    });
+    list.querySelectorAll(".tag-add-select").forEach((sel) => {
+      sel.addEventListener("change", () => {
+        if (sel.value && state.editDraftTopics.length < 2) {
+          state.editDraftTopics.push(sel.value);
+        }
+        renderArticles();
+      });
+    });
+    list.querySelectorAll(".tag-save-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const id = btn.closest(".tag-editor").getAttribute("data-article-id");
+        const article = articles.find((x) => x.id === id);
+        if (article) saveTagEdit(article);
+      });
+    });
+    list.querySelectorAll(".tag-cancel-btn").forEach((btn) => {
+      btn.addEventListener("click", closeTagEditor);
+    });
   }
 
   function renderNews() {
@@ -392,6 +513,41 @@
   document.getElementById("scholarSearchInput").addEventListener("input", (e) => {
     state.scholarSearch = e.target.value.trim();
     renderScholars();
+  });
+
+  function openSettingsModal() {
+    const modal = document.getElementById("settingsModal");
+    const input = document.getElementById("tokenInput");
+    const status = document.getElementById("tokenStatus");
+    input.value = window.GitHubSync ? window.GitHubSync.getToken() : "";
+    status.textContent = "";
+    status.className = "modal-status";
+    modal.style.display = "flex";
+  }
+  function closeSettingsModal() {
+    document.getElementById("settingsModal").style.display = "none";
+  }
+
+  document.getElementById("settingsBtn").addEventListener("click", openSettingsModal);
+  document.getElementById("modalCloseBtn").addEventListener("click", closeSettingsModal);
+  document.getElementById("settingsModal").addEventListener("click", (e) => {
+    if (e.target.id === "settingsModal") closeSettingsModal();
+  });
+  document.getElementById("tokenSaveBtn").addEventListener("click", () => {
+    const val = document.getElementById("tokenInput").value.trim();
+    if (!window.GitHubSync) return;
+    window.GitHubSync.setToken(val);
+    const status = document.getElementById("tokenStatus");
+    status.textContent = val ? "已保存到本设备浏览器" : "Token为空,未保存";
+    status.className = "modal-status ok";
+  });
+  document.getElementById("tokenClearBtn").addEventListener("click", () => {
+    if (!window.GitHubSync) return;
+    window.GitHubSync.setToken("");
+    document.getElementById("tokenInput").value = "";
+    const status = document.getElementById("tokenStatus");
+    status.textContent = "已清除";
+    status.className = "modal-status ok";
   });
 
   renderTopbarStats();
