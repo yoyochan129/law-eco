@@ -475,12 +475,16 @@
     "research_topics": "证券监管、金融顾问、机构投资者、市场结构",
     "research_methods": "准实验；行政数据；政策评估",
     "why_track": "研究监管套利和金融中介身份的高质量实证作者。",
-    "profile_url": "https://www.law.nyu.edu/faculty/robert-jackson-jr",
+    "profile_url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=45659",
     "gs_profile_url": "https://scholar.google.com/citations?user=mJVze2YAAAAJ&hl=en",
     "tracking_methods": [
       {
         "type": "google_scholar",
         "gs_user_id": "mJVze2YAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=45659"
       }
     ],
     "tracking_status": "active"
@@ -810,7 +814,7 @@
     "research_topics": "并购合同、公司文件、私人订序",
     "research_methods": "手工合同数据；文本编码；实证公司法",
     "why_track": "研究设计可直接迁移到贷款协议、waiver和契约条款。",
-    "profile_url": "https://www.law.virginia.edu/faculty/profile/ch9sc/2616667",
+    "profile_url": "https://www.law.georgetown.edu/faculty/cathy-hwang/",
     "gs_profile_url": "https://scholar.google.com/citations?user=hDGAyOUAAAAJ&hl=en",
     "tracking_methods": [
       {
