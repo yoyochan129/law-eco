@@ -58,6 +58,32 @@ def clean_html(text):
     return re.sub(r"\s+", " ", soup.get_text(" ")).strip()
 
 
+def fetch_soup(url):
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        if resp.status_code != 200:
+            return None
+        return BeautifulSoup(resp.text, "html.parser")
+    except Exception:
+        return None
+
+
+def get_og_description(soup):
+    tag = soup.find("meta", property="og:description")
+    if tag and tag.get("content"):
+        return clean_html(tag["content"])
+    return ""
+
+
+def fix_glued_names(text):
+    """修复芝加哥大学期刊RSS中作者/机构名无分隔符粘连的问题
+    例如 'Roy BaharadHebrew University of Jerusalem' -> 'Roy Baharad, Hebrew University of Jerusalem'
+    """
+    if not text:
+        return text
+    return re.sub(r"([a-z])([A-Z])", r"\1, \2", text)
+
+
 def extract_author_from_content(html):
     """尝试从正文HTML中提取作者/机构信息(启发式,提取失败返回空字符串)"""
     if not html:
@@ -94,6 +120,8 @@ def parse_rss_generic(source):
                 (e.get("content", [{}])[0].get("value") if e.get("content") else None)
                 or e.get("summary", "")
             )
+        elif source.get("fix_author_glue") and "," not in author:
+            author = fix_glued_names(author)
         keywords = [t.get("term") for t in (e.get("tags") or []) if t.get("term")]
         pub_date = e.get("published", "") or e.get("updated", "")
         items.append({
@@ -158,19 +186,22 @@ def parse_html_yalejreg(source):
         soup = BeautifulSoup(resp.text, "html.parser")
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if "/print/" in href:
-                title = a.get_text(strip=True)
-                if not title or len(title) < 5:
-                    continue
-                items.append({
-                    "title": title,
-                    "authors": "",
-                    "abstract": "",
-                    "keywords": [],
-                    "url": href,
-                    "source": source["name"],
-                    "publish_date": "",
-                })
+            # 仅保留形如 /print/<文章slug>/ 的详情页链接,过滤掉分类/期号等导航链接
+            m = re.match(r"^https?://www\.yalejreg\.com/print/[a-z0-9\-]{5,}/?$", href)
+            if not m:
+                continue
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5:
+                continue
+            items.append({
+                "title": title,
+                "authors": "",
+                "abstract": "",
+                "keywords": [],
+                "url": href,
+                "source": source["name"],
+                "publish_date": "",
+            })
     except Exception as exc:
         print(f"[warn] Yale JReg fetch failed: {exc}")
     seen = set()
@@ -187,6 +218,74 @@ PARSERS = {
     "rss_filtered": parse_rss_filtered,
     "html_safe": parse_html_safe,
     "html_yalejreg": parse_html_yalejreg,
+}
+
+
+# ---------------- 详情页补全(仅对新文章调用,避免重复请求) ----------------
+
+def enrich_bis_wp(item):
+    """BIS Working Paper 详情页: og:description 作摘要, a.authorlnk 作作者"""
+    soup = fetch_soup(item["url"])
+    if not soup:
+        return item
+    abstract = get_og_description(soup)
+    if abstract:
+        item["abstract"] = abstract
+    authors = [a.get_text(strip=True) for a in soup.select("a.authorlnk")]
+    if authors:
+        item["authors"] = ", ".join(dict.fromkeys(authors))  # 去重保序
+    return item
+
+
+def enrich_safe(item):
+    """SAFE 详情页: .tx-mmpublications 结构中提取作者/关键词/摘要"""
+    soup = fetch_soup(item["url"])
+    if not soup:
+        return item
+    container = soup.select_one(".tx-mmpublications")
+    if not container:
+        return item
+
+    for box in container.select(".item"):
+        h4 = box.find("h4")
+        if not h4:
+            continue
+        label = h4.get_text(strip=True).lower()
+        if label == "authors":
+            names = [a.get_text(strip=True).rstrip(",") for a in box.find_all("a")]
+            if names:
+                item["authors"] = ", ".join(names)
+        elif label == "keywords":
+            text = box.get_text(" ", strip=True).replace("Keywords", "", 1).strip()
+            if text:
+                item["keywords"] = [k.strip() for k in text.split(",") if k.strip()]
+
+    abstract_p = container.select_one(".main-content p")
+    if abstract_p:
+        text = abstract_p.get_text(" ", strip=True)
+        if len(text) > 40:
+            item["abstract"] = text
+    return item
+
+
+def enrich_yalejreg(item):
+    """Yale Journal on Regulation 详情页: og:description 作摘要, .meta-author 作作者"""
+    soup = fetch_soup(item["url"])
+    if not soup:
+        return item
+    abstract = get_og_description(soup)
+    if abstract:
+        item["abstract"] = abstract
+    author_el = soup.select_one(".meta-author")
+    if author_el:
+        item["authors"] = author_el.get_text(strip=True)
+    return item
+
+
+ENRICHERS = {
+    "bis_wp": enrich_bis_wp,
+    "safe_wp": enrich_safe,
+    "yale_jreg": enrich_yalejreg,
 }
 
 
@@ -216,6 +315,16 @@ def main():
         try:
             items = parser(source)
             new_items = [it for it in items if it["url"] not in known_urls]
+
+            enricher = ENRICHERS.get(source["id"])
+            if enricher:
+                for it in new_items:
+                    try:
+                        enricher(it)
+                    except Exception as exc:
+                        print(f"[warn] enrich failed for {it['url']}: {exc}")
+                    time.sleep(1)
+
             for it in new_items:
                 it["id"] = url_hash(it["url"])
                 known_urls.add(it["url"])

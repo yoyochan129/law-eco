@@ -76,6 +76,8 @@ SOURCES = [
         "type": "rss",
         "feed_url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jls",
         "status": "active",
+        "fix_author_glue": True,
+        "note": "摘要在RSS中仅为期刊卷期信息,完整摘要页(journals.uchicago.edu)受Cloudflare人机验证保护,自动化请求无法获取,已尝试requests与WebFetch均返回403",
     },
     {
         "id": "journal_law_econ",
@@ -83,6 +85,8 @@ SOURCES = [
         "type": "rss",
         "feed_url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jle",
         "status": "active",
+        "fix_author_glue": True,
+        "note": "摘要在RSS中仅为期刊卷期信息,完整摘要页(journals.uchicago.edu)受Cloudflare人机验证保护,自动化请求无法获取,已尝试requests与WebFetch均返回403",
     },
     {
         "id": "irle",
@@ -90,6 +94,7 @@ SOURCES = [
         "type": "rss",
         "feed_url": "https://rss.sciencedirect.com/publication/science/01448188",
         "status": "active",
+        "note": "摘要在RSS中仅为出版元数据(卷期/作者列表),完整摘要页(sciencedirect.com)受Cloudflare人机验证保护,自动化请求无法获取,已尝试requests与WebFetch均返回403",
     },
     # ---------------- 可自动抓取 (静态HTML列表) ----------------
     {
