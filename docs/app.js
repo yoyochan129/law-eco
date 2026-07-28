@@ -10,14 +10,22 @@
   const articles = (window.ARTICLES_DATA || []).slice().sort((a, b) => {
     return (b.date_added || "").localeCompare(a.date_added || "");
   });
+  const news = (window.NEWS_DATA || []).slice().sort((a, b) => {
+    return (b.date || "").localeCompare(a.date || "");
+  });
   const lastReport = window.LAST_REPORT || {};
 
   const state = {
+    mode: "articles", // "articles" | "news"
     search: "",
     week: null,
     sources: new Set(),
     topics: new Set(),
   };
+
+  function activeDataset() {
+    return state.mode === "news" ? news : articles;
+  }
 
   function uniqueCount(list, key) {
     const map = new Map();
@@ -35,6 +43,7 @@
     el.innerHTML = `
       <span>数据来源 <b>${sources.size}</b> 个</span>
       <span>文章总数 <b>${articles.length}</b> 篇</span>
+      <span>本周新闻 <b>${news.length}</b> 条</span>
       <span>最新报告 <b>${lastReport.period_end || "—"}</b></span>
     `;
   }
@@ -49,7 +58,7 @@
   }
 
   function renderWeekList() {
-    const counts = uniqueCount(articles, "week_of");
+    const counts = uniqueCount(activeDataset(), state.mode === "news" ? "week_of" : "week_of");
     const weeks = Array.from(counts.keys()).sort().reverse();
     const el = document.getElementById("weekList");
     el.innerHTML = weeks
@@ -70,7 +79,7 @@
   }
 
   function renderSourceList() {
-    const counts = uniqueCount(articles, "source");
+    const counts = uniqueCount(activeDataset(), "source");
     const sources = Array.from(counts.keys()).sort();
     const el = document.getElementById("sourceList");
     el.innerHTML = sources
@@ -115,7 +124,7 @@
     });
   }
 
-  function matches(article) {
+  function matchesArticle(article) {
     if (state.week && article.week_of !== state.week) return false;
     if (state.sources.size && !state.sources.has(article.source)) return false;
     if (state.topics.size) {
@@ -138,8 +147,20 @@
     return true;
   }
 
+  function matchesNews(item) {
+    if (state.week && item.week_of !== state.week) return false;
+    if (state.sources.size && !state.sources.has(item.source)) return false;
+    if (state.search) {
+      const hay = [item.title, item.summary_zh, item.speaker, item.org]
+        .join(" ")
+        .toLowerCase();
+      if (!hay.includes(state.search.toLowerCase())) return false;
+    }
+    return true;
+  }
+
   function renderArticles() {
-    const filtered = articles.filter(matches);
+    const filtered = articles.filter(matchesArticle);
     const list = document.getElementById("articleList");
     const empty = document.getElementById("emptyState");
     document.getElementById("resultCount").textContent = `共 ${filtered.length} 篇`;
@@ -180,11 +201,67 @@
       .join("");
   }
 
+  function renderNews() {
+    const filtered = news.filter(matchesNews);
+    const list = document.getElementById("newsList");
+    const empty = document.getElementById("newsEmptyState");
+    document.getElementById("newsResultCount").textContent = `共 ${filtered.length} 条`;
+
+    if (!filtered.length) {
+      list.innerHTML = "";
+      empty.style.display = "block";
+      return;
+    }
+    empty.style.display = "none";
+
+    list.innerHTML = filtered
+      .map((n) => {
+        const speakerDisplay = n.speaker || n.org || "机构公告，无具名发言人";
+        const summary = n.summary_zh
+          ? escapeHtml(n.summary_zh)
+          : "（无摘要，详见原文）";
+        return `
+        <article class="article-card">
+          <h3 class="article-title"><a href="${escapeAttr(n.url)}" target="_blank" rel="noopener">${escapeHtml(n.title)}</a></h3>
+          <div class="article-meta">${escapeHtml(speakerDisplay)} ${n.date ? " · " + escapeHtml(n.date) : ""}</div>
+          <div class="article-abstract-zh" style="border-left:none;padding-left:0;">${summary}</div>
+          <div class="article-tags">
+            <span class="tag source">${escapeHtml(n.source)}</span>
+          </div>
+          <div class="article-footer">
+            <a class="read-link" href="${escapeAttr(n.url)}" target="_blank" rel="noopener">阅读原文 →</a>
+          </div>
+        </article>`;
+      })
+      .join("");
+  }
+
   function renderAll() {
     renderWeekList();
     renderSourceList();
-    renderTopicList();
-    renderArticles();
+    if (state.mode === "articles") {
+      renderTopicList();
+      renderArticles();
+    } else {
+      renderNews();
+    }
+  }
+
+  function switchTab(mode) {
+    state.mode = mode;
+    state.week = null;
+    state.sources.clear();
+    state.topics.clear();
+
+    document.querySelectorAll(".tab-btn").forEach((btn) => {
+      btn.classList.toggle("active", btn.getAttribute("data-tab") === mode);
+    });
+    document.getElementById("trendCard").style.display = mode === "articles" ? "" : "none";
+    document.getElementById("articleSection").style.display = mode === "articles" ? "" : "none";
+    document.getElementById("newsSection").style.display = mode === "news" ? "" : "none";
+    document.getElementById("topicBlock").style.display = mode === "articles" ? "" : "none";
+
+    renderAll();
   }
 
   function escapeHtml(str) {
@@ -200,7 +277,8 @@
 
   document.getElementById("searchInput").addEventListener("input", (e) => {
     state.search = e.target.value.trim();
-    renderArticles();
+    if (state.mode === "articles") renderArticles();
+    else renderNews();
   });
 
   document.getElementById("resetBtn").addEventListener("click", () => {
@@ -210,6 +288,10 @@
     state.topics.clear();
     document.getElementById("searchInput").value = "";
     renderAll();
+  });
+
+  document.querySelectorAll(".tab-btn").forEach((btn) => {
+    btn.addEventListener("click", () => switchTab(btn.getAttribute("data-tab")));
   });
 
   renderTopbarStats();

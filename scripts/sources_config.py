@@ -47,7 +47,9 @@ SOURCES = [
         "name": "BIS speech",
         "type": "rss",
         "feed_url": "https://www.bis.org/doclist/mgmtspeeches.rss",
-        "status": "active",
+        "status": "moved_to_news",
+        "note": "已迁移至「每周新闻」板块(见 news_sources_config.py),"
+                "不再作为研究文章来源抓取,避免重复出现在两个板块",
     },
     {
         "id": "michigan_law_econ",

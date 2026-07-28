@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-"""在不重新抓取的情况下,依据当前 database/articles.json 重新生成周报 Markdown 与前端数据文件。
-用于分类规则调整后的重新生成。
+"""在不重新抓取的情况下,依据当前 database/articles.json 与 database/news.json
+重新生成周报 Markdown 与前端数据文件。用于分类规则调整后的重新生成。
 """
 import argparse
 import json
@@ -9,7 +9,10 @@ import sys
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_report import build_report, auto_trend_summary, load_json, save_json, REPORT_DIR, DOCS_DATA_PATH
+from build_report import (
+    build_report, auto_trend_summary, load_json, save_json,
+    REPORT_DIR, DOCS_DATA_PATH, NEWS_DB_PATH, NEWS_DATA_PATH,
+)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, "database", "articles.json")
@@ -22,8 +25,14 @@ args = parser.parse_args()
 db = load_json(DB_PATH, [])
 this_week = [a for a in db if a.get("week_of") == args.period_end]
 
-trend_text = auto_trend_summary(this_week, f"{args.period_start} 至 {args.period_end}")
-report_md = build_report(args.period_start, args.period_end, this_week, trend_text)
+all_news = load_json(NEWS_DB_PATH, [])
+news_this_week = [n for n in all_news if n.get("week_of") == args.period_end]
+
+trend_text = auto_trend_summary(this_week, f"{args.period_start} 至 {args.period_end}") \
+    if this_week else "本期无新增研究文章，仅有新闻更新（见下方「本周新闻速览」）。"
+report_md = build_report(
+    args.period_start, args.period_end, this_week, trend_text, news_this_week
+)
 
 os.makedirs(REPORT_DIR, exist_ok=True)
 report_filename = f"商业法律研究动向_{args.period_end}.md"
@@ -43,3 +52,8 @@ os.makedirs(os.path.dirname(DOCS_DATA_PATH), exist_ok=True)
 with open(DOCS_DATA_PATH, "w", encoding="utf-8") as f:
     f.write(js_content)
 print(f"前端数据文件已重新生成: {DOCS_DATA_PATH}")
+
+news_js = "window.NEWS_DATA = " + json.dumps(all_news, ensure_ascii=False, indent=2) + ";\n"
+with open(NEWS_DATA_PATH, "w", encoding="utf-8") as f:
+    f.write(news_js)
+print(f"新闻数据文件已重新生成: {NEWS_DATA_PATH}")

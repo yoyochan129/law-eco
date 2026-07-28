@@ -57,6 +57,31 @@ body {
 
 .topbar-stats b { color: var(--text-primary); }
 
+.tabbar {
+  max-width: 1400px;
+  margin: 10px auto 0;
+  display: flex;
+  gap: 4px;
+}
+
+.tab-btn {
+  padding: 8px 18px;
+  border: none;
+  background: none;
+  font-size: 14px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.tab-btn.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-weight: 600;
+}
+
+.tab-btn:hover:not(.active) { color: var(--text-primary); }
+
 .layout {
   max-width: 1400px;
   margin: 0 auto;

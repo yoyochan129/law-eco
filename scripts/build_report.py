@@ -40,8 +40,10 @@ def translate_text(text):
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_PATH = os.path.join(BASE_DIR, "database", "new_articles_raw.json")
 DB_PATH = os.path.join(BASE_DIR, "database", "articles.json")
+NEWS_DB_PATH = os.path.join(BASE_DIR, "database", "news.json")
 STATE_PATH = os.path.join(BASE_DIR, "database", "state.json")
 DOCS_DATA_PATH = os.path.join(BASE_DIR, "docs", "articles_data.js")
+NEWS_DATA_PATH = os.path.join(BASE_DIR, "docs", "news_data.js")
 REPORT_DIR = os.path.join(BASE_DIR, "周报")
 
 
@@ -101,7 +103,34 @@ def auto_trend_summary(articles, period_label):
     return "\n\n".join(lines)
 
 
-def build_report(period_start, period_end, articles, trend_text):
+def build_news_section(news_items):
+    lines = ["## 本周新闻速览", ""]
+    if not news_items:
+        lines.append("（本周窗口内暂无新条目）")
+        lines.append("")
+        return lines
+
+    by_source = defaultdict(list)
+    for n in news_items:
+        by_source[n["source"]].append(n)
+
+    for source, items in by_source.items():
+        lines.append(f"### {source}")
+        lines.append("")
+        for n in items:
+            lines.append(f"**{n['title']}**")
+            lines.append("")
+            speaker_display = n.get("speaker") or n.get("org") or "（机构公告，无具名发言人）"
+            lines.append(f"- 发言人/机构：{speaker_display}")
+            lines.append(f"- 日期：{n.get('date') or '未知'}")
+            lines.append(f"- 中文概括：{n.get('summary_zh') or '（原文未提供摘要，详见链接）'}")
+            lines.append(f"- 原文链接：{n['url']}")
+            lines.append("")
+        lines.append("")
+    return lines
+
+
+def build_report(period_start, period_end, articles, trend_text, news_items=None):
     lines = []
     lines.append("## 商业法律研究动向")
     lines.append(f"报告周期：{period_start} — {period_end}")
@@ -110,6 +139,8 @@ def build_report(period_start, period_end, articles, trend_text):
     lines.append("")
     lines.append(trend_text)
     lines.append("")
+    if news_items is not None:
+        lines.extend(build_news_section(news_items))
     lines.append("## 各来源新文章")
     lines.append("")
 
@@ -164,8 +195,11 @@ def main():
     args = parser.parse_args()
 
     raw_articles = load_json(RAW_PATH, [])
-    if not raw_articles:
-        print("没有新文章,跳过本次报告生成。")
+    all_news = load_json(NEWS_DB_PATH, [])
+    news_items = [n for n in all_news if n.get("week_of") == args.period_end]
+
+    if not raw_articles and not news_items:
+        print("没有新文章也没有新新闻,跳过本次报告生成。")
         return
 
     week_of = args.period_end
@@ -186,12 +220,16 @@ def main():
     if args.trend_file and os.path.exists(args.trend_file):
         with open(args.trend_file, "r", encoding="utf-8") as f:
             trend_text = f.read().strip()
-    else:
+    elif classified:
         trend_text = auto_trend_summary(
             classified, f"{args.period_start} 至 {args.period_end}"
         )
+    else:
+        trend_text = "本期无新增研究文章，仅有新闻更新（见下方「本周新闻速览」）。"
 
-    report_md = build_report(args.period_start, args.period_end, classified, trend_text)
+    report_md = build_report(
+        args.period_start, args.period_end, classified, trend_text, news_items
+    )
 
     os.makedirs(REPORT_DIR, exist_ok=True)
     report_filename = f"商业法律研究动向_{args.period_end}.md"
@@ -210,7 +248,7 @@ def main():
     state["last_report"] = report_filename
     save_json(STATE_PATH, state)
 
-    # 重新生成前端数据文件
+    # 重新生成前端数据文件(研究文章)
     js_content = "window.ARTICLES_DATA = " + json.dumps(db, ensure_ascii=False, indent=2) + ";\n"
     js_content += "window.LAST_REPORT = " + json.dumps({
         "period_start": args.period_start,
@@ -223,10 +261,17 @@ def main():
         f.write(js_content)
     print(f"前端数据文件已更新: {DOCS_DATA_PATH}")
 
+    # 重新生成前端数据文件(每周新闻)
+    news_js = "window.NEWS_DATA = " + json.dumps(all_news, ensure_ascii=False, indent=2) + ";\n"
+    with open(NEWS_DATA_PATH, "w", encoding="utf-8") as f:
+        f.write(news_js)
+    print(f"新闻数据文件已更新: {NEWS_DATA_PATH}")
+
     # 清空本次已处理的 raw 文件,避免重复处理
     save_json(RAW_PATH, [])
 
     print(f"\n新增文章数: {len(classified)}")
+    print(f"新增新闻数: {len(news_items)}")
     print(f"数据库当前总数: {len(db)}")
 
 

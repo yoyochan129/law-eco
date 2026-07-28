@@ -33,6 +33,9 @@ jobs:
       - name: Scrape sources
         run: python3 scripts/scrape.py
 
+      - name: Scrape weekly news (past 7 days only)
+        run: python3 scripts/scrape_news.py --period-end ${{ steps.period.outputs.end }}
+
       - name: Build report (auto trend summary)
         run: |
           python3 scripts/build_report.py \

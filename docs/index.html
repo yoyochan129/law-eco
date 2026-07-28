@@ -16,6 +16,10 @@
     </div>
     <div class="topbar-stats" id="topbarStats"></div>
   </div>
+  <div class="tabbar">
+    <button class="tab-btn active" data-tab="articles">研究文章</button>
+    <button class="tab-btn" data-tab="news">每周新闻</button>
+  </div>
 </header>
 
 <div class="layout">
@@ -34,7 +38,7 @@
       <div id="sourceList" class="filter-list"></div>
     </div>
 
-    <div class="sidebar-block">
+    <div class="sidebar-block" id="topicBlock">
       <h3>研究主题</h3>
       <div id="topicList" class="filter-list"></div>
     </div>
@@ -43,12 +47,12 @@
   </aside>
 
   <main class="content">
-    <section class="trend-card">
+    <section class="trend-card" id="trendCard">
       <h2 id="trendTitle">本周研究趋势概括</h2>
       <div id="trendBody" class="trend-body"></div>
     </section>
 
-    <section class="article-section">
+    <section class="article-section" id="articleSection">
       <div class="article-section-header">
         <h2>文章列表</h2>
         <span id="resultCount" class="result-count"></span>
@@ -56,10 +60,20 @@
       <div id="articleList" class="article-list"></div>
       <div id="emptyState" class="empty-state" style="display:none;">没有匹配的文章，试试调整筛选条件。</div>
     </section>
+
+    <section class="article-section" id="newsSection" style="display:none;">
+      <div class="article-section-header">
+        <h2>新闻列表</h2>
+        <span id="newsResultCount" class="result-count"></span>
+      </div>
+      <div id="newsList" class="article-list"></div>
+      <div id="newsEmptyState" class="empty-state" style="display:none;">没有匹配的新闻，试试调整筛选条件。</div>
+    </section>
   </main>
 </div>
 
 <script src="articles_data.js"></script>
+<script src="news_data.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
