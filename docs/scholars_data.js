@@ -527,7 +527,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、银行—私人资本联系、影子银行、金融稳定",
     "research_methods": "实证法学；金融监管；公司与证券法",
     "why_track": "近年直接研究银行与私人信贷基金的联合结构、银行风险回流和影子银行监管，是当前最贴近你银行—私人信贷问题的新作者。",
-    "profile_url": "https://law.nd.edu/assets/654165/patrick_corrigan_cv_03182026.pdf",
+    "profile_url": "https://law.nd.edu/directory/patrick-corrigan/",
     "tracking_status": "active",
     "literature": []
   },
@@ -3486,7 +3486,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行资本、MMF改革、宏观审慎监管",
     "research_methods": "金融中介理论；政策实证；资产定价",
     "why_track": "银行资本和MMF监管方案的高质量理论与政策作者。",
-    "profile_url": "https://www.hbs.edu/ris/Profile%20Files/Hanson_Samuel_CV_20250217_d267df5a-065b-411e-9195-a84e77886b3b.pdf",
+    "profile_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333598",
     "tracking_status": "active",
     "literature": [
       {
@@ -4612,7 +4612,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "金融中介、影子银行、区块链与DeFi",
     "research_methods": "理论模型；链上数据；资产定价",
     "why_track": "连接传统金融中介与区块链金融的高质量前沿作者。",
-    "profile_url": "https://academic.oup.com/rfs/article/32/5/1754/5427780",
+    "profile_url": "https://www.gsb.stanford.edu/faculty-research/faculty/zhiguo-he",
     "tracking_status": "active",
     "literature": []
   },
@@ -5319,9 +5319,94 @@ window.SCHOLARS_DATA = [
     "research_topics": "资本监管、影子银行、贷款出售",
     "research_methods": "准自然实验；贷款级数据；银行监管",
     "why_track": "资本规则推动风险迁移至非银部门的代表性RFS研究。",
-    "profile_url": "https://academic.oup.com/rfs/article/34/5/2181/5901059",
+    "profile_url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "Irani, R., & Oesch, D. (2013). Monitoring and Corporate Disclosure: Evidence from a Natural Experiment. Journal of Financial Economics , 398-418.",
+        "authors": "Rustom M. Irani",
+        "date": "20",
+        "abstract": "",
+        "url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "伊拉尼，R. 和厄施，D. (2013)。监控和公司披露：来自自然实验的证据。金融经济学杂志，398-418。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T22:27:49.988925+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Irani, R., & Oesch, D. (2016). Analyst Coverage and Real Earnings Management: Quasi-Experimental Evidence. Journal of Financial and Quantitative Analysis , 51 (2), 589-627.",
+        "authors": "Rustom M. Irani",
+        "date": "20",
+        "abstract": "",
+        "url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "伊拉尼，R. 和厄施，D. (2016)。分析师覆盖范围和实际盈余管理：准实验证据。金融与定量分析杂志，51 (2), 589-627。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T22:27:49.192442+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Irani, R., & R. Meisenzahl, R. (2017). Loan Sales and Bank Liquidity Management: Evidence from a U.S. Credit Register. Review of Financial Studies , 30 (10), 3455–3501.",
+        "authors": "Rustom M. Irani",
+        "date": "20",
+        "abstract": "",
+        "url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "伊拉尼，R. 和 R. Meisenzahl，R. (2017)。贷款销售和银行流动性管理：来自美国信用登记册的证据。金融研究评论，30 (10), 3455–3501。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T22:27:48.255850+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "van Bekkum, S., Gabarro, M., & Irani, R. (2018). Does a Larger Menu Increase Appetite? Collateral Eligibility and Credit Supply. Review of Financial Studies , 31 (3), 943–979.",
+        "authors": "Rustom M. Irani",
+        "date": "20",
+        "abstract": "",
+        "url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "范贝克姆，S.，加巴罗，M.，＆伊拉尼，R.（2018）。更大的菜单会增加食欲吗？抵押品资格和信贷供应。金融研究评论，31 (3), 943–979。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T22:27:46.721739+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Ersahin, N., & Irani, R. (2020). Collateral Shocks and Corporate Employment. Review of Finance , 24 (1), 163-187.",
+        "authors": "Rustom M. Irani",
+        "date": "20",
+        "abstract": "",
+        "url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "Ersahin, N. 和伊朗尼, R. (2020)。附带冲击和企业就业。金融评论，24 (1), 163-187。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T22:27:45.694673+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Irani, R., Ersahin, N., & Le, H. (2021). Creditor Control Rights and Resource Allocation within Firms. Journal of Financial Economics .",
+        "authors": "Rustom M. Irani",
+        "date": "20",
+        "abstract": "",
+        "url": "https://giesbusiness.illinois.edu/profile/rustom-irani",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "伊朗尼 (Irani, R.)、埃尔萨辛 (Ersahin, N.) 和勒 (Le, H.) (2021)。债权人控制权和公司内部资源分配。金融经济学杂志。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T22:27:44.773623+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Isil Erel",
@@ -5484,7 +5569,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行—NBFI联系、银行监管、危机信贷",
     "research_methods": "贷款数据；银行实证；政策研究",
     "why_track": "与Acharya共同研究银行和NBFI边界及流动性联系。",
-    "profile_url": "https://www.nber.org/papers/w32316",
+    "profile_url": "https://www.sascha-steffen.de/",
     "tracking_status": "active",
     "literature": []
   },
@@ -5935,7 +6020,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "BDC、直接贷款、非银资本监管",
     "research_methods": "DID；结构模型；BDC数据",
     "why_track": "直接贷款市场纪律和BDC监管的代表性RFS作者。",
-    "profile_url": "https://academic.oup.com/rfs/article/37/4/1190/7334479",
+    "profile_url": "https://carey.jhu.edu/faculty/tetiana-davydiuk-phd",
     "tracking_status": "active",
     "literature": []
   },
@@ -6042,7 +6127,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币、MMF、非银贷款、全球流动性",
     "research_methods": "跨国数据；资产价格；政策研究",
     "why_track": "同时覆盖稳定币、MMF和私人信贷，研究面非常完整。",
-    "profile_url": "https://www.bis.org/publ/work1219.pdf",
+    "profile_url": "https://sites.google.com/view/inakialdasoro",
     "tracking_status": "active",
     "literature": []
   },
@@ -6114,7 +6199,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "MMF、中央银行干预、稳定币",
     "research_methods": "基金持仓；政策冲击；央行研究",
     "why_track": "RFS MMF干预研究和稳定币挤兑研究的重要作者。",
-    "profile_url": "https://academic.oup.com/rfs/article/34/11/5402/6289999",
+    "profile_url": "https://sites.google.com/view/marco-macchiavelli-webpage",
     "tracking_status": "active",
     "literature": []
   },
@@ -6348,7 +6433,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币、安全资产价格、国际金融",
     "research_methods": "资产价格；跨国数据；链上数据",
     "why_track": "研究稳定币对T-bill和宏观金融影响的前沿作者。",
-    "profile_url": "https://www.bis.org/publ/work1270.pdf",
+    "profile_url": "https://sites.google.com/view/rashad-ahmed/home",
     "tracking_status": "active",
     "literature": []
   },
@@ -6360,7 +6445,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "MMF挤兑、基金改革、短期融资",
     "research_methods": "基金数据；政策设计；危机研究",
     "why_track": "美国MMF危机和监管改革研究的核心政策学者。",
-    "profile_url": "https://www.federalreserve.gov/econres/feds/files/2018137pap.pdf",
+    "profile_url": "https://www.federalreserve.gov/econres/patrick-e-mccabe.htm",
     "tracking_status": "manual_only",
     "literature": []
   },
@@ -6372,7 +6457,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "MMF流动性限制、央行干预、挤兑",
     "research_methods": "基金数据；准实验；政策评估",
     "why_track": "RFS研究MMF限制和央行干预的关键作者。",
-    "profile_url": "https://academic.oup.com/rfs/article/34/11/5402/6289999",
+    "profile_url": null,
     "tracking_status": "manual_only",
     "literature": []
   },
@@ -6384,7 +6469,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "金融科技、稳定币、银行监管、货币政策",
     "research_methods": "跨国银行数据；政策实证；数字金融",
     "why_track": "数字金融和银行传导领域的高质量持续作者。",
-    "profile_url": "https://www.bis.org/publ/work1219.pdf",
+    "profile_url": "https://www.bis.org/author/leonardo_gambacorta.htm",
     "tracking_status": "active",
     "literature": []
   },
@@ -6396,7 +6481,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币、CBDC、DeFi、跨境加密流动",
     "research_methods": "链上数据；跨国政策研究；金融创新",
     "why_track": "全球数字货币和稳定币实证研究的高产作者。",
-    "profile_url": "https://www.bis.org/publ/work905.pdf",
+    "profile_url": "https://sites.google.com/site/raphaelauer/home",
     "tracking_status": "active",
     "literature": []
   },

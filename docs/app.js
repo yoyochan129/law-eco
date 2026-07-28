@@ -302,7 +302,7 @@
       <div class="scholar-profile-card">
         <div class="scholar-profile-header">
           <h2>${escapeHtml(s.name)}</h2>
-          <a class="read-link" href="${escapeAttr(s.profile_url)}" target="_blank" rel="noopener">访问个人/学校主页 →</a>
+          ${s.profile_url ? `<a class="read-link" href="${escapeAttr(s.profile_url)}" target="_blank" rel="noopener">访问个人/学校主页 →</a>` : `<span class="scholar-status-note" style="margin-top:0;">暂未能确认本人主页链接</span>`}
         </div>
         <div class="scholar-profile-field"><b>研究领域</b>${escapeHtml(s.research_topics || "")}</div>
         <div class="scholar-profile-field"><b>研究方法</b>${escapeHtml(s.research_methods || "")}</div>
