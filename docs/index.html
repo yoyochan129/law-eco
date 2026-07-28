@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>商业法律研究动向 — Business Law Research Trends</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="topbar-title">
+      <h1>商业法律研究动向</h1>
+      <p class="subtitle">Business Law Research Trends — Weekly Digest</p>
+    </div>
+    <div class="topbar-stats" id="topbarStats"></div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-block">
+      <input id="searchInput" type="text" placeholder="搜索标题 / 摘要 / 关键词…" class="search-input">
+    </div>
+
+    <div class="sidebar-block">
+      <h3>周报</h3>
+      <div id="weekList" class="filter-list"></div>
+    </div>
+
+    <div class="sidebar-block">
+      <h3>数据来源</h3>
+      <div id="sourceList" class="filter-list"></div>
+    </div>
+
+    <div class="sidebar-block">
+      <h3>研究主题</h3>
+      <div id="topicList" class="filter-list"></div>
+    </div>
+
+    <button id="resetBtn" class="reset-btn">↻ 重置筛选</button>
+  </aside>
+
+  <main class="content">
+    <section class="trend-card">
+      <h2 id="trendTitle">本周研究趋势概括</h2>
+      <div id="trendBody" class="trend-body"></div>
+    </section>
+
+    <section class="article-section">
+      <div class="article-section-header">
+        <h2>文章列表</h2>
+        <span id="resultCount" class="result-count"></span>
+      </div>
+      <div id="articleList" class="article-list"></div>
+      <div id="emptyState" class="empty-state" style="display:none;">没有匹配的文章，试试调整筛选条件。</div>
+    </section>
+  </main>
+</div>
+
+<script src="articles_data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
