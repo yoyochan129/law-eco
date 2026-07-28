@@ -18,7 +18,7 @@ import time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from scholars_common import (
     classify_source, resolve_nber_uid_from_people_page,
-    resolve_nber_people_url_from_paper,
+    resolve_nber_people_url_from_paper, scrape_faculty_page_citations,
 )
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -32,7 +32,21 @@ def main():
 
     configs = []
     stats = {"nber_people_direct": 0, "nber_paper_link_resolved": 0,
-              "nber_paper_link_failed": 0, "generic_page": 0, "pdf": 0}
+              "nber_paper_link_failed": 0, "faculty_citations_found": 0,
+              "faculty_citations_empty": 0, "pdf": 0}
+
+    def try_faculty_citations(entry, url):
+        """探测式抓取:能拿到真实文献就标记active,拿不到就如实标manual_only"""
+        probe = scrape_faculty_page_citations(url, entry["name"], limit=1)
+        if probe:
+            entry["tracking_type"] = "faculty_citations"
+            entry["tracking_status"] = "active"
+            stats["faculty_citations_found"] += 1
+        else:
+            entry["tracking_type"] = "generic_page"
+            entry["tracking_status"] = "manual_only"
+            stats["faculty_citations_empty"] += 1
+        time.sleep(0.5)
 
     for s in scholars:
         source_type = classify_source(s["primary_source"])
@@ -55,9 +69,7 @@ def main():
                 entry["tracking_status"] = "active"
                 stats["nber_people_direct"] += 1
             else:
-                entry["tracking_type"] = "generic_page"
-                entry["tracking_status"] = "active"
-                stats["generic_page"] += 1
+                try_faculty_citations(entry, s["primary_source"])
 
         elif source_type == "nber_paper_link":
             people_url = resolve_nber_people_url_from_paper(s["primary_source"], s["name"])
@@ -70,16 +82,11 @@ def main():
                     entry["tracking_status"] = "active"
                     stats["nber_paper_link_resolved"] += 1
                 else:
-                    entry["tracking_type"] = "generic_page"
-                    entry["tracking_status"] = "manual_only"
-                    stats["nber_paper_link_failed"] += 1
+                    try_faculty_citations(entry, s["primary_source"])
             else:
                 # 解析失败(通常是论文页作者链接与目标学者姓氏未匹配上,如合著论文里
-                # 目标学者不是第一作者、姓氏拼写差异等),如实标注暂无法自动追踪,
-                # 不要退化成不可靠的通用主页快照抓取
-                entry["tracking_type"] = "generic_page"
-                entry["tracking_status"] = "manual_only"
-                stats["nber_paper_link_failed"] += 1
+                # 目标学者不是第一作者、姓氏拼写差异等),退回尝试个人主页抓取
+                try_faculty_citations(entry, s["primary_source"])
             time.sleep(0.5)
 
         elif source_type == "pdf":
@@ -88,12 +95,15 @@ def main():
             stats["pdf"] += 1
 
         else:  # generic_page / none
-            # 经实测,个人/学校主页的HTML结构差异太大,通用启发式抓取容易把导航栏、
-            # 课程介绍、"关于本人"的媒体报道等误判成"学术文献",宁可如实标注"暂无法
-            # 自动追踪"也不做低质量/易误导的展示。仍保留 profile_url 供前端展示主页链接。
-            entry["tracking_type"] = "generic_page"
-            entry["tracking_status"] = "manual_only"
-            stats["generic_page"] += 1
+            # 用"SSRN具体论文链接"+"Publications类标题下的带年份列表"两种信号
+            # 探测式抓取,抓到真实文献才标记active,抓不到就如实标注"暂无法自动
+            # 追踪",不用宽泛启发式硬凑,避免把导航栏/课程介绍误判成文献
+            if s["primary_source"]:
+                try_faculty_citations(entry, s["primary_source"])
+            else:
+                entry["tracking_type"] = "none"
+                entry["tracking_status"] = "manual_only"
+                stats["faculty_citations_empty"] += 1
 
         configs.append(entry)
         print(f"[{entry['tracking_type']:12}] {s['name']}")

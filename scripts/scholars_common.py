@@ -95,11 +95,45 @@ def fetch_nber_author_works(uid, limit=10):
     return items[:limit]
 
 
-def snapshot_faculty_page(url, min_text_len=25, max_links=40):
-    """通用教师主页"快照"抓取:粗略识别页面中可能是文献/著作的链接
-    (启发式:链接文字较长、非导航栏常见词),供后续按周做diff比对使用。
-    不保证能准确抓到"发表日期"和"摘要"(个人主页格式差异太大),仅作为
-    "监测是否有新内容出现"的基线。
+PUB_HEADINGS = {
+    "publications", "scholarship", "selected publications",
+    "selected scholarship", "articles", "journal articles",
+    "selected works", "working papers",
+}
+STOP_HEADINGS = PUB_HEADINGS | {
+    "presentations", "other publications", "book sections", "education",
+    "education and experience", "media", "in the media", "teaching",
+    "additional activities", "biography",
+}
+
+
+def extract_year(text):
+    m = re.findall(r"(19|20)\d{2}", text)
+    return m[-1] if m else ""  # 取最后一个年份,通常引用格式里年份在末尾
+
+
+LINK_LABEL_SUFFIX = re.compile(
+    r"\s*(ssrn|www|cu|pdf|doi|link)+\s*$", re.IGNORECASE
+)
+
+
+def clean_citation_text(text):
+    """去掉页面上引用文字末尾常见的相邻链接标签(如'... (2019). ssrn cu'
+    里的'ssrn cu'其实是两个独立的下载链接文字,被get_text()拼接了进来)"""
+    prev = None
+    while prev != text:
+        prev = text
+        text = LINK_LABEL_SUFFIX.sub("", text).rstrip()
+    return text
+
+
+def scrape_faculty_page_citations(url, scholar_name, limit=10):
+    """针对个人/学校教师主页的文献抓取(比 snapshot_faculty_page 更精确):
+    策略1: 收集页面里所有指向SSRN论文的链接(链接文字通常就是完整引用,
+           这个信号误报率极低,不会像抓全部长链接那样把导航栏/课程介绍抓进来)
+    策略2: 定位"Publications"/"Scholarship"等标题元素,只提取该标题到下一个
+           同级标题之间的内容块,且要求文本包含年份数字,进一步降低误判
+    两种信号取并集去重,仍然抓不到时如实返回空列表,不做进一步猜测。
     """
     try:
         resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
@@ -109,35 +143,60 @@ def snapshot_faculty_page(url, min_text_len=25, max_links=40):
     except Exception:
         return []
 
-    nav_words = {
-        "home", "about", "contact", "faculty", "admissions", "academics",
-        "search", "menu", "login", "directory", "news", "events", "privacy",
-        "accessibility", "sitemap", "facebook", "twitter", "linkedin",
-        "instagram", "youtube",
+    citations = []
+    seen_texts = set()
+    generic_texts = {
+        "here", "link", "view", "ssrn", "read more", "paper", "download",
+        "pdf", "available here", "download pdf", "view on ssrn",
     }
-    items = []
-    seen_urls = set()
+
     for a in soup.find_all("a", href=True):
+        href = a["href"].lower()
+        # 只认"某一篇具体论文"的链接,排除SSRN作者页/系列页/搜索页等泛链接
+        if not re.search(r"ssrn\.com/(sol3/)?(papers|abstract)", href) and "abstract_id=" not in href:
+            continue
         text = a.get_text(strip=True)
-        href = a["href"]
-        if len(text) < min_text_len:
+        if len(text) < 20 or text.lower() in generic_texts or text in seen_texts:
             continue
-        if text.lower() in nav_words:
-            continue
-        if href.startswith("#") or href.startswith("mailto:") or href.startswith("tel:"):
-            continue
-        full_url = href if href.startswith("http") else requests.compat.urljoin(url, href)
-        if full_url in seen_urls:
-            continue
-        seen_urls.add(full_url)
-        year_match = re.search(r"(19|20)\d{2}", text)
-        items.append({
-            "title": text,
-            "authors": "",
-            "date": year_match.group(0) if year_match else "",
+        seen_texts.add(text)
+        citations.append({
+            "title": clean_citation_text(text[:300]),
+            "authors": scholar_name,
+            "date": extract_year(text),
             "abstract": "",
-            "url": full_url,
+            "url": a["href"],
         })
-        if len(items) >= max_links:
-            break
-    return items
+
+    # 标题文字可能在多处出现(如页面顶部tab导航复用了"Publications"字样),
+    # 逐个尝试直到找到真的带年份的文献列表,而不是只信第一个命中
+    heading_tags = soup.find_all(["h1", "h2", "h3", "h4", "h5", "strong", "b"])
+    for h in heading_tags:
+        if h.get_text(strip=True).lower() not in PUB_HEADINGS:
+            continue
+        block_citations = []
+        for sib in h.find_all_next():
+            sib_text = sib.get_text(strip=True).lower() if sib.name in ("h1", "h2", "h3", "h4", "h5", "strong", "b") else ""
+            if sib.name in ("h1", "h2", "h3") or (sib_text and sib_text in STOP_HEADINGS and sib_text not in PUB_HEADINGS):
+                break
+            if sib.name in ("li", "p"):
+                text = sib.get_text(" ", strip=True)
+                if len(text) < 25 or not re.search(r"(19|20)\d{2}", text) or text in seen_texts:
+                    continue
+                link = sib.find("a", href=True)
+                block_citations.append({
+                    "title": clean_citation_text(text[:300]),
+                    "authors": scholar_name,
+                    "date": extract_year(text),
+                    "abstract": "",
+                    "url": link["href"] if link else url,
+                })
+            if len(block_citations) >= limit:
+                break
+        if block_citations:
+            for c in block_citations:
+                if c["title"] not in seen_texts:
+                    seen_texts.add(c["title"])
+                    citations.append(c)
+            break  # 找到真正有效的文献列表后就不再继续找其他同名标题
+
+    return citations[:limit]

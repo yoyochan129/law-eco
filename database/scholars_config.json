@@ -32,8 +32,8 @@
     "research_methods": "破产数据；文本分析；实证法学",
     "why_track": "使用破产和债务数据研究LME、债权人控制和私人信贷，是当前最前沿的实证破产法作者之一。",
     "profile_url": "https://hls.harvard.edu/faculty/jared-ellias/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Dan Awrey",
@@ -56,8 +56,8 @@
     "research_methods": "法律史；制度经济学；公共法",
     "why_track": "能够解释银行为何特殊，以及稳定币和影子货币如何挑战银行法和央行架构。",
     "profile_url": "https://www.law.columbia.edu/faculty/lev-menand",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Morgan Ricks",
@@ -80,8 +80,8 @@
     "research_methods": "合同理论；交易数据；破产法经济学",
     "why_track": "最贴近私人信贷中的waiver、uptiering、drop-down和庭外重组实践。",
     "profile_url": "https://www.law.uchicago.edu/faculty/buccola",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Steven L. Schwarcz",
@@ -92,8 +92,8 @@
     "research_methods": "结构性金融法；制度分析；风险治理",
     "why_track": "证券化SPV、bankruptcy remoteness和系统性风险的核心法律作者。",
     "profile_url": "https://law.duke.edu/fac/schwarcz/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Patrick M. Corrigan",
@@ -164,8 +164,8 @@
     "research_methods": "制度法经；金融稳定理论；行政与宪法分析",
     "why_track": "《Nonbank Credit》提供非银基金可能增强金融韧性的理论对照，并持续研究中央银行和金融监管裁量。",
     "profile_url": "https://lgst.wharton.upenn.edu/profile/skinnerc/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Jeffery Y. Zhang",
@@ -200,8 +200,8 @@
     "research_methods": "公司金融法；比较制度；合同与治理分析",
     "why_track": "将私人信贷放入公司治理、契约控制和资本结构中分析，与你的关系型贷款、waiver和延迟损失确认问题高度相关。",
     "profile_url": "https://www.law.cam.ac.uk/people/academic/nl-lalafaryan/6459",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Stavros Gadinis",
@@ -296,8 +296,8 @@
     "research_methods": "基金数据；调查实验；资产管理法",
     "why_track": "在基金和投资者行为方面兼具金融学质量与法律问题意识。",
     "profile_url": "https://www.law.uchicago.edu/faculty/robertson",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Joshua Mitts",
@@ -308,8 +308,8 @@
     "research_methods": "交易数据；机器学习；文本与异常识别",
     "why_track": "适合学习如何把证券法问题转化为高频数据和机器学习研究。",
     "profile_url": "https://www.law.columbia.edu/faculty/joshua-mitts",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Robert J. Jackson Jr.",
@@ -392,8 +392,8 @@
     "research_methods": "比较金融监管；实证政策分析",
     "why_track": "美国金融监管架构和跨部门协调的经典且仍有政策价值的作者。",
     "profile_url": "https://hls.harvard.edu/faculty/howell-e-jackson/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Arthur E. Wilmarth Jr.",
@@ -428,8 +428,8 @@
     "research_methods": "制度分析；银行法；政策设计",
     "why_track": "对美联储接入、银行流动性和审慎监管问题有直接价值。",
     "profile_url": "https://uclawsf.edu/faculty/john-crawford/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Julie Andersen Hill",
@@ -452,8 +452,8 @@
     "research_methods": "投资管理法；制度分析；监管设计",
     "why_track": "私人基金和投资顾问法律边界的高相关作者。",
     "profile_url": "https://kentlaw.iit.edu/law/faculty-scholarship/faculty-directory/anita-k-krug",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "William A. Birdthistle",
@@ -464,8 +464,8 @@
     "research_methods": "投资管理法；行业数据；制度分析",
     "why_track": "兼具学术和SEC经验，适合MMF与资产管理监管。",
     "profile_url": "https://www.law.uchicago.edu/faculty/birdthistle",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "George G. Triantis",
@@ -500,8 +500,8 @@
     "research_methods": "破产数据；理论模型；实证法经",
     "why_track": "正式破产与庭外重组比较、金融困境数据的重要作者。",
     "profile_url": "https://www.law.columbia.edu/faculty/edward-r-morrison",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Eric Talley",
@@ -512,8 +512,8 @@
     "research_methods": "博弈论；合同理论；机器学习",
     "why_track": "连接合同模型、私人市场和计算方法。",
     "profile_url": "https://www.law.columbia.edu/faculty/eric-talley",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Anthony J. Casey",
@@ -524,8 +524,8 @@
     "research_methods": "机制设计；金融理论；制度分析",
     "why_track": "破产估值和重组机制的前沿理论作者。",
     "profile_url": "https://www.law.uchicago.edu/faculty/casey",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Matthew Jennejohn",
@@ -572,8 +572,8 @@
     "research_methods": "代理理论；比较监管；制度分析",
     "why_track": "适合研究银行与NBFI的关联关系、利益冲突和看门人责任。",
     "profile_url": "https://law.wustl.edu/faculty-staff-directory/profile/andrew-tuch/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "James C. Spindler",
@@ -673,8 +673,8 @@
     "research_methods": "基金与贷款数据；公司金融；监管套利实证",
     "why_track": "近年直接研究银行资本是否推动私人信贷增长，以及私人信贷基金在极端压力下的韧性，与你的研究高度重合。",
     "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Amir Sufi",
@@ -797,8 +797,8 @@
     "research_methods": "市场微观结构；理论；制度设计",
     "why_track": "金融市场管道、中央清算和数字金融制度的顶级作者。",
     "profile_url": "https://www.darrellduffie.com/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Zhiguo He",
@@ -860,8 +860,8 @@
     "research_methods": "货币与银行理论；金融史；制度分析",
     "why_track": "影子银行和可挤兑短期债务理论的奠基作者，近年仍持续研究稳定币和金融危机反复出现的机制。",
     "profile_url": "https://som.yale.edu/faculty-research/faculty-directory/gary-b-gorton",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Jeremy C. Stein",
@@ -960,8 +960,8 @@
     "research_methods": "跨国银行数据；危机实证；政策评估",
     "why_track": "银行监管和金融危机研究质量极高，适合审慎监管部分。",
     "profile_url": "https://www.ecb.europa.eu/pub/research/authors/profiles/luc-laeven.en.html",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "tracking_type": "faculty_citations",
+    "tracking_status": "active"
   },
   {
     "name": "Elena Carletti",

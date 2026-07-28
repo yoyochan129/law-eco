@@ -32,8 +32,48 @@ window.SCHOLARS_DATA = [
     "research_methods": "破产数据；文本分析；实证法学",
     "why_track": "使用破产和债务数据研究LME、债权人控制和私人信贷，是当前最前沿的实证破产法作者之一。",
     "profile_url": "https://hls.harvard.edu/faculty/jared-ellias/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Jared A. Ellias,Employee Bankruptcy Trauma(Harvard Law Sch. John M. Olin Ctr. for Law, Econ. & Bus., Discussion Paper Nos. 1102-1107, 2023).",
+        "authors": "Jared A. Ellias",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540838",
+        "scholar_name": "Jared A. Ellias",
+        "category": "法学",
+        "title_zh": "Jared A. Ellias，员工破产创伤（哈佛法学院 John M. Olin Ctr. for Law、Econ. & Bus.，讨论文件第 1102-1107 号，2023）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:20.322470+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Jared A. Ellias,Has Chapter 11 Become More Expensive\"?,SSRN(Feb. 21, 2025).",
+        "authors": "Jared A. Ellias",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5128371",
+        "scholar_name": "Jared A. Ellias",
+        "category": "法学",
+        "title_zh": "Jared A. Ellias，第 11 章变得更昂贵了吗？，SSRN（2025 年 2 月 21 日）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:19.099030+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Jared A. Ellias & Narine Lalafaryan,The Global Law of Debt,SSRN(Dec. 9, 2025).",
+        "authors": "Jared A. Ellias",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5871022",
+        "scholar_name": "Jared A. Ellias",
+        "category": "法学",
+        "title_zh": "Jared A. Ellias 和 Narine Lalafaryan，《全球债务法》，SSRN（2025 年 12 月 9 日）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:18.381920+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Dan Awrey",
@@ -56,8 +96,100 @@ window.SCHOLARS_DATA = [
     "research_methods": "法律史；制度经济学；公共法",
     "why_track": "能够解释银行为何特殊，以及稳定币和影子货币如何挑战银行法和央行架构。",
     "profile_url": "https://www.law.columbia.edu/faculty/lev-menand",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "FedAccounts: Digital Dollars, 99 G. Wash. L. Rev. 113 (2018) (with Morgan Ricks and John Crawford)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192162",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "FedAccounts：数字美元，99 G. Wash. L. Rev. 113 (2018)（与 Morgan Ricks 和 John Crawford 合作）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:28.981560+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Why Supervise Banks? The Foundations of the American Monetary Settlement, 74 Vand. L. Rev. 951 (2021)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421232",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "为什么要监管银行？美国货币结算的基础，74 Vand。 L.Rev.951 (2021)",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:27.802675+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Three Permissions: Presidential Removal and the Statutory Limits of Agency Indepence, 121 Columbia Law Review 1 (2021) (with Jane Manners)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520377",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "三项许可：总统罢免和机构独立的法定限制，121 哥伦比亚法律评论 1 (2021)（与 Jane Manners 合着）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:27.193779+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Federal Reserve and the 2020 Economic and Financial Crisis, 26 Stanford Journal of Law, Business & Finance 295 (2021)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3602740",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "美联储与 2020 年经济和金融危机，26《斯坦福法律、商业与金融杂志》295 (2021)",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:26.622880+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Federal Corporate Law and the Business of Banking, 88 University of Chicago Law Review (2021) (with Morgan Ricks)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663351",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "《联邦公司法和银行业务》，88《芝加哥大学法律评论》（2021 年）（与 Morgan Ricks 合作）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:25.142626+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Banker Removal Power, 108 Virginia Law Review 1 (2022) (with Da Lin)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3806879",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "银行家罢免权，108 弗吉尼亚法律评论 1 (2022)（与大林）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:24.117740+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Logic and Limits of the Federal Reserve Act, 40 Yale Journal on Regulation 197 (2023)",
+        "authors": "Lev Menand",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4031875",
+        "scholar_name": "Lev Menand",
+        "category": "法学",
+        "title_zh": "《联邦储备法》的逻辑和限制，40 耶鲁杂志第 197 号条例 (2023)",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:23.503385+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Morgan Ricks",
@@ -80,8 +212,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "合同理论；交易数据；破产法经济学",
     "why_track": "最贴近私人信贷中的waiver、uptiering、drop-down和庭外重组实践。",
     "profile_url": "https://www.law.uchicago.edu/faculty/buccola",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "\"The Logic and Limits of Municipal Bankruptcy Law,\" 86 University of Chicago Law Review 817 (2019).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3223691",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“市政破产法的逻辑和局限性”，86 芝加哥大学法律评论 817 (2019)。 ssrn铜",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:40.296261+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Bankruptcy's Cathedral: Property Rules, Liability Rules, and Distress,\" 114 Northwestern University Law Review 705 (2019).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarlycommons.law.northwestern.edu/nulr/vol114/iss3/3/",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:38.980004+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"The Municipal Bond Cases Revisited,\" 94 American Bankruptcy Law Journal 591 (2020) (with Allison R. Buccola).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699633",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“重新审视市政债券案件”，94 《美国破产法杂志》591 (2020)（与 Allison R. Buccola 合作）。 ssrn",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:38.857262+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"The Myth of Creditor Sabotage,\" 87 University of Chicago Law Review 2029 (2020) (with Jameson K. Mah & Tai Zhang).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466275",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“债权人破坏的神话”，87《芝加哥大学法律评论 2029》(2020)（与 Jameson K. Mah 和 Tai Zhu 合作）。 ssrn铜",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:37.597964+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Unwritten Law and the Odd Ones Out,\" 131 Yale Law Journal 1559 (2022).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967191",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“不成文法律和奇怪的人出局”，131 耶鲁大学法律杂志 1559 (2022)。 ssrn www. ssrn",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:36.299529+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Sponsor Control: A New Paradigm for Corporate Reorganization,\" 90 University of Chicago Law Review 1 (2023).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170249",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:35.189974+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Efficacious Answers to the Non-Pro Rata Workout,\" 171 University of Pennsylvania Law Review 1859 (2023).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.58112/uplr.171-7.1",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“对非按比例锻炼的有效答案”，171 宾夕法尼亚大学法律评论 1859 (2023)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:35.074149+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"The Loan Market Response to Dropdown and Uptier Transactions,\" 53 Journal of Legal Studies 489 (2024) (with Greg Nini).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143928",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“贷款市场对下拉交易和上行交易的反应”，53 Journal of Legal Studies 489 (2024)（与 Greg Nini 合作）。 ssrn www. ssrn",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:34.159876+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Getting to Yes: The Role of Coercion in Debt Renegotiations,\" 17 Journal of Legal Analysis 166 (2025) (with Marcel Kahan).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.1093/jla/laaf009",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“达成共识：强制在债务重新谈判中的作用”，17 Journal of Legal Analysis 166 (2025)（与 Marcel Kahan 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:32.717280+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Bankruptcy Judging After Williamson,\" 51 BYU Law Review 653 (2026).",
+        "authors": "Vincent S.J. Buccola",
+        "date": "20",
+        "abstract": "",
+        "url": "https://digitalcommons.law.byu.edu/lawreview/vol51/iss3/7/",
+        "scholar_name": "Vincent S.J. Buccola",
+        "category": "法学",
+        "title_zh": "“威廉姆森之后的破产判断”，51 BYU Law Review 653 (2026)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:31.687382+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Steven L. Schwarcz",
@@ -92,8 +355,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "结构性金融法；制度分析；风险治理",
     "why_track": "证券化SPV、bankruptcy remoteness和系统性风险的核心法律作者。",
     "profile_url": "https://law.duke.edu/fac/schwarcz/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "http://ssrn.com/abstract=3019507",
+        "authors": "Steven L. Schwarcz",
+        "date": "19",
+        "abstract": "",
+        "url": "http://ssrn.com/abstract=3019507",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "http://ssrn.com/abstract=3019507",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:47.745179+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "https://ssrn.com/abstract=3167507",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=3167507",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:46.541321+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "http://ssrn.com/abstract=3307418",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=3307418",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:46.443773+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "https://ssrn.com/abstract=3233666",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=3233666",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "https://ssrn.com/abstract=3233666",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:46.341414+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "https://ssrn.com/abstract=3104079",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=3104079",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:44.907477+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "https://ssrn.com/abstract=3431345",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3431345",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "https://ssrn.com/abstract=3431345",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:44.800023+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "https://ssrn.com/abstract=3516036",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516036",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "https://ssrn.com/abstract=3516036",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:43.779995+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Representations & Warranties, Fraud, and Risk-Shifting: An Analytical Framework",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "http://ssrn.com/abstract=4256322",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:42.716155+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Legal Anomaly of Non-Recourse Financing",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "http://ssrn.com/abstract=4708007",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:42.563214+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Money: A Functional Analysis",
+        "authors": "Steven L. Schwarcz",
+        "date": "",
+        "abstract": "",
+        "url": "http://ssrn.com/abstract=4808459",
+        "scholar_name": "Steven L. Schwarcz",
+        "category": "法学",
+        "title_zh": "货币：功能分析",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:42.443045+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Patrick M. Corrigan",
@@ -164,8 +558,113 @@ window.SCHOLARS_DATA = [
     "research_methods": "制度法经；金融稳定理论；行政与宪法分析",
     "why_track": "《Nonbank Credit》提供非银基金可能增强金融韧性的理论对照，并持续研究中央银行和金融监管裁量。",
     "profile_url": "https://lgst.wharton.upenn.edu/profile/skinnerc/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Laboratories of Central Banking",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3956845",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:52.016375+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Legitimacy of the Federal Reserve",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3956847",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:51.862881+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Coins, Cross-Border Payments, and Anti-Money Laundering Law",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4215481",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:51.775220+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Monetary Executive",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4200433",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "货币执行官",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:51.659427+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Private Equity for the People",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649735",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:50.484500+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Central Bank Digital Currency as New Public Money",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4360665",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "央行数字货币作为新的公共货币",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:50.382371+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Capitalism Stakeholdersim",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4697318",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:49.076126+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Central Bank Undersight",
+        "authors": "Christina Parajon Skinner",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4653211",
+        "scholar_name": "Christina Parajon Skinner",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:48.943755+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Jeffery Y. Zhang",
@@ -200,8 +699,22 @@ window.SCHOLARS_DATA = [
     "research_methods": "公司金融法；比较制度；合同与治理分析",
     "why_track": "将私人信贷放入公司治理、契约控制和资本结构中分析，与你的关系型贷款、waiver和延迟损失确认问题高度相关。",
     "profile_url": "https://www.law.cam.ac.uk/people/academic/nl-lalafaryan/6459",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331909",
+        "authors": "Narine Lalafaryan",
+        "date": "19",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331909",
+        "scholar_name": "Narine Lalafaryan",
+        "category": "法学",
+        "title_zh": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331909",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:54.223341+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Stavros Gadinis",
@@ -296,8 +809,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "基金数据；调查实验；资产管理法",
     "why_track": "在基金和投资者行为方面兼具金融学质量与法律问题意识。",
     "profile_url": "https://www.law.uchicago.edu/faculty/robertson",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "\"Advisors by Another Name,\" 11 Harvard Business Law Review 311 (2021) (with Paul G. Mahoney).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/robertson",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“顾问的另一个名字”，11 哈佛商法评论 311 (2021)（与 Paul G. Mahoney）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:03.843212+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Do ESG Mutual Funds Deliver On Their Promises,\" 120 Michigan Law Review 393 (2021) (with Quinn Curtis & Jill E. Fisch).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://michiganlawreview.org/journal/do-esg-funds-deliver-on-their-promises/",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“ESG 共同基金是否兑现承诺”，120 密歇根法律评论 393 (2021)（与 Quinn Curtis 和 Jill E. Fisch 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:03.030427+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Hidden Agendas in Shareholder Voting,\" 39 Yale Journal on Regulation 1218 (2022) (with Scott Hirst).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.yalejreg.com/print/hidden-agendas-in-shareholder-voting/",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“股东投票中的隐藏议程”，39 《耶鲁期刊》第 1218 号法规 (2022)（与 Scott Hirst 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:01.494917+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Millionaires Speak: What Drives Their Personal Investment Decisions?,\" 146 Journal of Financial Economics 305 (2022) (with Svetlana Bender &  James J. Choi &  Danielle Dyson ).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.09.016",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:00.279728+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"The (Mis)uses of the S&P 500,\" 2 The University of Chicago Business Law Review 137 (2023).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://businesslawreview.uchicago.edu/2023/01/26/the-misuses-of-the-sp-500",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“标准普尔 500 指数的（错误）用途”，2《芝加哥大学商法评论》137 (2023)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:00.162848+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Do ESG Mutual Funds Deliver On Their Promises,\" 53 Environmental Law Reporter 10630 (2023) (with Quinn Curtis &  Jill E. Fisch ).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/robertson",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“ESG 共同基金兑现承诺吗”，53 Environmental Law Reporter 10630 (2023)（与 Quinn Curtis 和 Jill E. Fisch 合作）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:59.662794+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"What’s in a Name? ESG Mutual Funds and the SEC’s Names Rule,\" 96 Southern California Law Review 1417 (2024) (with Jill E. Fisch).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://southerncalifornialawreview.com/2024/04/16/whats-in-a-name-esg-mutual-funds-and-the-secs-names-rule/",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“名称中有什么？ESG 共同基金和 SEC 的名称规则”，96 Southern California Law Review 1417 (2024)（与 Jill E. Fisch 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:59.034812+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Discretionary Investing by ‘Passive’ S&P 500 Funds,\" 41 Yale Journal on Regulation 248 (2024) (with Peter Molk).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.yalejreg.com/print/discretionary-investing-by-passive-sp-500-funds/",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:57.899579+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Noisy Factors in Law,\" 92 University of Chicago Law Review 769 (2025) (with Pat Akey & Mikhail Simutin).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://lawreview.uchicago.edu/print-archive/noisy-factors-law",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“法律中的噪音因素”，92 芝加哥大学法律评论 769 (2025)（与 Pat Akey 和 Mikhail Simutin 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:57.809160+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Finance for the Common Good,\" 4 University of Chicago Business Law Review 317 (2025).",
+        "authors": "Adriana Z. Robertson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://businesslawreview.uchicago.edu/print-archive/finance-common-good",
+        "scholar_name": "Adriana Z. Robertson",
+        "category": "法学",
+        "title_zh": "“共同利益的金融”，4 芝加哥大学商法评论 317 (2025)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:00:56.424379+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Joshua Mitts",
@@ -308,8 +952,22 @@ window.SCHOLARS_DATA = [
     "research_methods": "交易数据；机器学习；文本与异常识别",
     "why_track": "适合学习如何把证券法问题转化为高频数据和机器学习研究。",
     "profile_url": "https://www.law.columbia.edu/faculty/joshua-mitts",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "A Legal Perspective on Technology and the Capital Markets: Social Media, Short Activism and the Algorithmic Revolution",
+        "authors": "Joshua Mitts",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3447235",
+        "scholar_name": "Joshua Mitts",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:05.440194+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Robert J. Jackson Jr.",
@@ -392,8 +1050,22 @@ window.SCHOLARS_DATA = [
     "research_methods": "比较金融监管；实证政策分析",
     "why_track": "美国金融监管架构和跨部门协调的经典且仍有政策价值的作者。",
     "profile_url": "https://hls.harvard.edu/faculty/howell-e-jackson/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Dan Awrey, Howell E. Jackson & Timothy G. Massad,Stable Foundations: Towards a Robust and Bipartisan Approach to Stablecoin Legislation(Harvard Public Law Working Paper 25-19, 2025).",
+        "authors": "Howell E. Jackson",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197044",
+        "scholar_name": "Howell E. Jackson",
+        "category": "法学",
+        "title_zh": "Dan Awrey、Howell E. Jackson 和 Timothy G. Massad，稳定的基础：迈向稳定币立法的稳健和两党合作方法（哈佛公法工作论文 25-19，2025 年）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:07.427907+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Arthur E. Wilmarth Jr.",
@@ -428,8 +1100,126 @@ window.SCHOLARS_DATA = [
     "research_methods": "制度分析；银行法；政策设计",
     "why_track": "对美联储接入、银行流动性和审慎监管问题有直接价值。",
     "profile_url": "https://uclawsf.edu/faculty/john-crawford/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Safe Money 104 Marq. L. Rev. 411 2020",
+        "authors": "John Crawford",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarship.law.marquette.edu/mulr/vol104/iss2/5",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:15.622586+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "FedAccounts: Digital Dollars with Morgan Ricks & Lev Menand, 89 George Washington Law Review 113 2021",
+        "authors": "John Crawford",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarship.law.vanderbilt.edu/faculty-publications/1203",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "FedAccounts：数字美元与 Morgan Ricks 和 Lev Menand，89 乔治华盛顿法律评论 113 2021",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:15.217865+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Radicalism and Democracy in Monetary System Reform Vanderbilt Law Review En Banc: Vol. 75: Iss. 1, Article 3 2022",
+        "authors": "John Crawford",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarship.law.vanderbilt.edu/vlreb/vol75/iss1/3",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "货币体系改革中的激进主义和民主范德比尔特法律评论全班：卷。 75：一号1、2022年第3条",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:14.395837+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Dollar Dilemma : Hegemony, Control, and the Dollar's International Role 18 Virginia Law & Business Review 149 2023",
+        "authors": "John Crawford",
+        "date": "20",
+        "abstract": "",
+        "url": "https://static1.squarespace.com/static/5e2a02e0f00f9944398e756a/t/6624168e70b53e1b5a7aacad/1713641103102/5_Crawford_Dollar+Dilemma.pdf",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "美元困境：霸权、控制和美元的国际角色 18 弗吉尼亚法律与商业评论 149 2023",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:12.860402+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "A Threshold Test for Fed Activism 16 Wm. & Mary Bus. L. Rev. 1 2024",
+        "authors": "John Crawford",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarship.law.wm.edu/wmblr/vol16/iss1/2",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "美联储激进主义的门槛测试 16 Wm。和玛丽巴士。 L.Rev.1 2024",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:11.427397+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Capital Accounts: Bank Capital, Crises, and the Determinants of an Optimal Regulatory Approach",
+        "authors": "John Crawford",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2404994",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "资本账户：银行资本、危机和最佳监管方法的决定因素",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:10.911219+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Wargaming Financial Crises: The Problem of (In)Experience and Regulator Expertise",
+        "authors": "John Crawford",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409273",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "金融危机兵棋推演：经验和监管机构专业知识的问题",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:09.787533+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "'Single Point of Entry': The Promise and Limits of the Latest Cure for Bailouts",
+        "authors": "John Crawford",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2543953",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:08.828153+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Moral Hazard Paradox of Financial Safety Nets",
+        "authors": "John Crawford",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580062",
+        "scholar_name": "John Crawford",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:08.655213+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Julie Andersen Hill",
@@ -452,8 +1242,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "投资管理法；制度分析；监管设计",
     "why_track": "私人基金和投资顾问法律边界的高相关作者。",
     "profile_url": "https://kentlaw.iit.edu/law/faculty-scholarship/faculty-directory/anita-k-krug",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Toward Better Mutual Fund Governance",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2752090",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "迈向更好的共同基金治理",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:27.652416+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Institutionalization, Investment Adviser Regulation, and the Hedge Fund Problem",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1915609",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "制度化、投资顾问监管和对冲基金问题",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:26.477992+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Modern Corporation Magnified: Managerial Accountability in Financial Services Holding Companies",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2131454",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "现代公司的放大：金融服务控股公司的管理责任",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:25.352730+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Investment Company as Instrument: The Limitations of the Corporate Governance Regulatory Paradigm",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2131461",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "作为工具的投资公司：公司治理监管范式的局限性",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:24.124912+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Escaping Entity-Centrism in Financial Services Regulation",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2243052",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "摆脱金融服务监管中的实体中心主义",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:22.887664+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Downstream Securities Regulation",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420091",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "下游证券监管",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:22.485206+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Investing and Pretending",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2493278",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "投资与假装",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:21.050135+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Uncertain Futures in Evolving Financial Markets",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2577502",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "不断变化的金融市场中的不确定未来",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:20.038423+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Other Securities Regulator: A Case Study in Regulatory Damage",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951898",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "其他证券监管机构：监管损害案例研究",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:18.797143+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Temporary Securities Regulation",
+        "authors": "Anita K. Krug",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808662",
+        "scholar_name": "Anita K. Krug",
+        "category": "法学",
+        "title_zh": "临时证券监管",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:17.493804+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "William A. Birdthistle",
@@ -464,8 +1385,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "投资管理法；行业数据；制度分析",
     "why_track": "兼具学术和SEC经验，适合MMF与资产管理监管。",
     "profile_url": "https://www.law.uchicago.edu/faculty/birdthistle",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "\"One Hat Too Many - Investment Desegregation in Private Equity,\" 76 University of Chicago Law Review 45 (2009) (with M. Todd Henderson).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://chicagounbound.uchicago.edu/journal_articles/1514",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“一顶帽子太多 - 私募股权投资废除种族隔离”，76 芝加哥大学法律评论 45 (2009)（与 M. Todd Henderson 合着）。铜",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:39.481935+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Portfolio of Eloquence,\" Wall Street Journal __ (2009) ((reviewing Frank O’Connor, The Best of Frank O’Connor (2009) (Julian Barnes ed.))).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“口才组合”，《华尔街日报》__（2009）（（评论弗兰克·奥康纳，弗兰克·奥康纳的最佳作品（2009）（朱利安·巴恩斯编辑）））。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:38.359001+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Breaking Bucks in Money Market Funds,\" 2010 Wisconsin Law Review 1155 (2010) (anthologized in Securities Law Review (Donald C. Langevoort, ed., West 2012)).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“货币市场基金的暴利”，2010 年威斯康星州法律评论 1155 (2010)（《证券法评论》选集（Donald C. Langevoort 编辑，West 2012 年））。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:37.943753+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Investment Indiscipline: A Behavioral Approach to Mutual Fund Jurisprudence,\" 2010 University of Illinois Law Review 61 (2010).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“投资纪律：共同基金法理学的行为方法”，2010 年伊利诺伊大学法律评论 61 (2010)。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:36.616500+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"The Supreme Court’s Theory of the Fund,\" 37 Journal of Corporation Law 101 (2012).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“最高法院的基金理论”，37 Journal of Corporation Law 101 (2012)。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:35.668113+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Becoming a Fifth Branch,\" 99 Cornell Law Review 1 (2013) (with M. Todd Henderson).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2172935",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“成为第五个分支机构”，99 康奈尔法律评论 1 (2013)（与 M. Todd Henderson）。 ssrn铜",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:34.797747+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Federalism of Personal Finance: State & Federal Retirement Plans,\" 41 Seattle University Law Review 367 (2018).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“个人理财联邦主义：州和联邦退休计划”，41 西雅图大学法律评论 367 (2018)。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:33.342183+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Mergers & Acquisitions with Props & Pantomime,\" 20 Transactions: The Tennessee Journal of Business Law 277 (2019).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://ir.law.utk.edu/transactions/vol20/iss2/7/",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“道具和哑剧的并购”，20 Transactions：《田纳西州商业法杂志》277 (2019)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:32.214009+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Digital Finance Platforms: Toward a New Regulatory Paradigm,\" 23 University of Pennsylvania Journal of Business Law 273 (2020) (with Dirk Zetzsche & Douglas W. Arner & Ross P. Buckley).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“数字金融平台：迈向新的监管范式”，23 宾夕法尼亚大学商法杂志 273 (2020)（与 Dirk Zetzsche、Douglas W. Arner 和 Ross P. Buckley 合作）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:31.292780+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Funding Crises: An Empirical Study of the Paycheck Protection Program,\" 69 Buffalo Law Review 1541 (2021).",
+        "authors": "William A. Birdthistle",
+        "date": "20",
+        "abstract": "",
+        "url": "https://digitalcommons.law.buffalo.edu/buffalolawreview/vol69/iss5/5/",
+        "scholar_name": "William A. Birdthistle",
+        "category": "法学",
+        "title_zh": "“资金危机：薪资保护计划的实证研究”，69 布法罗法律评论 1541 (2021)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:29.860307+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "George G. Triantis",
@@ -500,8 +1552,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "破产数据；理论模型；实证法经",
     "why_track": "正式破产与庭外重组比较、金融困境数据的重要作者。",
     "profile_url": "https://www.law.columbia.edu/faculty/edward-r-morrison",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "“Mortgage Modification and Strategic Default: Evidence from a Legal Settlement with Countrywide,” American Economic Review (2014) (with Christopher Mayer, Tomasz Piskorski, and Arpit Gupta) ( Working Paper )",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=1836451",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“抵押贷款修改和战略性违约：与全国范围内的法律和解的证据”，《美国经济评论》（2014 年）（与 Christopher Mayer、Tomasz Piskorski 和 Arpit Gupta 合作）（工作论文）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:53.931060+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Rules of Thumb for Intercreditor Agreements,” University of Illinois Law Review (2015) ( Working Paper )",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=2845424",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“债权人协议的经验法则”，伊利诺伊大学法律评论（2015 年）（工作论文）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:52.691295+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Consumer Bankruptcy Pathologies,” Journal of Institutional and Theoretical Economics (2017) (with Antoine Uettwiller) ( Working Paper )",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=2845497",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“消费者破产病理学”，《制度与理论经济学杂志》（2017 年）（与 Antoine Uettwiller 合作）（工作论文）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:51.260412+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Valuation Disputes in Corporate Bankruptcy,” 166 U. Penn. L. Rev. 1819 (2018) (with Kenneth M. Ayotte) ( Working Paper )",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3176182",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“公司破产中的估值纠纷”，166 宾夕法尼亚大学。 L. Rev. 1819 (2018)（与 Kenneth M. Ayotte）（工作论文）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:49.724173+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Beyond Options” (with Anthony J. Casey), in Handbook on Corporate Bankruptcy (Edward Elgar Press: Barry Adler, ed., 2020) ( Working Paper )",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2855954",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“Beyond Options”（与 Anthony J. Casey 合着），载于《企业破产手册》（Edward Elgar Press：Barry Adler，ed.，2020）（工作论文）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:48.432770+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“ Bankruptcy’s Role in the COVID-19 Crisis ” (with Andrea C. Saavedra), in Law in the Time of COVID-19 (Columbia Law School: Katharina Pistor, ed., 2020)",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarship.law.columbia.edu/books/240/",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“破产在 COVID-19 危机中的作用”（与 Andrea C. Saavedra 合作），《COVID-19 时期的法律》（哥伦比亚法学院：Katharina Pistor，编辑，2020 年）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:47.226470+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“ Valuing Firms in A World Of Pandemic-Induced Bankruptcies ,” in Law360.com (June 9, 2020) (with Andrea Okie and Kerri Leonhardt)",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.analysisgroup.com/Insights/publishing/valuing-firms-in-a-world-of-pandemic-induced-bankruptcies/",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“在流行病引发的破产世界中评估公司”，Law360.com（2020 年 6 月 9 日）（与 Andrea Okie 和 Kerri Leonhardt 合作）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:45.736727+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Race and Bankruptcy: Explaining Racial Disparities in Consumer Bankruptcy,” 63 J. L. & Econ. 269 (2020) (with Belisa Pang and Antoine Uettwiller) ( Working Paper )",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3137112",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“种族与破产：解释消费者破产中的种族差异”，63 J. L. & Econ。 269 (2020)（与 Belisa Pang 和 Antoine Uettwiller）（工作论文）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:44.215355+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“ Restructuring vs. Bankruptcy ,” Working Paper (2025) (with Jason Roderick Donaldson, Giorgia Piacentino, and Xiaobo Yu)",
+        "authors": "Edward R. Morrison",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3698161",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "“重组与破产”，工作论文（2025）（与 Jason Roderick Donaldson、Giorgia Piacentino 和 Xubo Yu）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:43.272278+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Restructuring vs. Bankruptcy",
+        "authors": "Edward R. Morrison",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3698161",
+        "scholar_name": "Edward R. Morrison",
+        "category": "法学",
+        "title_zh": "重组与破产",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:41.658578+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Eric Talley",
@@ -512,8 +1695,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "博弈论；合同理论；机器学习",
     "why_track": "连接合同模型、私人市场和计算方法。",
     "profile_url": "https://www.law.columbia.edu/faculty/eric-talley",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Global Investor-Director Survey on Climate Risk Management",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3722958",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "全球投资者-董事气候风险管理调查",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:07.047331+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Cleaning Corporate Governance",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796628",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "清洁公司治理",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:05.592475+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Discharging the Discharge for Value Defense",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=3906201",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "为价值防御而放电",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:04.161103+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Contractual Evolution",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3810214",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "契约演化",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:02.941853+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Debt Textualism and Creditor-on-Creditor Violence: A Modest Plea to Keep the Faith",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=4317353",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "债务文本主义和债权人对债权人的暴力：保持信仰的谦虚恳求",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:02.112060+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Don’t Go Chasing Waterfalls: Fiduciary Duties in Venture Capital Backed Startups",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3721814",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "不要追逐瀑布：风险投资支持的初创企业的信托责任",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:00.579555+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Introducing a New Corpus of Definitive M&A Agreements, 2000-2020\"",
+        "authors": "Eric Talley",
+        "date": "20",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=4731282",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "“引入新的最终并购协议集，2000-2020 年”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:59.582172+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Validating Valuation: How Statistical Learning Can Cabin Expert Discretion in Valuation Disputes\"",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4849281",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "“验证估值：统计学习如何在估值纠纷中限制专家的自由裁量权”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:58.834615+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Should Corporate Law Go Private?\"",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5534959",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "“公司法应该私有化吗？”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:58.225726+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Fix the Price or Price the Fix? Resolving the Sequencing Puzzle in Corporate Acquisitions\"",
+        "authors": "Eric Talley",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159164",
+        "scholar_name": "Eric Talley",
+        "category": "法学",
+        "title_zh": "“固定价格还是定价修复？解决企业收购中的排序难题”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:01:56.994834+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Anthony J. Casey",
@@ -524,8 +1838,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "机制设计；金融理论；制度分析",
     "why_track": "破产估值和重组机制的前沿理论作者。",
     "profile_url": "https://www.law.uchicago.edu/faculty/casey",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "\"Problems with Probability,\" 73 University of Toronto Law Journal 92 (2023) (with Anthony Niblett).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.3138/utlj-2023-0006",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“概率问题”，73 多伦多大学法律杂志 92 (2023)（与安东尼·尼布利特合着）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:20.028149+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Does Chapter 11 of the Bankruptcy Code Authorize Nonconsensual Nondebtor Releases? (23-124),\" 51 Preview of United States Supreme Court Cases 25 (2023).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/casey",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“《破产法》第 11 章是否授权非自愿非债务人释放？(23-124)，”51 美国最高法院案例预览 25 (2023)。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:19.018933+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Insolvency Courts: General Principles for Systems Design,\" 33 International Insolvency Review 23 (2024) (with Joshua C. Macey).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.1002/iir.1511",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“破产法院：系统设计的一般原则”，33 International Insolvency Review 23 (2024)（与 Joshua C. Macey 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:17.462044+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Bankruptcy by Another Name,\" 133 Yale Law Journal Forum 1016 (2024) (with Joshua C. Macey).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.yalelawjournal.org/forum/bankruptcy-by-another-name",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“另一个名字的破产”，133 耶鲁大学法律期刊论坛 1016 (2024)（与 Joshua C. Macey 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:16.524244+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Kalven For Corporations: Should For-Profit Corporations Adopt Public Statement Policies?,\" 3 University of Chicago Business Law Review 305 (2024) (with Tom Ginsburg).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://ssrn.com/abstract=4958339",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“Kalven For Corporations：营利性公司是否应该采用公开声明政策？”，3 芝加哥大学商法评论 305 (2024)（与 Tom Ginsburg 合着）。 ssrn cu www",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:15.009457+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"A Commitment Rule for Insolvency Forum: A Response to Critics,\" 41 Emory Bankruptcy Developments Journal 407 (2025) (with Aurelio Gurrea Martinez & Robert K. Rasmussen).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarlycommons.law.emory.edu/ebdj/vol41/iss3/4/",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“破产论坛的承诺规则：对批评者的回应”，41 埃默里破产发展杂志 407 (2025)（与 Aurelio Gurrea Martinez 和 Robert K. Rasmussen 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:13.986770+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Purdue Pharma and the New Bankruptcy Exceptionalism,\" 2024 Supreme Court Review 365 (2025) (with Joshua C. Macey).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.1086/735879",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“普渡制药公司和新的破产例外论”，2024 年最高法院审查 365 (2025)（与 Joshua C. Macey 合着）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:12.453199+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"A Commitment Rule for Insolvency Forum,\" 4 University of Chicago Business Law Review 51 (2025) (with Aurelio Gurrea Martinez & Robert K. Rasmussen).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://businesslawreview.uchicago.edu/print-archive/commitment-rule-insolvency-forum",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“破产论坛的承诺规则”，4 芝加哥大学商法评论 51 (2025)（与 Aurelio Gurrea Martinez 和 Robert K. Rasmussen 合作）。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:11.341812+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"Silicon Valley Bank: A Case Study in Post-Crisis Bank Failures,\" 41 Banking and Finance Law Review 223 (2025).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://dx.doi.org/10.2139/ssrn.5024097",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“硅谷银行：危机后银行倒闭案例研究”，41《银行与金融法律评论》223 (2025)。万维网",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:10.615070+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "\"A Commitment Rule for Insolvency Forum,\" 44 American Bankruptcy Institute Journal 16 (2025) (with Aurelio Gurrea Martinez & Robert K. Rasmussen).",
+        "authors": "Anthony J. Casey",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.law.uchicago.edu/faculty/casey",
+        "scholar_name": "Anthony J. Casey",
+        "category": "法学",
+        "title_zh": "“破产论坛的承诺规则”，44 美国破产研究所期刊 16 (2025)（与 Aurelio Gurrea Martinez 和 Robert K. Rasmussen 合作）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:09.035239+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Matthew Jennejohn",
@@ -572,8 +2017,139 @@ window.SCHOLARS_DATA = [
     "research_methods": "代理理论；比较监管；制度分析",
     "why_track": "适合研究银行与NBFI的关联关系、利益冲突和看门人责任。",
     "profile_url": "https://law.wustl.edu/faculty-staff-directory/profile/andrew-tuch/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Managing Management Buyouts: A US-UK Comparative Analysis",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595681",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "管理管理层收购：美国与英国的比较分析",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:31.801838+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "A General Defense of Information Fiduciaries",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3696946",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "信息受托人的一般辩护",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:30.270252+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Further Erosion of Investor Protection: Expanded Exemptions, SPAC Mergers and Direct Listings",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4020460",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "投资者保护进一步受到侵蚀：扩大豁免、SPAC合并和直接上市",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:29.461505+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Fairness Opinions and SPAC Reform",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4419151",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "公平意见和SPAC改革",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:28.099660+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Climate Disclosure and the Transformation of Gatekeeping",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5959034",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "“气候信息披露和把关的转变",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:27.251782+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Sustainability Assurance",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5429835",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "“可持续发展保证",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:26.682839+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "“Lend Me Your Counsel",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6001694",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "“请给我你的建议",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:25.500419+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Climate Disclosure and the Transformation of Gatekeeping",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5959034",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "气候信息披露和把关方式的转变",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:24.533477+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Sustainability Assurance",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5429835",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "可持续发展保证",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:23.819516+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Lend Me Your Counsel",
+        "authors": "Andrew F. Tuch",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6001694",
+        "scholar_name": "Andrew F. Tuch",
+        "category": "法学",
+        "title_zh": "给我你的建议",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:02:22.495966+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "James C. Spindler",
@@ -620,7 +2196,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "企业弹性以及财务和运营对冲之间的选择",
         "abstract_zh": "我们研究公司如何管理财务违约风险（债务）和运营违约风险（交付义务）。资金紧张的企业通过库存和供应链减少运营对冲，转而持有现金。我们的模型预测，公司加价随着",
-        "date_added": "2026-07-28T20:29:22.741083+00:00",
+        "date_added": "2026-07-28T21:02:38.848692+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -633,7 +2209,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "脱碳战略承诺：大企业、共同所有权和政府的作用",
         "abstract_zh": "我们研究政府政策和企业脱碳承诺在环境损害和绿色创新溢出这两种外部因素下如何相互作用。无约束的碳税和创新补贴可以取得最好的结果，但当政府政策面临约束时，",
-        "date_added": "2026-07-28T20:29:21.659119+00:00",
+        "date_added": "2026-07-28T21:02:38.595303+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -646,7 +2222,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "气候转型风险与能源部门",
         "abstract_zh": "我们建立了一个一般均衡模型来研究气候转型风险如何影响能源价格以及能源行业不同公司的估值。我们考虑两种类型的化石燃料公司：已经开发出可以在今天或明天开采的石油储备的现有企业，以及新进入者",
-        "date_added": "2026-07-28T20:29:21.092146+00:00",
+        "date_added": "2026-07-28T21:02:38.245414+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -659,7 +2235,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "阴影总是触手可及：银行信贷额度对非银行金融中介机构的影响",
         "abstract_zh": "我们以房地产投资信托基金（REIT）作为经济上重要的例子，研究银行向非银行金融中介机构（NBFI）提供信贷额度的影响。虽然规模较小的银行在 CRE 贷款中持有大量直接风险敞口，但大型银行的 CRE 风险敞口也很大。",
-        "date_added": "2026-07-28T20:29:19.673166+00:00",
+        "date_added": "2026-07-28T21:02:37.967234+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -672,7 +2248,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "融资脆弱？企业对影子银行的依赖如何影响其获得银行流动性",
         "abstract_zh": "对非银行融资的更大依赖使企业变得脆弱，因为这导致银行限制其获得信贷额度。除了在受一系列控制和稳健性检查影响的面板测试中证明这一结果之外，我们还采用 201416 年油价暴跌作为非银行的外生展期风险",
-        "date_added": "2026-07-28T20:29:19.407110+00:00",
+        "date_added": "2026-07-28T21:02:37.715451+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -685,7 +2261,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "什么时候少多了？银行流动性安排与央行支持",
         "abstract_zh": "理论表明，面对抛售外部性，银行有动机过度投资，以发行廉价的货币类存款负债。或有资本等私人保险市场的存在可以消除过度投资激励，从而实现高效的投资。",
-        "date_added": "2026-07-28T20:29:17.011685+00:00",
+        "date_added": "2026-07-28T21:02:37.468365+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -698,7 +2274,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "关税战冲击与美国国债便利收益率——对冲视角",
         "abstract_zh": "我们解释 2025 年 4 月的关税战冲击如何影响美国国债的安全资产地位。长期债券的便利收益率侵蚀与对冲属性的减少是一致的，这反映在股票与债券协方差的上升上。将国债收益率分解为无风险利率、信用利率",
-        "date_added": "2026-07-28T20:29:16.692951+00:00",
+        "date_added": "2026-07-28T21:02:36.808742+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -711,7 +2287,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "转型后的中介：非银行金融机构的信用风险、银行的流动性风险",
         "abstract_zh": "我们认为，非银行金融中介机构（NBFI）相对于银行的资产快速增长是银行和非银行金融中介机构之间风险转变的结果，这种转变增加了两个部门的相互联系。这些转变与避免全球金融危机后银行收紧是一致的",
-        "date_added": "2026-07-28T20:29:16.423525+00:00",
+        "date_added": "2026-07-28T21:02:36.100445+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -723,8 +2299,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Viral V. Acharya",
         "category": "金融",
         "title_zh": "债务供给与货币政策：金融主导理论",
-        "abstract_zh": "我们开发了一个考虑金融摩擦的新凯恩斯主义模型，以研究企业资本结构如何通过供给侧塑造静态和动态货币政策权衡。事后，当企业杠杆率较高时，货币紧缩会收缩需求和供给。结果，飞利浦",
-        "date_added": "2026-07-28T20:29:16.161224+00:00",
+        "abstract_zh": "我们开发了一个包含金融摩擦的新凯恩斯主义模型，以研究企业资本结构如何通过供给侧塑造静态和动态货币政策权衡。事后，当企业杠杆率较高时，货币紧缩会收缩需求和供给。结果，飞利浦",
+        "date_added": "2026-07-28T21:02:35.190394+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -737,7 +2313,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美国国债和贸易政策的不确定性",
         "abstract_zh": "2025年4月，美国实施百年来最高关税，引发中国、加拿大和欧盟宣布对等关税。在关税宣布后的几天里，标准普尔 500 指数下跌了 11% 以上。 30年期国债收益率上升",
-        "date_added": "2026-07-28T20:29:14.659461+00:00",
+        "date_added": "2026-07-28T21:02:33.576899+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -763,7 +2339,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "当美联储降低美国利率时，新兴市场贷款飙升",
         "abstract_zh": "目标利率的降低与新兴市场相对于发达市场的美元计价贷款量的急剧增加有关。据估计，新兴市场经济体约 80% 的跨境贷款以美元计价。以美元计价",
-        "date_added": "2026-07-28T20:29:35.544424+00:00",
+        "date_added": "2026-07-28T21:02:45.743184+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -776,7 +2352,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "贷款类型和银行贷款渠道",
         "abstract_zh": "使用西班牙和秘鲁的信用登记数据，我们记录了四种主要类型的商业信贷资产贷款、现金流贷款、贸易融资和租赁，它们很容易识别，并且代表了企业信贷的大部分。我们表明，信贷动态和银行贷款渠道各不相同",
-        "date_added": "2026-07-28T20:29:34.474834+00:00",
+        "date_added": "2026-07-28T21:02:45.464173+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -789,7 +2365,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "弱信用契约",
         "abstract_zh": "我们利用 1,240 份信贷协议的新数据，调查了杠杆贷款市场中合同复杂性的来源。虽然负面契约很普遍，但削弱它们的排除条款和可扣除条款也同样常见。我们提出了衡量合同弱点的简单措施，其独特之处在于",
-        "date_added": "2026-07-28T20:29:34.177839+00:00",
+        "date_added": "2026-07-28T21:02:45.175286+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -802,7 +2378,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "扰乱和信贷市场",
         "abstract_zh": "我们表明，在过去的半个世纪中，创新颠覆对于理解企业违约至关重要。在某一年，经历异常高风险投资或 IPO 活动的行业随后会出现更高的违约率、更多的企业集团退出以及更高的发行债券收益率",
-        "date_added": "2026-07-28T20:29:32.820639+00:00",
+        "date_added": "2026-07-28T21:02:44.910045+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -815,7 +2391,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "高收益债务契约及其实际影响",
         "abstract_zh": "包括杠杆贷款在内的高收益债务的特点是产生财务契约或轻契约条款。传统的贷款协议包含维持契约，要求持续遵守契约门槛，违反契约会将控制权转移给",
-        "date_added": "2026-07-28T20:29:32.487706+00:00",
+        "date_added": "2026-07-28T21:02:43.333525+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -828,7 +2404,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "公司债务、繁荣-萧条周期和金融危机",
         "abstract_zh": "利用 1940 年至 2014 年 114 个经济体部门信贷风险的新数据集，我们提供的证据表明，企业债务在解释宏观经济繁荣-萧条周期、金融危机和复苏缓慢方面发挥着关键作用。我们发现： (i) 企业债务占总债务的三分之二",
-        "date_added": "2026-07-28T20:29:30.975666+00:00",
+        "date_added": "2026-07-28T21:02:43.073801+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -841,7 +2417,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "DC 养老金中的绩效资本流动",
         "abstract_zh": "固定缴款 (DC) 养老基金的资本流动对业绩敏感吗？我们研究了个人账户持有人可以更换养老金经理的压力。我们使用近 1000 万人退休账户的新数据，根据计划分析转换行为",
-        "date_added": "2026-07-28T20:29:29.747244+00:00",
+        "date_added": "2026-07-28T21:02:41.364548+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -854,7 +2430,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "私人债务在金融生态系统中的作用",
         "abstract_zh": "本文对私人债务进行了全面介绍，探讨了其扩张背后的关键驱动因素，并围绕更广泛的经济中潜在的风险积累进行了讨论。总体而言，私人债务的发展可以被视为新技术的出现，",
-        "date_added": "2026-07-28T20:29:28.526499+00:00",
+        "date_added": "2026-07-28T21:02:41.114837+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -867,7 +2443,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "流向银行附属经纪交易商的流动性：来自交易量和价格的见解",
         "abstract_zh": "我们利用 20182025 年隔夜三方国库券回购的机密交易级数据，研究银行控股公司 (BHC) 内部一级交易商和附属实体之间的流动性。附属机构，特别是储备充足的存款机构，提供了很大比例的资金",
-        "date_added": "2026-07-28T20:29:27.059510+00:00",
+        "date_added": "2026-07-28T21:02:40.865966+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -879,8 +2455,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Victoria Ivashina",
         "category": "金融",
         "title_zh": "银行挤兑和利率：循环线视角",
-        "abstract_zh": "循环信贷是银行业务的核心。企业循环生产线属于可索偿索赔；因此，与传统的挤兑存款类似，突然而广泛的提款可能会破坏银行的稳定。然而，与存款不同，信贷额度的使用呈现出可观的利率",
-        "date_added": "2026-07-28T20:29:25.878510+00:00",
+        "abstract_zh": "循环信贷是银行业务的核心。企业循环生产线属于可索偿索赔；因此，与传统的挤兑存款类似，突然和广泛的提款可能会破坏银行的稳定。然而，与存款不同的是，信贷额度的使用呈现出可观的利率",
+        "date_added": "2026-07-28T21:02:40.605625+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -906,7 +2482,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "代理成本、错误定价和所有权结构",
         "abstract_zh": "公司所有权的标准理论假设，由于市场是有效的，内部人最终承担代理成本，因此有强烈的动机尽量减少与外部投资者的利益冲突。然而，我们表明，如果股权被高估，错误定价会抵消代理成本，",
-        "date_added": "2026-07-28T20:29:47.092503+00:00",
+        "date_added": "2026-07-28T21:02:51.451260+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -919,7 +2495,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "证券化需求的兴衰",
         "abstract_zh": "由非优质贷款支持的债务抵押债券（CDO）和自有抵押贷款支持证券（MBS）在最近的金融危机中发挥了核心作用。然而，人们对推动投资者对这些证券化需求的潜在力量知之甚少。使用微观数据",
-        "date_added": "2026-07-28T20:29:46.812098+00:00",
+        "date_added": "2026-07-28T21:02:51.141304+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -932,7 +2508,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "资产管理的流动性转型：来自共同基金现金持有的证据",
         "abstract_zh": "我们使用关于共同基金现金持有量的新颖数据集来研究共同基金的流动性转变。为了向投资者提供比基础资产更具流动性的债权，基金进行了大量的流动性管理。具体来说，他们持有大量现金，用于",
-        "date_added": "2026-07-28T20:29:45.850995+00:00",
+        "date_added": "2026-07-28T21:02:50.842059+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -945,7 +2521,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "共同基金作为风险投资家？来自独角兽公司的证据",
         "abstract_zh": "利用新颖的合同级数据，我们研究了开放式共同基金投资于独角兽高估值私营初创企业的最新趋势，以及这些投资对公司治理条款的影响。规模较大的基金和资金更稳定的基金更有可能投资于",
-        "date_added": "2026-07-28T20:29:45.563959+00:00",
+        "date_added": "2026-07-28T21:02:50.549362+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -958,7 +2534,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "减价销售会产生外部效应吗？",
         "abstract_zh": "我们开发了三种新颖的衡量标准，衡量不同共同基金交易的价格影响在多大程度上内部化。我们表明，将价格影响更多地内部化的共同基金拥有更大的现金缓冲，并更积极地利用这些缓冲来适应资金流入和流出。因此",
-        "date_added": "2026-07-28T20:29:44.086867+00:00",
+        "date_added": "2026-07-28T21:02:50.309314+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -971,7 +2547,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "为什么企业直接向非银行机构借款？",
         "abstract_zh": "通过分析 2010 年至 2015 年中间市场公司随机样本手工收集的信贷协议数据，我们发现所有贷款的三分之一是由非银行金融中介机构直接发放的。非银行机构向利润较低、杠杆较高的公司提供贷款，这些公司的规模变化较大。",
-        "date_added": "2026-07-28T20:29:42.537420+00:00",
+        "date_added": "2026-07-28T21:02:48.700432+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -984,7 +2560,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "衡量公司债券市场的感知流动性",
         "abstract_zh": "我们提出了一种不依赖于交易数据的债券市场流动性的新颖衡量标准：共同基金现金持有量与资金流量波动性之间的横截面关系的强度。我们的衡量标准反映了流动性基金如何看待其投资组合在特定时间点的持有情况。",
-        "date_added": "2026-07-28T20:29:42.282267+00:00",
+        "date_added": "2026-07-28T21:02:48.434013+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -996,8 +2572,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Sergey Chernenko",
         "category": "金融",
         "title_zh": "薪资保护计划中的种族差异",
-        "abstract_zh": "我们使用佛罗里达州餐馆的大量样本，记录了通过薪资保护计划 (PPP) 借款的显着种族差异，并调查了这些差异的原因。黑人开办的餐馆获得 PPP 贷款的可能性要低 25%。餐厅位置说明5",
-        "date_added": "2026-07-28T20:29:40.808499+00:00",
+        "abstract_zh": "我们使用佛罗里达州餐厅的大量样本，记录了通过薪资保护计划 (PPP) 借款时存在的显着种族差异，并调查了这些差异的原因。黑人开办的餐馆获得 PPP 贷款的可能性要低 25%。餐厅位置说明5",
+        "date_added": "2026-07-28T21:02:48.133056+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1010,7 +2586,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "工资保障计划资金的分配",
         "abstract_zh": "薪资保护计划 (PPP) 是联邦政府为保护企业及其员工免受 COVID-19 大流行的不利经济影响而采取的最大措施之一。它获得了《冠状病毒援助、救济和经济安全 (CARES) 法案》的授权",
-        "date_added": "2026-07-28T20:29:39.475938+00:00",
+        "date_added": "2026-07-28T21:02:47.861690+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1023,7 +2599,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "申请或批准：是什么导致了薪资保护计划中的种族差异？",
         "abstract_zh": "我们利用 2020 年小型企业信用调查来研究薪资保护计划 (PPP) 使用中种族差异的根源。黑人拥有的公司获得 PPP 贷款的可能性比明显相似的白人拥有的公司低 8.9 个百分点。这种使用率差异的大约 55% 是",
-        "date_added": "2026-07-28T20:29:38.454354+00:00",
+        "date_added": "2026-07-28T21:02:47.610958+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1049,7 +2625,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "总贷款和现代金融中介：银行资产负债表模型为何被错误校准",
         "abstract_zh": "现有的以银行资产负债表贷款为重点的宏观经济模型存在缺陷，因为它们没有考虑金融中介的现代产业组织。利用公开的微观贷款数据，我们调查了两个日益显着的调整幅度",
-        "date_added": "2026-07-28T20:29:54.325221+00:00",
+        "date_added": "2026-07-28T21:02:55.901212+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1062,7 +2638,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币紧缩、商业房地产困境和美国银行脆弱性",
         "abstract_zh": "我们分析了信用风险和较高的利率对美国银行偿付能力的影响，扩展了 Jiang 等人的工作。 （2023）。我们对其银行挤兑模型的变体表明，高利率带来的信贷损失和资产下降如何引发自我实现的偿付能力挤兑，即使在",
-        "date_added": "2026-07-28T20:29:53.448792+00:00",
+        "date_added": "2026-07-28T21:02:55.610855+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1075,7 +2651,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行资产负债表贷款的长期下降",
         "abstract_zh": "本文探讨了自 1970 年以来金融中介银行资产负债表模型的衰落及其监管影响。银行资产负债表上的民间借贷份额从1970年代的55%下降到2023年的33%，而储蓄存款份额从21%下降到13%。贷款作为",
-        "date_added": "2026-07-28T20:29:53.196418+00:00",
+        "date_added": "2026-07-28T21:02:55.278507+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1088,7 +2664,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行账面价值风险管理：有限对冲、HTM会计和利率上升",
         "abstract_zh": "我们记录到，随着 2022 年利率上升，银行限制了对其资产会计价值的影响，但使大多数长期资产面临利率风险。电话报告和 SEC 数据显示，只有约 6% 的美国银行资产通过衍生品进行对冲，甚至",
-        "date_added": "2026-07-28T20:29:52.049290+00:00",
+        "date_added": "2026-07-28T21:02:54.999977+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1100,8 +2676,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Amit Seru",
         "category": "金融",
         "title_zh": "加权噪声：监管的自由裁量权",
-        "abstract_zh": "人类自由裁量权是法律和监管决策的一个决定性特征。虽然自由裁量权可以让专业人士纳入规则或算法可能会错过的微妙软信息，但它也会在决策者之间引入噪音分歧，使得同一案例可能会产生不同的结果。",
-        "date_added": "2026-07-28T20:29:51.765718+00:00",
+        "abstract_zh": "人类自由裁量权是法律和监管决策的一个决定性特征。虽然自由裁量权可以让专业人士纳入规则或算法可能会遗漏的微妙软信息，但它也会在决策者之间引入噪音分歧，使得相同的情况可能会产生不同的结果。",
+        "date_added": "2026-07-28T21:02:54.759946+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1114,7 +2690,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "NAR结算、房价与消费者福利",
         "abstract_zh": "受最近全国房地产经纪人协会 (NAR) 和解协议的推动，我们研究了房地产经纪人佣金的减少如何影响房价、住房周转率和消费者福利。使用校准的动态结构搜索模型，我们表明，通过降低未来的交易成本，可以降低",
-        "date_added": "2026-07-28T20:29:50.641437+00:00",
+        "date_added": "2026-07-28T21:02:54.473567+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1127,7 +2703,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "私人信贷、资产负债表和金融稳定",
         "abstract_zh": "我们使用涵盖大部分行业的综合基金和资产层面数据记录了有关私人信贷基金的资本化、融资结构和绩效的新证据。私募信贷基金资本化程度较高，股权比例一般占总资产的6580%以上",
-        "date_added": "2026-07-28T20:29:50.321728+00:00",
+        "date_added": "2026-07-28T21:02:54.200809+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1140,7 +2716,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "谁支付付款费用？",
         "abstract_zh": "我们使用有关美国商家支付构成和成本的新数据来量化支付系统中的消费者再分配。卡向商家收取交换费以资助消费者奖励。当商家为所有消费者提高价格以应对这些成本时，低成本的用户",
-        "date_added": "2026-07-28T20:29:50.026194+00:00",
+        "date_added": "2026-07-28T21:02:53.951637+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1153,7 +2729,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行与私人信贷基金：资产负债表比较",
         "abstract_zh": "近几十年来，企业贷款从传统银行转向私人信贷基金。后者是投资工具，结构为有限合伙企业，向企业（通常是难以获得传统融资的中间市场企业）提供贷款。资产于",
-        "date_added": "2026-07-28T20:29:49.359143+00:00",
+        "date_added": "2026-07-28T21:02:53.679964+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1166,7 +2742,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "谁最终支付信用卡交换费？",
         "abstract_zh": "消费者每次刷信用卡时，商家都会支付交易费的 1.9% 左右，其中大部分用于持卡人获得的奖励。由于无论顾客如何付款，商家通常都会收取相同的价格，因此使用现金或现金的消费者",
-        "date_added": "2026-07-28T20:29:49.024253+00:00",
+        "date_added": "2026-07-28T21:02:53.412404+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1192,7 +2768,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "总贷款和现代金融中介：银行资产负债表模型为何被错误校准",
         "abstract_zh": "现有的以银行资产负债表贷款为重点的宏观经济模型存在缺陷，因为它们没有考虑金融中介的现代产业组织。利用公开的微观贷款数据，我们调查了两个日益显着的调整幅度",
-        "date_added": "2026-07-28T20:30:02.026441+00:00",
+        "date_added": "2026-07-28T21:03:00.428388+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1205,7 +2781,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币紧缩、商业房地产困境和美国银行脆弱性",
         "abstract_zh": "我们分析了信用风险和较高的利率对美国银行偿付能力的影响，扩展了 Jiang 等人的工作。 （2023）。我们对其银行挤兑模型的变体表明，高利率带来的信贷损失和资产下降如何引发自我实现的偿付能力挤兑，即使在",
-        "date_added": "2026-07-28T20:30:01.787454+00:00",
+        "date_added": "2026-07-28T21:03:00.148257+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1218,7 +2794,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行资产负债表贷款的长期下降",
         "abstract_zh": "本文探讨了自 1970 年以来金融中介银行资产负债表模型的衰落及其监管影响。银行资产负债表上的民间借贷份额从1970年代的55%下降到2023年的33%，而储蓄存款份额从21%下降到13%。贷款作为",
-        "date_added": "2026-07-28T20:30:00.315865+00:00",
+        "date_added": "2026-07-28T21:02:59.818296+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1231,7 +2807,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行账面价值风险管理：有限对冲、HTM会计和利率上升",
         "abstract_zh": "我们记录到，随着 2022 年利率上升，银行限制了对其资产会计价值的影响，但使大多数长期资产面临利率风险。电话报告和 SEC 数据显示，只有约 6% 的美国银行资产通过衍生品进行对冲，甚至",
-        "date_added": "2026-07-28T20:29:59.939628+00:00",
+        "date_added": "2026-07-28T21:02:59.500080+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1244,7 +2820,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "NAR结算、房价与消费者福利",
         "abstract_zh": "受最近全国房地产经纪人协会 (NAR) 和解协议的推动，我们研究了房地产经纪人佣金的减少如何影响房价、住房周转率和消费者福利。使用校准的动态结构搜索模型，我们表明，通过降低未来的交易成本，可以降低",
-        "date_added": "2026-07-28T20:29:59.646920+00:00",
+        "date_added": "2026-07-28T21:02:59.192753+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1257,7 +2833,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "私人信贷、资产负债表和金融稳定",
         "abstract_zh": "我们使用涵盖大部分行业的综合基金和资产层面数据记录了有关私人信贷基金的资本化、融资结构和绩效的新证据。私募信贷基金资本化程度较高，股权比例一般占总资产的6580%以上",
-        "date_added": "2026-07-28T20:29:59.376105+00:00",
+        "date_added": "2026-07-28T21:02:58.898624+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1270,7 +2846,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "谁支付付款费用？",
         "abstract_zh": "我们使用有关美国商家支付构成和成本的新数据来量化支付系统中的消费者再分配。卡向商家收取交换费以资助消费者奖励。当商家为所有消费者提高价格以应对这些成本时，低成本的用户",
-        "date_added": "2026-07-28T20:29:58.997557+00:00",
+        "date_added": "2026-07-28T21:02:58.618774+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1283,7 +2859,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行与私人信贷基金：资产负债表比较",
         "abstract_zh": "近几十年来，企业贷款从传统银行转向私人信贷基金。后者是投资工具，结构为有限合伙企业，向企业（通常是难以获得传统融资的中间市场企业）提供贷款。资产于",
-        "date_added": "2026-07-28T20:29:58.597148+00:00",
+        "date_added": "2026-07-28T21:02:58.279147+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1294,9 +2870,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/digest/202607/redistributive-impact-credit-card-interchange-fees",
         "scholar_name": "Gregor Matvos",
         "category": "金融",
-        "title_zh": "最终谁支付信用卡交换费？",
+        "title_zh": "谁最终支付信用卡交换费？",
         "abstract_zh": "消费者每次刷信用卡时，商家都会支付交易费的 1.9% 左右，其中大部分用于持卡人获得的奖励。由于无论顾客如何付款，商家通常都会收取相同的价格，因此使用现金或现金的消费者",
-        "date_added": "2026-07-28T20:29:58.320735+00:00",
+        "date_added": "2026-07-28T21:02:57.990637+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1309,7 +2885,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "金融制裁和全球支付网络",
         "abstract_zh": "金融制裁被广泛视为经济治国的强大工具，但其影响的直接证据仍然有限。我们利用代理行关系数据研究制裁如何影响全球支付网络的准入，代理行关系将不同国家和不同货币的银行联系起来",
-        "date_added": "2026-07-28T20:29:56.988883+00:00",
+        "date_added": "2026-07-28T21:02:57.679360+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1323,8 +2899,22 @@ window.SCHOLARS_DATA = [
     "research_methods": "基金与贷款数据；公司金融；监管套利实证",
     "why_track": "近年直接研究银行资本是否推动私人信贷增长，以及私人信贷基金在极端压力下的韧性，与你的研究高度重合。",
     "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "\"Private Credit and Financial Stability.\"",
+        "authors": "David S. Scharfstein",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5930356",
+        "scholar_name": "David S. Scharfstein",
+        "category": "金融",
+        "title_zh": "“私人信贷和金融稳定。”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:02.840326+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Amir Sufi",
@@ -1347,7 +2937,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "金融危机：调查",
         "abstract_zh": "金融危机对经济活动产生巨大的有害影响，因此一直是大量研究的焦点。本研究调查了有关金融危机的现有文献，探讨了如何衡量危机、危机是否可预测以及危机为何与金融危机相关。",
-        "date_added": "2026-07-28T20:30:15.004252+00:00",
+        "date_added": "2026-07-28T21:03:09.756463+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1360,7 +2950,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "利率下降和超级明星崛起",
         "abstract_zh": "通过高频利率冲击，我们发现低利率环境下的利率下降有利于行业领导者。利率下降到接近零下限会导致行业领导者的借款利率出现更大幅度的下降，他们也会借更多的钱，更积极地投资，",
-        "date_added": "2026-07-28T20:30:14.758019+00:00",
+        "date_added": "2026-07-28T21:03:09.477218+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1373,7 +2963,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "平滑消费还是暴饮暴食？巴西政府主导的消费信贷扩张的影响",
         "abstract_zh": "巴西于 2011 年通过政府银行启动了一项重大信贷扩张计划。该计划主要针对公共部门工人，提供工资支持贷款。使用个人层面的管理数据，我们发现该计划导致初始债务增加了 15 个百分点",
-        "date_added": "2026-07-28T20:30:13.988021+00:00",
+        "date_added": "2026-07-28T21:03:09.165658+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1386,7 +2976,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "财政赤字的金发姑娘理论",
         "abstract_zh": "本文提出了一个易于处理的框架来分析财政空间和政府债务的动态，并具有可能具有约束力的零下限（ZLB）约束。如果没有零利率下限，更大的基本赤字无疑会增加债务。然而，债务不一定会爆炸：当 R < G 时，哪里是",
-        "date_added": "2026-07-28T20:30:12.449346+00:00",
+        "date_added": "2026-07-28T21:03:07.557530+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1399,7 +2989,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "早期县商业模式档案：1946-1974",
         "abstract_zh": "县商业模式 (CBP) 文件包含涵盖美国所有县的详细行业代码的就业和机构计数。该项目的贡献是对 1946 年至 1974 年的 CBP 文件进行数字化、清理和准备。我们还应用埃克特开发的方法，",
-        "date_added": "2026-07-28T20:30:10.025194+00:00",
+        "date_added": "2026-07-28T21:03:07.327143+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1412,7 +3002,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "住房、家庭债务和商业周期：对中国和韩国的应用",
         "abstract_zh": "到 2021 年，中国和韩国的家庭债务都大幅增加，现在两国都面临着经济疲软的局面。本文从信贷驱动的家庭需求渠道（例如，Mian 和 Sufi 2018）中汲取经验教训，探讨这两个经济体在未来几年的表现",
-        "date_added": "2026-07-28T20:30:09.713610+00:00",
+        "date_added": "2026-07-28T21:03:06.976379+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1425,7 +3015,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "投资客户资本",
         "abstract_zh": "公司大量投资于客户资本；这种投资是无形资本价值的主要来源。客户资本投资是使用损益表中的销售和营销费用、支付给销售和营销人员的工资以及 SEC 文件中的文本来衡量的。有大而",
-        "date_added": "2026-07-28T20:30:08.195116+00:00",
+        "date_added": "2026-07-28T21:03:06.735796+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1438,7 +3028,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "项目报告：企业融资",
         "abstract_zh": "NBER 公司金融项目自 1991 年成立以来一直是该领域领先的研究论坛。公司金融问题与金融和经济学的许多领域交叉，包括宏观金融、资产定价、金融中介和组织经济学。这",
-        "date_added": "2026-07-28T20:30:07.914068+00:00",
+        "date_added": "2026-07-28T21:03:05.576192+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1451,7 +3041,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "民间信贷直接贷款人的借贷技术",
         "abstract_zh": "我们使用美国私人中间市场公司的担保借款的独特数据集来比较直接贷款机构、银行和金融公司的贷款技术。过去 20 年来，直接贷款机构的急剧崛起是由于它们在提供贷款方面的相对优势。",
-        "date_added": "2026-07-28T20:30:05.588278+00:00",
+        "date_added": "2026-07-28T21:03:05.297678+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1464,7 +3054,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "金融科技与客户资本",
         "abstract_zh": "与传统金融公司相比，金融科技（FinTech）公司对客户资本的投资要多得多，这种投资可以建立宝贵的客户资本。金融科技公司的投资增加并不是由行业重点或公司年龄差异造成的。较高的原因",
-        "date_added": "2026-07-28T20:30:05.281518+00:00",
+        "date_added": "2026-07-28T21:03:05.017161+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1490,7 +3080,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策和风险溢价模型",
         "abstract_zh": "我们开发了一个动态资产定价模型，其中货币政策影响资本成本的风险溢价部分。风险承受机构（银行）从风险规避机构借款（即吸收存款）为杠杆投资提供资金。杠杆使银行面临融资风险，银行通过这种方式来保证融资风险",
-        "date_added": "2026-07-28T20:30:21.931216+00:00",
+        "date_added": "2026-07-28T21:03:15.913104+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1503,7 +3093,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行贷款的专业化：来自出口公司的证据",
         "abstract_zh": "我们开发了一种实证方法，利用借款人活动的详细数据来识别银行贷款的专业化。我们通过按出口市场描述银行专业化特征，结合秘鲁所有公司的银行、贷款和出口数据来说明该方法。我们发现所有银行",
-        "date_added": "2026-07-28T20:30:21.659041+00:00",
+        "date_added": "2026-07-28T21:03:15.634647+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1516,7 +3106,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策的存款渠道",
         "abstract_zh": "我们提出了货币政策传导的新渠道——存款渠道。我们发现，当联邦基金利率上升时，银行会扩大存款利差，存款就会流出银行体系。我们提出了一个模型，其中这是由于存款市场的市场力量造成的。",
-        "date_added": "2026-07-28T20:30:21.262736+00:00",
+        "date_added": "2026-07-28T21:03:13.433798+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1529,7 +3119,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "技术在抵押贷款中的作用",
         "abstract_zh": "从 2010 年到 2016 年，基于技术（“金融科技”）的贷款机构在美国抵押贷款的市场份额从 2% 增加到 8%。使用有关美国抵押贷款申请和发放的整个市场的贷款级别数据，我们发现金融科技贷款机构处理抵押贷款申请的速度比其他贷款机构快约 20%",
-        "date_added": "2026-07-28T20:30:20.217951+00:00",
+        "date_added": "2026-07-28T21:03:13.177362+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1542,7 +3132,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款银行业务：无利率风险的期限转换",
         "abstract_zh": "我们表明，期限转换不会使银行面临重大利率风险|它可以对冲它。这是由于银行的存款专营权。存款特许经营权赋予银行对存款的巨大市场权力，使它们能够支付较低且对市场不敏感的存款利率",
-        "date_added": "2026-07-28T20:30:19.942936+00:00",
+        "date_added": "2026-07-28T21:03:12.909087+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1555,7 +3145,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策如何塑造房地产繁荣",
         "abstract_zh": "2003年至2006年间，美联储加息4.25%。然而正是在这一时期，在抵押贷款快速增长的推动下，房地产繁荣加速。对于货币政策如何影响经济繁荣，或者是否影响经济繁荣，存在着深刻的分歧。利用银行的异质性",
-        "date_added": "2026-07-28T20:30:19.108156+00:00",
+        "date_added": "2026-07-28T21:03:12.626861+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1568,7 +3158,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款特许经营",
         "abstract_zh": "我们模拟了一种新型的银行挤兑，即存款专营权挤兑。银行支付低于市场的存款利率，这使得存款业务成为宝贵的资产。为了让银行保持这个价值，存款必须留在银行；如果他们离开，银行就会失去他们的价值。这使得存款专营权成为",
-        "date_added": "2026-07-28T20:30:17.942276+00:00",
+        "date_added": "2026-07-28T21:03:12.375848+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1581,7 +3171,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行是否使用利率互换进行对冲？",
         "abstract_zh": "我们分析银行是否使用利率掉期来对冲其资产（主要是贷款和证券）的利率风险。通过检查美国最大 250 家银行的个别掉期头寸的监管数据，我们发现银行持有大量掉期头寸，平均名义价值为",
-        "date_added": "2026-07-28T20:30:17.623123+00:00",
+        "date_added": "2026-07-28T21:03:12.064516+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1594,7 +3184,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "信贷紧缩和大滞胀",
         "abstract_zh": "我们认为，银行体系中严重的信贷紧缩导致了 20 世纪 70 年代的大滞胀。信贷紧缩是由于Q条例（一项限制存款利率的银行法）造成的。根据Reg Q，美联储的紧缩政策引发了大量存款外流，导致银行收缩贷款。这",
-        "date_added": "2026-07-28T20:30:17.260916+00:00",
+        "date_added": "2026-07-28T21:03:11.825395+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1606,8 +3196,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Philipp Schnabl",
         "category": "金融",
         "title_zh": "银行业监管和 20 世纪 70 年代的滞胀",
-        "abstract_zh": "1965 年至 1982 年间，美国经济经历了四次严重衰退，每次都伴随着通胀飙升——一种称为滞胀的组合。对这一经历的一个突出解释是，通胀预期不受锚定以及一系列不利的供应冲击，尤其是欧佩克石油供应冲击。",
-        "date_added": "2026-07-28T20:30:16.891926+00:00",
+        "abstract_zh": "1965 年至 1982 年间，美国经济经历了四次严重衰退，每次都伴随着通胀飙升——即所谓的滞胀。对这一经历的一个突出解释是，通胀预期不受锚定以及一系列不利的供应冲击，尤其是欧佩克石油供应冲击。",
+        "date_added": "2026-07-28T21:03:11.540711+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1693,7 +3283,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美国国债仍然是避风港吗？",
         "abstract_zh": "安全资产是银行、金融市场和国际金融体系运作不可或缺的一部分。金融市场参与者使用安全资产来满足流动性和交易需求，作为贷款和衍生品合约的优质抵押品，并作为无违约的价值储存手段。",
-        "date_added": "2026-07-28T20:30:31.190601+00:00",
+        "date_added": "2026-07-28T21:03:22.510454+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1706,7 +3296,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "对货币、准货币和国债的需求",
         "abstract_zh": "银行创造的货币、影子银行货币和国债都满足了投资者对流动性交易媒介和安全价值储存的需求。我们通过 1934 年至 2016 年的样本来衡量这三种形式的流动性数量及其相应的流动性溢价。我们实证检验",
-        "date_added": "2026-07-28T20:30:29.696829+00:00",
+        "date_added": "2026-07-28T21:03:22.220416+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1719,7 +3309,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "世界其他地区美国国债的美元加权回报",
         "abstract_zh": "自 1980 年以来，外国投资者购买和出售美国国债的时机选择得特别低。他们的年度美元加权回报率（以购买和出售国债的内部回报率衡量）比买入低超过 3.26 个百分点 (pp)",
-        "date_added": "2026-07-28T20:30:28.690899+00:00",
+        "date_added": "2026-07-28T21:03:21.950610+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1732,7 +3322,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "流动性、债务面额和货币主导地位",
         "abstract_zh": "过去四个世纪的国际货币体系经历了特定货币作为全球债务合约的主导面值单位的兴起、持续和衰落。我们认为基于流动性的理论对于解释这种模式是必要的。公司发行的债务可以",
-        "date_added": "2026-07-28T20:30:27.758328+00:00",
+        "date_added": "2026-07-28T21:03:21.676731+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1745,7 +3335,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "资产市场数据对汇率均衡模型的影响",
         "abstract_zh": "我们描述汇率的周期性和可预测性，但不承诺特定的偏好、禀赋或交易资产菜单模型。当投资者可以无摩擦地交易本外币无风险债券时，各州的汇率就会有条件升值",
-        "date_added": "2026-07-28T20:30:26.891909+00:00",
+        "date_added": "2026-07-28T21:03:20.044008+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1758,7 +3348,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "便利收益和汇率之谜",
         "abstract_zh": "我们将美元计价债券的安全资产需求引入易于处理的不完全市场汇率模型中。美元债券的便利收益率作为随机楔子进入决定汇率的欧拉方程中。这个楔子减少了边际效用的传递",
-        "date_added": "2026-07-28T20:30:26.169883+00:00",
+        "date_added": "2026-07-28T21:03:18.942878+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1771,7 +3361,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行业利率风险",
         "abstract_zh": "我们开发了一个框架来估算银行特许经营价值。与现有模型相反，粘性存款和低存款利率贝塔并不意味着负久期。虽然运营成本可能会产生负久期，但它们会被贷款活动的固定利差所抵消。最后，",
-        "date_added": "2026-07-28T20:30:25.891874+00:00",
+        "date_added": "2026-07-28T21:03:18.623583+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1784,7 +3374,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "是什么导致汇率波动？资产市场视角",
         "abstract_zh": "从资产市场角度来看，美元汇率变动主要有三个驱动因素。首先，如果美元投资支付的利率高于国外，那么外国投资者就会更看重美元。这就是利率渠道。其次，如果",
-        "date_added": "2026-07-28T20:30:24.456418+00:00",
+        "date_added": "2026-07-28T21:03:18.284759+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1797,7 +3387,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "通过流动性供应实现货币发展",
         "abstract_zh": "借鉴历史上欧洲美元市场和最近在美国管辖范围之外以与美国国债负利差交易的中国美元债券发行的经验，我们研究了规避西方制裁的平行离岸美元金融体系可能出现的条件。",
-        "date_added": "2026-07-28T20:30:24.190272+00:00",
+        "date_added": "2026-07-28T21:03:18.012105+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1810,7 +3400,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美元侵蚀：了解储备货币地位的丧失",
         "abstract_zh": "我们量化了储备货币地位丧失对商品和资产市场的影响。在商品市场上，铸币税的损失（每年 GDP 的 1%）使得美国家庭的支出减少，主要是购买美国商品，从而导致美国商品的过剩供应需要通过人民币实际贬值来消除。",
-        "date_added": "2026-07-28T20:30:23.907934+00:00",
+        "date_added": "2026-07-28T21:03:17.692751+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1836,7 +3426,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美国银行业的流动性转型和脆弱性",
         "abstract_zh": "银行的一个关键作用是流动性转型，这也被认为会造成脆弱性，因为未投保的储户面临着先于其他人提取资金的动机（所谓的恐慌性挤兑）。尽管进行了大量的理论工作，但还没有太多的经验证据证明这种机制。在",
-        "date_added": "2026-07-28T20:30:39.892040+00:00",
+        "date_added": "2026-07-28T21:03:29.818155+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1849,7 +3439,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "现代信息技术和安全备案的民主化",
         "abstract_zh": "在 SEC 的 EDGAR 系统扩大对公司财务数据的访问范围后，专家分析在推动股价方面的作用下降，公司投资对市场价格波动的敏感度降低。现代信息技术使公司信息披露民主化，使其能够广泛获取和公开",
-        "date_added": "2026-07-28T20:30:38.561389+00:00",
+        "date_added": "2026-07-28T21:03:29.189084+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1862,7 +3452,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "金融大数据",
         "abstract_zh": "大数据正在彻底改变金融业，并有可能显着影响未来的金融研究。本期特刊包含 2019 年 NBER/RFS 大数据会议之后的文章。在本期特刊简介中，我们将大数据现象定义为",
-        "date_added": "2026-07-28T20:30:36.486379+00:00",
+        "date_added": "2026-07-28T21:03:28.918006+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1875,7 +3465,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "最优存款保险",
         "abstract_zh": "本文研究了银行挤兑可能发生时存款保险的最优决策。我们表明，存款保险覆盖率水平变化对福利的影响一般可以用少量充分的统计数据来表达，其中包括存款保险覆盖率的损失水平。",
-        "date_added": "2026-07-28T20:30:36.208995+00:00",
+        "date_added": "2026-07-28T21:03:27.678322+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1888,7 +3478,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "论 ESG 投资：异质偏好、信息和资产价格",
         "abstract_zh": "我们研究环境、社会和治理 (ESG) 投资如何通过价格重塑信息聚合。我们开发了一个理性预期均衡模型，其中传统投资者和绿色投资者都了解金融和 ESG 风险，但对它们有不同的偏好。由于",
-        "date_added": "2026-07-28T20:30:34.792996+00:00",
+        "date_added": "2026-07-28T21:03:27.319054+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1901,7 +3491,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "人工智能驱动的交易、算法共谋和价格效率",
         "abstract_zh": "算法交易与强化学习的集成，称为人工智能驱动的交易，正在改变金融市场。除了好处之外，它还引发了对共谋的担忧。本研究首先开发了一个模型来探讨知情投机者之间串通的可能性",
-        "date_added": "2026-07-28T20:30:34.507843+00:00",
+        "date_added": "2026-07-28T21:03:26.709236+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1914,7 +3504,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "目标配置资金、战略互补性和市场脆弱性",
         "abstract_zh": "目标配置基金（TAF）进行可预测的再平衡交易，以维持跨资产类别的投资组合权重。在 COVID-19 股市崩盘期间，TAF 出售了 590 亿美元的债券基金份额，同时购买了类似数量的股票基金份额。我们证明 TAF 再平衡",
-        "date_added": "2026-07-28T20:30:34.175278+00:00",
+        "date_added": "2026-07-28T21:03:26.418255+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1927,7 +3517,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币竞争的推动因素：支付与准备金的比较优势",
         "abstract_zh": "我们研究提供单独支付和非支付（例如价值存储）功能的货币之间的竞争。我们的核心观点是，支付的采用不是由绝对的支付优势决定的，而是由支付和非支付角色之间的比较优势决定的。一钱也太",
-        "date_added": "2026-07-28T20:30:33.956781+00:00",
+        "date_added": "2026-07-28T21:03:26.169929+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1940,7 +3530,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "关于新兴技术的市场反馈",
         "abstract_zh": "企业如何做出新兴技术投资决策？我们发现，企业会根据市场对此类新兴技术投资计划公告的反应来调整人工智能/绿色投资。通过一系列测试，我们表明这种模式更有可能是由于主动",
-        "date_added": "2026-07-28T20:30:33.656218+00:00",
+        "date_added": "2026-07-28T21:03:25.841346+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -1953,7 +3543,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "半流动私人信贷基金的脆弱性",
         "abstract_zh": "我们研究半流动私人信贷基金的脆弱性，这些基金迅速扩张，目前管理着超过 3000 亿美元的资产。这些基金通过持有远多于传统贷款共同基金的非流动性贷款来进行流动性转型，同时允许投资者通过以下方式以资产净值赎回：",
-        "date_added": "2026-07-28T20:30:33.387171+00:00",
+        "date_added": "2026-07-28T21:03:24.954319+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -1967,8 +3557,100 @@ window.SCHOLARS_DATA = [
     "research_methods": "市场微观结构；理论；制度设计",
     "why_track": "金融市场管道、中央清算和数字金融制度的顶级作者。",
     "profile_url": "https://www.darrellduffie.com/",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "How Abundant Are Reserves? Evidence from the Wholesale Payment System",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4282909",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "储备有多丰富？来自批发支付系统的证据",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:38.494798+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The Decline of Too Big to Fail",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497897",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "“太大而不能倒”的衰落",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:38.370074+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "A Note on Privacy and Compliance for Stablecoins",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242230",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "关于稳定币隐私和合规性的说明",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:37.216914+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Comment in response to the U.S. Treasury Department's Advanced Notice of Proposed Rulemaking on the Guiding and Establishing National Innovation for U.S. Stablecoins Act Implementation",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5692624",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "针对美国财政部关于《美国稳定币法案实施指导和建立国家创新拟议规则制定的预先通知》的评论",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:36.629354+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Smart Contracting in Network Markets",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5695523",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "网络市场中的智能合约",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:35.095562+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Written submission to Parliament of Canada, House of Commons, Standing Committee on Finance, Stablecoin Act",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5805342",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "向加拿大议会、下议院、金融常设委员会、稳定币法案提交书面意见",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:33.809966+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "An Efficient Liquidity Savings Mechanism",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869662",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "高效的流动性节约机制",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:32.368090+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Zhiguo He",
@@ -2003,7 +3685,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "与流行病相关的债务减免的教训",
         "abstract_zh": "低收入和信用较差的家庭在疫情期间更有可能获得债务减免，但 60% 的债务减免资金流向了收入中位数以上的家庭。 2020 年 3 月颁布的《冠状病毒援助、救济和经济安全 (CARES) 法案》包括",
-        "date_added": "2026-07-28T20:30:46.406293+00:00",
+        "date_added": "2026-07-28T21:03:43.833645+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2016,7 +3698,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "2023 年货币紧缩和美国银行脆弱性：按市价计算的损失和未投保的储户挤兑？",
         "abstract_zh": "我们开发了一个概念框架和实证方法来分析利率上升对美国银行资产价值和银行稳定性的影响。我们根据 2022 年第一季度至 2023 年第一季度利率上升的情况对银行资产价值进行了按市值计价，结果显示平均下降了 10%，",
-        "date_added": "2026-07-28T20:30:46.081560+00:00",
+        "date_added": "2026-07-28T21:03:42.983165+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2029,7 +3711,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美联储的货币紧缩与美国银行的风险水平",
         "abstract_zh": "2022年3月7日至2023年3月6日期间，美联储将联邦基金利率提高了近4.5个百分点。这导致政府债券、抵押贷款和公司贷款等长期银行资产的市值总计下降 2.2 万亿美元。这些减少并不是",
-        "date_added": "2026-07-28T20:30:45.851867+00:00",
+        "date_added": "2026-07-28T21:03:42.713614+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2042,7 +3724,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "总贷款和现代金融中介：银行资产负债表模型为何被错误校准",
         "abstract_zh": "现有的以银行资产负债表贷款为重点的宏观经济模型存在缺陷，因为它们没有考虑金融中介的现代产业组织。利用公开的微观贷款数据，我们调查了两个日益显着的调整幅度",
-        "date_added": "2026-07-28T20:30:43.625380+00:00",
+        "date_added": "2026-07-28T21:03:42.427647+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2055,7 +3737,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币紧缩、商业房地产困境和美国银行脆弱性",
         "abstract_zh": "我们分析了信用风险和较高的利率对美国银行偿付能力的影响，扩展了 Jiang 等人的工作。 （2023）。我们对其银行挤兑模型的变体表明，高利率带来的信贷损失和资产下降如何引发自我实现的偿付能力挤兑，即使在",
-        "date_added": "2026-07-28T20:30:43.300913+00:00",
+        "date_added": "2026-07-28T21:03:42.143660+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2068,7 +3750,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行资产负债表贷款的长期下降",
         "abstract_zh": "本文探讨了自 1970 年以来金融中介银行资产负债表模型的衰落及其监管影响。银行资产负债表上的民间借贷份额从1970年代的55%下降到2023年的33%，而储蓄存款份额从21%下降到13%。贷款作为",
-        "date_added": "2026-07-28T20:30:42.902737+00:00",
+        "date_added": "2026-07-28T21:03:41.806311+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2081,7 +3763,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行账面价值风险管理：有限对冲、HTM会计和利率上升",
         "abstract_zh": "我们记录到，随着 2022 年利率上升，银行限制了对其资产会计价值的影响，但使大多数长期资产面临利率风险。电话报告和 SEC 数据显示，只有约 6% 的美国银行资产通过衍生品进行对冲，甚至",
-        "date_added": "2026-07-28T20:30:42.603672+00:00",
+        "date_added": "2026-07-28T21:03:41.525716+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2094,7 +3776,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "NAR结算、房价与消费者福利",
         "abstract_zh": "受最近全国房地产经纪人协会 (NAR) 和解协议的推动，我们研究了房地产经纪人佣金的减少如何影响房价、住房周转率和消费者福利。使用校准的动态结构搜索模型，我们表明，通过降低未来的交易成本，可以降低",
-        "date_added": "2026-07-28T20:30:42.336573+00:00",
+        "date_added": "2026-07-28T21:03:41.207617+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2107,7 +3789,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "私人信贷、资产负债表和金融稳定",
         "abstract_zh": "我们使用涵盖大部分行业的综合基金和资产层面数据记录了有关私人信贷基金的资本化、融资结构和绩效的新证据。私募信贷基金资本化程度较高，股权比例一般占总资产的6580%以上",
-        "date_added": "2026-07-28T20:30:42.104333+00:00",
+        "date_added": "2026-07-28T21:03:40.485034+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2120,7 +3802,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行与私人信贷基金：资产负债表比较",
         "abstract_zh": "近几十年来，企业贷款从传统银行转向私人信贷基金。后者是投资工具，结构为有限合伙企业，向企业（通常是难以获得传统融资的中间市场企业）提供贷款。资产于",
-        "date_added": "2026-07-28T20:30:41.723867+00:00",
+        "date_added": "2026-07-28T21:03:40.244053+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2146,7 +3828,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "惨痛的胜利？ - 银行救助和主权信用风险",
         "abstract_zh": "我们表明，金融部门救助与主权信用风险密切相关。救助可以改善金融部门的投资不足问题，从而有利于经济。然而，增加对非金融部门的税收来为救助提供资金可能效率低下，因为",
-        "date_added": "2026-07-28T20:30:52.999304+00:00",
+        "date_added": "2026-07-28T21:03:48.782243+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2159,7 +3841,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策和风险溢价模型",
         "abstract_zh": "我们开发了一个动态资产定价模型，其中货币政策影响资本成本的风险溢价部分。风险承受机构（银行）从风险规避机构借款（即吸收存款）为杠杆投资提供资金。杠杆使银行面临融资风险，银行通过这种方式来保证融资风险",
-        "date_added": "2026-07-28T20:30:51.899698+00:00",
+        "date_added": "2026-07-28T21:03:47.858101+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2172,7 +3854,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "卖空溢价和资产定价异常",
         "abstract_zh": "空头回扣费用是股票横截面收益（包括费用总额和净费用）的有力预测指标。我们记录了很大的“做空溢价”：便宜减去昂贵做空（CME）股票投资组合的月平均总回报率为 1.43%，净回报率为 0.91%，四因子回报率为 1.53%",
-        "date_added": "2026-07-28T20:30:51.564806+00:00",
+        "date_added": "2026-07-28T21:03:47.593142+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2185,7 +3867,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策的存款渠道",
         "abstract_zh": "我们提出了货币政策传导的新渠道——存款渠道。我们发现，当联邦基金利率上升时，银行会扩大存款利差，存款就会流出银行体系。我们提出了一个模型，其中这是由于存款市场的市场力量造成的。",
-        "date_added": "2026-07-28T20:30:50.149731+00:00",
+        "date_added": "2026-07-28T21:03:47.273438+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2198,7 +3880,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款银行业务：无利率风险的期限转换",
         "abstract_zh": "我们表明，期限转换不会使银行面临重大利率风险|它可以对冲它。这是由于银行的存款专营权。存款特许经营权赋予银行对存款的巨大市场权力，使它们能够支付较低且对市场不敏感的存款利率",
-        "date_added": "2026-07-28T20:30:49.909122+00:00",
+        "date_added": "2026-07-28T21:03:47.002271+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2211,7 +3893,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策如何塑造房地产繁荣",
         "abstract_zh": "2003年至2006年间，美联储加息4.25%。然而正是在这一时期，在抵押贷款快速增长的推动下，房地产繁荣加速。对于货币政策如何影响经济繁荣，或者是否影响经济繁荣，存在着深刻的分歧。利用银行的异质性",
-        "date_added": "2026-07-28T20:30:49.579315+00:00",
+        "date_added": "2026-07-28T21:03:46.742284+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2224,7 +3906,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "流动性和波动性",
         "abstract_zh": "流动性供给是对私人信息的赌注：如果私人信息的结果高于预期，流动性提供者就会失败。由于信息会产生波动性，而波动性会在资产之间共同移动，因此流动性提供者面临总体波动性冲击的负面影响。",
-        "date_added": "2026-07-28T20:30:49.172047+00:00",
+        "date_added": "2026-07-28T21:03:46.493641+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2237,7 +3919,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款特许经营",
         "abstract_zh": "我们模拟了一种新型的银行挤兑，即存款专营权挤兑。银行支付低于市场的存款利率，这使得存款业务成为宝贵的资产。为了让银行保持这个价值，存款必须留在银行；如果他们离开，银行就会失去他们的价值。这使得存款专营权成为",
-        "date_added": "2026-07-28T20:30:48.842106+00:00",
+        "date_added": "2026-07-28T21:03:46.194034+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2250,7 +3932,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "信贷紧缩和大滞胀",
         "abstract_zh": "我们认为，银行体系中严重的信贷紧缩导致了 20 世纪 70 年代的大滞胀。信贷紧缩是由于Q条例（一项限制存款利率的银行法）造成的。根据Reg Q，美联储的紧缩政策引发了大量存款外流，导致银行收缩贷款。这",
-        "date_added": "2026-07-28T20:30:48.458305+00:00",
+        "date_added": "2026-07-28T21:03:45.905879+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2263,7 +3945,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行业监管和 20 世纪 70 年代的滞胀",
         "abstract_zh": "1965 年至 1982 年间，美国经济经历了四次严重衰退，每次都伴随着通胀飙升——即所谓的滞胀。对这一经历的一个突出解释是，通胀预期不受锚定以及一系列不利的供应冲击，尤其是欧佩克石油供应冲击。",
-        "date_added": "2026-07-28T20:30:48.160468+00:00",
+        "date_added": "2026-07-28T21:03:45.593036+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2289,7 +3971,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "金融市场的信息变得更加丰富了吗？",
         "abstract_zh": "金融业不断发展，金融市场变得更加流动，信息技术经历了一场革命。但市场价格是否变得更加信息丰富？我们推导出基于福利的价格信息量指标：当前市场未来现金流量的预测变化",
-        "date_added": "2026-07-28T20:30:57.647936+00:00",
+        "date_added": "2026-07-28T21:03:54.444506+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2302,7 +3984,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策和风险溢价模型",
         "abstract_zh": "我们开发了一个动态资产定价模型，其中货币政策影响资本成本的风险溢价部分。风险承受机构（银行）从风险规避机构借款（即吸收存款）为杠杆投资提供资金。杠杆使银行面临融资风险，银行通过这种方式来保证融资风险",
-        "date_added": "2026-07-28T20:30:57.346976+00:00",
+        "date_added": "2026-07-28T21:03:52.871986+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2315,7 +3997,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "影子银行的宏观经济学",
         "abstract_zh": "我们建立了一个以金融部门流动性转型为中心的宏观经济模型。中介机构通过发行在正常情况下与货币类似的证券来最大限度地创造流动性，但在崩盘时当抵押品稀缺时就会变得缺乏流动性。我们将这个过程称为影子银行。上升",
-        "date_added": "2026-07-28T20:30:57.047684+00:00",
+        "date_added": "2026-07-28T21:03:52.593278+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2328,7 +4010,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策的存款渠道",
         "abstract_zh": "我们提出了货币政策传导的新渠道——存款渠道。我们发现，当联邦基金利率上升时，银行会扩大存款利差，存款就会流出银行体系。我们提出了一个模型，其中这是由于存款市场的市场力量造成的。",
-        "date_added": "2026-07-28T20:30:56.767172+00:00",
+        "date_added": "2026-07-28T21:03:52.309872+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2341,7 +4023,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款银行业务：无利率风险的期限转换",
         "abstract_zh": "我们表明，期限转换不会使银行面临重大利率风险|它可以对冲它。这是由于银行的存款专营权。存款特许经营权赋予银行对存款的巨大市场权力，使它们能够支付较低且对市场不敏感的存款利率",
-        "date_added": "2026-07-28T20:30:56.420687+00:00",
+        "date_added": "2026-07-28T21:03:52.001275+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2354,7 +4036,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策如何塑造房地产繁荣",
         "abstract_zh": "2003年至2006年间，美联储加息4.25%。然而正是在这一时期，在抵押贷款快速增长的推动下，房地产繁荣加速。对于货币政策如何影响经济繁荣，或者是否影响经济繁荣，存在着深刻的分歧。利用银行的异质性",
-        "date_added": "2026-07-28T20:30:56.121194+00:00",
+        "date_added": "2026-07-28T21:03:51.749785+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2367,7 +4049,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "流动性和波动性",
         "abstract_zh": "流动性供给是对私人信息的赌注：如果私人信息的结果高于预期，流动性提供者就会失败。由于信息会产生波动性，而波动性会在资产之间共同移动，因此流动性提供者面临总体波动性冲击的负面影响。",
-        "date_added": "2026-07-28T20:30:55.777055+00:00",
+        "date_added": "2026-07-28T21:03:51.401315+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2380,7 +4062,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款特许经营",
         "abstract_zh": "我们模拟了一种新型的银行挤兑，即存款专营权挤兑。银行支付低于市场的存款利率，这使得存款业务成为宝贵的资产。为了让银行保持这个价值，存款必须留在银行；如果他们离开，银行就会失去他们的价值。这使得存款专营权成为",
-        "date_added": "2026-07-28T20:30:55.548406+00:00",
+        "date_added": "2026-07-28T21:03:51.092246+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2393,7 +4075,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "信贷紧缩和大滞胀",
         "abstract_zh": "我们认为，银行体系中严重的信贷紧缩导致了 20 世纪 70 年代的大滞胀。信贷紧缩是由于Q条例（一项限制存款利率的银行法）造成的。根据Reg Q，美联储的紧缩政策引发了大量存款外流，导致银行收缩贷款。这",
-        "date_added": "2026-07-28T20:30:55.226861+00:00",
+        "date_added": "2026-07-28T21:03:50.792443+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2406,7 +4088,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行业监管和 20 世纪 70 年代的滞胀",
         "abstract_zh": "1965 年至 1982 年间，美国经济经历了四次严重衰退，每次都伴随着通胀飙升——一种称为滞胀的组合。对这一经历的一个突出解释是，通胀预期不受锚定以及一系列不利的供应冲击，尤其是欧佩克石油供应冲击。",
-        "date_added": "2026-07-28T20:30:54.873006+00:00",
+        "date_added": "2026-07-28T21:03:50.480151+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2420,8 +4102,74 @@ window.SCHOLARS_DATA = [
     "research_methods": "货币与银行理论；金融史；制度分析",
     "why_track": "影子银行和可挤兑短期债务理论的奠基作者，近年仍持续研究稳定币和金融危机反复出现的机制。",
     "profile_url": "https://som.yale.edu/faculty-research/faculty-directory/gary-b-gorton",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Good Booms, Bad Booms",
+        "authors": "Gary B. Gorton",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2736084",
+        "scholar_name": "Gary B. Gorton",
+        "category": "金融",
+        "title_zh": "好的繁荣，坏的繁荣",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:04:00.284460+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "How Did Pre-Fed Banking Panics End?",
+        "authors": "Gary B. Gorton",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2739561",
+        "scholar_name": "Gary B. Gorton",
+        "category": "金融",
+        "title_zh": "美联储之前的银行恐慌是如何结束的？",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:59.277537+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Too-Big-to-Fail Before the Fed",
+        "authors": "Gary B. Gorton",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2739896",
+        "scholar_name": "Gary B. Gorton",
+        "category": "金融",
+        "title_zh": "美联储面前的“太大而不能倒”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:58.077525+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "The History and Economics of Safe Assets",
+        "authors": "Gary B. Gorton",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2770569",
+        "scholar_name": "Gary B. Gorton",
+        "category": "金融",
+        "title_zh": "安全资产的历史和经济学",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:57.289956+00:00",
+        "week_of": "2026-07-28"
+      },
+      {
+        "title": "Bank Health Post-Crisis",
+        "authors": "Gary B. Gorton",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2915241",
+        "scholar_name": "Gary B. Gorton",
+        "category": "金融",
+        "title_zh": "危机后的银行健康",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:03:56.700442+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Jeremy C. Stein",
@@ -2444,7 +4192,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美元融资和全球银行的贷款行为",
         "abstract_zh": "很大一部分以美元计价的贷款是由非美国银行，特别是欧洲银行进行的。我们提出了一个模型，在该模型中，这些银行为了应对信贷质量受到的冲击，削减的美元贷款多于欧元贷款。因为这些银行依赖批发美元融资，同时筹集资金",
-        "date_added": "2026-07-28T20:31:08.794321+00:00",
+        "date_added": "2026-07-28T21:04:07.185018+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2457,7 +4205,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行作为耐心的固定收益投资者",
         "abstract_zh": "我们在传统商业银行与影子银行共存的背景下审视其商业模式。虽然这两种类型的中介机构都会提出安全的“类似货币”的主张，但他们的处理方式却有所不同。传统银行依靠存款保险创造安全债权，",
-        "date_added": "2026-07-28T20:31:07.663511+00:00",
+        "date_added": "2026-07-28T21:04:06.938223+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2470,7 +4218,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币政策的渐进主义：时间一致性问题？",
         "abstract_zh": "我们开发的货币政策模型具有两个主要特征：（i）央行拥有有关其政策利率长期目标的私人信息； (ii) 央行厌恶债券市场波动。在这种情况下，自由裁量性货币政策是渐进性的，或者说是惯性的。",
-        "date_added": "2026-07-28T20:31:07.372215+00:00",
+        "date_added": "2026-07-28T21:04:06.206737+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2483,7 +4231,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "信贷市场情绪和商业周期",
         "abstract_zh": "使用 1929 年至 2013 年的美国数据，我们发现，t 2 年信贷市场情绪的上升与 t 和 t + 1 年经济活动的下降有关。这一结果的基础是信贷市场状况中存在可预测的均值回归。也就是说，当我们的情绪代表",
-        "date_added": "2026-07-28T20:31:06.108559+00:00",
+        "date_added": "2026-07-28T21:04:05.957479+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2496,7 +4244,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "大银行对小企业贷款的减少：对当地信贷和劳动力市场的动态影响",
         "abstract_zh": "2008 年，四大银行的小企业贷款相对于其他银行大幅下降，并在 2014 年持续低迷。我们探讨了这次信贷供应冲击后的动态调整过程。在大银行市场份额较高的县，小银行的总流量",
-        "date_added": "2026-07-28T20:31:05.163080+00:00",
+        "date_added": "2026-07-28T21:04:05.675941+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2509,7 +4257,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行业、贸易和主导货币的制造",
         "abstract_zh": "我们探讨贸易发票模式与不同货币的安全资产定价之间的相互作用。我们的理论强调以下几点：1）货币作为计价决策的记账单位的作用与其作为安全价值储存的作用是互补的； 2）这个",
-        "date_added": "2026-07-28T20:31:03.649895+00:00",
+        "date_added": "2026-07-28T21:04:05.407706+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2522,7 +4270,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "期限溢价和汇率的数量驱动理论",
         "abstract_zh": "我们开发了一个模型，在该模型中，专业债券投资者必须吸收两种货币长期债券供需的冲击。由于长期债券和外汇都面临短期利率意外变动的风险，因此长期债券供给的变化",
-        "date_added": "2026-07-28T20:31:01.158438+00:00",
+        "date_added": "2026-07-28T21:04:05.086962+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2535,7 +4283,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "央行塑造金融市场情绪时的货币政策",
         "abstract_zh": "最近的研究发现，货币政策在一定程度上是通过影响金融市场交易证券和中介贷款的风险溢价来发挥作用的。研究还表明，当风险溢价被压缩时，发生损害信用的逆转的可能性就会增加",
-        "date_added": "2026-07-28T20:31:00.386095+00:00",
+        "date_added": "2026-07-28T21:04:04.790353+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2548,7 +4296,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "中央银行作为美元最后贷款人：对监管和储备持有的影响",
         "abstract_zh": "本文探讨了当其经济体中的企业发生货币错配、借入的美元数额超过其经营风险敞口所合理的水平时，非美国央行会如何应对。我们首先记录了在 53 个国家的小组中，央行持有的美元储备",
-        "date_added": "2026-07-28T20:31:00.064238+00:00",
+        "date_added": "2026-07-28T21:04:03.356461+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2561,7 +4309,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "捐赠依赖型大学的经济预算",
         "abstract_zh": "为了了解其财务状况，大学需要了解其运营收入和成本对其现有金融资产的长期影响。标准预算程序，一次侧重于一年或两年，并使用普遍接受的方法",
-        "date_added": "2026-07-28T20:30:59.408166+00:00",
+        "date_added": "2026-07-28T21:04:02.117529+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2599,7 +4347,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "经济衰退通过跨国公司的国际传播：实体经济渠道",
         "abstract_zh": "我们研究非金融跨国公司如何将经济衰退从其位于经济衰退国家的子公司传播到未经历经济衰退国家的子公司。我们发现这些母公司的子公司的投资相对于同一母公司的子公司低 18%",
-        "date_added": "2026-07-28T20:31:17.771947+00:00",
+        "date_added": "2026-07-28T21:04:12.895052+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2612,7 +4360,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "跨国公司在传播经济衰退中所扮演的角色",
         "abstract_zh": "在经历经济衰退的国家拥有其他子公司的母公司的子公司的投资少于与经济衰退国家没有联系的母公司的子公司。非金融跨国公司 (MNC) 通过网络将经济衰退从一个国家传播到另一个国家",
-        "date_added": "2026-07-28T20:31:17.449317+00:00",
+        "date_added": "2026-07-28T21:04:12.633444+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2625,7 +4373,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "专业化投资和企业边界：来自专利文本分析的证据",
         "abstract_zh": "由于潜在的套牢问题，引导企业通过双边合同进行专门投资可能具有挑战性。长期以来，这种承包困难一直被认为是收购的一个重要原因。为了评估这种动机导致合并的程度，我们",
-        "date_added": "2026-07-28T20:31:16.429517+00:00",
+        "date_added": "2026-07-28T21:04:12.355129+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2638,7 +4386,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "跨境并购",
         "abstract_zh": "任何公司一生中最重要的事件之一就是重大收购。由于其重要性，并购 (M&A) 一直是一个巨大的研究领域。然而，绝大多数研究和总结这项研究的调查论文都集中在国内",
-        "date_added": "2026-07-28T20:31:16.131162+00:00",
+        "date_added": "2026-07-28T21:04:12.032710+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2651,7 +4399,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "通过网上银行传导货币政策",
         "abstract_zh": "金融技术有潜力通过降低搜索成本和扩大银行市场来改变货币政策的传导。本文研究了网上银行对联邦基金利率变化的反应。我们发现联邦基金利率上调 100 个基点会导致",
-        "date_added": "2026-07-28T20:31:14.204614+00:00",
+        "date_added": "2026-07-28T21:04:11.704516+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2664,7 +4412,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美国债务融资向监管较少的金融中介机构的演变",
         "abstract_zh": "非银行贷款机构在提供债务方面发挥着越来越大的作用，特别是在大衰退之后。加强对银行的监管，对不同信贷提供者的风险承担进行不同程度的限制，这种扭曲有多重要？非银行机构日益增长的作用将如何发挥作用？",
-        "date_added": "2026-07-28T20:31:13.442037+00:00",
+        "date_added": "2026-07-28T21:04:11.364520+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2677,7 +4425,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "私募债务基金回报的风险调整",
         "abstract_zh": "私募债务基金是私募资本市场中增长最快的部分。我们评估他们的风险调整回报，应用基于现金流的方法来形成模仿他们风险状况的复制投资组合。使用股权和债务基准来衡量风险，典型的私人债务",
-        "date_added": "2026-07-28T20:31:13.126373+00:00",
+        "date_added": "2026-07-28T21:04:11.095353+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2690,7 +4438,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "当保护主义扼杀人才时",
         "abstract_zh": "旨在重振美国芯片制造业的保护主义政策适得其反，最终削弱了他们旨在重建的国内劳动力。这些措施非但没有促进人才增长，反而导致关键科学和工程职位的招聘大幅下降，特别是在",
-        "date_added": "2026-07-28T20:31:12.437440+00:00",
+        "date_added": "2026-07-28T21:04:10.064825+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2703,7 +4451,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "财务状况如何影响职业行为？来自阿片类药物处方的证据",
         "abstract_zh": "我们研究了医疗保健提供者的阿片类药物处方如何受到其房屋价值变化的影响，这代表了他们的财富受到的冲击。我们发现，当财务状况不佳时，医疗服务提供者会增加阿片类药物处方。包括提供商办公年在内的结果是稳健的",
-        "date_added": "2026-07-28T20:31:12.148843+00:00",
+        "date_added": "2026-07-28T21:04:09.793988+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2715,8 +4463,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Isil Erel",
         "category": "金融",
         "title_zh": "跨国公司金融：从整合到脱钩",
-        "abstract_zh": "在二十世纪末和二十一世纪初，公司金融领域的主流叙事是边界正在消失。跨国公司处于这一转型的中心，通过跨境并购和其他类型的投资，充当全球市场之间的桥梁。在",
-        "date_added": "2026-07-28T20:31:10.663891+00:00",
+        "abstract_zh": "在二十世纪末和二十一世纪初期，公司金融领域的主导叙事是边界正在消失。跨国公司处于这一转型的中心，通过跨境并购和其他类型的投资，充当全球市场之间的桥梁。在",
+        "date_added": "2026-07-28T21:04:09.484664+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2766,7 +4514,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "证券化和银行融资对贷款供应的影响下降：来自抵押贷款接受率的证据",
         "abstract_zh": "本文表明，证券化减少了银行财务状况对贷款供给的影响。低成本融资和增加的资产负债表流动性提高了银行批准难以出售的抵押贷款（巨额抵押贷款）的意愿，同时对其批准意愿没有影响",
-        "date_added": "2026-07-28T20:31:24.291414+00:00",
+        "date_added": "2026-07-28T21:04:15.873996+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2779,7 +4527,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "输出流动性：分行银行和金融一体化",
         "abstract_zh": "利用石油和天然气页岩发现带来的外生存款意外之财，我们证明银行分行网络有助于整合美国贷款市场。我们发现，受页岩气繁荣影响的银行在非繁荣县的抵押贷款每增加 1%，存款就会增加 0.93%。这个效果",
-        "date_added": "2026-07-28T20:31:24.026689+00:00",
+        "date_added": "2026-07-28T21:04:15.573839+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2792,7 +4540,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "资本市场一体化和分行银行业务",
         "abstract_zh": "[B]牧场网络使贷款人能够减轻合同摩擦，并在金融一体化中发挥重要作用。据介绍，银行分行网络有助于整合美国贷款市场中的独立融资成本高昂甚至不可行的领域。",
-        "date_added": "2026-07-28T20:31:22.081985+00:00",
+        "date_added": "2026-07-28T21:04:15.301378+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2805,7 +4553,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "压力测试和小企业贷款",
         "abstract_zh": "危机后的压力测试改变了银行对小企业的信贷供应。受压力测试影响的银行减少信贷供应并提高小企业贷款利率。银行在了解当地情况的情况下，通过压力测试对资本要求的隐含增长进行定价，然后退出",
-        "date_added": "2026-07-28T20:31:19.808936+00:00",
+        "date_added": "2026-07-28T21:04:15.024024+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2818,7 +4566,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款市场力量、资金稳定性和长期信用",
         "abstract_zh": "本文表明，在更集中的市场筹集存款的银行具有更高的融资稳定性，这增强了银行发放长期贷款的能力。我们发现，在集中市场筹集存款的银行表现出较低的顺周期融资成本和利润，这反过来又",
-        "date_added": "2026-07-28T20:31:19.547061+00:00",
+        "date_added": "2026-07-28T21:04:14.751238+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2844,7 +4592,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款市场力量、资金稳定性和长期信用",
         "abstract_zh": "本文表明，在更集中的市场筹集存款的银行具有更高的融资稳定性，这增强了银行发放长期贷款的能力。我们发现，在集中市场筹集存款的银行表现出较低的顺周期融资成本和利润，这反过来又",
-        "date_added": "2026-07-28T20:31:36.914111+00:00",
+        "date_added": "2026-07-28T21:04:20.929211+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2857,7 +4605,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行压力测试：公共利益还是监管捕获？",
         "abstract_zh": "我们测试对监管机构潜在影响的衡量标准是否会影响压力测试结果。那些最有可能“太大而不能倒”的大型交易银行面临着最严峻的考验。相比之下，我们没有发现任何证据表明政治或监管联系会影响测试。压力测试有一个",
-        "date_added": "2026-07-28T20:31:36.442412+00:00",
+        "date_added": "2026-07-28T21:04:20.660408+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2870,7 +4618,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行作为第一贷款人：来自 COVID-19 危机的证据",
         "abstract_zh": "2020 年 3 月，银行面临有史以来最大幅度的流动性需求增长。由于预计为遏制 COVID-19 危机而实施的经济停摆会导致现金流中断，企业从现有的信贷额度和贷款承诺中大规模提取资金。增加的",
-        "date_added": "2026-07-28T20:31:35.206604+00:00",
+        "date_added": "2026-07-28T21:04:20.406479+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2883,7 +4631,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "谁提供 PPP 贷款（这重要吗）？银行、关系和新冠危机",
         "abstract_zh": "我们分析了薪资保护计划（PPP）下的银行信贷供应。文献强调关系是改善贷方信息的一种手段，这有助于银行管理信用风险。然而，尽管不施加任何风险，PPP 供应仍反映了关系贷款的传统衡量标准：",
-        "date_added": "2026-07-28T20:31:34.939529+00:00",
+        "date_added": "2026-07-28T21:04:19.272280+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2896,7 +4644,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银团贷款、竞争和相对绩效评估",
         "abstract_zh": "相对绩效评估（RPE）将高管薪酬与竞争对手的利润挂钩，从而加剧了竞争压力。我们表明，这些合同降低了银行参与 RPE 合同中指定银行承保贷款的意愿，从而使银团贷款变得更加困难。带领",
-        "date_added": "2026-07-28T20:31:33.469274+00:00",
+        "date_added": "2026-07-28T21:04:19.009137+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2909,7 +4657,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "失败的恶臭：看法如何影响房价",
         "abstract_zh": "在澳大利亚房地产市场，大约三分之一的房产是通过拍卖出售的。我们发现，拍卖失败的房产稍后会以 2.6% 的折扣出售。对于多次拍卖失败且无人出价的房产，这种影响会更大。与因果渠道一致，效果成立",
-        "date_added": "2026-07-28T20:31:33.142786+00:00",
+        "date_added": "2026-07-28T21:04:18.700540+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2922,7 +4670,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行压力测试、人力资本投资与风险管理",
         "abstract_zh": "本文研究了全球金融危机和压力测试出现后银行对风险管理实践的投资。危机期间损失较大的银行对风险管理人才的需求更加强烈。银行增加对高技能压力的需求",
-        "date_added": "2026-07-28T20:31:31.775087+00:00",
+        "date_added": "2026-07-28T21:04:18.417382+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2935,7 +4683,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "住房投机、政府支持企业和信贷市场溢出",
         "abstract_zh": "2021 年，美国财政部减少了政府资助企业 (GSE) 的投机抵押贷款风险。结果，GSE 采购量下降了约 20 个百分点。该政策减少了对住房投机性投资者的信贷，但增加了对符合条件的未受影响部分的信贷。",
-        "date_added": "2026-07-28T20:31:30.625437+00:00",
+        "date_added": "2026-07-28T21:04:18.150309+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2946,9 +4694,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/papers/w33773",
         "scholar_name": "Philip E. Strahan",
         "category": "金融",
-        "title_zh": "银行分支机构的衰落",
+        "title_zh": "",
         "abstract_zh": "我们研究了 2001 年至 2023 年美国银行分行的开设和关闭情况。这两种情况在存款特许权价值较低的地区更为常见，这是由于数字银行采用率较高的金融成熟家庭对利率的敏感性更高。对大型企业的影响最为强烈",
-        "date_added": "2026-07-28T20:31:29.249928+00:00",
+        "date_added": "2026-07-28T21:04:17.910486+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -2961,7 +4709,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "老龄化和住房回报",
         "abstract_zh": "年龄较大的房屋卖家获得的回报低于年轻的房屋卖家。老年人出售的房屋较少进行重大翻修，但维护不良的比例较高。年长的卖家也更有可能出售 MLS（口袋挂牌）并出售给投资者，从而导致价格下降。这些模式表明",
-        "date_added": "2026-07-28T20:31:27.358700+00:00",
+        "date_added": "2026-07-28T21:04:17.631054+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -2975,8 +4723,22 @@ window.SCHOLARS_DATA = [
     "research_methods": "跨国银行数据；危机实证；政策评估",
     "why_track": "银行监管和金融危机研究质量极高，适合审慎监管部分。",
     "profile_url": "https://www.ecb.europa.eu/pub/research/authors/profiles/luc-laeven.en.html",
-    "tracking_status": "manual_only",
-    "literature": []
+    "tracking_status": "active",
+    "literature": [
+      {
+        "title": "Permanent Capital Losses after Banking Crises",
+        "authors": "Luc Laeven",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762043",
+        "scholar_name": "Luc Laeven",
+        "category": "金融",
+        "title_zh": "银行业危机后的永久性资本损失",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:04:24.244409+00:00",
+        "week_of": "2026-07-28"
+      }
+    ]
   },
   {
     "name": "Elena Carletti",
@@ -3010,8 +4772,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Young Soo Jang",
         "category": "金融",
         "title_zh": "私人债务基金调查",
-        "abstract_zh": "尽管美国和欧洲的私人债务（PD）市场规模庞大且不断扩大，但对私人债务（PD）市场的研究相对较少，特别是与银行和银团贷款市场相比。因此，在本文中，我们调查了拥有私人债务资产的美国和欧洲投资者",
-        "date_added": "2026-07-28T20:31:41.845707+00:00",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T21:04:26.659605+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3022,9 +4784,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/papers/w33483",
         "scholar_name": "Young Soo Jang",
         "category": "金融",
-        "title_zh": "风险投资初创企业评选",
+        "title_zh": "",
         "abstract_zh": "我们使用一笔早期风险投资的 8,000 多笔交易的交易流程和投资决策来详细研究风险投资 (VC) 的选择。一家初创企业从某风险投资公司筹集至少 100 万美元风险投资的（无条件）可能性约为 30%。风险投资的交易",
-        "date_added": "2026-07-28T20:31:40.310674+00:00",
+        "date_added": "2026-07-28T21:04:26.381861+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3037,7 +4799,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "民间信贷直接贷款人的借贷技术",
         "abstract_zh": "我们使用美国私人中间市场公司担保借款的独特数据集来比较直接贷款机构、银行和金融公司的贷款技术。过去 20 年来，直接贷款机构的急剧崛起是由于它们在提供贷款方面的相对优势。",
-        "date_added": "2026-07-28T20:31:38.693220+00:00",
+        "date_added": "2026-07-28T21:04:26.140310+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -3063,7 +4825,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "投资者调查中的崩溃信念",
         "abstract_zh": "历史数据表明，严重的单日股市崩盘的基准利率相对较低。美国 26 年来定期对个人和机构投资者进行的调查显示，他们评估的可能性要高得多。我们检查因素",
-        "date_added": "2026-07-28T20:31:48.603055+00:00",
+        "date_added": "2026-07-28T21:04:31.513207+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3076,7 +4838,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "为什么这么多投资者认为麻烦就在眼前",
         "abstract_zh": "金融媒体对不利市场结果的普遍关注与投资者的崩盘信念相关。投资者对严重市场崩盘是否即将发生的信念可能会影响公开交易股票等风险资产的价格和预期回报。然而，信仰",
-        "date_added": "2026-07-28T20:31:46.867195+00:00",
+        "date_added": "2026-07-28T21:04:29.810111+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3089,7 +4851,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "负面泡沫：崩溃后会发生什么",
         "abstract_zh": "我们使用 1692 年至 2015 年期间 101 个全球股票市场的数据来研究崩盘。每年股市大幅下跌之后通常会带来正回报。对于较小的跌幅而言，情况并非如此。这种模式似乎并不是由制度摩擦、金融危机、",
-        "date_added": "2026-07-28T20:31:46.559415+00:00",
+        "date_added": "2026-07-28T21:04:29.226338+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3102,7 +4864,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "崩溃叙述",
         "abstract_zh": "叙事可以作为传递有关重要历史事件的知识的语言机制。 Shiller（2017）认为，叙事是传播经济信念的有效机制。我们使用受控上下文方法来测试媒体叙述的效果",
-        "date_added": "2026-07-28T20:31:44.806823+00:00",
+        "date_added": "2026-07-28T21:04:28.927012+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3114,8 +4876,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Dasol Kim",
         "category": "金融",
         "title_zh": "情绪和主观崩溃信念",
-        "abstract_zh": "在过去的二十年里，希勒投资者信心调查的受访者评估，灾难性股市崩盘的可能性远高于此类事件的历史频率。我们将这些碰撞概率分解为基本成分和主观成分，",
-        "date_added": "2026-07-28T20:31:44.509318+00:00",
+        "abstract_zh": "在过去的二十年里，希勒投资者信心调查的受访者评估灾难性股市崩盘的可能性远高于此类事件的历史频率。我们将这些碰撞概率分解为基本成分和主观成分，",
+        "date_added": "2026-07-28T21:04:28.677009+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3127,8 +4889,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Dasol Kim",
         "category": "金融",
         "title_zh": "民间信贷直接贷款人的借贷技术",
-        "abstract_zh": "我们使用美国私人中间市场公司担保借款的独特数据集来比较直接贷款机构、银行和金融公司的贷款技术。过去 20 年来，直接贷款机构的急剧崛起是由于它们在提供贷款方面的相对优势。",
-        "date_added": "2026-07-28T20:31:43.656481+00:00",
+        "abstract_zh": "我们使用美国私人中间市场公司的担保借款的独特数据集来比较直接贷款机构、银行和金融公司的贷款技术。过去 20 年来，直接贷款机构的急剧崛起是由于它们在提供贷款方面的相对优势。",
+        "date_added": "2026-07-28T21:04:28.377158+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -3166,7 +4928,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "这次是一样的：用1998年的银行业绩来解释最近金融危机期间的银行业绩",
         "abstract_zh": "我们调查了一家银行在 1998 年危机（当时被视为大萧条以来最严重的危机）期间的表现是否可以预测其在最近的金融危机期间的表现。一种假设是，一家在危机中经历特别糟糕的银行",
-        "date_added": "2026-07-28T20:31:54.342688+00:00",
+        "date_added": "2026-07-28T21:04:36.407968+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3177,9 +4939,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/digest/sep11/bank-performance-1998-explains-performance-during-recent-crisis",
         "scholar_name": "Robert Prilmeier",
         "category": "金融",
-        "title_zh": "1998 年银行表现解释了最近危机期间的表现",
+        "title_zh": "1998 年银行业绩解释了最近危机期间的表现",
         "abstract_zh": "一家银行在最近的危机中的股市表现与该银行在 1998 年危机中的表现呈正相关。 1998年俄罗斯债务违约，全球许多投资者遭受了巨大损失。许多人被迫跨市场出售证券，",
-        "date_added": "2026-07-28T20:31:52.897727+00:00",
+        "date_added": "2026-07-28T21:04:36.144503+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3192,7 +4954,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "为什么贷款快速增长预示着银行业绩不佳？",
         "abstract_zh": "从1973年到2014年，三年内贷款增长位于前四分之一的美国银行普通股的表现明显逊于未来三年内贷款增长位于后四分之一的银行的普通股。基准调整后的累计差异",
-        "date_added": "2026-07-28T20:31:52.495214+00:00",
+        "date_added": "2026-07-28T21:04:35.876428+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3205,7 +4967,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "证券法、银行监管以及高杠杆贷款和债券之间的选择",
         "abstract_zh": "与债券相比，cov-lite 贷款不需要 SEC 注册，也不受证券法的约束。我们表明，这种区别在企业选择通过普通贷款和债券融资时发挥着重要作用，并有助于理解为什么普通贷款的市场份额如此之高。",
-        "date_added": "2026-07-28T20:31:51.049810+00:00",
+        "date_added": "2026-07-28T21:04:35.610953+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3218,7 +4980,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "为什么企业直接向非银行机构借款？",
         "abstract_zh": "通过分析 2010 年至 2015 年中间市场公司随机样本手工收集的信贷协议数据，我们发现所有贷款的三分之一是由非银行金融中介机构直接发放的。非银行机构向利润较低、杠杆较高的公司提供贷款，这些公司的规模变化较大。",
-        "date_added": "2026-07-28T20:31:50.248985+00:00",
+        "date_added": "2026-07-28T21:04:34.086570+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -3338,9 +5100,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/papers/w30039",
         "scholar_name": "Yiming Ma",
         "category": "金融",
-        "title_zh": "在非流动水域中驾驶船舶：被动资金的主动管理",
+        "title_zh": "",
         "abstract_zh": "交易所交易基金（ETF）通常被视为被动指数跟踪器。相比之下，我们表明公司债券 ETF 积极管理其投资组合，在指数跟踪与流动性转型之间进行权衡。在我们的模型中，ETF 最佳地选择创造和赎回篮子，其中包括",
-        "date_added": "2026-07-28T20:32:03.975241+00:00",
+        "date_added": "2026-07-28T21:04:39.725563+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3351,9 +5113,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/papers/w31693",
         "scholar_name": "Yiming Ma",
         "category": "金融",
-        "title_zh": "非常规货币政策的储备供给渠道",
+        "title_zh": "",
         "abstract_zh": "我们发现，通过量化宽松注入的央行准备金挤出了银行贷款。我们利用存款和贷款需求的横截面工具变量来估计结构模型。我们的结果取决于贷款需求的弹性以及储备持有量对供应成本的影响",
-        "date_added": "2026-07-28T20:32:02.756013+00:00",
+        "date_added": "2026-07-28T21:04:39.485081+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3366,7 +5128,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "美联储量化宽松对银行贷款的影响",
         "abstract_zh": "银行面临着一个权衡：一方面放出尽可能多的资产以最大化利息收入，另一方面保留足够的流动资产以避免潜在的银行挤兑。由于对特定银行的挤兑可能会导致更广泛的金融蔓延，因此政府通常会进行干预以限制",
-        "date_added": "2026-07-28T20:32:02.020362+00:00",
+        "date_added": "2026-07-28T21:04:39.263426+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3379,7 +5141,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行债务、共同基金股权和流动性供给的波动定价",
         "abstract_zh": "流动性供应通常归因于银行等发债中介机构。我们开发了一个统一的理论框架，并通过实证表明，发行可需求股票的共同基金还可以通过防止特殊流动性来提供经济上重要的流动性",
-        "date_added": "2026-07-28T20:31:59.976597+00:00",
+        "date_added": "2026-07-28T21:04:39.005031+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3391,8 +5153,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Yiming Ma",
         "category": "金融",
         "title_zh": "稳定币运行和套利的中心化",
-        "abstract_zh": "稳定币是一种加密资产，旨在与美元挂钩，但以流动性不完全的美元资产为支持。我们证明稳定币具有集中套利的特点：最大的发行人 Tether 平均每月只允许 6 名代理人将稳定币兑换成现金。我们认为",
-        "date_added": "2026-07-28T20:31:59.662557+00:00",
+        "abstract_zh": "稳定币是一种加密资产，旨在与美元挂钩，但由流动性不完全的美元资产支持。我们证明稳定币具有集中套利的特点：最大的发行人 Tether 平均每月只允许 6 名代理人将稳定币兑换成现金。我们认为",
+        "date_added": "2026-07-28T21:04:38.705563+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3405,7 +5167,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "存款波动的动态及其对金融稳定的影响",
         "abstract_zh": "我们记录了存款流动性随着时间的推移而发生显着变化，并在 Covid-19 之后达到顶峰。存款流动性上升与量化宽松和低利率同时发生。我们根据投资者便利价值的异质性对这些趋势进行合理化。银行系统的投资者重视便利性",
-        "date_added": "2026-07-28T20:31:58.540119+00:00",
+        "date_added": "2026-07-28T21:04:38.384769+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3418,7 +5180,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "国库供给向银行存款资金的传导",
         "abstract_zh": "我们证明了国债供应通过银行市场力量传递给银行存款。我们表明，在竞争更加激烈的存款市场中，国债供应量的增加会挤出存款，从而产生不成比例的影响。美国国债供应量增加进一步减少银行贷款并影响银行融资",
-        "date_added": "2026-07-28T20:31:56.846791+00:00",
+        "date_added": "2026-07-28T21:04:38.133910+00:00",
         "week_of": "2026-07-28"
       }
     ]
@@ -3444,7 +5206,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "共同基金作为风险投资家？来自独角兽公司的证据",
         "abstract_zh": "利用新颖的合同级数据，我们研究了开放式共同基金投资于独角兽高估值私营初创企业的最新趋势，以及这些投资对公司治理条款的影响。规模较大的基金和资金更稳定的基金更有可能投资于",
-        "date_added": "2026-07-28T20:32:09.392815+00:00",
+        "date_added": "2026-07-28T21:04:43.461579+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3457,7 +5219,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "在非流动水域中驾驶船舶：被动资金的主动管理",
         "abstract_zh": "交易所交易基金（ETF）通常被视为被动指数跟踪器。相比之下，我们表明公司债券 ETF 积极管理其投资组合，在指数跟踪与流动性转型之间进行权衡。在我们的模型中，ETF 最佳地选择创造和赎回篮子，其中包括",
-        "date_added": "2026-07-28T20:32:09.073858+00:00",
+        "date_added": "2026-07-28T21:04:42.694352+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3470,7 +5232,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "银行债务、共同基金股权和流动性供给的波动定价",
         "abstract_zh": "流动性供应通常归因于银行等发债中介机构。我们开发了一个统一的理论框架，并通过实证表明，发行可需求股票的共同基金还可以通过防止特殊流动性来提供经济上重要的流动性",
-        "date_added": "2026-07-28T20:32:08.823967+00:00",
+        "date_added": "2026-07-28T21:04:42.443628+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3483,7 +5245,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "稳定币运行和套利的中心化",
         "abstract_zh": "稳定币是一种加密资产，旨在与美元挂钩，但由流动性不完全的美元资产支持。我们证明稳定币具有集中套利的特点：最大的发行人 Tether 平均每月只允许 6 名代理人将稳定币兑换成现金。我们认为",
-        "date_added": "2026-07-28T20:32:07.741555+00:00",
+        "date_added": "2026-07-28T21:04:42.192904+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3495,8 +5257,8 @@ window.SCHOLARS_DATA = [
         "scholar_name": "Yao Zeng",
         "category": "金融",
         "title_zh": "金融科技贷款和无现金支付",
-        "abstract_zh": "借款人使用无现金支付可以改善他们从金融科技贷方获得资金的机会，并预测违约概率较低。对于提供更精确信息的无现金技术和资金外流来说，这些关系更加牢固。无现金支付的使用补充了其他信号",
-        "date_added": "2026-07-28T20:32:07.446684+00:00",
+        "abstract_zh": "借款人使用无现金支付可以改善他们从金融科技贷方获得资金的机会，并预测违约概率较低。对于提供更准确信息的无现金技术和资金外流来说，这些关系更加牢固。无现金支付的使用补充了其他信号",
+        "date_added": "2026-07-28T21:04:41.941866+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3509,7 +5271,7 @@ window.SCHOLARS_DATA = [
         "category": "金融",
         "title_zh": "货币竞争的推动因素：支付与准备金的比较优势",
         "abstract_zh": "我们研究提供单独支付和非支付（例如价值存储）功能的货币之间的竞争。我们的核心观点是，支付的采用不是由绝对的支付优势决定的，而是由支付和非支付角色之间的比较优势决定的。一钱也太",
-        "date_added": "2026-07-28T20:32:06.013120+00:00",
+        "date_added": "2026-07-28T21:04:41.674932+00:00",
         "week_of": "2026-07-28"
       },
       {
@@ -3520,9 +5282,9 @@ window.SCHOLARS_DATA = [
         "url": "https://www.nber.org/papers/w35385",
         "scholar_name": "Yao Zeng",
         "category": "金融",
-        "title_zh": "半流动私人信贷基金的脆弱性",
+        "title_zh": "",
         "abstract_zh": "我们研究半流动私人信贷基金的脆弱性，这些基金迅速扩张，目前管理着超过 3000 亿美元的资产。这些基金通过持有远多于传统贷款共同基金的非流动性贷款来进行流动性转型，同时允许投资者通过以下方式以资产净值赎回：",
-        "date_added": "2026-07-28T20:32:05.675366+00:00",
+        "date_added": "2026-07-28T21:04:41.355245+00:00",
         "week_of": "2026-07-28"
       }
     ]
