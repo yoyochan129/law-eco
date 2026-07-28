@@ -209,7 +209,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人货币、短期债务、影子银行、金融稳定",
     "research_methods": "货币理论；制度设计；功能监管",
     "why_track": "money-claims框架可直接用于MMF、ABCP、稳定币和可赎回私人负债。",
-    "profile_url": "https://law.vanderbilt.edu/faculty-directory/resident-faculty/",
+    "profile_url": "https://law.vanderbilt.edu/bio/morgan-ricks/",
     "tracking_status": "active",
     "literature": []
   },
@@ -563,7 +563,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "金融科技、稳定币、DeFi、系统性风险",
     "research_methods": "金融稳定法；技术风险；制度设计",
     "why_track": "持续研究新金融技术如何放大复杂性和金融稳定风险。",
-    "profile_url": "https://www.wcl.american.edu/community/faculty/profile/hallen/bio",
+    "profile_url": "https://www.american.edu/wcl/faculty/hjallen.cfm",
     "tracking_status": "active",
     "literature": []
   },
@@ -823,9 +823,38 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行结构、公共金融、影子银行、金融科技",
     "research_methods": "政治经济学；制度设计；公共—私人金融理论",
     "why_track": "finance franchise框架可解释私人信用创造和公共安全网之间的关系。",
-    "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/saule-t-omarova/",
+    "profile_url": "https://www.law.upenn.edu/live/profiles/19994-saule-omarova",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "White Paper: A National Investment Authority",
+        "authors": "Saule T. Omarova",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3125533",
+        "scholar_name": "Saule T. Omarova",
+        "category": "法学",
+        "title_zh": "白皮书：国家投资机构",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:02.811413+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Why We Need A National Investment Authority (2020)",
+        "authors": "Saule T. Omarova",
+        "date": "20",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566462",
+        "scholar_name": "Saule T. Omarova",
+        "category": "法学",
+        "title_zh": "为什么我们需要国家投资局（2020）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:01.407355+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Douglas W. Arner",
@@ -1051,9 +1080,150 @@ window.SCHOLARS_DATA = [
     "research_topics": "信贷市场、证券化、监管成本、破产估值",
     "research_methods": "计量实证；金融数据；法经分析",
     "why_track": "能够连接信贷市场、证券化和金融监管成本。",
-    "profile_url": "https://gould.usc.edu/faculty/",
+    "profile_url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "Measuring Regulation: A revealed preference approach, 2021 (with Zhang).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "衡量监管：显示偏好方法，2021（与张）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:40.088353+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“Did New Deal Liberalism Steer Too Far to the Right?” 174 Tax Notes 681 (2022).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "“新政自由主义是否向右转得太远了？” 174 税务票据 681 (2022)。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:38.756949+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“Taxing Contractual Complexity,” 26 University of Pennsylvania Business Law Journal 189, 2023.",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "“对合同复杂性征税”，26 宾夕法尼亚大学商法杂志 189，2023 年。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:37.524713+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“The Cost of Regulatory Compliance in the United States,” 2024 (with Zhang and Trebbi).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "“美国监管合规成本”，2024 年（与张和特雷比合着）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:36.231568+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Bankruptcy’s Options Market, working paper, 2024 (with Roe).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "破产期权市场，工作文件，2024 年（与 Roe 合作）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:35.005029+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Going Private through Bankruptcy, working paper, 2024 (with Roe).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "通过破产实现私有化，工作文件，2024 年（与 Roe 合作）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:33.839602+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Natural Person Shareholder Voting, 109 Cornell Law Review , forthcoming 2024.",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "自然人股东投票，109 康奈尔法律评论，即将于 2024 年出版。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:32.590203+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Business Judgment and ESG, Journal of Corporation Law , forthcoming 2024.",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "商业判断和 ESG，《公司法杂志》，即将于 2024 年出版。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:31.373648+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“Bankruptcy’s Turn to Market Value,” 92.1, University of Chicago Law Review , forthcoming 2025, (with Roe).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "“破产转向市场价值”，92.1，《芝加哥大学法律评论》，即将于 2025 年出版，（与 Roe 合着）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:30.193256+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“Absolute Priority, Relative Priority, and Valuation Uncertainty in Bankruptcy,” 173 University of Pennsylvania Law Review , forthcoming 2025, (with Roe).",
+        "authors": "Michael Simkovic",
+        "date": "20",
+        "abstract": "",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
+        "scholar_name": "Michael Simkovic",
+        "category": "法学",
+        "title_zh": "“破产中的绝对优先权、相对优先权和估值不确定性”，173 宾夕法尼亚大学法律评论，即将于 2025 年出版，（与 Roe 合着）。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:14:28.719197+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Frank Partnoy",
@@ -1087,7 +1257,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行、支付、住房金融、消费者金融",
     "research_methods": "实证与制度分析；破产和金融法",
     "why_track": "可补足银行业务边界、支付和非银消费信贷问题。",
-    "profile_url": "https://www.law.georgetown.edu/faculty/adam-levitin/",
+    "profile_url": "https://www.law.georgetown.edu/faculty/adam-j-levitin/",
     "tracking_status": "active",
     "literature": []
   },
@@ -1137,7 +1307,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "公共银行、货币创造、金融体系设计",
     "research_methods": "货币法；政治经济学；制度理论",
     "why_track": "适合构建央行—银行—NBFI之间公共—私人信用创造框架。",
-    "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/robert-c-hockett/",
+    "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/robert-hockett/",
     "tracking_status": "manual_only",
     "literature": []
   },
@@ -1288,7 +1458,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行监管、Fed账户、支付体系",
     "research_methods": "银行法；案例与制度研究",
     "why_track": "适合研究央行账户、支付接入和银行治理。",
-    "profile_url": "https://law.ua.edu/faculty_staff/julie-hill/",
+    "profile_url": "https://www.uwyo.edu/law/directory/julie-hill.html",
     "tracking_status": "active",
     "literature": []
   },
@@ -1596,7 +1766,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "债务融资、合同设计、破产与重组",
     "research_methods": "不完全合同；公司金融理论；法律经济学",
     "why_track": "金融合同、优先级和重新谈判的理论基础作者。",
-    "profile_url": "https://law.stanford.edu/george-g-triantis/",
+    "profile_url": "https://law.stanford.edu/george-triantis/",
     "tracking_status": "manual_only",
     "literature": []
   },
@@ -1608,9 +1778,94 @@ window.SCHOLARS_DATA = [
     "research_topics": "债券治理、债券受托人、并购与控制权",
     "research_methods": "正式理论；公司金融实证；合同法",
     "why_track": "分散债权人协调和债券治理的重要作者。",
-    "profile_url": "https://www.law.nyu.edu/faculty/marcel-kahan",
+    "profile_url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=20029",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "\" Causation and Incentives to Take Care Under the Negligence Rule ,\" 18 Journal of Legal Studies 427 (1989)",
+        "authors": "Marcel Kahan",
+        "date": "19",
+        "abstract": "",
+        "url": "https://its.law.nyu.edu/faculty/profiles/representiveFiles/Causation and Incentives to Take Care Under the Negligence Rule_2B0D2807-1B21-6206-606504C1BB836132.pdf",
+        "scholar_name": "Marcel Kahan",
+        "category": "法学",
+        "title_zh": "“过失规则下的因果关系和激励措施”，18 《法律研究杂志》427 (1989)",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:15:18.515688+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" The Myth of State Competition in Corporate Law ,\" 55 Stanford Law Review 679 (2002) (with Ehud Kamar)",
+        "authors": "Marcel Kahan",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.jstor.org/stable/1229668",
+        "scholar_name": "Marcel Kahan",
+        "category": "法学",
+        "title_zh": "“公司法中国家竞争的神话”，55《斯坦福法律评论》679 (2002)（与 Ehud Kamar 合着）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:15:17.256996+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" Hedge Funds in Corporate Governance and Corporate Control ,\" 155 University of Pennsylvania Law Review 1021 (2007) (with Edward B. Rock)",
+        "authors": "Marcel Kahan",
+        "date": "20",
+        "abstract": "",
+        "url": "https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1356&context=penn_law_review",
+        "scholar_name": "Marcel Kahan",
+        "category": "法学",
+        "title_zh": "“公司治理和公司控制中的对冲基金”，155 宾夕法尼亚大学法律评论 1021 (2007)（与 Edward B. Rock）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:15:15.831662+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" The Law and Finance of Antitakeover Statutes ,\" 68 Stanford Law Review 629 (2016) (with Emiliano M. Catan)",
+        "authors": "Marcel Kahan",
+        "date": "20",
+        "abstract": "",
+        "url": "http://www.stanfordlawreview.org/wp-content/uploads/sites/3/2016/03/68_Stan._L._Rev._629_-_Catan_and_Kahan.pdf",
+        "scholar_name": "Marcel Kahan",
+        "category": "法学",
+        "title_zh": "“反收购法规的法律和财务”，68《斯坦福法律评论》629 (2016)（与 Emiliano M. Catan 合作）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:15:14.596118+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" Sovereign Debt and Moral Hazard: The Role of Collective Action and Contractual Ambiguity ,\" 65 Journal of Law and Economics 311 (2022) (with Shmuel Leshem)",
+        "authors": "Marcel Kahan",
+        "date": "20",
+        "abstract": "",
+        "url": "https://doi.org/10.1086/718428",
+        "scholar_name": "Marcel Kahan",
+        "category": "法学",
+        "title_zh": "“主权债务和道德风险：集体行动和合同模糊性的作用”，65 Journal of Law and Economics 311 (2022)（与 Shmuel Leshem 合着）",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:15:13.270341+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“The State of State Competition for Incorporations”",
+        "authors": "Marcel Kahan",
+        "date": "",
+        "abstract": "",
+        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474658",
+        "scholar_name": "Marcel Kahan",
+        "category": "法学",
+        "title_zh": "“各州公司竞争状况”",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:15:11.726660+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Edward R. Morrison",
@@ -2262,7 +2517,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行—NBFI联系、银行信用额度、系统性风险",
     "research_methods": "银行/贷款微观数据；宏观金融；因果实证",
     "why_track": "直接研究银行向NBFI提供信用额度及风险回流，是你的银行流动性支持项目首要作者。",
-    "profile_url": "https://www.nber.org/papers/w32316",
+    "profile_url": "https://www.nber.org/people/viral_acharya",
     "tracking_status": "active",
     "literature": [
       {
@@ -2415,7 +2670,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人债务、银团贷款、PE与银行关系",
     "research_methods": "贷款级数据；公司金融；机构分析",
     "why_track": "私人债务生态、银行互补和私募资本融资的顶级作者。",
-    "profile_url": "https://www.nber.org/papers/w34426",
+    "profile_url": "https://www.nber.org/people/victoria_ivashina",
     "tracking_status": "active",
     "literature": [
       {
@@ -2568,7 +2823,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、非银直贷、MMF、证券化",
     "research_methods": "贷款与基金数据；准实验；公司金融",
     "why_track": "同时覆盖私人信贷、MMF和证券化，与你两条主线高度重合。",
-    "profile_url": "https://www.nber.org/papers/w26458",
+    "profile_url": "https://www.nber.org/people/sergey_chernenko",
     "tracking_status": "active",
     "literature": [
       {
@@ -2721,7 +2976,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行监管、影子银行、私人信贷、金融科技",
     "research_methods": "行政微观数据；机器学习；因果推断",
     "why_track": "银行与非银监管、金融稳定和数据方法均处于前沿。",
-    "profile_url": "https://www.nber.org/papers/w34991",
+    "profile_url": "https://www.nber.org/people/amit_seru",
     "tracking_status": "active",
     "literature": [
       {
@@ -2874,7 +3129,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷基金资产负债表、金融稳定",
     "research_methods": "基金资产级数据；金融中介实证",
     "why_track": "2026年私人信贷基金杠杆、融资结构和金融稳定研究的核心作者。",
-    "profile_url": "https://www.nber.org/papers/w34991",
+    "profile_url": "https://www.nber.org/people/gregor_matvos",
     "tracking_status": "active",
     "literature": [
       {
@@ -3027,7 +3282,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、银行资本、BDC压力测试、金融稳定",
     "research_methods": "基金与贷款数据；公司金融；监管套利实证",
     "why_track": "近年直接研究银行资本是否推动私人信贷增长，以及私人信贷基金在极端压力下的韧性，与你的研究高度重合。",
-    "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749",
+    "profile_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13567",
     "tracking_status": "active",
     "literature": [
       {
@@ -3180,7 +3435,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷技术、企业债务、信贷周期",
     "research_methods": "企业微观数据；自然实验；宏观金融",
     "why_track": "研究直接贷款机构筛选与监控技术，质量和方法均属顶级。",
-    "profile_url": "https://www.nber.org/papers/w34500",
+    "profile_url": "https://www.nber.org/people/amir_sufi",
     "tracking_status": "active",
     "literature": [
       {
@@ -3639,7 +3894,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "影子银行、MMF、资产管理、货币政策",
     "research_methods": "基金持仓；资产定价；金融中介理论",
     "why_track": "MMF、短期融资和影子银行摩擦的持续核心作者。",
-    "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=46339",
+    "profile_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538",
     "tracking_status": "active",
     "literature": [
       {
@@ -4624,7 +4879,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、住房金融、银行监管",
     "research_methods": "大规模微观数据；结构与因果实证",
     "why_track": "私人信贷基金资产负债表研究和信贷市场数据方法的核心作者。",
-    "profile_url": "https://www.nber.org/papers/w34991",
+    "profile_url": "https://www.nber.org/people/tomasz_piskorski",
     "tracking_status": "active",
     "literature": [
       {
@@ -5416,7 +5671,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "非银直贷、私人债务基金回报、银行竞争",
     "research_methods": "公司金融数据；基金回报；因果实证",
     "why_track": "私人信贷借款人与基金绩效研究的重要作者。",
-    "profile_url": "https://www.nber.org/papers/w32278",
+    "profile_url": "https://www.nber.org/people/isil_erel",
     "tracking_status": "active",
     "literature": [
       {
@@ -5868,7 +6123,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人债务基金、直接贷款技术、金融稳定",
     "research_methods": "基金调查；企业数据；借贷技术",
     "why_track": "近年私人信贷研究中最活跃的新一代作者之一。",
-    "profile_url": "https://www.nber.org/papers/w34500",
+    "profile_url": "https://www.nber.org/people/young_soo_jang",
     "tracking_status": "active",
     "literature": [
       {
@@ -5923,7 +6178,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、直贷机构、监管数据",
     "research_methods": "行政数据；企业微观数据；因果实证",
     "why_track": "使用新型数据识别私人信贷的筛选和监控技术。",
-    "profile_url": "https://www.nber.org/papers/w34500",
+    "profile_url": "https://www.nber.org/people/dskim8001",
     "tracking_status": "active",
     "literature": [
       {
@@ -6032,7 +6287,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "非银直贷、贷款定价与非价格条款",
     "research_methods": "贷款数据；合同条款；公司金融",
     "why_track": "研究企业为何选择非银直接贷款的RFS作者。",
-    "profile_url": "https://www.nber.org/papers/w26458",
+    "profile_url": "https://www.nber.org/people/robert_prilmeier",
     "tracking_status": "active",
     "literature": [
       {
@@ -6115,7 +6370,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、非银借贷、金融科技",
     "research_methods": "全球数据；自然实验；银行与非银比较",
     "why_track": "BIS近年私人信贷和非银危机贷款研究的高产作者。",
-    "profile_url": "https://www.bis.org/publ/qtrpdf/r_qt2503b.htm",
+    "profile_url": "https://www.bis.org/author/sebastian_doerr.htm",
     "tracking_status": "active",
     "literature": []
   },
@@ -6151,7 +6406,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "MMF、repo、稳定币挤兑",
     "research_methods": "基金与交易数据；事件研究；央行研究",
     "why_track": "稳定币—MMF比较和短期资金市场研究的核心作者。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.newyorkfed.org/research/economists/Cipriani",
     "tracking_status": "active",
     "literature": []
   },
@@ -6163,7 +6418,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "MMF、货币政策、稳定币",
     "research_methods": "基金流量；交易数据；货币传导",
     "why_track": "持续研究MMF和稳定币流量及货币政策冲击。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.newyorkfed.org/research/economists/laspada",
     "tracking_status": "active",
     "literature": []
   },
@@ -6175,7 +6430,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行挤兑、稳定币、系统性风险",
     "research_methods": "实时支付数据；挤兑识别；金融稳定",
     "why_track": "挤兑微观数据和稳定币研究的方法非常前沿。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.newyorkfed.org/research/economists/Eisenbach",
     "tracking_status": "active",
     "literature": []
   },
@@ -6187,9 +6442,150 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币、MMF、资产管理风险",
     "research_methods": "基金和链上数据；政策实证",
     "why_track": "稳定币与MMF挤兑比较的核心作者。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.bostonfed.org/people/bank/ken-e-anadu.aspx",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "\" Runs and Flights to Safety: Are Stablecoins the New Money Market Funds? \" 2023, Supervisory Research and Analysis Working Paper . With Pablo D. Azar, Marco Cipriani, Thomas M. Eisenbach, Catherine Huang, Mattia Landoni, Gabriele La Spada, Marco Macchiavelli, Antoine Malfroy-Camine, and J. Christin",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "/publications/risk-and-policy-analysis/2023/runs-and-flights-to-safety-are-stablecoins-the-new-money-market-funds.aspx",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“逃向安全：稳定币是新的货币市场基金吗？”2023 年，监管研究与分析工作论文。与 Pablo D. Azar、Marco Cipriani、Thomas M. Eisenbach、Catherine Huang、Mattia Landoni、Gabriele La Spada、Marco Macchiavelli、Antoine Malfroy-Camine 和 J. Christin 合作",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:19:02.740611+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" Stablecoins and Crypto Shocks ,” 2024, Liberty Street Economics .  With Pablo D. Azar, Marco Cipriani, Thomas M. Eisenbach, Catherine Huang, Mattia Landoni, Gabriele La Spada, Marco Macchiavelli, Antoine Malfroy-Camine, and J. Christina Wang.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://libertystreeteconomics.newyorkfed.org/2024/03/stablecoins-and-crypto-shocks/",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“稳定币和加密货币冲击”，2024 年，自由街经济学。  与 Pablo D. Azar、Marco Cipriani、Thomas M. Eisenbach、Catherine Huang、Mattia Landoni、Gabriele La Spada、Marco Macchiavelli、Antoine Malfroy-Camine 和 J. Christina Wang 合作。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:19:01.413999+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“ Are retail prime money market fund investors increasingly more sensitive to stress events? ,” 2025, Supervisory Research and Analysis Note .  With John Levin, Lina Lu, Antoine Malfroy-Camine, and Nico Oefele.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.bostonfed.org/publications/supervisory-research-and-analysis-notes/2025/are-retail-prime-money-market-fund-investors-increasingly-more-sensitive-to-stress-events.aspx",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“散户优质货币市场基金投资者对压力事件是否越来越敏感？”，2025 年，监管研究与分析说明。  与约翰·莱文、丽娜·卢、安托万·马尔弗罗伊-卡明和尼科·奥菲尔一起。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:19:00.798983+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“ Stablecoins and Crypto Shocks: An Update ,” 2025, Liberty Street Economics .  With Pablo D. Azar, Marco Cipriani, Thomas M. Eisenbach, Catherine Huang, Mattia Landoni, Gabriele La Spada, Marco Macchiavelli, Antoine Malfroy-Camine, and J. Christina Wang.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://libertystreeteconomics.newyorkfed.org/2025/04/stablecoins-and-crypto-shocks-an-update/",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“稳定币和加密货币冲击：更新”，2025 年，自由街经济学。  与 Pablo D. Azar、Marco Cipriani、Thomas M. Eisenbach、Catherine Huang、Mattia Landoni、Gabriele La Spada、Marco Macchiavelli、Antoine Malfroy-Camine 和 J. Christina Wang 合作。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:59.262950+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“ Technology Providers and Financial Stability: Overview of Risks and Regulatory Frameworks ,” 2025, Supervisory Research and Analysis Working Paper . With Gene Amromin, Cindy Hull, Emma Weiss, Rebecca Chmielewski, Patty Cowperthwait, Brett Solimine, Fal Brauning, Siobhan Sanders, Lorenzo Garza, Sam",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "/publications/risk-and-policy-analysis/2025/tech-providers-risks-regulatory-frameworks.aspx",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“技术提供商和金融稳定：风险和监管框架概述”，2025 年，监管研究与分析工作文件。主演：吉恩·阿罗明、辛迪·赫尔、艾玛·维斯、丽贝卡·奇米勒夫斯基、帕蒂·考珀斯韦特、布雷特·索利明、法尔·布劳宁、西沃恩·桑德斯、洛伦佐·加尔萨、萨姆",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:58.031892+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“ A Framework for Understanding the Vulnerabilities of New Money-Like Products ,” 2026, Supervisory Research and Analysis Working Paper.  With Patrick McCabe, JP Perez-Sangimino, and Nathan Swem.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "/publications/risk-and-policy-analysis/2026/a-framework-for-understanding-the-vulnerabilities-of-new-money-like-products.aspx",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“了解新类货币产品脆弱性的框架”，2026 年，监管研究与分析工作论文。  与 Patrick McCabe、JP Perez-Sangimino 和 Nathan Swem 合作。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:56.792245+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" The Shift from Active to Passive Investing: Risks to Financial Stability? ,\" 2020, Financial Analysts Journal, 76:4, 23-39 . With Mathias Kruttli, Patrick McCabe, and Emilio Osambela.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/0015198X.2020.1779498",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“从主动投资向被动投资的转变：金融稳定的风险？”，2020 年，《金融分析师杂志》，76:4, 23-39。与马蒂亚斯·克鲁特利、帕特里克·麦凯布和埃米利奥·奥桑贝拉合作。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:55.781092+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" The Money Market Mutual Fund Liquidity Facility ,\" 2022, Federal Reserve Bank of New York Economic Policy Review, Vol. 27 Number 2. With Marco Cipriani, Ryan M. Craver, and Gabriele La Spada.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.newyorkfed.org/research/epr/2022/epr_2022_MMLF_anadu",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“货币市场共同基金流动性便利”，2022 年，纽约联邦储备银行经济政策评论，卷。 27 第 2 号。与 Marco Cipriani、Ryan M. Craver 和 Gabriele La Spada 合作。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:54.323692+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "\" Swing Pricing Calibration: Using ETFs to Infer Swing Factors for Mutual Funds ,\" 2023, Financial Analysts Journal, 80:1, 30-40 . With John Levin, Victoria Liu, Noam Tanner, Antoine Malfroy-Camine, and Sean Baker.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/0015198X.2023.2240280",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“波动定价校准：使用 ETF 推断共同基金的波动因素”，2023 年，《金融分析师杂志》，80:1, 30-40。与约翰·莱文、维多利亚·刘、诺姆·坦纳、安托万·马尔弗罗伊-卡明和肖恩·贝克一起。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:52.860980+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "“ Are retail prime money market fund investors increasingly more sensitive to stress events? ,” 2025, Economics Letters, Vol. 255, I112474. With John Levin, Lina Lu, Antoine Malfroy-Camine, and Nico Oefele.",
+        "authors": "Kenechukwu Anadu",
+        "date": "20",
+        "abstract": "",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0165176525003118",
+        "scholar_name": "Kenechukwu Anadu",
+        "category": "金融",
+        "title_zh": "“散户优质货币市场基金投资者对压力事件是否越来越敏感？”，2025 年，《经济学快报》，第 1 卷。 255，I112474。与约翰·莱文、丽娜·卢、安托万·马尔弗罗伊-卡明和尼科·奥菲尔一起。",
+        "abstract_zh": "",
+        "date_added": "2026-07-28T23:18:51.590955+00:00",
+        "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Marco Macchiavelli",
@@ -6211,7 +6607,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币挤兑、基金流动性、银行—基金联系",
     "research_methods": "链上数据；资产定价；金融中介",
     "why_track": "稳定币挤兑与套利集中研究的前沿作者。",
-    "profile_url": "https://www.nber.org/papers/w33882",
+    "profile_url": "https://www.nber.org/people/yiming_ma",
     "tracking_status": "active",
     "literature": [
       {
@@ -6322,7 +6718,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币挤兑、基金脆弱性、金融中介",
     "research_methods": "理论模型；链上数据；基金研究",
     "why_track": "稳定币挤兑和开放式基金脆弱性的高质量年轻作者。",
-    "profile_url": "https://www.nber.org/papers/w33882",
+    "profile_url": "https://www.nber.org/people/yao_zeng1",
     "tracking_status": "active",
     "literature": [
       {
@@ -6493,7 +6889,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币去中介化、DeFi、支付与银行",
     "research_methods": "交易级链上—银行支付数据；理论模型",
     "why_track": "2026年直接识别稳定币对银行存款、流动性和贷款的影响。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1185",
+    "profile_url": "https://www.newyorkfed.org/research/economists/mlee",
     "tracking_status": "active",
     "literature": []
   }

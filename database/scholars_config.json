@@ -105,7 +105,7 @@
     "research_topics": "私人货币、短期债务、影子银行、金融稳定",
     "research_methods": "货币理论；制度设计；功能监管",
     "why_track": "money-claims框架可直接用于MMF、ABCP、稳定币和可赎回私人负债。",
-    "profile_url": "https://law.vanderbilt.edu/faculty-directory/resident-faculty/",
+    "profile_url": "https://law.vanderbilt.edu/bio/morgan-ricks/",
     "gs_profile_url": "https://scholar.google.com/citations?user=yn1qrTUAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -215,7 +215,7 @@
     "research_topics": "金融科技、稳定币、DeFi、系统性风险",
     "research_methods": "金融稳定法；技术风险；制度设计",
     "why_track": "持续研究新金融技术如何放大复杂性和金融稳定风险。",
-    "profile_url": "https://www.wcl.american.edu/community/faculty/profile/hallen/bio",
+    "profile_url": "https://www.american.edu/wcl/faculty/hjallen.cfm",
     "gs_profile_url": "https://scholar.google.com/citations?user=pnFwBrIAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -391,12 +391,16 @@
     "research_topics": "银行结构、公共金融、影子银行、金融科技",
     "research_methods": "政治经济学；制度设计；公共—私人金融理论",
     "why_track": "finance franchise框架可解释私人信用创造和公共安全网之间的关系。",
-    "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/saule-t-omarova/",
+    "profile_url": "https://www.law.upenn.edu/live/profiles/19994-saule-omarova",
     "gs_profile_url": "https://scholar.google.com/citations?user=Gg5NOKYAAAAJ&hl=en",
     "tracking_methods": [
       {
         "type": "google_scholar",
         "gs_user_id": "Gg5NOKYAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.upenn.edu/live/profiles/19994-saule-omarova"
       }
     ],
     "tracking_status": "active"
@@ -507,12 +511,16 @@
     "research_topics": "信贷市场、证券化、监管成本、破产估值",
     "research_methods": "计量实证；金融数据；法经分析",
     "why_track": "能够连接信贷市场、证券化和金融监管成本。",
-    "profile_url": "https://gould.usc.edu/faculty/",
+    "profile_url": "https://gould.usc.edu/faculty/profile/michael-simkovic/",
     "gs_profile_url": "https://scholar.google.com/citations?user=m2X4SScAAAAJ&hl=en",
     "tracking_methods": [
       {
         "type": "google_scholar",
         "gs_user_id": "m2X4SScAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/"
       }
     ],
     "tracking_status": "active"
@@ -555,7 +563,7 @@
     "research_topics": "银行、支付、住房金融、消费者金融",
     "research_methods": "实证与制度分析；破产和金融法",
     "why_track": "可补足银行业务边界、支付和非银消费信贷问题。",
-    "profile_url": "https://www.law.georgetown.edu/faculty/adam-levitin/",
+    "profile_url": "https://www.law.georgetown.edu/faculty/adam-j-levitin/",
     "gs_profile_url": "https://scholar.google.com/citations?user=9HCQwqYAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -608,7 +616,7 @@
     "research_topics": "公共银行、货币创造、金融体系设计",
     "research_methods": "货币法；政治经济学；制度理论",
     "why_track": "适合构建央行—银行—NBFI之间公共—私人信用创造框架。",
-    "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/robert-c-hockett/",
+    "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/robert-hockett/",
     "tracking_methods": [],
     "tracking_status": "manual_only"
   },
@@ -642,7 +650,7 @@
     "research_topics": "银行监管、Fed账户、支付体系",
     "research_methods": "银行法；案例与制度研究",
     "why_track": "适合研究央行账户、支付接入和银行治理。",
-    "profile_url": "https://law.ua.edu/faculty_staff/julie-hill/",
+    "profile_url": "https://www.uwyo.edu/law/directory/julie-hill.html",
     "gs_profile_url": "https://scholar.google.com/citations?user=Bap8cT8AAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -699,7 +707,7 @@
     "research_topics": "债务融资、合同设计、破产与重组",
     "research_methods": "不完全合同；公司金融理论；法律经济学",
     "why_track": "金融合同、优先级和重新谈判的理论基础作者。",
-    "profile_url": "https://law.stanford.edu/george-g-triantis/",
+    "profile_url": "https://law.stanford.edu/george-triantis/",
     "tracking_methods": [],
     "tracking_status": "manual_only"
   },
@@ -711,12 +719,16 @@
     "research_topics": "债券治理、债券受托人、并购与控制权",
     "research_methods": "正式理论；公司金融实证；合同法",
     "why_track": "分散债权人协调和债券治理的重要作者。",
-    "profile_url": "https://www.law.nyu.edu/faculty/marcel-kahan",
+    "profile_url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=20029",
     "gs_profile_url": "https://scholar.google.com/citations?user=EmlZUHYAAAAJ&hl=en",
     "tracking_methods": [
       {
         "type": "google_scholar",
         "gs_user_id": "EmlZUHYAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=20029"
       }
     ],
     "tracking_status": "active"
@@ -892,7 +904,7 @@
     "research_topics": "银行—NBFI联系、银行信用额度、系统性风险",
     "research_methods": "银行/贷款微观数据；宏观金融；因果实证",
     "why_track": "直接研究银行向NBFI提供信用额度及风险回流，是你的银行流动性支持项目首要作者。",
-    "profile_url": "https://www.nber.org/papers/w32316",
+    "profile_url": "https://www.nber.org/people/viral_acharya",
     "gs_profile_url": "https://scholar.google.com/citations?user=iZAsYLgAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -914,7 +926,7 @@
     "research_topics": "私人债务、银团贷款、PE与银行关系",
     "research_methods": "贷款级数据；公司金融；机构分析",
     "why_track": "私人债务生态、银行互补和私募资本融资的顶级作者。",
-    "profile_url": "https://www.nber.org/papers/w34426",
+    "profile_url": "https://www.nber.org/people/victoria_ivashina",
     "gs_profile_url": "https://scholar.google.com/citations?user=qgkCX5UAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -936,7 +948,7 @@
     "research_topics": "私人信贷、非银直贷、MMF、证券化",
     "research_methods": "贷款与基金数据；准实验；公司金融",
     "why_track": "同时覆盖私人信贷、MMF和证券化，与你两条主线高度重合。",
-    "profile_url": "https://www.nber.org/papers/w26458",
+    "profile_url": "https://www.nber.org/people/sergey_chernenko",
     "gs_profile_url": "https://scholar.google.com/citations?user=4BxdPTAAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -958,7 +970,7 @@
     "research_topics": "银行监管、影子银行、私人信贷、金融科技",
     "research_methods": "行政微观数据；机器学习；因果推断",
     "why_track": "银行与非银监管、金融稳定和数据方法均处于前沿。",
-    "profile_url": "https://www.nber.org/papers/w34991",
+    "profile_url": "https://www.nber.org/people/amit_seru",
     "gs_profile_url": "https://scholar.google.com/citations?user=fLDBx0YAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -980,7 +992,7 @@
     "research_topics": "私人信贷基金资产负债表、金融稳定",
     "research_methods": "基金资产级数据；金融中介实证",
     "why_track": "2026年私人信贷基金杠杆、融资结构和金融稳定研究的核心作者。",
-    "profile_url": "https://www.nber.org/papers/w34991",
+    "profile_url": "https://www.nber.org/people/gregor_matvos",
     "gs_profile_url": "https://scholar.google.com/citations?user=WxpAqy8AAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1002,7 +1014,7 @@
     "research_topics": "私人信贷、银行资本、BDC压力测试、金融稳定",
     "research_methods": "基金与贷款数据；公司金融；监管套利实证",
     "why_track": "近年直接研究银行资本是否推动私人信贷增长，以及私人信贷基金在极端压力下的韧性，与你的研究高度重合。",
-    "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749",
+    "profile_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13567",
     "gs_profile_url": "https://scholar.google.com/citations?user=VBBjgXsAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1015,7 +1027,7 @@
       },
       {
         "type": "faculty_citations",
-        "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749"
+        "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13567"
       }
     ],
     "tracking_status": "active"
@@ -1028,7 +1040,7 @@
     "research_topics": "私人信贷技术、企业债务、信贷周期",
     "research_methods": "企业微观数据；自然实验；宏观金融",
     "why_track": "研究直接贷款机构筛选与监控技术，质量和方法均属顶级。",
-    "profile_url": "https://www.nber.org/papers/w34500",
+    "profile_url": "https://www.nber.org/people/amir_sufi",
     "gs_profile_url": "https://scholar.google.com/citations?user=s3bu-yAAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1098,7 +1110,7 @@
     "research_topics": "影子银行、MMF、资产管理、货币政策",
     "research_methods": "基金持仓；资产定价；金融中介理论",
     "why_track": "MMF、短期融资和影子银行摩擦的持续核心作者。",
-    "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=46339",
+    "profile_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538",
     "gs_profile_url": "https://scholar.google.com/citations?user=1eX-pScAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1270,7 +1282,7 @@
     "research_topics": "私人信贷、住房金融、银行监管",
     "research_methods": "大规模微观数据；结构与因果实证",
     "why_track": "私人信贷基金资产负债表研究和信贷市场数据方法的核心作者。",
-    "profile_url": "https://www.nber.org/papers/w34991",
+    "profile_url": "https://www.nber.org/people/tomasz_piskorski",
     "gs_profile_url": "https://scholar.google.com/citations?user=ohMQeuwAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1402,7 +1414,7 @@
     "research_topics": "非银直贷、私人债务基金回报、银行竞争",
     "research_methods": "公司金融数据；基金回报；因果实证",
     "why_track": "私人信贷借款人与基金绩效研究的重要作者。",
-    "profile_url": "https://www.nber.org/papers/w32278",
+    "profile_url": "https://www.nber.org/people/isil_erel",
     "gs_profile_url": "https://scholar.google.com/citations?user=lyaGjecAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1544,7 +1556,7 @@
     "research_topics": "私人债务基金、直接贷款技术、金融稳定",
     "research_methods": "基金调查；企业数据；借贷技术",
     "why_track": "近年私人信贷研究中最活跃的新一代作者之一。",
-    "profile_url": "https://www.nber.org/papers/w34500",
+    "profile_url": "https://www.nber.org/people/young_soo_jang",
     "tracking_methods": [
       {
         "type": "nber_author",
@@ -1561,7 +1573,7 @@
     "research_topics": "私人信贷、直贷机构、监管数据",
     "research_methods": "行政数据；企业微观数据；因果实证",
     "why_track": "使用新型数据识别私人信贷的筛选和监控技术。",
-    "profile_url": "https://www.nber.org/papers/w34500",
+    "profile_url": "https://www.nber.org/people/dskim8001",
     "gs_profile_url": "https://scholar.google.com/citations?user=4ORC05wAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1601,7 +1613,7 @@
     "research_topics": "非银直贷、贷款定价与非价格条款",
     "research_methods": "贷款数据；合同条款；公司金融",
     "why_track": "研究企业为何选择非银直接贷款的RFS作者。",
-    "profile_url": "https://www.nber.org/papers/w26458",
+    "profile_url": "https://www.nber.org/people/robert_prilmeier",
     "gs_profile_url": "https://scholar.google.com/citations?user=SNAZWn8AAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1623,7 +1635,7 @@
     "research_topics": "私人信贷、非银借贷、金融科技",
     "research_methods": "全球数据；自然实验；银行与非银比较",
     "why_track": "BIS近年私人信贷和非银危机贷款研究的高产作者。",
-    "profile_url": "https://www.bis.org/publ/qtrpdf/r_qt2503b.htm",
+    "profile_url": "https://www.bis.org/author/sebastian_doerr.htm",
     "gs_profile_url": "https://scholar.google.com/citations?user=cZsgevwAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1677,7 +1689,7 @@
     "research_topics": "MMF、repo、稳定币挤兑",
     "research_methods": "基金与交易数据；事件研究；央行研究",
     "why_track": "稳定币—MMF比较和短期资金市场研究的核心作者。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.newyorkfed.org/research/economists/Cipriani",
     "gs_profile_url": "https://scholar.google.com/citations?user=rIXXVHsAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1695,7 +1707,7 @@
     "research_topics": "MMF、货币政策、稳定币",
     "research_methods": "基金流量；交易数据；货币传导",
     "why_track": "持续研究MMF和稳定币流量及货币政策冲击。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.newyorkfed.org/research/economists/laspada",
     "gs_profile_url": "https://scholar.google.com/citations?user=XUctCF8AAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1713,7 +1725,7 @@
     "research_topics": "银行挤兑、稳定币、系统性风险",
     "research_methods": "实时支付数据；挤兑识别；金融稳定",
     "why_track": "挤兑微观数据和稳定币研究的方法非常前沿。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.newyorkfed.org/research/economists/Eisenbach",
     "gs_profile_url": "https://scholar.google.com/citations?user=ZGtZXDoAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1731,12 +1743,16 @@
     "research_topics": "稳定币、MMF、资产管理风险",
     "research_methods": "基金和链上数据；政策实证",
     "why_track": "稳定币与MMF挤兑比较的核心作者。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
+    "profile_url": "https://www.bostonfed.org/people/bank/ken-e-anadu.aspx",
     "gs_profile_url": "https://scholar.google.com/citations?user=xJeOxNoAAAAJ&hl=en",
     "tracking_methods": [
       {
         "type": "google_scholar",
         "gs_user_id": "xJeOxNoAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.bostonfed.org/people/bank/ken-e-anadu.aspx"
       }
     ],
     "tracking_status": "active"
@@ -1767,7 +1783,7 @@
     "research_topics": "稳定币挤兑、基金流动性、银行—基金联系",
     "research_methods": "链上数据；资产定价；金融中介",
     "why_track": "稳定币挤兑与套利集中研究的前沿作者。",
-    "profile_url": "https://www.nber.org/papers/w33882",
+    "profile_url": "https://www.nber.org/people/yiming_ma",
     "gs_profile_url": "https://scholar.google.com/citations?user=G4o6XuQAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1789,7 +1805,7 @@
     "research_topics": "稳定币挤兑、基金脆弱性、金融中介",
     "research_methods": "理论模型；链上数据；基金研究",
     "why_track": "稳定币挤兑和开放式基金脆弱性的高质量年轻作者。",
-    "profile_url": "https://www.nber.org/papers/w33882",
+    "profile_url": "https://www.nber.org/people/yao_zeng1",
     "gs_profile_url": "https://scholar.google.com/citations?user=1t2OwPsAAAAJ&hl=en",
     "tracking_methods": [
       {
@@ -1889,7 +1905,7 @@
     "research_topics": "稳定币去中介化、DeFi、支付与银行",
     "research_methods": "交易级链上—银行支付数据；理论模型",
     "why_track": "2026年直接识别稳定币对银行存款、流动性和贷款的影响。",
-    "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1185",
+    "profile_url": "https://www.newyorkfed.org/research/economists/mlee",
     "gs_profile_url": "https://scholar.google.com/citations?user=J1FU07cAAAAJ&hl=en",
     "tracking_methods": [
       {
