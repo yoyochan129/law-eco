@@ -121,22 +121,29 @@ SOURCES = [
         "note": "网页本身是前端JS渲染无法直接抓取,但底层Drupal JSON:API "
                 "(www.ecgi.global/jsonapi/node/working_paper) 公开可访问,已改为通过该接口抓取",
     },
-    # ---------------- 暂不可自动抓取(记录原因) ----------------
+    # ---------------- 可自动抓取 (IDEAS/RePEc 公开镜像) ----------------
     {
         "id": "nyfed_staff_reports",
         "name": "Federal Reserve Bank of New York staff report",
-        "type": "pending",
+        "type": "repec_series",
+        "repec_list_url": "https://ideas.repec.org/s/fip/fednsr.html",
+        "repec_path_prefix": "/p/fip/fednsr/",
         "page_url": "https://www.newyorkfed.org/research/staff_reports/index.html",
-        "status": "pending",
-        "reason": "报告列表由前端JS动态渲染,静态HTML中无法解析出具体报告链接,需后续接入无头浏览器或官方API",
+        "status": "active",
+        "note": "官网由Akamai机器人防护+前端JS渲染保护,无法直接抓取;"
+                "改为通过 IDEAS/RePEc 的公开镜像(ideas.repec.org/s/fip/fednsr.html)抓取,"
+                "详情页citation_*元标签含完整标题/作者/摘要/关键词/日期",
     },
     {
         "id": "bis_bulletin",
         "name": "BIS bulletin",
-        "type": "pending",
+        "type": "repec_series",
+        "repec_list_url": "https://ideas.repec.org/s/bis/bisblt.html",
+        "repec_path_prefix": "/p/bis/bisblt/",
         "page_url": "https://www.bis.org/bisbulletins/index.htm",
-        "status": "pending",
-        "reason": "该页面为前端SPA(JS动态加载),curl/requests仅能取到空壳HTML,暂无对应RSS,需后续接入无头浏览器",
+        "status": "active",
+        "note": "官网页面为前端SPA(JS动态加载)且无对应RSS;"
+                "改为通过 IDEAS/RePEc 的公开镜像(ideas.repec.org/s/bis/bisblt.html)抓取",
     },
     {
         "id": "coase_sandor",

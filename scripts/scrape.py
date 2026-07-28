@@ -303,12 +303,69 @@ def parse_ecgi(source):
     return items
 
 
+def parse_repec_series(source):
+    """通过 IDEAS/RePEc 镜像抓取列表(原官网有反爬保护,但RePEc公开镜像可直接访问)。
+    source 需提供 repec_list_url 与 repec_path_prefix (如 /p/fip/fednsr/)。
+    """
+    items = []
+    try:
+        resp = requests.get(source["repec_list_url"], headers=HEADERS, timeout=TIMEOUT)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        prefix = source["repec_path_prefix"]
+        for a in soup.select(f'a[href*="{prefix}"]'):
+            if a.parent.name != "b":
+                continue  # 排除"By citations"/"By downloads"排序链接
+            title = a.get_text(strip=True)
+            href = a["href"]
+            if not title or not href:
+                continue
+            full_url = "https://ideas.repec.org" + href if href.startswith("/") else href
+            items.append({
+                "title": title,
+                "authors": "",
+                "abstract": "",
+                "keywords": [],
+                "url": full_url,
+                "source": source["name"],
+                "publish_date": "",
+            })
+    except Exception as exc:
+        print(f"[warn] RePEc fetch failed for {source['name']}: {exc}")
+    return items
+
+
+def enrich_repec_citation(item):
+    """RePEc详情页: 通过 Highwire 风格 citation_* meta标签提取标题/作者/摘要/关键词/日期"""
+    soup = fetch_soup(item["url"])
+    if not soup:
+        return item
+
+    def meta(name):
+        tag = soup.find("meta", attrs={"name": name})
+        return tag["content"].strip() if tag and tag.get("content") else ""
+
+    abstract = meta("citation_abstract")
+    if abstract:
+        item["abstract"] = abstract
+    authors = meta("citation_authors")
+    if authors:
+        item["authors"] = ", ".join(a.strip() for a in authors.split(";") if a.strip())
+    keywords = meta("citation_keywords")
+    if keywords:
+        item["keywords"] = [k.strip() for k in keywords.split(";") if k.strip()]
+    pub_date = meta("citation_publication_date")
+    if pub_date:
+        item["publish_date"] = pub_date
+    return item
+
+
 PARSERS = {
     "rss": parse_rss_generic,
     "rss_filtered": parse_rss_filtered,
     "html_safe": parse_html_safe,
     "html_yalejreg": parse_html_yalejreg,
     "ecgi_jsonapi": parse_ecgi,
+    "repec_series": parse_repec_series,
 }
 
 
@@ -377,6 +434,8 @@ ENRICHERS = {
     "bis_wp": enrich_bis_wp,
     "safe_wp": enrich_safe,
     "yale_jreg": enrich_yalejreg,
+    "nyfed_staff_reports": enrich_repec_citation,
+    "bis_bulletin": enrich_repec_citation,
 }
 
 
