@@ -111,15 +111,17 @@ SOURCES = [
         "page_url": "https://www.yalejreg.com/",
         "status": "active",
     },
-    # ---------------- 暂不可自动抓取(记录原因) ----------------
+    # ---------------- 可自动抓取 (Drupal JSON:API) ----------------
     {
         "id": "ecgi_wp",
         "name": "European Corporate Governance Institute (ECGI) working paper",
-        "type": "pending",
+        "type": "ecgi_jsonapi",
         "page_url": "https://www.ecgi.global/publications/working-papers",
-        "status": "pending",
-        "reason": "论文列表通过前端JS/数据库动态加载,静态HTTP请求无法获取列表,需后续接入无头浏览器或ECGI/SSRN API",
+        "status": "active",
+        "note": "网页本身是前端JS渲染无法直接抓取,但底层Drupal JSON:API "
+                "(www.ecgi.global/jsonapi/node/working_paper) 公开可访问,已改为通过该接口抓取",
     },
+    # ---------------- 暂不可自动抓取(记录原因) ----------------
     {
         "id": "nyfed_staff_reports",
         "name": "Federal Reserve Bank of New York staff report",

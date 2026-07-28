@@ -232,11 +232,83 @@ def parse_html_yalejreg(source):
     return uniq
 
 
+def parse_ecgi(source):
+    """ECGI working papers: 通过Drupal公开的 JSON:API 抓取(网页本身是前端JS渲染,
+    但底层 https://www.ecgi.global/jsonapi/node/working_paper 端点可直接访问)"""
+    items = []
+    api_url = "https://www.ecgi.global/jsonapi/node/working_paper"
+    params = {
+        "sort": "-created",
+        "page[limit]": 50,
+        "include": "field_authors.field_p_member,field_working_keywords",
+    }
+    try:
+        resp = requests.get(api_url, params=params, headers=HEADERS, timeout=TIMEOUT)
+        d = resp.json()
+    except Exception as exc:
+        print(f"[warn] ECGI JSON:API 请求失败: {exc}")
+        return items
+
+    if "errors" in d:
+        print(f"[warn] ECGI JSON:API 返回错误: {d['errors']}")
+        return items
+
+    included = {inc["id"]: inc for inc in d.get("included", [])}
+
+    def resolve_authors(item):
+        names = []
+        refs = item["relationships"].get("field_authors", {}).get("data", [])
+        for ref in refs:
+            member = included.get(ref["id"])
+            if not member:
+                continue
+            user_ref = member.get("relationships", {}).get("field_p_member", {}).get("data")
+            if not user_ref:
+                continue
+            user = included.get(user_ref["id"])
+            if not user:
+                continue
+            name = user["attributes"].get("display_name", "")
+            name = re.sub(r"\s*-\s*\d+$", "", name).strip()
+            if name:
+                names.append(name)
+        return names
+
+    def resolve_keywords(item):
+        kws = []
+        refs = item["relationships"].get("field_working_keywords", {}).get("data", [])
+        for ref in refs:
+            term = included.get(ref["id"])
+            if term:
+                kws.append(term["attributes"]["name"])
+        return kws
+
+    for item in d.get("data", []):
+        a = item["attributes"]
+        title = clean_html(a.get("title", "")).strip()
+        path = (a.get("path") or {}).get("alias", "")
+        if not title or not path:
+            continue
+        full_url = "https://www.ecgi.global" + path
+        abstract = clean_html((a.get("field_abstract") or {}).get("value", ""))
+        items.append({
+            "title": title,
+            "authors": ", ".join(resolve_authors(item)),
+            "abstract": abstract[:1200],
+            "keywords": resolve_keywords(item),
+            "url": full_url,
+            "source": source["name"],
+            "publish_date": a.get("field_working_date_posted") or a.get("created", ""),
+        })
+    return items
+
+
 PARSERS = {
     "rss": parse_rss_generic,
     "rss_filtered": parse_rss_filtered,
     "html_safe": parse_html_safe,
     "html_yalejreg": parse_html_yalejreg,
+    "ecgi_jsonapi": parse_ecgi,
 }
 
 
