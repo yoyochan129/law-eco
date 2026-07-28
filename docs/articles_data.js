@@ -23,7 +23,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.581289+00:00"
+    "date_added": "2026-07-28T13:25:00.581289+00:00",
+    "title_zh": "关于拟议半年度报告规则的评论信",
+    "abstract_zh": "由 ValueEdge Advisors 的 Nell Minow 于 2026 年 7 月 28 日星期二发布 编者注：Nell Minow 是 ValueEdge Advisors 的副主席。 This post is based on her SEC comment letter. I write in strong opposition to the proposal to reduce reporting to file semiannual reports on the new Form 10-S in lieu of quarterly reports on Form 10-Q.我注意到这完全是我自己准备的，没有人工智能或任何法学硕士的帮助。 I agree with many of the thoughtful comments from investors, like the excellent comment from Marcie Frost, CEO of CalPERS, especially this: If the Commission’s objective is to lengthen corporate decision-making horizons, then the more effective and well-targeted lever, as we have urged in prior comment letters, is to discourage the voluntary issuance of forward quarterly earnings guidance, not to dilute the historical financial reporting on which investors depend. （更多的…）"
   },
   {
     "title": "The Delaware Supreme Court Issues a 3-2 Split Decision Allowing Post-Demand Evidence to Be Admissible in Section 220 Actions",
@@ -50,7 +52,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.581441+00:00"
+    "date_added": "2026-07-28T13:25:00.581441+00:00",
+    "title_zh": "特拉华州最高法院以 3 比 2 的分歧做出裁决，允许在第 220 条诉讼中采纳请求后证据",
+    "abstract_zh": "发布者：Lauren Rosenello 和 Tanisha Brown, Skadden, Arps, Slate, Meagher & Flom LLP，于 2026 年 7 月 28 日星期二编者注：Lauren Rosenello 是 Skadden, Arps, Slate, Meagher & Flom LLP 的律师，Tanisha Brown 是律师。这篇文章基于他们的世达备忘录，是特拉华州法律系列的一部分；此处提供了该系列其他帖子的链接。多年来，特拉华州最高法院曾出现过几起引人注目的分歧裁决，但在涉及查阅账簿和记录的问题上，法官们以 3 比 2 的分歧是罕见的。 2026 年 3 月 25 日，特拉华州最高法院多数派意见分歧，认为在特殊情况下，衡平法院在分析股东是否有可信依据怀疑存在不当行为时，可以考虑第 220 条背景下的要求后证据。法官加里·F·特雷纳 (Gary F. Traynor) 撰写了多数意见，并裁定，“[8 Del. C.] 第 220 条的文本中没有任何内容禁止考虑需求后证据”，全面禁止可能会导致效率低下，例如更新需求和投诉的重复过程。 [1] 首席大法官小柯林斯·塞茨 (Collins J. Seitz, Jr.)"
   },
   {
     "title": "What You are Likely to Hear in the Boardroom: External Forces Reshaping Executive Compensation",
@@ -76,7 +80,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.581572+00:00"
+    "date_added": "2026-07-28T13:25:00.581572+00:00",
+    "title_zh": "您可能在董事会中听到的内容：外部力量重塑高管薪酬",
+    "abstract_zh": "由 Pay Governance LLC 的 Steve DeMaria 和 Lane Ringlee 于 2026 年 7 月 27 日星期一发布 编者注：Steve DeMaria 是 Pay Governance LLC 的顾问，Lane Ringlee 是合伙人。这篇文章基于他们的薪酬治理备忘录。要点 围绕高管薪酬的外部环境正在迅速变化。经济不确定性、不断变化的 SEC 优先事项、股东激进主义以及代理投票做法的转变，正在为薪酬委员会在准备 2026-2027 年代理季节时带来新的考虑因素。在这个由两部分组成的观点系列的第 1 部分中，我们研究： 外部环境和监管环境 1. 经济不确定性、供应限制和……股市高点？ 2. 披露要求即将发生的变化 3. 排除股东提案的影响 投资者格局和代理投票动态 4. 不断变化的薪酬发言权投票环境 5. 基于人工智能的代理投票的出现 第 2 部分将回顾薪酬策略的主要趋势。 （更多的…）"
   },
   {
     "title": "Narrow Supreme Court Ruling Allows SEC to Obtain Disgorgement, But Leaves Questions Unresolved",
@@ -101,7 +107,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.581697+00:00"
+    "date_added": "2026-07-28T13:25:00.581697+00:00",
+    "title_zh": "最高法院的狭隘裁决允许 SEC 获得没收赃款，但留下了未解决的问题",
+    "abstract_zh": "由 McDermott Will & Schulte 的 Caitlyn Campbell、John Nowak 和 Paul Helms 于 2026 年 7 月 27 日星期一发布 编者注：Caitlyn Campbell、John Nowak 和 Paul Helms 是 McDermott Will & Schulte 的合伙人。本文基于坎贝尔女士、诺瓦克先生、赫尔姆斯先生和加布里埃尔·格罗斯先生撰写的麦克德莫特备忘录。概述 2026 年 6 月 4 日，最高法院在 Sripetch 诉 SEC 案中一致认为，美国证券交易委员会 (SEC) 无需证明投资者在获得非法所得之前遭受了金钱损失。在此过程中，法院解决了美国第一巡回上诉法院和第九巡回上诉法院（两者都允许在没有投资者损失证据的情况下返还非法所得）和第二巡回上诉法院（需要提供此类证明）之间的巡回分歧。然而，最高法院的判决范围明显狭窄，并没有解决有关 SEC 没收权力的范围和宪法地位的几个重大问题，为被告创造了调查和诉讼机会。 （更多的…）"
   },
   {
     "title": "New Day, New Rules: Five Key Aspects of Amended DGCL Section 144 and Section 220",
@@ -129,7 +137,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-26",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.581841+00:00"
+    "date_added": "2026-07-28T13:25:00.581841+00:00",
+    "title_zh": "新的一天，新的规则：修订后的 DGCL 第 144 条和第 220 条的五个关键方面",
+    "abstract_zh": "作者：Edward Micheletti、Jenness Parker 和 Lauren Rosenello, Skadden, Arps, Slate, Meagher & Flom LLP，发布于 2026 年 7 月 26 日星期日 编者注：Edward Micheletti 和 Jenness Parker 是 Skadden, Arps, Slate, Meagher & Flom LLP 的合伙人，Lauren Rosenello 是 Skadden, Arps, Slate, Meagher & Flom LLP 的律师。这篇文章基于他们的 Skadden 备忘录，是特拉华州法律系列的一部分；此处提供了该系列其他帖子的链接。 2025 年春季，特拉华州参议院第 21 号法案 (SB21) 引发了激烈辩论，该法案提出了新的特拉华州修正案，解决控制人与董事会的冲突以及账簿和记录的访问问题。这些修正案被编入修订后的第 144 条和第 220 条，旨在提供更大的可预测性，同时也限制过度诉讼。修订后的第 144 条为涉及董事会或控股股东的冲突交易设立了法定安全港。修订后的第 220 条旨在限制广泛的股东检查权。总体而言，公司律师协会将这些规定视为公司从业者的一项稳定措施，为账簿和记录要求以及交易提供了更大的清晰度和确定性。"
   },
   {
     "title": "Delaware Chancery Clarifies Implied Covenant Limits",
@@ -154,12 +164,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Sat, 25 Jul 2026 11:30:11 +0000",
     "id": "24683836f9eb91f2",
     "topics": [
+      "合同",
       "司法和执法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "合同",
     "publish_date_norm": "2026-07-25",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.581972+00:00"
+    "date_added": "2026-07-28T13:25:00.581972+00:00",
+    "title_zh": "特拉华州衡平法院澄清隐含的契约限制",
+    "abstract_zh": "作者：Gail Weinstein、Philip Richter 和 Steven Epstein，Fried, Frank, Harris, Shriver & Jacobson LLP，于 2026 年 7 月 25 日星期六编者注：Gail Weinstein 是高级法律顾问，Philip Richter 是合伙人兼并购和私募股权业务联席主管，Steven Epstein 是 Fried, Frank, Harris, Shriver & Jacobson LLP 的执行合伙人。本文基于韦恩斯坦女士、里克特先生、爱泼斯坦先生、罗伊·坦南鲍姆、亚当·科恩和丽莎·安德鲁斯撰写的弗里德·弗兰克备忘录，是特拉华州法律系列的一部分；此处提供了该系列其他帖子的链接。要点 该判决澄清，一方利用合同缺口“故意损害”对方的行为可能构成对默示承诺的违反。法院驳回了 ASM 的论点，即双方故意在 ASM 为获得同意而付出的努力方面留下了合同空白，以便将房东因任何原因未给予同意的风险分配给卖方。法院表示，在抗辩阶段，可以合理地想象，如果协议中没有规定努力标准，ASM 可能会对土地持有中立态度。"
   },
   {
     "title": "Comment Letter on the SEC’s Proposal to Replace Quarterly Reporting with Semiannual Reporting",
@@ -190,7 +203,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582105+00:00"
+    "date_added": "2026-07-28T13:25:00.582105+00:00",
+    "title_zh": "关于 SEC 以半年度报告取代季度报告的提案的评论信",
+    "abstract_zh": "由挪威银行投资管理公司 Carine Smith Ihenacho 和 Snorre Gjerde 于 2026 年 7 月 24 日星期五发布 编者注：Carine Smith Ihenacho 是挪威银行投资管理公司的首席治理与合规官，Snorre Gjerde 是首席投资管理经理。这篇文章是基于他们的 SEC 评论信。我们参考美国证券交易委员会 (SEC) 就拟议修正案征求意见的请求，该修正案允许公司提交新 10-S 表格的半年度报告，而不是 10-Q 表格的季度报告，以履行 1934 年《证券交易法》规定的中期报告义务。我们很高兴有机会发表我们的观点。挪威银行投资管理公司（NBIM）是挪威中央银行的投资管理部门，负责管理挪威政府全球养老基金。我们致力于为子孙后代维护和创造金融财富。截至2025年底，我们管理的资产超过2万亿美元，其中美国是我们最大的市场，占总投资的53%。在我们的股票投资组合中，8,220 亿美元投资于 1,306 家美国上市公司的股票。我们是一分钟"
   },
   {
     "title": "Weekly Roundup: July 17-23, 2026",
@@ -210,7 +225,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582232+00:00"
+    "date_added": "2026-07-28T13:25:00.582232+00:00",
+    "title_zh": "每周综述：2026 年 7 月 17 日至 23 日",
+    "abstract_zh": "哈佛法学院公司治理论坛于 2026 年 7 月 24 日星期五发布 编者注：本综述包含 2026 年 7 月 17 日至 23 日这一周期间在论坛上发布的帖子集合 阿特金斯主席关于监管电子交付的声明 由美国证券交易委员会保罗·阿特金斯于 2026 年 7 月 17 日星期五发布 标签：数字通信、电子交付, 电子通信 , 电子交付 , 投资者披露 , 纸质披露 , 监管电子交付 , 监管现代化 , SEC , SEC 规则制定 , 证券监管 关于 SEC 以半年度报告取代季度报告的提案的评论信 由礼来公司 Donald A. Zakrowski 于 2026 年 7 月 18 日星期六发表 标签： 公司披露 , 表格 10-S , 规则10b5-1 , SEC 规则制定 , 半年度报告 SEC 的注册发行改革提案：扩大公共资本市场准入 由 Adam Johnson 和 Drew Valentine, White & Case LLP 于 2026 年 7 月 19 日星期日发布 标签：资本市场 , S-3 表格 , 上市公司 , 注册发行 , SEC , 证券监管 大法官办公室发现阻止公司融资的潜在责任 Desp"
   },
   {
     "title": "Emission Impossible: Corporate Climate Goals Moving from Adoption to Execution",
@@ -230,12 +247,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 23 Jul 2026 11:32:28 +0000",
     "id": "0b60c273d050e0d8",
     "topics": [
-      "其他"
+      "公司治理",
+      "绿色金融"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582363+00:00"
+    "date_added": "2026-07-28T13:25:00.582363+00:00",
+    "title_zh": "排放不可能：企业气候目标从采用转向执行",
+    "abstract_zh": "由世界大型企业联合会 Matteo Tonello 于 2026 年 7 月 23 日星期四发布 编者注：Matteo Tonello 是世界大型企业联合会数据基准测试和分析主管。本文基于世界大型企业联合会与 ESGAUGE 合作开发的一份报告，由世界大型企业联合会治理与可持续发展中心首席研究员 Andrew Jones 撰写。本报告利用美国上市公司的高管见解和披露数据来评估企业气候目标的可信度、排放趋势的偏离程度以及企业领导者应采取哪些措施来更有效地管理、跟踪和传达气候承诺。 Trusted Insights for What's Ahead® 设定气候目标是大公司的主流做法。约 84% 的标准普尔 500 指数公司披露了 2025 年的气候目标，而罗素 3000 指数公司的这一比例为 34%。许多气候目标都面临风险。自 2021 年以来，在标普 500 指数公司中，约有 58% 的目标范围为 1（运营直接排放），62% 的公司为范围 3（间接价值链排放）目标，排放量持平或上升，而接受调查的可持续发展领导者中，只有 24% 对自己的目标充满信心"
   },
   {
     "title": "The 2026 Shareholder Proposal Exclusion Experience and Takeaways for the 2027 Season",
@@ -262,7 +282,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582482+00:00"
+    "date_added": "2026-07-28T13:25:00.582482+00:00",
+    "title_zh": "2026年股东提案排除经验和2027年的要点",
+    "abstract_zh": "作者：Marc S. Gerber 和 Jeongu Gim, Skadden, Arps, Slate, Meagher & Flom LLP，于 2026 年 7 月 23 日星期四编者注：Marc S. Gerber 是 Skadden, Arps, Slate, Meagher & Flom LLP 的合伙人，Jeongu Gim 是律师。这篇文章基于他们的世达备忘录。执行摘要 新变化：根据 SEC 工作人员对公司排除股东提案的不干涉做法，排除股东提案的公司在 2026 年经历了诉讼、根据提前通知章程提交提案的威胁以及董事投票支持率降低的风险。为什么重要：SEC 工作人员的不干涉做法预计将在 2027 年代理季继续下去。本次代理季的公司经验将为公司在即将到来的代理季采取的方法提供参考。下一步做什么：公司将希望审查排除的依据，根据 2026 年的经验评估风险，并且在选择排除的情况下，明确解释排除的依据，以尽量减少不良反应的风险。 （更多的…）"
   },
   {
     "title": "Remarks by Chair Atkins on Revitalizing Public Markets and Expanding Small Business Access to the IPO Market",
@@ -287,7 +309,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582603+00:00"
+    "date_added": "2026-07-28T13:25:00.582603+00:00",
+    "title_zh": "阿特金斯主席关于振兴公共市场和扩大小企业进入 IPO 市场的讲话",
+    "abstract_zh": "作者：Paul Atkins，美国证券交易委员会，2026 年 7 月 22 日星期三 编者注：Paul S. Atkins 是美国证券交易委员会主席。这篇文章是基于他最近的言论。帖子中表达的观点是阿特金斯主席的观点，并不一定反映证券交易委员会或其工作人员的观点。早上好，女士们先生们，感谢你们今天来到这里。首先，我谨热烈欢迎委员会新成员安雅·科弗曼 (Anya Coverman)、约瑟夫·卢科斯基 (Joseph Lucosky)、安德鲁·普里斯泰 (Andrew Prystai)、罗德里戈·塞拉 (Rodrigo Seira) 和埃里克·西弗森 (Erik Syvertsen)。我确信，在我们努力拓宽小企业融资渠道的过程中，你们的集体专业知识和许多贡献将是无价的。今天，我们转向这个目标，因为委员会继续审议我认为是摆在我们面前最重要的一个问题：如何激励更多公司——尤其是那些小型和成长型公司——上市并保持上市地位。 （更多的…）"
   },
   {
     "title": "The Enduring Value Of Holding Ourselves To Our Enduring Values: A Reflection Honoring The OECD’s Guidelines For Multinational Enterprises On Responsible Business Conduct",
@@ -312,7 +336,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582738+00:00"
+    "date_added": "2026-07-28T13:25:00.582738+00:00",
+    "title_zh": "坚守持久价值观的持久价值：尊重经合组织跨国企业负责任商业行为准则的反思",
+    "abstract_zh": "由 Leo E. Strine, Jr.（宾夕法尼亚大学凯里法学院）于 2026 年 7 月 22 日星期三发布 编者注：Leo E. Strine, Jr. 是宾夕法尼亚大学凯里法学院法律和政策领域的 Michael L. Wachter 杰出研究员，也是特拉华州前首席大法官和校长。这篇文章是基于他最近的论文。今年是经合组织《跨国公司负责任商业行为准则》发布 50 周年，该准则是美国、其他经合组织国家以及其他 52 个签署国所遵守的原则，这些国家涵盖了世界经济活动的近三分之二以及大多数以市场为基础的民主国家。在这组简短的讲话中，我很荣幸能够为企业、劳工和政府利益相关者的主要代表讨论加强该准则的重要性和方法奠定基础。我们聚集在经合组织国家的公民有理由对政治和商业领袖是否值得信任持怀疑态度的时候。面对人为造成的无可争议的证据"
   },
   {
     "title": "Are AI Legal Chats by Non-Lawyer Officers and Directors Discoverable?",
@@ -338,12 +364,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 22 Jul 2026 11:30:35 +0000",
     "id": "bfb859e4e3904bd2",
     "topics": [
-      "司法和执法"
+      "司法和执法",
+      "公司并购"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582866+00:00"
+    "date_added": "2026-07-28T13:25:00.582866+00:00",
+    "title_zh": "非律师官员和董事的人工智能法律聊天是否可被发现？",
+    "abstract_zh": "作者：Gail Weinstein、Philip Richter 和 Steven Epstein，Fried, Frank, Harris, Shriver & Jacobson LLP，于 2026 年 7 月 22 日星期三编者注：Gail Weinstein 是高级法律顾问，Philip Richter 是合伙人兼并购和私募股权业务联席主管，Steven Epstein 是 Fried, Frank, Harris, Shriver & Jacobson LLP 的执行合伙人。本文基于 Weinstein 女士、Richter 先生、Epstein 先生、Steven J. Steinman、Randi Lally 和 Colum J. Weiden 撰写的 Fried Frank 备忘录，是特拉华州法律系列的一部分；此处提供了该系列其他帖子的链接。人们可能会认为答案并不复杂——比如，根据律师-委托人特权或律师工作产品原则，此类对话不会受到保护而不被发现，因为人工智能不是律师。但法院才刚刚开始解决这个问题，答案也各不相同：在《美国诉赫普纳》（S.D.N.Y.，2026 年 2 月 17 日）一案中，纽约联邦地方法院认为，刑事被告与消费者版克劳德的交流是可以被发现的，而这些交流并非由他的律师指导。并且，在 Fortis Advisors v. Krafton (Del. Ct. Ch. M"
   },
   {
     "title": "Governance Proposals Dominate the 2026 Proxy Season",
@@ -371,7 +400,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.582990+00:00"
+    "date_added": "2026-07-28T13:25:00.582990+00:00",
+    "title_zh": "治理提案主导 2026 年代理季",
+    "abstract_zh": "由 ISS STOXX 的 Subodh Mishra 于 2026 年 7 月 21 日星期二发布 编者注：Subodh Mishra 是 ISS STOXX 的全球通讯主管。本文基于薪酬与治理咨询副总裁 Henry Mbom 撰写的 ISS-Corporate 备忘录；以及 ISS-Corporate 数据分析高级助理 Toby Huang。随着2026年美国股东投票季接近尾声，无论是提交投票的股东提案数量还是获得投资者支持的程度，都显示出股东提案格局与往年相比发生了巨大变化。 2025 年初，SEC 发布了第 14M 号员工法律公告 (SLB 14M)，修订了股东提案框架，并为发行人提供了更大的灵活性以获得无行动救济。这一变化在 2025 年代理季产生了重大影响，大大增加了投票中被遗漏的提案数量。在 2026 年代理季之前，股东提案格局进一步颠覆，SEC 企业财务部放弃了股东提案仲裁员的传统角色，拒绝审查大多数股东提案排除请求或表达意见。 （更多的…）"
   },
   {
     "title": "Disclosure Schedules are a Waste of Money",
@@ -391,12 +422,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 21 Jul 2026 11:30:46 +0000",
     "id": "14ddefb8b42afd82",
     "topics": [
+      "公司并购",
       "司法和执法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583099+00:00"
+    "date_added": "2026-07-28T13:25:00.583099+00:00",
+    "title_zh": "披露时间表是浪费钱",
+    "abstract_zh": "由 Melissa Sawyer 发布，2026 年 7 月 21 日星期二 编者注：Melissa Sawyer 是 Sullivan & Cromwell LLP 并购全球联席主管。本文是作者上一篇文章《合并协议太长》的续篇。在上市公司的并购交易中，目标公司的披露时间表通常包括有关目标公司及其业务的事实清单。大多数列出的项目要么是详细陈述和保证（“代表”）的例外情况，要么是代表特别要求列出的信息。例如，披露时间表可能包括目标公司所有注册商标的列表或目标公司所有未决诉讼事项的描述。由此产生的明细表可能长达数百页，从风险分配的角度来看，对于买家或目标来说几乎没有增加任何价值。交易撮合者应该从上市公司的并购策略中消除这种繁重的“树木杀手”。 （更多的…）"
   },
   {
     "title": "International Sustainability Reporting – Divergence and Equivalence",
@@ -420,7 +454,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-20",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583226+00:00"
+    "date_added": "2026-07-28T13:25:00.583226+00:00",
+    "title_zh": "国际可持续发展报告——分歧与等同",
+    "abstract_zh": "由德普律师事务所 (Debevoise & Plimpton LLP) 的 John Young、Ulysses Smith 和 Alfie Scott 于 2026 年 7 月 20 日星期一发布 编者注：John Young 是律师，Ulysses Smith 是 ESG 高级顾问，Alfie Scott 是德普律师事务所 (Debevoise & Plimpton LLP) 的律师。这篇文章基于他们的 Debevoise 备忘录。自 2024 年首次向企业应用欧盟企业可持续发展报告指令（“CSRD”）以来，已经启动了两个项目来制定详细的可持续发展报告标准：(i) 欧盟可持续发展报告标准，其中针对欧盟公司（“ESRS”）和非欧盟母公司集团（“N-ESRS”）根据 CSRD 进行报告制定了单独的标准；(ii) 国际可持续发展标准委员会（“ISSB”）发布的标准国际财务报告准则 (IFRS) 基金会。随着世界各国参考ISSB标准采用可持续发展报告标准，无论是直接采用这些标准还是制定源自ISSB的地方标准，世界各地的组织将参考不止一套标准来制定可持续发展报告。 [1] 各国和监管机构现在有机会解决分歧"
   },
   {
     "title": "What Sustainability Disclosures Actually Disclose",
@@ -452,7 +488,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-20",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583350+00:00"
+    "date_added": "2026-07-28T13:25:00.583350+00:00",
+    "title_zh": "可持续发展披露实际披露了什么",
+    "abstract_zh": "由 Hajin Kim（芝加哥大学法学院）于 2026 年 7 月 20 日星期一发布 编者注：Hajin Kim 是芝加哥大学法学院法学助理教授。这篇文章基于 Kim 教授最近的一篇工作论文；李宁子，芝加哥大学组织与战略学兼职助理教授； Ronen Feldman，希伯来大学数据科学教授； Yun Liu，芝加哥大学计算机科学硕士生；和尤瓦尔·费尔德曼 (Yuval Feldman)，巴伊兰大学法律研究莫里·拉扎罗夫 (Mori Lazarof) 教授。社会在自愿企业可持续发展报告方面投入了大量资金。从理论上讲，这些披露确实有效：它们可以帮助民间社会团体、分析师和其他利益相关者让企业对监管未触及的外部性负责，并且可以帮助市场对财务报表遗漏的风险进行定价。实际上，批评者认为这些报告纯粹是营销行为。它们往往缺乏信心，因此不可信，在公司之间或随着时间的推移无法进行比较，模糊而不是可验证，并且被精心挑选来屏蔽坏消息。整个行业都是围绕修复这些披露而发展起来的"
   },
   {
     "title": "Chancery Finds Potential Liability for Blocking Company Financings Despite Contractual Veto Rights",
@@ -473,13 +511,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 20 Jul 2026 11:30:39 +0000",
     "id": "bee50a646e4914f7",
     "topics": [
-      "司法和执法",
-      "公司治理"
+      "合同",
+      "司法和执法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "合同",
     "publish_date_norm": "2026-07-20",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583479+00:00"
+    "date_added": "2026-07-28T13:25:00.583479+00:00",
+    "title_zh": "尽管合同有否决权，大法官仍发现阻止公司融资的潜在责任",
+    "abstract_zh": "作者：Gail Weinstein、Philip Richter 和 Steven Epstein，Fried, Frank, Harris, Shriver & Jacobson LLP，于 2026 年 7 月 20 日星期一编者注：Gail Weinstein 是高级法律顾问，Philip Richter 是合伙人兼并购和私募股权业务联席主管，Steven Epstein 是 Fried, Frank, Harris, Shriver & Jacobson LLP 的执行合伙人。本文基于 Weinstein 女士、Richter 先生、Epstein 先生、Steven J. Steinman、Randi Lally 和 Colum J. Weiden 撰写的 Fried Frank 备忘录，是特拉华州法律系列的一部分；此处提供了该系列其他帖子的链接。在 Zync 诉保时捷等人一案（2026 年 5 月 29 日）中，特拉华州衡平法院在诉讼阶段拒绝驳回对 Zync, Inc.（“公司”）5% 股东保时捷以及保时捷公司董事会指定人员（“保时捷董事”）提出的有关阻止公司急需融资的索赔，尽管保时捷拥有合同否决权融资。据称，保时捷董事（融资需要获得批准）拒绝在未经保时捷事先批准的情况下采取行动；保时捷延迟提供或拒绝提供"
   },
   {
     "title": "The SEC’s Registered Offering Reform Proposal: Expanding Access to Public Capital Markets",
@@ -504,7 +544,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-19",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583598+00:00"
+    "date_added": "2026-07-28T13:25:00.583598+00:00",
+    "title_zh": "美国证券交易委员会的注册发行改革提案：扩大公共资本市场准入",
+    "abstract_zh": "作者：Adam Johnson 和 Drew Valentine，White & Case LLP，发布于 2026 年 7 月 19 日星期日 编者注：Adam Johnson 和 Drew Valentine 是 White & Case LLP 的合伙人。这篇文章基于他们的 White & Case 备忘录。在接下来的几个月里，美国证券交易委员会关于改革注册发行框架的提议可能是美国证券交易委员会简化公开发行要求并鼓励更多公司进入资本市场的议程的另一个重要组成部分。该提案于 2026 年 5 月 19 日获得 SEC 一致投票通过（“提案”，发布号 33-11418，文件号 S7-2026-17），可能是二十多年来对注册发行框架最重大的改革，旨在为许多上市公司提供比目前更高效、更具成本效益的公开市场融资途径，其理论基础是：发行人及时、最新的 SEC 报告对于确保充分披露比发行人的公众持股量或报告历史长度更为重要。 （更多的…）"
   },
   {
     "title": "Comment Letter on the SEC’s Proposal to Replace Quarterly Reporting with Semiannual Reporting",
@@ -530,7 +572,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-18",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583710+00:00"
+    "date_added": "2026-07-28T13:25:00.583710+00:00",
+    "title_zh": "关于 SEC 以半年度报告取代季度报告的提案的评论信",
+    "abstract_zh": "由礼来公司 Donald A. Zakrowski 于 2026 年 7 月 18 日星期六发布 编者注：Donald A. Zakrowski 是礼来公司财务高级副总裁兼首席会计官。本文基于他向 SEC 提交的评论信。礼来公司（“礼来公司”）很高兴有机会就美国证券交易委员会（“委员会”）于 2026 年 5 月 5 日发布的半年度报告拟议规则提交意见。礼来公司在全球范围内从事医药产品的发现、开发、制造、营销和销售。礼来公司成立于 1876 年，在纽约证券交易所上市已有 70 多年的历史，长期以来一直致力于向股东和投资大众透明、及时地披露信息。我们赞扬委员会为使《交易法》报告公司的财务报告环境现代化而采取的深思熟虑的举措。 （更多的…）"
   },
   {
     "title": "The Perverse Effect of Corporate Leniency Programs",
@@ -550,13 +594,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 28 Jul 2026 04:05:55 +0000",
     "id": "f7de6c352abd8e00",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "司法和执法",
+      "公司治理"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583836+00:00"
+    "date_added": "2026-07-28T13:25:00.583836+00:00",
+    "title_zh": "企业宽大处理计划的负面影响",
+    "abstract_zh": "公司法赋予公司拥有资产、签订合同、筹集资金和大规模运营的能力。公司做出的核心承诺是依法行事。然而，当违法行为难以被发现且处罚有限时，非法行为就可能有利可图。在一篇新论文中，我们分析了公司治理实践如何破坏薄弱的执法政策。一个很好的例子是向企业提供宽大处理以换取合作和实施合规计划或报告不当行为的承诺的政策。公司治理的标准方法侧重于确保管理者的行为符合股东的利益。在理想的世界中，执法部门将防止为了追求利润而伤害客户、员工、纳税人或公众。然而，当法律不完善或执行力薄弱时，内部治理机制可能会促使管理者从事营利性不当行为。决定如何解释和执行外部规则的政策可能会减少威慑力。这些政策可能会反常地激励管理者从事更严重的不当行为，从而在获取利润的同时实现利润最大化。"
   },
   {
     "title": "Entityness, Takeover Premiums, and Coase’s Error",
@@ -578,13 +624,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 27 Jul 2026 04:05:20 +0000",
     "id": "8f5c2eb831d18d0a",
     "topics": [
-      "公司治理",
-      "金融市场"
+      "公司并购",
+      "公司治理"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2026-07-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.583962+00:00"
+    "date_added": "2026-07-28T13:25:00.583962+00:00",
+    "title_zh": "实体性、收购溢价和科斯错误",
+    "abstract_zh": "在并购中，收购方必须向目标股东支付收购溢价。然而，令学术界大惑不解的是，这种普遍现实与理论相悖。现代金融经济学的两个基本思想是有效资本市场假说（ECMH）和资本资产定价模型（CAPM）。它们共同告诉我们：（1）一个有效的市场将所有公共信息纳入股票价格，从而将除私人信息之外的所有价值因素纳入其中，（2）公司的内在价值是根据 CAPM 计算的未来自由现金流的折现值，（3）因此，股票价格和内在价值应该是挂钩的，尽管股票价格可能会“嘈杂”。基本上接受这些事实，那么当股价被认为是“正确的”时，收购方总是支付溢价的普遍事实是什么呢？学术和实践的答案可以在企业理论和科斯错误中找到。理论答案对特拉华州合并规则具有实际意义。溢价的错误或不完整理论 由于溢价令人困惑，人们提出了一系列解释，例如：负倾斜需求曲线、私人信息、股东租金或“搭便车”、代理成本"
   },
   {
     "title": "Davis Polk Discusses DOJ’s Most Recent FCPA Case",
@@ -608,7 +656,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584086+00:00"
+    "date_added": "2026-07-28T13:25:00.584086+00:00",
+    "title_zh": "Davis Polk 讨论 DOJ 最近的 FCPA 案件",
+    "abstract_zh": "2026 年 7 月 17 日，总部位于内布拉斯加州的农业公司 Scoular 与 DOJ 签订了一份为期三年的延期起诉协议 (DPA)，以解决海外腐败法 (FCPA) 案件。该案具有标准 FCPA 决议的所有特征，并且因其卡特尔关系而引人注目：司法部强调，斯库拉尔的贿赂在不知不觉中使墨西哥卡特尔受益——这是政府执法的优先事项。最近宣布的 DPA 附带了一份在德克萨斯州西区提交的刑事信息，指控美国公司 Scoular 公司犯有一项串谋违反 FCPA 反贿赂条款的罪名。据司法部称，斯库拉参与了一项指示海关经纪人贿赂墨西哥官员的计划，以促进农产品穿越美墨边境的运输。据称，这些经纪人在 2013 年至 2019 年间行贿超过 40 万美元，并向 Scoular 开具发票作为重新检查费。该公司不知道的是，这些贿赂的一部分使在边境运作的卡特尔受益。 Scoular 反过来又避免了超过 650 万美元的费用和成本。其海关经纪人卡洛斯·莱奥波尔多·阿尔韦莱斯 (Carlos Leopoldo Alvelais) 承认共谋罪"
   },
   {
     "title": "The Half-Trillion-Dollar Joint Venture Blind Spot",
@@ -628,12 +678,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 24 Jul 2026 04:05:35 +0000",
     "id": "df898860c9cafe9a",
     "topics": [
-      "其他"
+      "公司治理"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584207+00:00"
+    "date_added": "2026-07-28T13:25:00.584207+00:00",
+    "title_zh": "5万亿美元合资企业的盲点",
+    "abstract_zh": "合资企业已成为工业经济的承重墙。在采矿业，超过四分之三的铜和近三分之二的锂产量来自合资企业 [1]。在石油和天然气领域，壳牌、埃克森美孚和雪佛龙等巨头的产量大约有一半来自它们不经营的企业。 [2] 除了自然资源之外，合资企业目前占新的人工智能基础设施合作伙伴关系和大多数新电池工厂的一半以上。自 2020 年以来，新成立的合资企业数量增加了近 550%。 [3] 首先，原因只是项目经济学：一座半导体工厂的耗资超过 200 亿美元，一座超级工厂的耗资超过 100 亿美元，一座液化天然气接收站的耗资 300 亿美元。没有公司希望自己的资产负债表承受如此大的风险，因此它找到了合作伙伴，成立了一家单独的公司，并分摊了支票。这种增长是建立在十年的廉价资金基础上的，当时利率很低，债务很容易，合作伙伴总是可以为下一次资本需求提供资金。那个时代已经结束了。较高的利率重新定价了这些结构所依赖的债务，而最弱的合作伙伴正在耗尽空间。在安逸岁月建立的风险现在面临着第一次真正的压力测试。风险共担是每个人付出的理由，但也有一个安静的"
   },
   {
     "title": "SEC Commissioner Peirce Warns Crypto Activities May Trigger Securities Laws",
@@ -655,7 +707,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584334+00:00"
+    "date_added": "2026-07-28T13:25:00.584334+00:00",
+    "title_zh": "美国证券交易委员会委员皮尔斯警告加密货币活动可能引发证券法",
+    "abstract_zh": "委员会、加密货币工作组和各部门的工作人员在过去一年半中做了大量工作，向加密市场明确说明某种资产或活动何时受联邦证券法的约束，如果是，这些法律如何适用。这项工作的大部分内容都澄清了许多加密资产和活动不受联邦证券法的约束。然而，证券法并不适用于所有加密资产和活动，并不意味着证券法不适用于任何加密资产或活动。如果你做头倒立、后空翻和其他体操来阅读法律，以致它不适用于联邦证券法范围内的加密资产和活动，你将会经历痛苦的​​跌倒。如果您的活动在证券范围内，更好的方法是与我们合作寻找合规的前进道路，以便您可以使用新技术为投资者服务，而不会违反联邦证券法。去年夏天，我发表了一份声明，提醒市场参与者“代币化证券仍然是证券。” 1 该声明涉及 b 的一个特定示例"
   },
   {
     "title": "The Governance Payoff of Board Refreshment",
@@ -681,7 +735,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584459+00:00"
+    "date_added": "2026-07-28T13:25:00.584459+00:00",
+    "title_zh": "董事会更新的治理回报",
+    "abstract_zh": "董事会面临着变得更加多元化的压力，但多元化通常是在特定时刻而不是随着时间的推移来衡量的。缺少任何确定董事会是否正在自我更新的尝试。在一篇新论文中，我们研究董事会更新或“更新”，不是作为口号或董事更替，而是作为董事会组成的可衡量的变化。今天的董事会可能看起来很多样化，但多年来可能基本没有变化。另一个董事会在标准衡量标准上可能仍然缺乏多样性，但可能正在积极摆脱其旧结构。这些是不同的治理情况。我们的论文询问如何衡量这种差异以及它对董事会监控是否重要。董事会更新意味着什么 我们根据七个董事特征制定了董事会更新指数：性别、国籍、年龄、连锁、内部或外部身份、教育水平和财务专业知识。对于每个特征，我们都会检查董事的加入或离职是否会改变董事会相对于以前的面貌。并不是每一次董事会的变动都是令人耳目一新的。用另一位具有相似特征的董事替换一名董事可能会导致人员流动，但这并不一定会改变董事会"
   },
   {
     "title": "Wachtell Lipton Discusses the Supreme Court’s Business Docket for October Term 2025",
@@ -711,7 +767,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584587+00:00"
+    "date_added": "2026-07-28T13:25:00.584587+00:00",
+    "title_zh": "Wachtell Lipton 讨论最高法院 2025 年 10 月任期的业务案卷",
+    "abstract_zh": "最高法院的 2025 年 10 月任期是多年来最重要的任期之一。虽然法院努力处理有关与生俱来的公民权、投票权和变性人权利等有争议的重大案件，但该术语最终以争议测试为主，并在几个方面重新定义了行政权力的范围。法院对行政权力的关注通常在商业案件中发挥作用，并对商业界产生重大影响。在任期初期，法院宣布政府经济议程的全球关税核心无效，认为总统的关税制度超出了《国际紧急经济权力法》规定的权力。任期的结束同样具有爆炸性，法院取消了对众多独立机构专员的法定罢免保护。在此期间，法院发布了一系列影响机构裁决、证券法、白领法、仲裁和政府合同的具有商业意义的裁决。我们在下面总结了本学期的关键业务决策，并标记了下一个学期需要关注的案例。 1. 执行力。的T"
   },
   {
     "title": "Should Directors Control Reporting Frequency?",
@@ -734,12 +792,14 @@ window.ARTICLES_DATA = [
     "id": "107b190db5384452",
     "topics": [
       "公司治理",
-      "金融监管"
+      "公司并购"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584711+00:00"
+    "date_added": "2026-07-28T13:25:00.584711+00:00",
+    "title_zh": "董事应该控制报告频率吗？",
+    "abstract_zh": "2026 年 5 月 5 日，美国证券交易委员会提出修正案，允许美国国内发行人每半年而不是每季度提交财务报告。根据该提案，选择权将完全取决于公司，即董事会。公共投资者没有发言权。美国证券交易委员会的理由是：将报告频率减半将降低合规成本，减少管理分心和短期主义，并可能促使更多公司上市。在一篇新文章中，我探讨了该提案提出的更广泛的问题：监管机构是否应该允许董事在未经投资者同意的情况下削减上市公司先前规定的报告频率？我的答案是否定的。任何削减都必须得到公共投资者的批准。然而，在首次公开募股时，公司应该可以自由选择监管机构允许的任何报告频率。管理者围绕披露频率的激励措施在结构上是扭曲的。考虑一家非受控公司——其经理可以通过代理权争夺或敌意收购被驱逐。降低报告频率可以为投资者带来间接利益：降低公司的合规成本，减少竞争敏感信息的泄露，"
   },
   {
     "title": "SEC Chair Atkins Speaks at the Small Business Capital Formation Advisory Committee Meeting",
@@ -759,12 +819,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 22 Jul 2026 04:01:11 +0000",
     "id": "928686aeac413749",
     "topics": [
+      "司法和执法",
       "金融市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584839+00:00"
+    "date_added": "2026-07-28T13:25:00.584839+00:00",
+    "title_zh": "美国证券交易委员会主席阿特金斯在小型企业资本形成咨询委员会会议上发表讲话",
+    "abstract_zh": "首先，我谨热烈欢迎委员会新成员安雅·科弗曼 (Anya Coverman)、约瑟夫·卢科斯基 (Joseph Lucosky)、安德鲁·普里斯泰 (Andrew Prystai)、罗德里戈·塞拉 (Rodrigo Seira) 和埃里克·西弗森 (Erik Syvertsen)。我确信，在我们努力拓宽小企业融资渠道的过程中，你们的集体专业知识和许多贡献将是无价的。今天，我们转向这个目标，因为委员会继续审议我认为是摆在我们面前最重要的一个问题：如何激励更多公司——尤其是那些小型和成长型公司——上市并保持上市地位。在 20 世纪 90 年代的十年里，大约有 4,000 起 IPO。此后的 25 年里，数量只剩下 3,200 人。 1 在 4 月份的前一次会议上，委员会成员和发言人对我们议程的几个方面表示支持，这些方面可以扭转这一趋势并重振 IPO 市场。具体而言，这些措施包括：重新调整小型上市​​公司的披露要求、重新考虑报告节奏、增强 S-3 表格资格、修改知名经验丰富发行人的资格标准、扩展“IPO 入口”以及实现申报人身份类别的现代化。今天，我很高兴地向大家报告，委员会"
   },
   {
     "title": "Shadow SEC Statement No. 11: The SEC Offering Reform Proposals",
@@ -789,7 +852,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.584964+00:00"
+    "date_added": "2026-07-28T13:25:00.584964+00:00",
+    "title_zh": "影子 SEC 声明第 11 号：SEC 发行改革提案",
+    "abstract_zh": "5 月 19 日，SEC 发布了一份新闻稿（以下简称“新闻稿”），提议对证券公开发行的监管进行重大修改，[1]这是该月发布的四项与信息披露相关的主要规则提案之一。 [2] 该版本提出的一些发行改革，例如 S-1 表格的现代化，是向前迈出的有用的一步。然而，该新闻稿并未为其三项最核心的拟议改革所涉及的变化提供充分的基础：(i) 扩大普通货架产品的可用性； (ii) 扩大“自动”货架供应的可用性； (iii) 扩大有关促销发行声明的最宽松规则的适用范围。 SEC 当然有可能在随后的版本中为朝着其中一项或多项改革的方向提供充分的基础，但我们怀疑是否有可能证明就其中任何一项改革所建议的进展是合理的。中心三项建议 1.扩大普通货架发行资格。新闻稿中提出的规则变更将增加有权利用普通货架登记进行发行的发行人数量"
   },
   {
     "title": "Him Too? The Corporate Consequences of Epstein Connections",
@@ -801,12 +866,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 07/28/2026 - 12:00",
     "id": "f58c78f287c81117",
     "topics": [
-      "其他"
+      "公司治理"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585041+00:00"
+    "date_added": "2026-07-28T13:25:00.585041+00:00",
+    "title_zh": "他也是吗？爱泼斯坦关系的企业后果",
+    "abstract_zh": "2025 年 9 月至 2026 年 1 月期间，美国司法部发布了超过 300 万个与杰弗里·爱泼斯坦 (Jeffrey Epstein) 有关的页面，杰弗里·爱泼斯坦是一名被定罪的性犯罪者，其网络遍布商界、学术界和政界。爱泼斯坦的受害者承受了主要的伤害。但这些文件还提供了治理研究人员很少观察到的东西：详细且过时的记录，记录了一个妥协但人脉广泛的个人在十多年来如何与上市公司领导人互动。"
   },
   {
     "title": "Him Too? The Corporate Consequences of Epstein Connections",
@@ -818,12 +885,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 07/28/2026 - 12:00",
     "id": "f58c78f287c81117",
     "topics": [
-      "其他"
+      "公司治理"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585106+00:00"
+    "date_added": "2026-07-28T13:25:00.585106+00:00",
+    "title_zh": "他也是吗？爱泼斯坦关系的企业后果",
+    "abstract_zh": "2025 年 9 月至 2026 年 1 月期间，美国司法部发布了超过 300 万个与杰弗里·爱泼斯坦 (Jeffrey Epstein) 有关的页面，杰弗里·爱泼斯坦是一名被定罪的性犯罪者，其网络遍布商界、学术界和政界。爱泼斯坦的受害者承受了主要的伤害。但这些文件还提供了治理研究人员很少观察到的东西：详细且过时的记录，记录了一个妥协但人脉广泛的个人在十多年来如何与上市公司领导人互动。"
   },
   {
     "title": "Board Oversight of AI: Why Process Controls May Not Be Enough",
@@ -841,7 +910,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585178+00:00"
+    "date_added": "2026-07-28T13:25:00.585178+00:00",
+    "title_zh": "董事会对人工智能的监督：为什么过程控制可能还不够",
+    "abstract_zh": "部署人工智能的公司已经围绕它建立了一个公认的治理机构。有使用政策、审批工作流程、模型清单、审计跟踪、风险管理功能和人工监督要求。从欧盟人工智能法案到部门监管指南的监管期望强化了这一架构，并为董事会提供了更清晰的负责任部署清单。这是必要的工作……"
   },
   {
     "title": "Him Too? The Corporate Consequences of Epstein Connections",
@@ -853,12 +924,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 07/28/2026 - 12:00",
     "id": "f58c78f287c81117",
     "topics": [
-      "其他"
+      "公司治理"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585243+00:00"
+    "date_added": "2026-07-28T13:25:00.585243+00:00",
+    "title_zh": "他也是吗？爱泼斯坦关系的企业后果",
+    "abstract_zh": "2025 年 9 月至 2026 年 1 月期间，美国司法部发布了超过 300 万个与杰弗里·爱泼斯坦 (Jeffrey Epstein) 有关的页面，杰弗里·爱泼斯坦是一名被定罪的性犯罪者，其网络遍布商界、学术界和政界。爱泼斯坦的受害者承受了主要的伤害。但这些文件还提供了治理研究人员很少观察到的东西：详细且过时的记录，记录了一个妥协但人脉广泛的个人在十多年来如何与上市公司领导人互动。"
   },
   {
     "title": "Disclosure as a Corporate Governance Tool: Channels and Challenges",
@@ -876,7 +949,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585317+00:00"
+    "date_added": "2026-07-28T13:25:00.585317+00:00",
+    "title_zh": "信息披露作为公司治理工具：渠道和挑战",
+    "abstract_zh": "信息披露已成为 21 世纪主要的公司治理策略之一。信息披露在美国、欧洲和其他地方的崛起反映了一种务实的优势：与结构性或行为干预相比，信息披露规则成本更低、规定性更少、限制性也更少。这些特征使它们更容易实施，更符合公司法的授权理念，并且通常是唯一可行的监管工具。"
   },
   {
     "title": "From Causation to Contribution: The TotalEnergies Decision and the Emergence of a Contribution-Based Environmental Accountability",
@@ -888,12 +963,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 07/24/2026 - 12:00",
     "id": "3b9d324782f66e79",
     "topics": [
-      "司法和执法"
+      "司法和执法",
+      "绿色金融"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585387+00:00"
+    "date_added": "2026-07-28T13:25:00.585387+00:00",
+    "title_zh": "从因果关系到贡献：TotalEnergies 决策和基于贡献的环境责任的出现",
+    "abstract_zh": "2026 年 6 月 25 日，巴黎司法法院就针对 TotalEnergies 的气候警戒案做出了第一个案情判决。索赔人试图利用法国《警惕义务法》要求 TotalEnergies 考虑其气候影响，包括范围 3 排放，并使其战略与能够将全球变暖限制在 1.5°C 的途径相一致。"
   },
   {
     "title": "Recognition Without Remedy: TotalEnergies and the Judicial Ceiling of Corporate Climate Accountability",
@@ -905,13 +983,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 07/24/2026 - 12:00",
     "id": "5616c950ae52137c",
     "topics": [
-      "司法和执法",
-      "绿色金融"
+      "公司治理",
+      "司法和执法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585450+00:00"
+    "date_added": "2026-07-28T13:25:00.585450+00:00",
+    "title_zh": "无补救措施的承认：TotalEnergies 和企业气候责任的司法上限",
+    "abstract_zh": "2026 年 6 月 25 日，巴黎司法法院 (Tribunal judiciaire de Paris) 在 Notre Affaire à Tous 等诉 TotalEnergies SE 案中做出了期待已久的案情判决，这是法国首个将系统性“气候风险”纳入该国…"
   },
   {
     "title": "How Fit and Proper Regulation Shapes Strategic Adaptability in the EU Financial Sector",
@@ -928,7 +1008,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585525+00:00"
+    "date_added": "2026-07-28T13:25:00.585525+00:00",
+    "title_zh": "适当和适当的监管如何塑造欧盟金融部门的战略适应性",
+    "abstract_zh": "近年来，关于简化欧盟金融监管的模棱两可的呼声不断加剧。这些呼吁通常将简化视为增强竞争力和减轻行政负担所必需的。争论倾向于假设监管的绝对数量或复杂性与公司绩效之间存在相对简单的关系。其中“更少的监管”或“更简单的监管”转化为更大的适应性和竞争力。"
   },
   {
     "title": "Global Pension Asset Allocations and Debt Markets -- by Ding Ding, Xiang Fang, Bryan Hardy, Karen K. Lewis",
@@ -945,7 +1027,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "非银机构",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585614+00:00"
+    "date_added": "2026-07-28T13:25:00.585614+00:00",
+    "title_zh": "全球养老金资产配置和债务市场——丁丁、向芳、布莱恩·哈迪、凯伦·K·刘易斯",
+    "abstract_zh": "养老金行业是全球金融市场的重要投资者群体，也是政府和企业债务的主要持有者。本文探讨了全球养老基金资产配置的演变，并记录了两个重要的结构性变化。首先，养老金投资者已将投资组合份额配置从固定收益证券转移。这一趋势在固定缴款 (DC) 和固定福利 (DB) 计划以及国家组中都很强劲。其次，养老金已将配置转向共同基金内风险较高的投资以及另类投资。我们假设全球利率下降是这一变化的潜在驱动因素之一。通过全球样本，我们发现，本币政府债券收益率下降与债券养老金投资组合份额下降以及共同基金和外国资产持有份额上升相关。我们讨论这些趋势对借贷成本的潜在影响。作为长期投资者群体，养老金持有份额的下降意味着融资成本对新债务问题的敏感度较低，但对全球不确定性更加敏感。"
   },
   {
     "title": "Self-Fulfilling Credit Scores -- by Victor Duarte, Julia Fonseca",
@@ -962,7 +1046,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "因果推断",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585682+00:00"
+    "date_added": "2026-07-28T13:25:00.585682+00:00",
+    "title_zh": "自我实现的信用评分——作者：Victor Duarte、Julia Fonseca",
+    "abstract_zh": "信用评分下降可能会恶化借款人的财务状况，使违约成为一种自我实现的预言。我们使用一种规则来估计信用评分对违约的因果影响，该规则将 14 天内的多次查询算作一次，在不改变信用报告的情况下移动分数。 14 天截止点附近的回归不连续性估计表明，额外计算的查询会使分数平均降低 5 分。没有不良记录的消费者中，违约行为没有反应，但有过不良记录的消费者中，违约率在两年内上升了 3.2 个百分点。对于这些消费者来说，分数和违约之间至少有 13% 的关系是自我实现的。我们表明，如果评分者的目标是预测准确性，那么他们会希望限制自我实现的违约，但如果将违约者与非违约者分开，则不会，因为该目标会奖励其造成的违约的分数。"
   },
   {
     "title": "Trading Off Openness: Economic Information and Immigration Policy Preferences -- by Cristina Cattaneo, Daniela Grieco, Nicola Lacetera, Mario Macis",
@@ -974,12 +1060,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "a4c634c35d67db9e",
     "topics": [
-      "金融市场"
+      "金融市场",
+      "实验"
     ],
     "primary_topic": "金融市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585755+00:00"
+    "date_added": "2026-07-28T13:25:00.585755+00:00",
+    "title_zh": "权衡开放性：经济信息和移民政策偏好 -- 作者：Cristina Cattaneo、Daniela Grieco、Nicola Laacetera、Mario Macis",
+    "abstract_zh": "我们对德国、匈牙利和意大利的 8,000 多名参与者进行了一项调查实验，以研究有关移民对经济影响的信息如何影响对更开放移民政策的支持。预计在更开放的移民政策下未来收入会更高的受访者表示对这些政策有更大的支持。这种待遇还部分改变了先前的态度如何影响政策偏好。结构性估计表明，对高于当前水平的移民的大多数支持将需要意大利的年人均收入增长约1.2%，德国的人均收入增长约1.7%，而匈牙利的增长则更大或难以实现。相对于最近的历史增长率来说，这些增长幅度很大，这表明仅靠经济利益不太可能为更开放的移民政策带来巨大支持。"
   },
   {
     "title": "Who is Afraid of Eurobonds? -- by Francesco Bianchi, Qingyuan Fang, Leonardo Melosi, Anna Rogantini Picco",
@@ -991,12 +1080,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "3160620ca184abde",
     "topics": [
-      "其他"
+      "金融市场",
+      "央行和货币政策"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "金融市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585814+00:00"
+    "date_added": "2026-07-28T13:25:00.585814+00:00",
+    "title_zh": "谁害怕欧洲债券？ ——弗朗西斯科·比安奇、方清源、莱昂纳多·梅洛西、安娜·罗甘蒂尼·皮科",
+    "abstract_zh": "目前的欧元区政策框架将短期稳定与长期财政可持续性混为一谈，使成员国面临通货紧缩和通胀尾部风险。我们采用估计的欧元区模型来分析区分这些目标的替代框架。中央财政部发行欧洲债券为反周期稳定提供资金，而各国政府则保留长期财政可持续性的责任。如果出现严重衰退，财政部可以与货币当局协调，而无需暂停国家层面的财政规则。该安排起到了自动稳定器的作用，消除了通货紧缩和财政滞胀的尾部风险。"
   },
   {
     "title": "Information and Macroeconomic Expectations: Global Evidence -- by Francesco D’Acunto, Michael Weber",
@@ -1014,7 +1106,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585898+00:00"
+    "date_added": "2026-07-28T13:25:00.585898+00:00",
+    "title_zh": "信息和宏观经济预期：全球证据——作者：Francesco D’Acunto、Michael Weber",
+    "abstract_zh": "47 个国家 47,000 名消费者（占世界 GDP 的 90%）的独特全球数据揭示了宏观经济信念形成的普遍模式。大多数消费者根据当地信息来源（水电费账单、购物和熟人）形成信念，这些信息来源提供的信号不能代表整体消费束，因此寻求信息会导致形成有偏见的宏观经济预期。对政府和中央银行（总体经济信息的生产者）的不信任有助于解释对当地来源的依赖以及缺乏从总体实现中学习的情况。观察到的宏观经济波动加剧了不信任。在横截面中，我们确认某些人口统计数据与预期偏差相关，但主要是由于对信息源的不同分类，而不是对相同经济信息的不同处理。这些全球公认的事实为信念形成理论的进步和作为宏观经济政策工具的传播策略的设计提供了信息。"
   },
   {
     "title": "The Environmental Costs of Sanctions: Flaring and Venting in Venezuela -- by Michele Fioretti, Kavanaugh FitzPatrick, Alessandro Iaria",
@@ -1026,12 +1120,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "8883f35841635e1f",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.585989+00:00"
+    "date_added": "2026-07-28T13:25:00.585989+00:00",
+    "title_zh": "制裁的环境成本：委内瑞拉的燃烧和排放——作者：Michele Fioretti、Kavanaugh FitzPatrick、Alessandro Iaria",
+    "abstract_zh": "对产油独裁国家的经济制裁不仅改变了石油的数量，也改变了石油的生产方式。我们将现场生产数据与 2012 年至 2024 年六个拉丁美洲国家天然气燃烧和大气甲烷的卫星测量数据相结合，研究美国对委内瑞拉的制裁。尽管产量下降了三分之二，但委内瑞拉的每桶天然气燃烧量却增加了约两倍半，这是未经制裁的邻国所没有表现出的模式，因此制裁下的环境损害约为产量下降比例预测的两倍半。造成这种差距的三个渠道是：小而脏的油田（组成）的退出被幸存油田的基础设施运行超过设计能力（压力）和削减运营预算（维护）所抵消。我们确定了卫星测量的甲烷对世界石脑油价格的反应、委内瑞拉超重质原油所需的进口稀释剂以及 2022 年 11 月美国财政部许可证（仅允许雪佛龙恢复其委内瑞拉油田运营）的维护造成的压力。尽管产量下降，但每桶排放量上升的类似模式也出现在 san 下。"
   },
   {
     "title": "Industry Distress Anomaly -- by Hui Chen, Winston Wei Dou, Hongye Guo, Yan Ji",
@@ -1048,7 +1144,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "破产法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586051+00:00"
+    "date_added": "2026-07-28T13:25:00.586051+00:00",
+    "title_zh": "行业困境异常——作者：陈辉、窦唯、郭红叶、吉岩",
+    "abstract_zh": "我们记录了一个强大的行业层面的困境异常，其中更多陷入困境的行业的预期股票回报率明显较低。这种异常与公司层面的困境异常不同（Campbell、Hilscher 和 Szilagyi，2008）。在控制了公司层面的困境后，它仍然很重要，但在实际行业中随机重组公司形成的安慰剂行业中消失了。从理论上和实证上，我们都表明，竞争困境反馈放大了行业利润率和股权回报对贴现率冲击的暴露程度。具有较大特殊左尾风险的行业更加陷入困境，但表现出较弱的竞争困境反馈。这种效应减少了他们遭受贴现率冲击的风险，从而降低了他们的预期股票回报率。"
   },
   {
     "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care Program on Maternal Work and Income -- by Michael Baker, Jonathan Gruber, Kevin S. Milligan",
@@ -1060,12 +1158,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "0f873bd7a616b93a",
     "topics": [
-      "其他"
+      "支付"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "支付",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586146+00:00"
+    "date_added": "2026-07-28T13:25:00.586146+00:00",
+    "title_zh": "投资母亲？全民儿童保育计划对孕产妇工作和收入的长期影响——作者：Michael Baker、Jonathan Gruber、Kevin S. Milligan",
+    "abstract_zh": "我们提供了关于全民儿童保育对母亲长期分娩结果影响的新估计，记录了魁北克省全民补贴儿童保育计划对孕产妇劳动力供应、收入、社会计划福利收入和纳税的生命周期影响。我们发现，在孩子过了学龄前很长一段时间后，这对母亲的就业产生了持久的积极影响。这对收益也有长期影响，其影响程度是参与效应的两倍。出现这种情况的原因是随着时间的推移，劳动力参与强度的增长和时薪的上升，这表明对工作的初始投资在女性职业生涯后期会产生乘数效应。有明显的证据表明职业升级，但大部分增长是在职业范围内，包括儿童脱离托儿所后几年更多劳动力市场经验的影响。我们的结果表明，税收汇款在整个生命周期中增长，而社会救助和就业保险收入下降。我们对这些影响的财政平衡的估计表明，财政收益流的净现值可能会重新获得 75% 至 117%"
   },
   {
     "title": "Beyond Price: Rights Trading in Strategic Factor Markets -- by Anparasan Mahalingam, Matthew J. Higgins",
@@ -1077,12 +1177,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "c0c5dbc807cf1e04",
     "topics": [
-      "金融市场"
+      "金融市场",
+      "合同"
     ],
     "primary_topic": "金融市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586240+00:00"
+    "date_added": "2026-07-28T13:25:00.586240+00:00",
+    "title_zh": "超越价格：战略要素市场中的权利交易——作者：Anparasan Mahalingam、Matthew J. Higgins",
+    "abstract_zh": "对战略要素市场的研究很大程度上将交换条件视为价格。我们认为，许多战略交易通过合同捆绑来划分价值，其中支付条款和控制权是相互依赖的。在大学技术许可中，我们将权利交易理论化：或有付款、未来改进索赔和商业化范围作为合同捆绑的链接组成部分，通过合同捆绑来分配盈余。使用 858 个手工编码的大学-行业许可证，我们发现合同更加依赖特许权使用费和里程碑条款，赋予被许可人更强的未来改进主张和更广泛的商业化范围。结果在对照和固定效应中持续存在，并且与补充工具变量、事件研究和选择限制分析在方向上一致。我们进一步表明，当大学技术转让办公室拥有更多的承包经验时，这种关系就会更强，这表明承包能力决定了战略要素市场的价值分配。更广泛地说，该研究表明，战略要素市场的价值分配不仅取决于什么或"
   },
   {
     "title": "The Price and Distributional Impact of Flood Risk Disclosure: Evidence from US Housing Platforms -- by Stephen B. Billings, Sophie Calder-Wang, Weiling Liu",
@@ -1099,7 +1202,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586318+00:00"
+    "date_added": "2026-07-28T13:25:00.586318+00:00",
+    "title_zh": "洪水风险披露的价格和分配影响：来自美国住房平台的证据 -- 作者：Stephen B. Billings、Sophie Calder-Wang、Weiling Liu",
+    "abstract_zh": "信息披露如何重塑房地产市场环境风险配置？我们量化了美国住房平台上第一街在全国范围内披露的房产级洪水风险的价格和分布影响。通过利用已披露风险类别中的离散截止点的差异 RD 设计，我们发现，与标记为“严重”风险的房屋相比，标记为“极端”洪水风险的房屋可享受 3.3% 的价格折扣，并且在市场上停留的时间更长一周。这些影响对沿海地区最为强烈，并且在不同的 FEMA 洪泛区指定中仍然普遍存在。披露信息还会导致大量家庭求助：极端风险房屋的购买者收入降低 5.3%，更有可能使用联邦住房管理局 (FHA) 融资，而且年龄更大。通过离散选择模型，我们发现风险向低收入家庭的重新分配主要是由价格变化驱动的，而不是对洪水风险的异质偏好。"
   },
   {
     "title": "The Effects of U.S. Public R&D on Global Growth -- by Gustavo De Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan B. Nath, Valerie A. Ramey",
@@ -1116,7 +1221,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "因果推断",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586398+00:00"
+    "date_added": "2026-07-28T13:25:00.586398+00:00",
+    "title_zh": "美国公共研发对全球增长的影响 -- 作者：Gustavo De Souza、Andrew J. Fieldhouse、Karel Mertens、Ishan B. Nath、Valerie A. Ramey",
+    "abstract_zh": "本文首次对美国公共研发的全球社会回报进行了因果估计。我们使用叙述识别策略来量化美国研发拨款的外生冲击对 1980 年至 2019 年 69 个外国经济体动态 TFP 响应的影响。美国研发拨款冲击相当于联邦研发资本存量的 1%，12 年后，外国全要素生产率提高了约 1%。这种反应主要是由非国防而非国防研发驱动的，并且集中在非经合组织经济体。这些模式与通过公开获取的科学内容、资本体现的贸易以及远离全球前沿的经济体的技术跨越而发生的扩散最为一致。粗略计算表明，美国公共非国防研发的全球社会回报大约是国内回报的两倍，这意味着美国获得了这些生产力收益的大约一半。"
   },
   {
     "title": "Equity as Tribute: The Market for Passive State Equity -- by Joshua S. Gans",
@@ -1134,7 +1241,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586482+00:00"
+    "date_added": "2026-07-28T13:25:00.586482+00:00",
+    "title_zh": "致敬股权：被动国有股权市场——作者：Joshua S. Gans",
+    "abstract_zh": "企业已开始向监管它们的政府授予被动股权。收到的解读是“利益攸关”：所有权将利润转移到财政部的资产负债表上，因此政策软化。我们表明，一旦股权价格和公司的政策风险在均衡状态下确定，所有者的同意并不能表明他们是否受益。卖家将政策改善转化为价格，因此预期购买只能以折扣价进行；具有议价能力的政府为暴露程度足够的公司支付零费用；一个能够首先提高风险敞口的政府可以精确地生产足够的产品，以将协商价格推至其法定下限。公平成为贡品。尽管如此，禁令仍占主导地位：在固定风险敞口下，被动持股纠正了股东政治权重过低的情况。福利通过定价许可实现最大化——固定风险最优的所有权上限和等于基准无股权价值的每单位价格下限。与上限不同，下限不需要了解政府的政治影响力。"
   },
   {
     "title": "Counterproductive Sustainable Investing: The Impact Elasticity of Brown and Green Firms -- by Samuel M. Hartzmark, Kelly Shue",
@@ -1146,12 +1255,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "2452eacf6a350b3d",
     "topics": [
-      "其他"
+      "绿色金融"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "绿色金融",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586538+00:00"
+    "date_added": "2026-07-28T13:25:00.586538+00:00",
+    "title_zh": "适得其反的可持续投资：棕色企业和绿色企业的影响弹性——作者：Samuel M. Hartzmark、Kelly Shue",
+    "abstract_zh": "我们开发了一种新的影响弹性衡量标准：由于资本成本变化而导致的公司环境影响的变化。我们发现，降低绿色企业的融资成本导致的影响变化最小，而增加棕色企业的融资成本会导致显着的负面影响变化。因此，将资本从棕色企业转移到绿色企业的可持续投资策略包含一个适得其反的渠道，即使棕色企业变得更加棕色，而不使绿色企业变得更加绿色。错误地关注排放量减少的百分比会奖励已经是绿色企业的微不足道的减排量，而让棕色企业缺乏改进的动力。"
   },
   {
     "title": "Retail Betting Markets -- by Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason D. Kotter, Kevin Pisciotta",
@@ -1169,7 +1280,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586585+00:00"
+    "date_added": "2026-07-28T13:25:00.586585+00:00",
+    "title_zh": "零售博彩市场——作者：Scott R. Baker、Justin Balthrop、Mark J. Johnson、Jason D. Kotter、Kevin Pisciotta",
+    "abstract_zh": "本文探讨了零售博彩市场的快速扩张和融合。我们分析市场设计要素，讨论经济效用，并强调体育博彩市场、预测市场和零售期权交易的共同行为驱动因素。我们的评论强调了技术创新、行为偏差和监管套利如何塑造了近期的市场演变。我们强调了政策制定者在面临不断变化的形势时需要考虑的重要因素，并概述了进一步研究的可能性。"
   },
   {
     "title": "Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries -- by Susan Athey, Bruno Fava, Dean Karlan, Adam Osman, Jonathan Zinman",
@@ -1182,12 +1295,14 @@ window.ARTICLES_DATA = [
     "id": "70dd82dce68447bb",
     "topics": [
       "公司治理",
-      "机器学习"
+      "实验"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586684+00:00"
+    "date_added": "2026-07-28T13:25:00.586684+00:00",
+    "title_zh": "利润和社会影响：三个国家贷款人的补充与权衡——作者：Susan Athey、Bruno Fava、Dean Karlan、Adam Osman、Jonathan Zinman",
+    "abstract_zh": "公司治理的规范方法要求在股东利润最大化和股东福利其他方面（例如社会影响）最大化之间进行权衡。机器学习的进步增强了公司针对特定客户的能力，可能会加剧或改善这种权衡。我们使用南非、菲律宾和波斯尼亚随机小额信贷批准的数据来估计这些权衡。我们从两个维度考察社会影响：信贷获取（即覆盖通常较少进入金融市场的弱势群体）和影响（即对家庭收入的治疗影响）。通过基于机器学习的目标定位，三个贷方中的两个可以将平均贷款利润率提高 7-9 个百分点。然而，这种目标违背了信贷获取方面的社会影响目标；具体而言，妇女和低收入家庭会被更多地排除在外（对借款人收入的隐含影响，也是社会影响双重目标的核心，估计太不准确，无法得出推论）。为了衡量第一个权衡的程度，我们研究了如果贷款人改变了贷款对象，利润将如何变化。"
   },
   {
     "title": "Spillover Effects in Complementary Markets: A Study of the Indian Cell Phone and Wireless Service Markets -- by Chirantan Chatterjee, Ying Fan, Debi Prasad Mohapatra",
@@ -1204,7 +1319,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586747+00:00"
+    "date_added": "2026-07-28T13:25:00.586747+00:00",
+    "title_zh": "互补市场的溢出效应：印度手机和无线服务市场研究——作者：Chirantan Chatterjee、Ying Fan、Debi Prasad Mohapatra",
+    "abstract_zh": "本文研究互补市场的溢出效应如何影响产品多样性和企业进入。我们研究了 4G 推出期间的印度手机和无线服务市场，并估计了需求、定价、运营商网络扩展和手机产品选择的结构模型。估算结果支持了互补性产生溢出效应的经济力量。反事实模拟表明，禁止廉价中国手机会使 4G 部署速度减缓大约五个季度，并降低消费者福利，而不会提高国内公司的利润。同样，无限制补贴在扩大网络覆盖范围、增加消费者福利和提高国内企业利润方面优于仅限国内的补贴。"
   },
   {
     "title": "Immigration and Macroeconomic Outcomes in OECD Countries -- by Gaetano Basso, Mitali R. Mathur, Giovanni Peri",
@@ -1221,7 +1338,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586842+00:00"
+    "date_added": "2026-07-28T13:25:00.586842+00:00",
+    "title_zh": "经合组织国家的移民和宏观经济成果 -- 作者：Gaetano Basso、Mitali R. Mathur、Giovanni Peri",
+    "abstract_zh": "1990 年至 2024 年期间，经合组织国家的本土人口增长率下降，净移民人数上升。我们编制了一个新的经合组织国家所有来源的净移民率数据集，结果显示大部分增长来自非经合组织国家，并且主要是高技能移民。推动因素、网络效应和政策指数无法解释移民动态中巨大的跨国异质性；意外的冲击和波动是常见的。然后，我们利用当地预测和几个识别变化的来源，估计移民与人均 GDP、劳动生产率、资本投资和全要素生产率 (TFP) 增长之间的关系。来自非经合组织国家的移民是人均国内生产总值增长的重要预测因素，主要是通过更高的投资。高技能移民尤其与更强的人力资本积累、更快的全要素生产率增长和更大的资本深化相关。相比之下，本土人口增长对人均国内生产总值和生产力没有或只有轻微的负面影响。这些结果与记录移民对生产力和增长的积极影响的大量文献是一致的。"
   },
   {
     "title": "The Welfare Effects of Conditioning the Potential Duration of UI Benefits on Prior Work History -- by Leonard Goff, Simon Quach",
@@ -1238,7 +1357,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "行为研究",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.586937+00:00"
+    "date_added": "2026-07-28T13:25:00.586937+00:00",
+    "title_zh": "根据之前的工作经历调整失业保险福利的潜在持续时间的福利影响——作者：Leonard Goff、Simon Quach",
+    "abstract_zh": "大多数失业保险 (UI) 制度都会根据申请人的工作经历来确定潜在的福利期限，但很少有证据表明这样做是否对社会而言是最佳的。我们使用加拿大 UI 系统中的 25 个回归不连续点来研究这个问题，其中当之前的工作时间跨过各个阈值时，福利持续时间会离散地增加。使用涵盖 1997 年至 2018 年失业保险索赔范围的行政记录，我们估计了延长整个工作历史分布的潜在持续时间的财政影响。平均而言，失业时间每延长一周，失业时间就会延长 0.30 周，政府将损失 96 美元。然而，这种平均效应掩盖了显着的异质性：机械成本与前几个小时相比急剧下降，而行为成本则略有增加。因此，延长失业保险的财政外部性随着劳动力市场依附性的增加而增加。将这些估计嵌入到充分的统计框架中，我们发现统一延期的财政外部性比针对历史较短的索赔人的延期大 76%。此外，通过将福利从高收入国家重新分配到低收入国家，可以以零财政成本提高总福利。"
   },
   {
     "title": "Evidence of How Electronic Reporting and Automated Auditing Affects Regulatory Compliance and Environmental Performance -- by Wayne B. Gray, Ronald Shadbegian, Ann Wolverton",
@@ -1256,7 +1377,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587020+00:00"
+    "date_added": "2026-07-28T13:25:00.587020+00:00",
+    "title_zh": "电子报告和自动审计如何影响监管合规性和环境绩效的证据——作者：Wayne B. Gray、Ronald Shadbegian、Ann Wolverton",
+    "abstract_zh": "我们调查美国首个废水排放强制性在线报告和审计计划是否通过提供更好、更及时的信息提高了设施合规性和环境绩效，同时也使州监管机构能够更有效地监控和执行法规。通过自动反馈功能检查报告程序还可以深入了解基于人工智能的工具提高合规性和环境绩效的潜力。双重差分结果表明，该计划显着提高了报告的完整性并减少了排放量，但也增加了报告的违规行为。我们发现，对于小型排放者和公有设施来说，影响更大。我们还发现了证据，表明国家当局对最近有违规历史的工厂进行了更有效的检查，这可能是推动这些结果的潜在机制。"
   },
   {
     "title": "Relating Cognitive Skills and Personality Traits to Economic Preferences: Decision-Making under Cognitive Shocks and Guessing -- by Cesar Chavez Padilla, Shuaizhang Feng, James J. Heckman, Zhe Yang",
@@ -1273,7 +1396,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587098+00:00"
+    "date_added": "2026-07-28T13:25:00.587098+00:00",
+    "title_zh": "将认知技能和性格特征与经济偏好联系起来：认知冲击和猜测下的决策——作者：Cesar Chavez Padilla、冯帅章、James J. Heckman、杨哲",
+    "abstract_zh": "利用有关中国学童的丰富数据，我们研究了智商和人格特质与儿童风险偏好的关系，以及它们如何影响这些偏好测量的精度。我们的结构模型将偏好与深思熟虑噪声和猜测分开，并将猜测与深思熟虑噪声联系起来。心理测量对偏好的直接影响较弱，但对审议噪音和猜测行为影响很大。选择的冲击具有持续的个体特定成分，并且不是独立的。一旦考虑到特征，社会经济背景对偏好或审议噪音几乎没有直接影响。然而，背景变量会影响心理特征。性别之间和性别内部的风险偏好有所不同。对于小额赌博，女孩的风险厌恶程度低于男孩，但对于较大的赌博则相反。"
   },
   {
     "title": "From Field to Firm: College Sports and Early-Stage Career Choice -- by Paul Gompers, George Hu, Will Levinson, Sachin Srivastava",
@@ -1290,7 +1415,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587192+00:00"
+    "date_added": "2026-07-28T13:25:00.587192+00:00",
+    "title_zh": "从田野到公司：大学体育和早期职业选择 -- 作者：Paul Gompers、George Hu、Will Levinson、Sachin Srivastava",
+    "abstract_zh": "本文探讨了通过大学体育运动形成的网络如何影响常春藤盟校毕业生的早期职业轨迹。我们跟踪 120,306 名常春藤盟校毕业生的职业历史，将每位毕业生的实际第一份工作与该毕业生可以合理接受的其他潜在工作进行比较。基于运动的网络，尤其是基于团队的联系，对最初的工作选择产生重大影响。相对于基线匹配概率，再雇用一名来自特定常春藤联盟大学运动队的校友，可以使同队运动员加入该公司的概率增加 193.70%。同样，再雇用一名参加过特定校队运动的常春藤盟校校友，会使任何参加同一运动的常春藤联盟运动员加入公司的概率增加 16.40%，而再雇用一名在特定常春藤联盟大学参加过任何运动的校友，会使来自同一大学的任何常春藤联盟运动员加入公司的概率增加 4.60%。对于基于团队的联系，无论校友和大学运动员是大学时光重叠的直接同龄人，还是大学时光完全不同的老“网络”附属机构，这些影响都会持续存在。"
   },
   {
     "title": "Beliefs That Predict Returns and Beliefs That Attract Flows: Policy Insights and Sentiment Catering in Mutual Funds -- by Zhenyu Gao, Wei Xiong, Jian Yuan",
@@ -1302,12 +1429,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "dcc3fc969d93913c",
     "topics": [
-      "其他"
+      "非银机构"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "非银机构",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587264+00:00"
+    "date_added": "2026-07-28T13:25:00.587264+00:00",
+    "title_zh": "预测回报的信念和吸引资金流动的信念：共同基金的政策洞察和情绪迎合——高振宇、熊伟、袁健",
+    "abstract_zh": "利用中国共同基金的强制性展望报告，我们将每只基金的股市信念分解为宏观基本面、政府政策和剩余情绪。政策信念而非宏观信念可以预测随后的市场回报，并有助于解释中国共同基金行业观察到的积极阿尔法。相比之下，残余情绪强烈影响股票配置并吸引投资者流动，尽管它不能预测回报。我们利用成熟的理财产品作为未来总资金流的工具，表明基金战略性地定位其既定信念，以满足投资者的需求。总体而言，我们的分析揭示了主动资产管理的核心矛盾：熟练的管理者通过政策洞察力创造业绩，同时通过情绪调整吸引资金流。"
   },
   {
     "title": "Temperature Fluctuations and Economic Conditions: Evidence from Weekly U.S. Data -- by Kimberly A. Berg, Chadwick C. Curtis, Nelson C. Mark",
@@ -1324,7 +1453,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587325+00:00"
+    "date_added": "2026-07-28T13:25:00.587325+00:00",
+    "title_zh": "温度波动和经济状况：来自美国每周数据的证据 -- 作者：Kimberly A. Berg、Chadwick C. Curtis、Nelson C. Mark",
+    "abstract_zh": "我们使用 1987 年至 2024 年的高频每周数据研究温度波动如何影响美国州级经济状况。面板局部预测框架对温度冲击的脉冲响应揭示了经济状况的短期温和增长，随后是延迟且持续的中期下降。非线性表明，在较高的基础温度下，中期下降更大且更持久。经济状况指数的分解表明劳动力市场是主要渠道。为了解释这些发现，我们开发了一个每周劳动力搜索和匹配模型，该模型具有劳动力负效用通道、热损伤库存和缓慢移动的适应机制。"
   },
   {
     "title": "A Demand-Side Alternative to Renewable Curtailment: Natural Field Experimental Evidence from Two Countries -- by Daniel Lopez Garcia, Robert D. Metcalfe, Andrew R. Schein, Yixin Sun",
@@ -1336,12 +1467,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "68450bde109e658f",
     "topics": [
+      "实验",
       "绿色金融"
     ],
-    "primary_topic": "绿色金融",
+    "primary_topic": "实验",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587425+00:00"
+    "date_added": "2026-07-28T13:25:00.587425+00:00",
+    "title_zh": "可再生能源弃电的需求方替代方案：来自两个国家的自然现场实验证据——​​作者：Daniel Lopez Garcia、Robert D. Metcalfe、Andrew R. Schein、Yixin Sun",
+    "abstract_zh": "随着可再生能源发电在能源系统中发挥越来越大的作用，负批发电价的时期变得越来越普遍，并且预计在未来十年内将大幅增长。传统上，系统运营商的应对措施是向发电商（尤其是可再生能源发电商）付费以削减产量，或强制他们在没有补偿的情况下这样做。在这项研究中，我们提出并测试了一种新颖的替代方案：让消费者接受免费和负价格，以在供应充足时刺激需求。我们在英国和西班牙同时实施了大规模的全国性自然实地实验，每个国家的大约 60,000 名居民用户随机接受不同的经济激励措施以“提高”电力水平。我们发现，随着价格降至零，需求大幅增加，但付费消费者以超过零的价格消费却几乎没有产生额外的反应。拥有电动汽车和屋顶太阳能的家庭比没有此类技术的家庭具有更大的弹性，这表明随着家庭采用低碳技术，需求的增加变得更加有效。在英国，消费很大程度上是从邻近地区转移过来的。"
   },
   {
     "title": "Elite Capture, Meritocracy and Social Stability: Evidence from the Chinese Imperial Examinations -- by Jingjing Chen, Jianlei Han, Shing-Yi Wang, Yongxiang Wang",
@@ -1358,7 +1492,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "DID",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587493+00:00"
+    "date_added": "2026-07-28T13:25:00.587493+00:00",
+    "title_zh": "精英争夺、精英统治与社会稳定：来自中国科举考试的证据 -- 作者：陈晶晶、韩建雷、王成义、王永祥",
+    "abstract_zh": "本文探讨了北宋时期中国科举制度的改革，即匿名提交考试并终止地方官员推荐考生的自由裁量权。我们使用 960 年至 1127 年的地级数据和双重差分设计，比较了有和没有显赫精英家族的地区，这些地区更有可能发生腐败和精英俘虏。改革增加了平民出身的成功候选人的比例，并缩小了他们在学术和政治成就上与精英的差距，表明更好地选拔平民人才。接受治疗的县的社会动荡也较少。总体而言，改革加强了精英统治、扩大了政治准入并促进了稳定。"
   },
   {
     "title": "The Confucian Fertility Paradox: Education Competition and Ultra-Low Fertility in East Asia -- by Hanming Fang, Chang Liu",
@@ -1375,7 +1511,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587589+00:00"
+    "date_added": "2026-07-28T13:25:00.587589+00:00",
+    "title_zh": "儒家生育悖论：东亚的教育竞争与超低生育率 -- 作者：方汉明、刘畅",
+    "abstract_zh": "尽管该地区的儒家传统长期以来非常重视家庭连续性和大家庭，但东亚地区的总生育率已降至史无前例的水平。我们认为，一旦我们将传统的两股分开并认识到现代化对它们的影响截然不同，这种“儒家生育悖论”就会消失。随着儿童死亡率下降、收入增加、妇女进入劳动力市场以及国家养老金取代家庭成为老年保障的主要来源，建立在血统延续、祖先崇拜和依靠儿子养老的重生观念逐渐被切断。幸存下来的是第二股：植根于科举传统的对教育和通过考试成功而获得的地位的尊崇。在现代条件下，这条幸存的链对生育力的影响发生了逆转。历史上的科举制度奖励生很多儿子，这样一个人才能取得成功，而现代的单排赛则奖励将资源集中在一两个受过强化教育的孩子身上，数量与质量的权衡使曾经的重生文化变成了一种文化。"
   },
   {
     "title": "Early Life Healthcare Access and Later-life Mortality: Evidence Using Openings of County Health Departments -- by Hamid Noghanibehambari, Jason Fletcher",
@@ -1392,7 +1530,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "DID",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587682+00:00"
+    "date_added": "2026-07-28T13:25:00.587682+00:00",
+    "title_zh": "早期医疗保健获取和晚年死亡率：使用县卫生部门的证据——作者：Hamid Noghanibehambari、Jason Fletcher",
+    "abstract_zh": "本文探讨了生命早期接触县卫生部门 (CHD) 对晚年寿命的长期影响，CHD 是一项公共卫生举措，旨在在 20 世纪初期为弱势和服务欠缺地区提供负担得起的医疗服务。我们采用与 1940 年人口普查相关的社会保障管理局死亡记录，并实施双重差分估计策略，将不同年龄暴露的个体的寿命与特定县的 CHD 建立年份进行比较。我们发现，在胎儿发育和生命早期，暴露于出生地的 CHD 开口与寿命延长 1-4 个月相关。我们观察到结果存在相当大的异质性，因此影响更集中在非白人个体和父母受教育程度较低的个体中。同期生育率和婴儿死亡率数据表明，在先心病开放后，婴儿死亡率下降，出生率上升。此外，我们发现成年早期的教育程度、社会经济地位和收入显着提高。我们认为胎儿的增强"
   },
   {
     "title": "Personal Holding Companies, Tax Progressivity, and Inequality -- by Marius A. K. Ring, David G. Seim, Gabriel Zucman",
@@ -1404,12 +1544,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "52970742a9485a42",
     "topics": [
+      "实验",
       "因果推断"
     ],
-    "primary_topic": "因果推断",
+    "primary_topic": "实验",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587774+00:00"
+    "date_added": "2026-07-28T13:25:00.587774+00:00",
+    "title_zh": "个人控股公司、税收累进性和不平等——作者：Marius A.K. Ring、David G. Seim、Gabriel Zucman",
+    "abstract_zh": "长期以来，通过个人控股公司避税一直被视为累进所得税的主要挑战。我们利用二十年来将瑞典和挪威的公司与所有者联系起来的管理微观数据来分析个人控股公司的使用在收入分配中如何变化，并在准实验环境中量化其影响。前 0.1% 人群的大约一半收入保留在个人控股公司中，根据美国税法，个人控股公司是指由 5 名或更少所有者拥有 50% 以上股票且 60% 以上收入来自投资收益的公司。对运营公司增值冲击的事件研究表明，控股公司约一半的股息分配免受个人所得税的影响。利润往往会长期保留在控股公司中，最高收入群体的累积派息率在二十年中达到 15% 至 20%。由于私营企业股票估值较低（或免税），财富税无法提供有效的支持。结果，有效税率（包括所有税项）从中上层阶级的约 50% 下降到高收入阶层的约 15%–20%。"
   },
   {
     "title": "The Scientific Return of Biodiversity Conservation: Evidence from Fishing Bans Along the Yangtze River -- by Minhao Chen, Lin William Cong, Haoyu Gao, Andrew Karolyi, Hui Wang",
@@ -1426,7 +1569,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "DID",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587865+00:00"
+    "date_added": "2026-07-28T13:25:00.587865+00:00",
+    "title_zh": "生物多样性保护的科学回报：长江禁渔的证据——陈敏浩、丛威廉、高浩宇、安德鲁·卡洛伊、王辉",
+    "abstract_zh": "我们利用中国 2002 年的禁渔令，记录了生物多样性保护对科学发现的意外回报——这是一项没有明确科学相关目标的生态系统恢复政策，使我们能够在鱼类物种之间实施差异中的设计。我们发现该禁令大幅增加了对受影响物种的研究：资助项目增加了 21.5%，总资金增加了 22.8%，每个项目的出版物增加了 97.0%，每篇论文的引用增加了 106.7%。这种影响集中在地理上靠近河流的研究人员中，对于非灭绝物种和非养殖鱼类来说效果更强，这表明保护扩大了可用于研究的生物材料的供应。该禁令还增加了相关公众影响力和专利。这些结果表明，生物多样性保护通过恢复自然研究投入产生了显着的科学红利，这对于在科学科学的一个未充分讨论的维度上评估生态系统保护的更广泛效益具有影响。"
   },
   {
     "title": "Does Progressivity Raise Tax Capacity? Experimental Evidence from the D.R. Congo -- by Gabriel Z. Tourek ⓡ Arthur Laroche ⓡ Augustin Bergeron ⓡ Joana Naritomi ⓡ Jonathan L. Weigel ⓡ Marina Mavungu Ngoma",
@@ -1438,12 +1583,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "1202cec5be43d0c7",
     "topics": [
+      "实验",
       "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "实验",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.587965+00:00"
+    "date_added": "2026-07-28T13:25:00.587965+00:00",
+    "title_zh": "累进性会提高税收能力吗？来自 D.R. 的实验证据刚果 -- 作者：Gabriel Z. Tourek ⓡ Arthur Laroche ⓡ Augustin Bergeron ⓡ Joana Naritomi ⓡ Jonathan L. Weigel ⓡ Marina Mavungu Ngoma",
+    "abstract_zh": "累进税制是高收入国家税收制度的核心，但发展中国家通常依赖累进程度较低的工具。我们通过与省政府合作进行全市范围的实地实验，研究在刚果一个大城市引入累进财产税。社区被随机分配到渐进式或按比例的时间表。与比例计划相比，渐进计划使收入增加了 56%。收益出现在整个财产价值分配中：在顶层，尽管合规损失不大，但较高的法定税率机械地增加了收入；在底部，较低的利率带来的合规收益足以抵消较低的负债。交叉随机信息处理表明，纳税人主要对自己的税率做出反应，而不是对其他人的税率或整体时间表的公平性做出反应。有效税率（作为财产价值的一部分缴纳的税款）随着财产价值的增加而下降，并且在累进税率下是最累退的。然而，在随后几年在全市范围内扩大渐进式计划后，高价值房产的针对性执法发生了逆转"
   },
   {
     "title": "Effects of Lottery Incentives for Influenza Vaccination: Evidence from a Large-Scale Randomized Trial and Causal Forest Analysis -- by Kelsey Moran, Gail Rosenbaum, Amir Goren, Michelle Meyer, Christopher F. Chabris, Joseph J. Doyle Jr.",
@@ -1455,12 +1603,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "40a6070ec6575910",
     "topics": [
-      "其他"
+      "机器学习"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "机器学习",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.588072+00:00"
+    "date_added": "2026-07-28T13:25:00.588072+00:00",
+    "title_zh": "彩票激励对流感疫苗接种的影响：来自大规模随机试验和因果森林分析的证据 -- 作者：Kelsey Moran、Gail Rosenbaum、Amir Goren、Michelle Meyer、Christopher F. Chabris、Joseph J. Doyle Jr。",
+    "abstract_zh": "经济激励措施可能会鼓励疫苗接种，但其成本效益取决于针对反应最灵敏的患者。我们在 2021-2022 年流感季节对综合卫生系统中的 57,579 名成年患者进行了一项随机对照试验。即将预约的患者被随机分配接受非接触式控制、简单提醒、1 美元现金奖励或价值高达 5,000 美元的刮刮乐彩票奖励。任何积极的干预措施都会使预定预约时的疫苗接种增加 2 个百分点（比对照平均值增加 8%），比整个流感季节增加 1.5 个百分点。三个活跃部门没有显着差异，这表明小额财务激励措施除了提醒之外没有提供任何额外好处。利用电子健康记录和区域特征，我们使用因果森林来估计条件平均治疗效果。预测的反应性差异很大：顶部四分之一的患者对激励做出反应的可能性是底部四分之一的患者的 3-4 倍，而提醒效果相对均匀。这些发现表明低成本的提醒可以"
   },
   {
     "title": "What makes money, money? Ensuring trust in the next generation financial ecosystem",
@@ -1477,7 +1627,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589046+00:00"
+    "date_added": "2026-07-28T13:25:00.589046+00:00",
+    "title_zh": "什么能赚钱，钱？确保对下一代金融生态系统的信任",
+    "abstract_zh": "国际清算银行 (BIS) 副总经理 Andréa M Maechler 女士于 2026 年 6 月 24 日在苏黎世零点论坛上的讲话。"
   },
   {
     "title": "Anchoring trust in money: innovation beyond stablecoins",
@@ -1495,7 +1647,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-06-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589093+00:00"
+    "date_added": "2026-07-28T13:25:00.589093+00:00",
+    "title_zh": "锚定货币信任：稳定币之外的创新",
+    "abstract_zh": "货币与经济部代理主管兼经济分析与统计主管 Frank Smets 在 2026 年 6 月 28 日巴塞尔银行年度股东大会上的讲话。"
   },
   {
     "title": "Strengthening foundations for the future",
@@ -1512,7 +1666,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-06-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589137+00:00"
+    "date_added": "2026-07-28T13:25:00.589137+00:00",
+    "title_zh": "夯实未来基础",
+    "abstract_zh": "国际清算银行总经理 Pablo Hernández de Cos 先生在 2026 年 6 月 28 日巴塞尔银行年度股东大会上的讲话。"
   },
   {
     "title": "BIS Media Briefing - Annual Economic Report 2026",
@@ -1529,7 +1685,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-06-25",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589179+00:00"
+    "date_added": "2026-07-28T13:25:00.589179+00:00",
+    "title_zh": "国际清算银行媒体吹风会 - 2026 年年度经济报告",
+    "abstract_zh": "巴勃罗·埃尔南德斯·德·科斯、安德烈·M·麦奇勒和弗兰克·斯梅茨向媒体介绍了年度经济报告的主要信息。"
   },
   {
     "title": "BIS media briefing - Anchoring trust in money: innovation beyond stablecoins",
@@ -1546,24 +1704,8 @@ window.ARTICLES_DATA = [
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-06-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589215+00:00"
-  },
-  {
-    "title": "Overseeing banks' governance: can we do it better?",
-    "authors": "Fernando Restoy",
-    "abstract": "Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the 2026 Corporate Governance Summit, Bangko Sentral ng Pilipinas (BSP), Manila, 25 May 2026.",
-    "keywords": [],
-    "url": "https://www.bis.org/speeches/sp260526.htm",
-    "source": "BIS speech",
-    "publish_date": "2026-05-26T13:36:00Z",
-    "id": "dd5116fedb7b5229",
-    "topics": [
-      "公司治理"
-    ],
-    "primary_topic": "公司治理",
-    "publish_date_norm": "2026-05-26",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589259+00:00"
+    "date_added": "2026-07-28T13:25:00.589215+00:00",
+    "title_zh": "国际清算银行媒体简报——锚定货币信任：稳定币之外的创新"
   },
   {
     "title": "The quest for supervisory effectiveness",
@@ -1580,7 +1722,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-05-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589302+00:00"
+    "date_added": "2026-07-28T13:25:00.589302+00:00",
+    "title_zh": "追求监管有效性",
+    "abstract_zh": "国际清算银行总经理 Pablo Hernández de Cos 先生于 2026 年 5 月 22 日在巴塞尔举行的 BCBS-FSI 欧洲监管机构高层会议上的讲话。"
   },
   {
     "title": "Global economic outlook, financial stability risks, stablecoins and central bank independence",
@@ -1598,7 +1742,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-05-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589353+00:00"
+    "date_added": "2026-07-28T13:25:00.589353+00:00",
+    "title_zh": "全球经济前景、金融稳定风险、稳定币和央行独立性",
+    "abstract_zh": "2026 年 4 月 20 日，东京，Mikio Sugeno 先生、Setsuo Otsuka 先生和 Takero Minami 先生在日本《日经新闻》（日文）和《日经亚洲》（英文）对国际清算银行总经理 Pablo Hernández de Cos 先生进行了采访。"
   },
   {
     "title": "Stablecoins: framing the debate",
@@ -1615,7 +1761,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-04-20",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589394+00:00"
+    "date_added": "2026-07-28T13:25:00.589394+00:00",
+    "title_zh": "稳定币：引发争论",
+    "abstract_zh": "国际清算银行总经理 Pablo Hernández de Cos 先生于 2026 年 4 月 20 日在东京举行的日本银行研讨会上发表讲话。"
   },
   {
     "title": "Money, digital assets and payments in the Americas",
@@ -1632,7 +1780,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-03-24",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589449+00:00"
+    "date_added": "2026-07-28T13:25:00.589449+00:00",
+    "title_zh": "美洲的货币、数字资产和支付",
+    "abstract_zh": "国际清算银行美洲代表处首席代表 Alexandre Tombini 在 2026 年 3 月 19 日于墨西哥坎昆举行的第 89 届银行业大会上在“货币的未来：墨西哥和世界的下一步”政策小组中的讲话。"
   },
   {
     "title": "BIS Quarterly Review, March 2026 - media briefing",
@@ -1649,7 +1799,8 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-03-16",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589486+00:00"
+    "date_added": "2026-07-28T13:25:00.589486+00:00",
+    "title_zh": "国际清算银行季度回顾，2026 年 3 月 - 媒体吹风会"
   },
   {
     "title": "Streamlining financial regulation while safeguarding stability and tackling new risks",
@@ -1666,7 +1817,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-03-04",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589535+00:00"
+    "date_added": "2026-07-28T13:25:00.589535+00:00",
+    "title_zh": "理顺金融监管、维护稳定、应对新风险",
+    "abstract_zh": "国际清算银行总经理 Pablo Hernández de Cos 先生于 2026 年 3 月 4 日在日内瓦国际货币与银行研究中心发表讲话。"
   },
   {
     "title": "Post-GFC rewiring of the global financial system",
@@ -1678,12 +1831,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-03-02T15:50:00Z",
     "id": "b60e3f83d9baba6e",
     "topics": [
-      "其他"
+      "金融市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "金融市场",
     "publish_date_norm": "2026-03-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589586+00:00"
+    "date_added": "2026-07-28T13:25:00.589586+00:00",
+    "title_zh": "全球金融危机后全球金融体系的重组",
+    "abstract_zh": "国际清算银行经济顾问兼货币和经济部主任 Hyun Song Shin 先生于 2026 年 2 月 20 日在普林斯顿举行的第 15 届朱利斯·拉宾诺维茨公共政策和金融 (JRCPPF) 年度会议上发表主题演讲。"
   },
   {
     "title": "Money as a coordination device: some historical lessons",
@@ -1695,12 +1850,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-01-30T08:27:00Z",
     "id": "b0f577fe758b9c88",
     "topics": [
-      "其他"
+      "区块链"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "区块链",
     "publish_date_norm": "2026-01-30",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589635+00:00"
+    "date_added": "2026-07-28T13:25:00.589635+00:00",
+    "title_zh": "货币作为协调手段：一些历史教训",
+    "abstract_zh": "国际清算银行经济顾问兼货币和经济部主任申玄松先生于 2026 年 1 月 27 日在第 14 届 ILF 金融业未来会议上发表主题演讲。"
   },
   {
     "title": "Fulfilling the mandates of central banks in a changing world",
@@ -1717,7 +1874,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-01-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589683+00:00"
+    "date_added": "2026-07-28T13:25:00.589683+00:00",
+    "title_zh": "在不断变化的世界中履行中央银行的职责",
+    "abstract_zh": "国际清算银行总经理 Pablo Hernández de Cos 先生于 2026 年 1 月 28 日在获得马德里圣巴勃罗中欧大学荣誉博士学位时的讲话。"
   },
   {
     "title": "The financial stability implications of artificial intelligence and digital finance",
@@ -1734,7 +1893,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "AI",
     "publish_date_norm": "2026-01-26",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589736+00:00"
+    "date_added": "2026-07-28T13:25:00.589736+00:00",
+    "title_zh": "人工智能和数字金融对金融稳定的影响",
+    "abstract_zh": "国际清算银行亚太区首席代表张涛先生于 2026 年 1 月 26 日在香港举行的国际金融周和亚洲金融论坛 (AFF) 上发表讲话。"
   },
   {
     "title": "BIS Quarterly Review, December 2025 - media briefing",
@@ -1751,7 +1912,8 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2025-12-05",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589771+00:00"
+    "date_added": "2026-07-28T13:25:00.589771+00:00",
+    "title_zh": "国际清算银行季度回顾，2025 年 12 月 - 媒体吹风会"
   },
   {
     "title": "Fiscal threats in a changing global financial system",
@@ -1763,12 +1925,15 @@ window.ARTICLES_DATA = [
     "publish_date": "2025-11-27T18:30:00Z",
     "id": "cf32d721ab21da7d",
     "topics": [
-      "其他"
+      "财政和主权债",
+      "金融市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "财政和主权债",
     "publish_date_norm": "2025-11-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589816+00:00"
+    "date_added": "2026-07-28T13:25:00.589816+00:00",
+    "title_zh": "不断变化的全球金融体系中的财政威胁",
+    "abstract_zh": "伦敦经济学院国际清算银行总经理 Pablo Hernández de Cos 先生于 2025 年 11 月 27 日在伦敦发表演讲。"
   },
   {
     "title": "Turbulence and resilience: lessons from an eventful year",
@@ -1786,7 +1951,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2025-11-19",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589869+00:00"
+    "date_added": "2026-07-28T13:25:00.589869+00:00",
+    "title_zh": "动荡与恢复力：多事之年的教训",
+    "abstract_zh": "国际清算银行美洲代表处首席代表 Alexandre Tombini 在 2025 年 11 月 19 日于里约热内卢举行的中央银行秋季会议上发表主旨演讲。"
   },
   {
     "title": "Using machine learning to monitor financial markets",
@@ -1803,7 +1970,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "机器学习",
     "publish_date_norm": "2025-11-18",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589919+00:00"
+    "date_added": "2026-07-28T13:25:00.589919+00:00",
+    "title_zh": "使用机器学习监控金融市场",
+    "abstract_zh": "国际清算银行货币和经济部副部长 Gaston Gelos 在第六届金融稳定双年度会议上发表主题演讲，墨西哥银行于 2025 年 11 月 18 日在墨西哥城举行。"
   },
   {
     "title": "How deposits can harness tokenisation",
@@ -1821,7 +1990,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "银行",
     "publish_date_norm": "2025-11-12",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.589969+00:00"
+    "date_added": "2026-07-28T13:25:00.589969+00:00",
+    "title_zh": "存款如何利用代币化",
+    "abstract_zh": "国际清算银行 (BIS) 副总经理兼 BIS 创新中心代理主管 Andréa M Maechler 女士于 2025 年 11 月 12 日在新加坡举行的新加坡金融科技节上发表讲话。"
   },
   {
     "title": "Central bank independence in a changing world",
@@ -1839,7 +2010,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2025-11-12",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.590028+00:00"
+    "date_added": "2026-07-28T13:25:00.590028+00:00",
+    "title_zh": "不断变化的世界中央行的独立性",
+    "abstract_zh": "国际清算银行美洲代表处首席代表 Alexandre Tombini 在 OECD 网络研讨会“稳定的守护者：在不断变化的世界中加强央行独立性”上的介绍性发言，拉丁美洲政策对话网络研讨会系列，2025 年 11 月 12 日。"
   },
   {
     "title": "Strengthening financial governance and cooperation amid rapid technological transformation",
@@ -1851,12 +2024,15 @@ window.ARTICLES_DATA = [
     "publish_date": "2025-10-28T17:45:00Z",
     "id": "e429f7b6998007f7",
     "topics": [
-      "其他"
+      "金融科技",
+      "金融监管"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "金融科技",
     "publish_date_norm": "2025-10-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.590076+00:00"
+    "date_added": "2026-07-28T13:25:00.590076+00:00",
+    "title_zh": "科技快速变革中加强金融治理与合作",
+    "abstract_zh": "国际清算银行亚太区首席代表张涛先生于 2025 年 10 月 28 日在北京举行的 2025 年金融街论坛上的讲话。"
   },
   {
     "title": "Cross-border payments - a catalyst for global integration and growth",
@@ -1868,12 +2044,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2025-10-28T09:00:00Z",
     "id": "59fc0e9488991040",
     "topics": [
-      "其他"
+      "支付"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "支付",
     "publish_date_norm": "2025-10-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.590123+00:00"
+    "date_added": "2026-07-28T13:25:00.590123+00:00",
+    "title_zh": "跨境支付——全球一体化和增长的催化剂",
+    "abstract_zh": "国际清算银行货币和经济部副部长 Frank Smets 先生于 2025 年 10 月 28 日在巴厘岛举行的 SEACEN 第 61 届理事会上的演讲。"
   },
   {
     "title": "Artificial intelligence and central banks: monetary and financial stability implications",
@@ -1891,7 +2069,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "AI",
     "publish_date_norm": "2025-10-08",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.590175+00:00"
+    "date_added": "2026-07-28T13:25:00.590175+00:00",
+    "title_zh": "人工智能和中央银行：货币和金融稳定的影响",
+    "abstract_zh": "国际清算银行亚太区首席代表张涛先生于 2025 年 10 月 8 日在孟买举行的 2025 年全球金融科技节上准备的讲话。"
   },
   {
     "title": "Reverse Breakup Fees and Antitrust Approval",
@@ -1903,12 +2083,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 11 Mar 2026 09:12:21 PDT",
     "id": "e6721515a0806d1f",
     "topics": [
-      "竞争法和反垄断法"
+      "竞争法和反垄断法",
+      "公司并购"
     ],
     "primary_topic": "竞争法和反垄断法",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.592836+00:00"
+    "date_added": "2026-07-28T13:25:00.592836+00:00",
+    "title_zh": "反向分手费和反垄断批准",
+    "abstract_zh": "本文探讨了在合并中使用反向分手（终止）费的反垄断影响。通过承诺如果拟议的合并未获得必要的反垄断批准，收购方将向目标公司支付反向分手费，收购方可以向反垄断机构发出信号，表明合并更有可能有利于竞争。高额反向分手费还可以作为收购方的承诺手段，在合并受到反垄断机构质疑的情况下花费更多资源。第一个信号功能可以提高效率，而第二个承诺功能可能会导致效率损失。本文研究了反向分手费可以发挥这两种功能的各种条件，并得出了福利和政策影响。"
   },
   {
     "title": "Enforcing the Community Reinvestment Act",
@@ -1920,12 +2103,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 11 Mar 2026 09:12:20 PDT",
     "id": "55253d0100d9a92e",
     "topics": [
+      "公司并购",
       "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593107+00:00"
+    "date_added": "2026-07-28T13:25:00.593107+00:00",
+    "title_zh": "执行《社区再投资法》",
+    "abstract_zh": "1977 年《社区再投资法案》(CRA) 要求银行为中低收入 (LMI) 地区提供服务已近五十年，但将弱势社区系统性地排除在主流金融体系之外的现象依然存在。本文对 CRA 的有限影响提出了一个新颖的解释：其执行机制无效。CRA 通过两种执行渠道运作。监管机构必须 (1) 在银行寻求合并或扩张许可时考虑银行的 CRA 记录，以及 (2) 发布对每家银行 CRA 绩效的定期评估。使用二十年的 CRA 数据，我们表明这两种执行机制都没有按预期发挥作用。银行在宣布合并之前战略性地增加 CRA 贷款，然后在获得监管部门批准后大幅削减贷款。与此同时，公开披露 CRA 评级——无论是好还是坏——对银行的财务业绩没有明显的影响。这些调查结果表明，CRA 的执行机制并不鼓励银行按照预期对 LMI 社区进行长期、持续的投资。我们的结果表明，政策制定者应该从根本上重新考虑 CRA 的执行。我们提出监管机构可以进行的改革"
   },
   {
     "title": "Facebook Decision Enables IRS to Seek - CWI Enforcement Against Meta",
@@ -1937,12 +2123,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 11 Mar 2026 09:12:19 PDT",
     "id": "5a33f51e3cf0e57b",
     "topics": [
-      "其他"
+      "竞争法和反垄断法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "竞争法和反垄断法",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593208+00:00"
+    "date_added": "2026-07-28T13:25:00.593208+00:00",
+    "title_zh": "Facebook 的决定使 IRS 能够寻求 - CWI 针对 Meta 的执法",
+    "abstract_zh": "在这份报告中，作者解释了税务法院最近在 Facebook 转让定价案中的裁决——尽管人们普遍认为纳税人 Meta Platforms Inc. 的胜利——却可能是一场代价高昂的胜利，因为它使国税局能够对该公司​​进行潜在的实质性定期调整。本报告中表达的观点仅代表作者的观点，并不一定反映任何其他个人或机构的观点。"
   },
   {
     "title": "Who Gets a Seat at the Table? Stakeholder Participation in SEC Rulemaking",
@@ -1960,7 +2148,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593334+00:00"
+    "date_added": "2026-07-28T13:25:00.593334+00:00",
+    "title_zh": "谁能在谈判桌上占有一席之地？利益相关者参与 SEC 规则制定",
+    "abstract_zh": "我们使用 1995 年至 2024 年间提出的 453 条 SEC 规则的新颖数据集来研究公众参与如何塑造金融监管。我们收集了超过 81,000 条公众意见以及监管机构和利益相关者之间与这些规则相关的 5,600 次会议。使用大型语言模型，我们识别参与者并提取评论内容和语气的结构化度量。我们记录了利益相关者参与的不对称性：散户投资者以较短的提交内容主导了评论量，而机构参与者主要通过详细评论和与 SEC 官员的会议来参与。来自经验丰富的利益相关者的意见更有可能被纳入最终的规则发布中，并为规则的采用提供信息。总体而言，结果表明，规则制定结果取决于参与的构成和复杂程度，而不是数量。"
   },
   {
     "title": "Effects of the Reverse Charge Mechanism on VAT Gaps",
@@ -1978,7 +2168,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "DID",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593484+00:00"
+    "date_added": "2026-07-28T13:25:00.593484+00:00",
+    "title_zh": "反向征收机制对增值税缺口的影响",
+    "abstract_zh": "本文的目的是使用国家级增值税合规总体衡量指标（增值税缺口）来评估反向收费机制 (RCM) 的实施对增值税合规的影响。增值税缺口被定义为预期增值税收入与实际增值税收入之间的总体差异，是比之前研究中采用的结果更广泛的衡量标准，涵盖了所有类型的增值税逃税。利用欧洲 RCM 的交错采用以及 RCM 所针对的行业规模，我们比较了 RCM 实施前后增值税缺口的变化。来自双重差异、事件研究和异质处理效果估计器的证据表明，采用 RCM 不会导致欧盟范围内增值税总额缺口发生重大变化。此外，我们的结果说明了 RCM 对不同商品和行业的混合影响，建筑业和经济作物行业的增值税损失显着减少。尽管与主要贸易伙伴在采用 RCM 方面进行双边协调可能有助于遏制"
   },
   {
     "title": "Is Delaware Different? Stockholder Lawyering in the Court of Chancery",
@@ -1996,7 +2188,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593625+00:00"
+    "date_added": "2026-07-28T13:25:00.593625+00:00",
+    "title_zh": "特拉华州有什么不同吗？衡平法院的股东律师",
+    "abstract_zh": "特拉华州公司法依靠股东诉讼来监管公司不当行为。法官反过来利用律师费来激励进行诉讼的律师。近年来，这种企业问责制度受到越来越严格的审查，一系列决定导致几家知名公司离开特拉华州，并促使立法者呼吁进行改革。然而，关于特拉华州法官如何设定维持这一执行体系的律师费裁决的经验证据却很少。本文使用手工收集的在衡平法院提起的股东诉讼数据集，提供了迄今为止对特拉华州律师费最全面的实证分析。我们发现几乎没有证据表明费用奖励反映了这些律师在提起或有案件时面临的风险或律师在这些案件中的表现。我们的数据还显示，原告律师在特拉华州股东案件中获得的费用明显高于类似的联邦证券集体诉讼，尽管这些案件的风险状况相似。我们的研究还表明，特拉华州的收费制度不成比例地奖励重复玩家和"
   },
   {
     "title": "Mobility-Restricting Covenants in Business Contracts: The Case of Franchising",
@@ -2008,12 +2202,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:32 PST",
     "id": "28463b355ed237ee",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593776+00:00"
+    "date_added": "2026-07-28T13:25:00.593776+00:00",
+    "title_zh": "商业合同中的流动限制条款：特许经营案例",
+    "abstract_zh": "多项研究表明，雇佣合同中的限制性条款（例如竞业禁止协议）可能会对雇员产生不利影响，包括减少流动性和压低工资。虽然这些担忧确实存在，但这些条款也有可能通过帮助公司保护有价值的信息来服务于合法的商业目的，从而鼓励投资和培训并提高社会福利。本文探讨了特许经营合同（一种重要且易于理解的商业合同类别）中几种类型契约的使用，包括竞业禁止条款、保密条款和关系后非招聘条款。许多此类合同对特许经营商以及其他个人（尤其是特许经营商的业务合作伙伴和家庭成员，在某些情况下还包括其经理和员工）施加了限制性契约。这些个人使用这些契约的模式很能说明问题，表明在商业合同中，此类条款的信息保护作用可能很重要。"
   },
   {
     "title": "Repealing Reorgs",
@@ -2026,12 +2222,14 @@ window.ARTICLES_DATA = [
     "id": "be769b1089df7b3a",
     "topics": [
       "公司治理",
-      "破产法"
+      "公司并购"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.593908+00:00"
+    "date_added": "2026-07-28T13:25:00.593908+00:00",
+    "title_zh": "废除重组",
+    "abstract_zh": "根据最高法院在摩尔案中的意见，实现对于将收入定义为宪法问题很可能至关重要。因此，当一项交易涉及变现时，除非有充分的理由不确认收益，否则应推定应纳税。鉴于这一现实，国会有充分的理由考虑废除免税重组和公司税的其他不承认规则，主要是出于非税收原因。收购性 A、B 和 C 重组以及收购性 351 条款交易通常用于大型上市公司收购初创公司，从而鼓励垄断。三角合并引起了公司治理方面的担忧，因为它们通常不允许收购方的股东对合并进行投票。分裂性的 D 重组和第 355 条分拆法案在与合并结合时也会引发公司治理问题，并破坏国会自 1935 年以来青睐的传统公司/股东税收制度。E 重组鼓励用债务代替股权，从而增加破产风险。 F 重组促进逐底竞争并提高公司治理"
   },
   {
     "title": "Limits of Contingent Convertible Bonds: Evidence from the Credit Suisse Collapse",
@@ -2043,12 +2241,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:30 PST",
     "id": "826b0b807189a4ab",
     "topics": [
-      "其他"
+      "银行"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594002+00:00"
+    "date_added": "2026-07-28T13:25:00.594002+00:00",
+    "title_zh": "或有可转换债券的局限性：来自瑞士信贷银行倒闭的证据",
+    "abstract_zh": "全球金融危机后，监管机构鼓励银行发行或有可转换债券（“CoCos”），以提高发行银行的稳定性。迄今为止，世界各地的银行已发行了价值超过 1 万亿美元的 CoCo。但目前尚不清楚 CoCos 是否达到了提高稳定性的预期目标。利用 2023 年 3 月意外的银行业恐慌，我们发现发行银行的表现更糟——以异常的股权回报和违约概率来衡量。我们还研究了 2023 年之后的市场动态，发现最大的银行继续发行具有类似合同条款的 CoCo，尽管发行人特征正在发生变化。"
   },
   {
     "title": "Is Confidential Supervisory Information Material to Investors? Evaluating the Conflict between Banking and Securities Law",
@@ -2065,7 +2265,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594130+00:00"
+    "date_added": "2026-07-28T13:25:00.594130+00:00",
+    "title_zh": "机密监管信息对投资者重要吗？评估银行法与证券法之间的冲突",
+    "abstract_zh": "现代美国证券法的一个中心目标是通过强制公开披露来提高公司信息的透明度。这一目标与银行法的核心目标相冲突，即保持银行和银行监管机构之间信息交换的不透明性，以确保单个银行和整个银行体​​系的安全和稳健。银行业中被称为“机密监管信息”（CSI）的信息不透明同样适用于所有银行，无论它们是否出售符合公开披露要求的证券。法律和实践均禁止披露 CSI，违反这些禁令的人将面临可怕的后果。证券法和银行法之间的紧张关系有多严重？如果CSI对于投资者来说总是无关紧要的——银行监管机构的非官方或事实上的立场得到了一些先前对该主题的研究的支持——那么冲突很容易解决，但会引发关于银行监管过程到底要完成什么的问题。如果某些 CSI 实际上对投资者很重要，那么公司和内部人士未能披露它可能会违反联邦证券法。使用数据集 o"
   },
   {
     "title": "Too Scared to Use: Living Wills and Orderly Liquidation of Too-Big-to-Fail Financial Institutions",
@@ -2083,7 +2285,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "破产法",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594263+00:00"
+    "date_added": "2026-07-28T13:25:00.594263+00:00",
+    "title_zh": "太害怕而不敢使用：生前遗嘱和大而不能倒的金融机构的有序清算",
+    "abstract_zh": "2007-2008 年全球金融危机后，“太大而不能倒”一词变得无处不在。立法者、监管者和学者想知道是否有比向大型金融机构发放一系列临时救助计划更好的方法。国会在颁布《多德-弗兰克法案》时，试图通过建立新的监管框架来有序解决大型金融机构问题来解决这一问题。首先，国会要求大而不能倒的机构提交“生前遗嘱”，实质上是规划文件，描述该机构根据《破产法》走向安全失败的路径——这种失败不会影响整个系统的金融稳定。其次，国会向 FDIC 授予“有序清算权”，允许该机构在必要时通过紧急资金接管一家“太大而不能倒”的机构。在过去的十五年里，大型金融机构、它们的律师和监管机构花费了无数的时间来研究《多德弗兰克法案》的这两项重要条款，以便为下一次类似危机的事件做好准备。然而，在 2023 年 3 月以硅谷银行挤兑为起点的恐慌期间，似乎没有人为这两者的生活而烦恼。"
   },
   {
     "title": "Prosecutor Transparency Project: Racial Disparities Study (Washtenaw County, Michigan)",
@@ -2095,12 +2299,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:28 PST",
     "id": "8bc99082e0caf3e6",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594392+00:00"
+    "date_added": "2026-07-28T13:25:00.594392+00:00",
+    "title_zh": "检察官透明度项目：种族差异研究（密歇根州华盛顿县）",
+    "abstract_zh": "本报告调查并估计了 2017 年至 2022 年沃什特诺县检察官办公室 (WCPO) 起诉决策中的种族差异。该分析依赖于 WCPO 目前可用的数据资源，并审查了起诉过程中四个不同时刻的决策：1) 案件批准（即授权令）和指控选择，2) 惯犯指定（根据密歇根州法律），3) 认罪讨价还价，以及 4) 转移和延期机会。种族差异在刑事司法程序的最初阶段表现得最为明显，在 WCPO 从执法部门收到的逮捕令请求中，有色人种的比例明显过高。数据进一步表明，在收到搜查令请求的情况下，WCPO 更有可能对有色人种提出犯罪指控，尽管收费率的实际差异很小。此外，分析还发现，拥有至少一份授权逮捕令的被告在指控结果方面存在统计上显着的种族差异，WCPO 对有色人种的平均犯罪总数和严重犯罪指控均高于白人。"
   },
   {
     "title": "Remedies for Non-Disclosure in Asset Sales: Voidance vs. Damages",
@@ -2112,12 +2318,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 08 Sep 2025 12:22:09 PDT",
     "id": "415f9814bbb46c3b",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594506+00:00"
+    "date_added": "2026-07-28T13:25:00.594506+00:00",
+    "title_zh": "资产出售中未披露的补救措施：无效与损害赔偿",
+    "abstract_zh": "本文分析了买方和卖方之间资产出售中的不披露问题。卖方可以掌握有关资产的重要信息，并可以趁机决定不向买方披露该信息，买方可以事后起诉卖方寻求补救。买方和法院可以选择不同类型的补救措施。本文考虑了三种不同的补救制度：（1）不承担责任； (2) 无效； (3) 损害赔偿。在无效的情况下，买方可以撤销交易（返还资产并收回价格），而在遭受损失的情况下，买方可以从卖方获得金钱赔偿。分析表明，在比较无效和损害赔偿时，虽然无效制度在阻止机会主义不披露方面表现不佳，但通过事后消除低效交易，它可以比损害赔偿或不承担责任表现得更好。本文分析了一种制度比其他制度表现更好的情况以及不同类型的损害。"
   },
   {
     "title": "No Trade Wars Without Taxation -Who's to Blame, and What Comes Next?",
@@ -2134,7 +2342,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "实证研究",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594637+00:00"
+    "date_added": "2026-07-28T13:25:00.594637+00:00",
+    "title_zh": "没有税收就没有贸易战——谁应该受到责备，接下来会发生什么？",
+    "abstract_zh": "随着关税政策再次影响美国的贸易战略，本文提出了一个基本主张：贸易战的核心是税收战。在与美国贸易伙伴的经济紧张局势不断升级的背景下，本文认为，离开维持关税的财政架构就无法理解关税。表面上的保护主义往往掩盖了美国税收体系更深层次的结构性不对称。讨论通过三个相互关联的维度进行：生产回流、促进公平贸易和增加收入。在每一个国家，关税和税收制度之间的相互作用都揭示了更深层次的扭曲。美国的国内国际销售公司、国外销售公司和域外收入排除等出口机制并不是像人们普遍认为的那样对欧洲增值税边境调整的反应，而是对美国企业所得税制度缺陷的反应。此外，本文挑战了增值税本质上是跨境贸易中立的传统观点。通过理论模型和实证证据表明，边境调整可以影响当前的贸易流动"
   },
   {
     "title": "Out of Sight, Out of Mind: Nearby Branch Closures and Small Business Growth",
@@ -2146,29 +2356,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 08 Sep 2025 12:22:08 PDT",
     "id": "2ebca56bae50fca5",
     "topics": [
+      "公司并购",
       "银行"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594739+00:00"
-  },
-  {
-    "title": "Merger Remedies Unbound",
-    "authors": "Dhruv Aggarwal et al.",
-    "abstract": "How should foundational contract law doctrines apply to corporate mergers? This Article argues that recent changes in Delaware law grant parties expansive contractual freedom to define their preferred remedies in merger agreements, untethered from the limits imposed by traditional contract law. A new provision in the Delaware corporate code permits penalty clauses in merger agreements, departing from the traditional “anti-penalty doctrine” that forbids punitive liquidated damages in contract. Delaware courts have also shown deference to specific performance provisions, treating them as presumptively enforceable commitments instead of retaining their traditional judicial discretion over the choice of remedies. Given that Delaware law governs the vast majority of major corporate transactions, these developments reflect a significant shift toward contractual freedom in merger law. Merging parties can now customize their contractual remedies with minimal judicial intervention. This Article, however, argues that such expansion of contractual freedom can carry undesirable and unanticipated risks. Allowing parties to move away from the traditional anti-penalty doctrine could lead to infla",
-    "keywords": [],
-    "url": "https://repository.law.umich.edu/law_econ_current/298",
-    "source": "Michigan Law & Economics Working Papers",
-    "publish_date": "Mon, 08 Sep 2025 12:22:07 PDT",
-    "id": "eba1ab5b8428be2e",
-    "topics": [
-      "司法和执法"
-    ],
-    "primary_topic": "司法和执法",
-    "publish_date_norm": "2025-09-08",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594868+00:00"
+    "date_added": "2026-07-28T13:25:00.594739+00:00",
+    "title_zh": "眼不见心不烦：附近分行关闭和小企业增长",
+    "abstract_zh": "自2010年以来，美国商业银行分支机构总数减少了约20%。分支机构关闭会对经济活动产生重大影响吗？我们调查了分支机构关闭对小企业的影响，这些企业可以通过与银行的当地关系来获得信贷。利用与并购相关的关闭的外生变化，我们发现附近银行分行的关闭导致小企业就业增长和进入减少，同时企业退出增加。我们的结果对于我们对就业、接近度和仪器结构的测量的变化是稳健的。我们使用子样本分析来更好地了解公司和市场特征如何影响当地分支机构对小型企业的作用和重要性。"
   },
   {
     "title": "Why Financial Crises Recur",
@@ -2185,7 +2381,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.594994+00:00"
+    "date_added": "2026-07-28T13:25:00.594994+00:00",
+    "title_zh": "金融危机为何一再发生",
+    "abstract_zh": "两个多世纪以来，金融危机在世界各地发生。这些危机代价高昂且频繁，以至于人们想知道为什么政府在立法、监管、监督和执法方面多次进行广泛尝试，却无法阻止危机再次发生。在本文中，我们认为立法者反复以两种看似直观但实际上不利于整个系统稳定的方式行事。首先，立法者未能理解，与经济中的其他公司不同，“银行”（包括传统银行和影子银行）产生可运行的短期债务。为了产生短期债务，银行的运作不透明。然而，基于保密的监管框架与我们重视透明度高于一切的主导市场范式截然相反。其次，立法者未能理解“系统性危机”与个别银行倒闭之间的区别。旨在提高个别银行的安全性和稳健性并不足以带来整个系统的稳定性。犯这两个错误会导致系统性风险和危机再次发生。值得注意的是，美国立法者成功减少制度的时代"
   },
   {
     "title": "Should the United States Abandon Citizenship-Based Taxation?",
@@ -2202,7 +2400,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2025-05-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595083+00:00"
+    "date_added": "2026-07-28T13:25:00.595083+00:00",
+    "title_zh": "美国应该放弃基于公民的税收吗？",
+    "abstract_zh": "特朗普总统在竞选期间提出结束对居住在海外的美国公民的“双重征税”。答案是，什么是双重征税？居住在海外的美国人已经受益于三项重要条款，这些条款在大多数情况下可以防止双重征税，因此他们中的大多数人不承担任何美国纳税义务。那些这样做的人通常更富有，从投资或高工资中获得收入，并且不需要缴纳外国税，因为他们居住在避税天堂或不对富裕移民对外国来源收入征税的国家，并且他们没有来自居住国的任何收入。"
   },
   {
     "title": "Tax Delegation Post-Loper Bright",
@@ -2219,7 +2419,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2025-05-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595209+00:00"
+    "date_added": "2026-07-28T13:25:00.595209+00:00",
+    "title_zh": "Loper Bright 后的税务代表团",
+    "abstract_zh": "在最近对 Loper Bright 案的裁决中，最高法院通过废除雪佛龙原则，从根本上改变了司法尊重行政解释的轮廓。然而，尽管法院减少了尊重，但它同时强调了向机构法定授权的合法性。 《国内税收法典》（简称《法典》）是美国法律框架内最复杂的立法文本，其应用需要大量的技术专业知识。因此，国会经常将执行该法规的权力委托给国税局也就不足为奇了。鉴于法院在 Loper Bright 案中的判决，有必要澄清允许的税务授权的参数。洛珀·布莱特（Loper Bright）在授权中引入了“宪法限制”的概念，指的是非授权原则，该原则认为国会不能将其核心立法权让渡给行政机构。目前的判例使这一标准相对宽松。在最近的一个案例中，多数人支持授权，但保留了未来重新评估的可能性。值得注意的是，三名持异议的大法官表示愿意重新考虑长期协议"
   },
   {
     "title": "Is the US Exit Tax Constitutional?",
@@ -2236,7 +2438,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2025-05-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595312+00:00"
+    "date_added": "2026-07-28T13:25:00.595312+00:00",
+    "title_zh": "美国的退出税符合宪法吗？",
+    "abstract_zh": "美国最高法院最近在摩尔诉美国一案中的判决提出了一种可能性，即法院将宣布税收条款必须实现才能符合宪法。美国针对外籍人士的离境税最有可能成为后摩尔时代宪法对税收提出挑战但尚未实现的工具，因为 (a) 它涉及个人纳税人； (b) 它不涉及归属，因为税收是直接向外籍纳税人征收的，并且 (c) 它涉及的正是摩尔诉讼直接目标的那种税收，即对富裕纳税人按市价计税（这种税收很乐意为此类诉讼提供资金）。这样的案件可能迫使法院准确面对摩尔案中回避的问题，即“第十六修正案是否授权国会对未实现的金额征税而不在各州之间分配”。"
   },
   {
     "title": "Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants",
@@ -2255,7 +2459,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595436+00:00"
+    "date_added": "2026-07-28T13:25:00.595436+00:00",
+    "title_zh": "气候变化、需求不确定性和企业投资：来自规划发电厂的证据",
+    "abstract_zh": "摘要 需求不确定性如何影响企业的投资决策？我们在发电公司计划投资新发电厂的背景下研究这个问题。我们利用科学气候模型中温度预测的合理外生变化来衡量未来电力需求的不确定性。结果表明，不确定性增加了对采用灵活生产技术的发电厂的投资，同时减少了对不太灵活的技术的投资。总体而言，当企业能够获得灵活的投资机会时，不确定性对投资的净影响是积极的。这些发现与生产灵活性决定投资对需求不确定性的反应的模型是一致的。"
   },
   {
     "title": "The Cross‐Section of Household Preferences",
@@ -2274,7 +2480,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595538+00:00"
+    "date_added": "2026-07-28T13:25:00.595538+00:00",
+    "title_zh": "家庭偏好的横截面",
+    "abstract_zh": "摘要 本文使用大量瑞典家庭的财富和风险投资组合份额来估计 Epstein-Zin 偏好的横截面分布。我们发现适度异质的风险厌恶（标准差 0.97，中位数 7.50）和有意义的异质且右偏的时间偏好率（TPR；标准差 7.31%，中位 4.08%）和跨期替代弹性（EIS；标准差 3.17，中位 0.70）。风险规避和 EIS 之间的负相关性非常弱。我们估计，劳动收入风险较高的家庭的风险厌恶程度较低，而进入我们样本的低财富家庭的 TPR 较高，EIS 较低。"
   },
   {
     "title": "Do Equity and Options Markets Agree about Volatility?",
@@ -2288,12 +2496,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 23 Jul 2026 00:31:09 -0700",
     "id": "0e0cd7606f61fe6d",
     "topics": [
-      "金融市场"
+      "金融市场",
+      "合同"
     ],
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595642+00:00"
+    "date_added": "2026-07-28T13:25:00.595642+00:00",
+    "title_zh": "股票和期权市场对波动性的看法一致吗？",
+    "abstract_zh": "摘要 我们从同日到期的期权（“0DTE”）中得出严格的定价内核限制。这些限制涉及资产价格小幅波动和频繁波动，在无摩擦经济中，股票和期权市场必须就这些波动达成一致。他们的违规行为会导致伪套利机会，其特点是在任意短期内获得不平凡的回报风险比，并通过 0DTE 和基础资产的组合头寸来实现。从经验上看，我们没有发现可行的伪套利机会的证据，因为交易成本、估计风险和短期波动风险阻止投资者利用股票和期权市场之间关于波动性的小而罕见的分歧。"
   },
   {
     "title": "M&As, Employee Costs, and Labor Reallocation",
@@ -2307,12 +2518,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 21 Jul 2026 04:12:09 -0700",
     "id": "8abe879cee6d561f",
     "topics": [
-      "其他"
+      "公司并购"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595743+00:00"
+    "date_added": "2026-07-28T13:25:00.595743+00:00",
+    "title_zh": "并购、员工成本和劳动力重新分配",
+    "abstract_zh": "摘要 合并与目标公司现任员工的大幅且持续的收入下降有关。将雇主-雇员管理数据与巴西合并活动的信息联系起来，我发现负面影响集中在退出目标公司的雇员身上，反映了短期的流离失所和长期的工资下降。低技能、管理人员和年长员工的情况更糟。总体而言，我的结论是，合并之后会产生大量的重新分配成本，反映了公司特定工资溢价的损失、匹配效率低下和特定行业人力资本折旧，员工转移到被认为生产率和就业价值较低的低薪公司。"
   },
   {
     "title": "Jay R. Ritter",
@@ -2331,26 +2544,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595791+00:00"
-  },
-  {
-    "title": "ANNOUNCEMENTS",
-    "authors": "",
-    "abstract": "The Journal of Finance, Volume 81, Issue 4, Page 2479-2479, August 2026.",
-    "keywords": [
-      "Announcement"
-    ],
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70018?af=R",
-    "source": "Journal of Finance",
-    "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
-    "id": "c9c13fcf68afbb73",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-07-15",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595841+00:00"
+    "date_added": "2026-07-28T13:25:00.595791+00:00",
+    "title_zh": "杰·R·里特",
+    "abstract_zh": "《金融杂志》，EarlyView。"
   },
   {
     "title": "Report of the Editor of The Journal of Finance for the Year 2025",
@@ -2369,45 +2565,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595893+00:00"
-  },
-  {
-    "title": "AMERICAN FINANCE ASSOCIATION",
-    "authors": "",
-    "abstract": "The Journal of Finance, Volume 81, Issue 4, Page 2480-2481, August 2026.",
-    "keywords": [
-      "ISSUE INFORMATION"
-    ],
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13352?af=R",
-    "source": "Journal of Finance",
-    "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
-    "id": "675b2aeaa64d9823",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-07-15",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.595944+00:00"
-  },
-  {
-    "title": "Partisan Entrepreneurship",
-    "authors": "JOSEPH ENGELBERG, \nJORGE GUZMAN, \nRUNJING LU, \nWILLIAM MULLINS",
-    "abstract": "ABSTRACT Republicans start more firms than Democrats. In a sample of 40 million party‐identified Americans between 2005 and 2017, we find that 5.5% of Republicans and 3.7% of Democrats become entrepreneurs. This partisan entrepreneurship gap is time‐varying—Republicans increase their relative entrepreneurship during Republican administrations and decrease it during Democratic administrations, amounting to a partisan reallocation of 170,000 new firms over our 13‐year sample. We find sharp changes in partisan entrepreneurship around the elections of President Obama and President Trump, with the strongest effects among the most politically active partisans: those that donate and vote.",
-    "keywords": [
-      "Original Article"
-    ],
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70042?af=R",
-    "source": "Journal of Finance",
-    "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
-    "id": "b477ac5975655ac4",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-07-15",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596038+00:00"
+    "date_added": "2026-07-28T13:25:00.595893+00:00",
+    "title_zh": "《金融杂志》2025年编辑报告",
+    "abstract_zh": "《金融杂志》，第 81 卷，第 4 期，第 2469-2478 页，2026 年 8 月。"
   },
   {
     "title": "Private Equity and Pay Gaps Inside the Firm",
@@ -2421,12 +2581,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "ca88555e7b50366c",
     "topics": [
-      "其他"
+      "公司治理",
+      "非银机构"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596131+00:00"
+    "date_added": "2026-07-28T13:25:00.596131+00:00",
+    "title_zh": "私募股权和公司内部的薪酬差距",
+    "abstract_zh": "摘要：利用法国二十年的行政数据，我们发现，杠杆收购（LBO）后，目标公司缩小了公司内部的薪酬差距，同时相对于控制公司提高了盈利能力。员工流动率推动薪酬差距缩小。在目标公司和控制公司中，人员流动对工资分布顶部的平均工资的影响比底部的要大，因为离职员工的工资比类似员工高，新加入的员工工资低，尤其是技术熟练的员工。杠杆收购通过增加管理者的流动来放大这种效应。收购后，p90/p10、性别、年龄以及经理/非经理薪酬差距分别下降 3%、9%、21% 和 4%，员工队伍变得更年轻。"
   },
   {
     "title": "Consumption in Asset Returns",
@@ -2445,7 +2608,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596227+00:00"
+    "date_added": "2026-07-28T13:25:00.596227+00:00",
+    "title_zh": "资产回报中的消耗",
+    "abstract_zh": "摘要 利用回报信息，我们识别消费的随机过程。我们发现，总消费会在多个季度对金融市场的创新做出反应。这种持久性成分占消耗变化的四分之一以上。这些冲击带来了巨大且显着的风险溢价，推动了大部分股票和一小部分债券的时间序列变化。然而，我们没有发现消费的随机波动会驱动时变风险溢价的证据。最后，基于我们估计过程的标准递归效用模型解释了低风险厌恶的股权溢价和无风险利率难题。"
   },
   {
     "title": "Risk‐Free Rates and Convenience Yields around the World",
@@ -2464,7 +2629,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596329+00:00"
+    "date_added": "2026-07-28T13:25:00.596329+00:00",
+    "title_zh": "全球无风险利率和便利收益率",
+    "abstract_zh": "摘要 我们从指数期权价格推断无风险利率，以估计 10 种 G11 货币的安全资产便利收益率。各国的便利收益率随着利率水平的提高而增加，其中美国的便利收益率排名第五。在金融危机期间，便利收益率会增长，但美国和外国便利收益率之间的差异通常不会增长。使用我们的期权隐含利率计算的备兑利率平价 (CIP) 偏差在美国和其他国家之间的大小相似。一个模型解释了这些结果，其中便利收益率取决于国内金融中介机构，但 CIP 偏差反映了以美元计价债务融资的国际套利者的融资成本。"
   },
   {
     "title": "Detecting Informed Trading Risk from Undercutting Activity",
@@ -2483,7 +2650,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596430+00:00"
+    "date_added": "2026-07-28T13:25:00.596430+00:00",
+    "title_zh": "检测削弱活动中的知情交易风险",
+    "abstract_zh": "摘要 我们引入了一种简单的知情交易风险衡量方法，QIDres$QID^{res}$，即剩余流动性报价改善与恶化比率乘以−1$-1$。当面临增加的知情交易风险时，流动性提供者在提供流动性方面的竞争会减少，从而减少了他们的削弱活动。底价削减的减少会在 QIDres$QID^{res}$ 捕获的交易和报价数据中留下痕迹。与之前的措施不同，QIDres$QID^{res}$ 易于构建，可以在日内计算，并且与流动性正交。 QIDres$QID^{res}$ 指标在反映收益公告之前的信息不对称程度、预测计划外的新闻稿以及识别围绕这些新闻稿的知情交易溢出方面，优于现有的其他替代指标。"
   },
   {
     "title": "Quote Competition in Corporate Bonds",
@@ -2502,7 +2671,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596527+00:00"
+    "date_added": "2026-07-28T13:25:00.596527+00:00",
+    "title_zh": "公司债券报价竞争",
+    "abstract_zh": "摘要 公司债券的交易商报价虽然具有指示性，但可以降低交易成本并增加交易量。交易商提供更高质量的报价吸引更多的订单流并以优惠的价格执行交易。经销商发布报价广告来管理库存并吸引非关系客户的订单。然而，报价竞争并不完善。最好的报价往往无法吸引订单，换货现象很常见。然而，报价竞争很重要，因为客户在谈判中利用其他经销商的报价，迫使报价质量较低的经销商提高价格。报价不是零和游戏，因为更活跃的债券级别报价会导致更多的债券级别交易。"
   },
   {
     "title": "The Drivers and Implications of Retail Margin Trading",
@@ -2521,7 +2692,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596623+00:00"
+    "date_added": "2026-07-28T13:25:00.596623+00:00",
+    "title_zh": "零售保证金交易的驱动因素和影响",
+    "abstract_zh": "摘要：利用涵盖中国受监管（经纪融资）和不受监管（影子融资）保证金账户的详细数据，我们提供了有关散户投资者保证金交易行为及其价格影响的新证据。我们首先表明，尽管借贷成本高昂，散户投资者仍决定在股票交易中加杠杆，这与他们对彩票的偏好有关。然后我们表明，保证金借贷会影响投资者的交易行为——投资者在接近追加保证金时更有可能清算其持有的股票。最后，我们表明，保证金引发的交易总量会影响资产价格，并导致股票之间的冲击溢出效应（例如，从彩票股票到非彩票股票）。"
   },
   {
     "title": "Why Have CEO Pay Levels Become Less Diverse?",
@@ -2541,7 +2714,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596716+00:00"
+    "date_added": "2026-07-28T13:25:00.596716+00:00",
+    "title_zh": "为什么首席执行官的薪酬水平变得越来越不多样化？",
+    "abstract_zh": "摘要 本文记录了一个新的事实：首席执行官薪酬水平的横截面差异近年来急剧下降。对于这种下降，我们提供了一种解释，即企业越来越多地将首席执行官薪酬与规模最接近的行业同行进行比较，从而形成薪酬集群。我们的实证检验为这一解释提供了支持，并表明行业规模基准的兴起是由三个制度因素驱动的：薪酬同行群体的强制披露、代理咨询的影响力和薪酬话语权监管。我们的研究结果强调了在薪酬制定过程中采用一刀切的标准的后果。"
   },
   {
     "title": "Hedger of Last Resort: Evidence from Brazilian FX Interventions, Local Credit, and Global Financial Cycles",
@@ -2561,7 +2736,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596822+00:00"
+    "date_added": "2026-07-28T13:25:00.596822+00:00",
+    "title_zh": "最后的套期保值者：来自巴西外汇干预、当地信贷和全球金融周期的证据",
+    "abstract_zh": "摘要 我们的研究表明，外汇干预措施是有效的，特别是在减弱全球金融溢出效应方面。我们利用三个匹配的行政登记册来利用全球金融冲击和巴西央行对外汇衍生品的干预：（对公司的）银行信贷、对银行的外国信贷和雇主雇员。在美国“缩减恐慌”（随后是新兴市场的外汇动荡）之后，拥有更多外债的巴西银行削减了信贷供应，从而减少了企业层面的就业。随后的大规模政策干预提供了针对外汇风险的衍生品（最后的对冲手段），将负面影响减半。 2008 年至 2015 年利用全球外汇冲击和当地外汇干预的小组证实了结果和对冲渠道。然而，外汇政策会带来财政和道德风险成本。"
   },
   {
     "title": "Investing with Purpose: Evidence from Private Foundations",
@@ -2575,12 +2752,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "15c0ac43554eca84",
     "topics": [
-      "央行和货币政策"
+      "央行和货币政策",
+      "私募信贷"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.596917+00:00"
+    "date_added": "2026-07-28T13:25:00.596917+00:00",
+    "title_zh": "有目的的投资：来自私人基金会的证据",
+    "abstract_zh": "摘要 我们研究支持慈善部门的美国私人基金会的资产配置和投资绩效。在早期获得私募股权和风险投资基金的推动下，大型基金会在 2008 年之前产生了正的风险调整回报，但此后表现不佳。基金会的中位数表现落后超过 100 个基点。持股集中的基金会获得更高的回报，但承担更多的风险。由于 5% 的最低支出规则和宽松的货币政策的限制，基金会增加了风险承担和收益追求。随着时间的推移，保守的资产配置会减少实际财富，从而减少慈善捐赠。"
   },
   {
     "title": "Cash Heterogeneity and the Payout Channel of Monetary Policy",
@@ -2600,7 +2780,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597016+00:00"
+    "date_added": "2026-07-28T13:25:00.597016+00:00",
+    "title_zh": "现金异质性与货币政策的支付渠道",
+    "abstract_zh": "摘要 本文提供了新颖的经验证据，证明现金充裕的公司会因扩张性货币政策意外而支付更高的股本支出和更高的股价。尽管现金流、投资和信贷对货币政策的反应疲弱，但股价仍在上涨。我对异质企业新凯恩斯主义模型中的经验证据进行了合理化，在该模型中，企业通过现金和股票发行为投资融资。货币宽松削弱了预防性现金需求，导致现金充裕的公司将多余资金最优地分配给股东。由于支出具有顺周期性，现金充裕的公司在扩张期可以获得更高的回报。我的研究结果强调了货币政策影响资产价格的支付渠道。"
   },
   {
     "title": "The Debt‐Equity Spread",
@@ -2619,7 +2801,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597112+00:00"
+    "date_added": "2026-07-28T13:25:00.597112+00:00",
+    "title_zh": "债权股利差",
+    "abstract_zh": "摘要 我们提出了一种衡量债务和股权之间估值差距的方法——债务股权利差（DES）——基于实际信用利差和股权隐含信用利差之间的差异。 DES 以相反方向预测横截面股票和债券回报。与现有的错误定价措施相比，这种可预测性是独一无二的，并且不能用各种风险因素来解释。高 DES 公司更有可能发行股票和偿还债务，并且有更多的内部股权出售。这些发现与 DES 捕获债务和股权之间相对错误定价的结果一致，并为 Greenwood、Hanson 和 Liao 的部分分割市场模型提供了实证支持（2018 年，金融研究评论 31, 3307-3343）。"
   },
   {
     "title": "Bank Competition Amid Digital Disruption: Implications for Financial Inclusion",
@@ -2638,26 +2822,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融科技",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597211+00:00"
-  },
-  {
-    "title": "ISSUE INFORMATION",
-    "authors": "",
-    "abstract": "The Journal of Finance, Volume 81, Issue 4, Page 1801-1804, August 2026.",
-    "keywords": [
-      "ISSUE INFORMATION"
-    ],
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13351?af=R",
-    "source": "Journal of Finance",
-    "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
-    "id": "a02673f0d43caa39",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-07-15",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597260+00:00"
+    "date_added": "2026-07-28T13:25:00.597211+00:00",
+    "title_zh": "数字化颠覆中的银行竞争：对金融包容性的影响",
+    "abstract_zh": "摘要 我们利用 3G 移动网络的交错部署来研究数字化颠覆如何影响银行竞争。 3G 的扩张增加了精通技术的家庭对移动银行的采用，减少了分支机构网络——尤其是在较年轻的县。银行的策略存在差异：较少依赖分支机构的银行关闭分支机构并进行价格竞争，而较多依赖分支机构的银行则保留分支机构但提高利差。结构模型显示，年轻消费者感知到的数字服务改进推动了这些转变，从而减少了老年储户的福利。反事实表明，为老年储户提供补贴可以经济有效地减少这些差距，促进更顺利的数字化转型。"
   },
   {
     "title": "Twin Defaults and Bank Capital Requirements",
@@ -2677,7 +2844,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-06-25",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597349+00:00"
+    "date_added": "2026-07-28T13:25:00.597349+00:00",
+    "title_zh": "双重违约和银行资本要求",
+    "abstract_zh": "摘要：我们在定量一般均衡模型中研究了银行面临不可分散借款人违约风险的最佳资本要求。与银行违约风险的标准模型相反，我们的框架捕捉到了贷款组合回报的有限上行风险，但显着的下行风险。这有助于重现双重违约的频率和严重程度：同时出现高额企业和银行违约。因此，最优银行资本要求（以较低的双重违约频率与限制信贷拨备作为权衡）高于违约风险模型，后者低估了借款人违约对银行偿付能力的影响。"
   },
   {
     "title": "Learning to Navigate a New Financial Technology",
@@ -2691,12 +2860,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Jun 2026 03:20:55 -0700",
     "id": "4d8cc5f258f5e8df",
     "topics": [
-      "其他"
+      "金融科技"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "金融科技",
     "publish_date_norm": "2026-06-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597444+00:00"
+    "date_added": "2026-07-28T13:25:00.597444+00:00",
+    "title_zh": "学习驾驭新的金融技术",
+    "abstract_zh": "摘要：我们展示了一项现场实验的结果，该实验向没有银行账户的工厂工人引入了数字工资账户，以研究缺乏经验的消费者如何学习使用新的金融技术。我们发现，接触工资账户可以增加账户使用、加速学习并避免常见的消费者保护风险。那些接受电子工资支付的人逐渐建立对技术的信任，学会在没有帮助的情况下使用账户，并避免非法费用。通过对银行与移动货币账户分配的实验变化，我们发现这些影响集中在移动货币账户，即更新、更复杂且不太可信的金融技术。"
   },
   {
     "title": "The Equilibrium Effects of Eviction Policies",
@@ -2715,7 +2886,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-05-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597538+00:00"
+    "date_added": "2026-07-28T13:25:00.597538+00:00",
+    "title_zh": "驱逐政策的均衡效应",
+    "abstract_zh": "摘要 我提出了一个租赁市场的动态均衡模型，该模型内生地导致租金违约和驱逐。在该模型中，驱逐保护使驱逐拖欠房客的难度加大，但房东的违约成本较高，从而增加了均衡租金。我使用有关驱逐、租金和无家可归的微观数据来量化该模型。我发现更强有力的驱逐保护会加剧住房不安全并降低福利。这一结果的关键实证驱动因素是租金拖欠风险的持续性。租金援助减少了住房不安全感并改善了福利，因为它降低了租户事前违约的可能性。"
   },
   {
     "title": "Learning in the Limit: Income Inference from Credit Extensions",
@@ -2729,12 +2902,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 07 May 2026 01:10:18 -0700",
     "id": "84a7dddd3f16e8f6",
     "topics": [
+      "实验",
       "银行"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "实验",
     "publish_date_norm": "2026-05-07",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597628+00:00"
+    "date_added": "2026-07-28T13:25:00.597628+00:00",
+    "title_zh": "极限学习：从信用延期中推断收入",
+    "abstract_zh": "摘要：本文将随机对照试验与行政和调查数据相结合，表明信用额度延期显着增加了总支出和收入预期。通过控制个人收入预期的变化，对信用额度延期的支出反应减弱了约 30%。对于经济上不受限制的消费者来说，预期变化约占限制延期支出反应的三分之二。这些发现与消费者从信贷供应中推断未来收入是一致的。"
   },
   {
     "title": "Judicial Decision‐Making in Free Exercise Cases: The Effect of Legal Standards, Judge Party, and Shared Religion",
@@ -2753,7 +2929,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597761+00:00"
+    "date_added": "2026-07-28T13:25:00.597761+00:00",
+    "title_zh": "自由行使案件中的司法决策：法律标准、法官政党和共同宗教的影响",
+    "abstract_zh": "摘要 对于那些研究司法决策的人来说，自由行使宗教主张占据着特别有趣的地位，因为人们经常看到相同或非常相似的主张以截然不同的法律标准来判断。声称自由行使权利受到侵犯的个人可以要求自由行使条款的保护，但最高法院现在对此的解释规定，对自由行使权利施加负担的中立的、普遍适用的法律不与该条款相冲突。许多索赔人诉诸《宗教自由恢复法》，或者就囚犯而言，诉诸《宗教土地使用和收容人员法》。这些法律规定了“严格审查”标准，这应该会使索赔人更有可能获胜。本文旨在回答一些有关宗教自由主张的研究问题，同时对使用自由行使条款和 RFRA/RLUIPA 的案件判决方式进行直接比较。我使用了 2006 年至 2015 年联邦巡回法院和地方法院宗教自由主张中所有司法投票的数据集。我首先发现，在其他条件相同的情况下，法官更有可能投票支持主张者"
   },
   {
     "title": "Expert Asymmetry: Evidence From Securities Litigation",
@@ -2767,12 +2945,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 19 Jun 2026 18:56:19 -0700",
     "id": "575e2cdc5e9c6d77",
     "topics": [
-      "司法和执法"
+      "司法和执法",
+      "合同"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-19",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.597893+00:00"
+    "date_added": "2026-07-28T13:25:00.597893+00:00",
+    "title_zh": "专家不对称：来自证券诉讼的证据",
+    "abstract_zh": "摘要 现代诉讼通常涉及两个独立的、法律外的特征：（1）与原告方律师的风险代理费安排，以及（2）“专家之战”，案件的结果取决于相互矛盾的专家证人证词。我们构建了一个模型来说明，当这些特征同时出现时，在原告方律师预先承担聘请专家费用的情况下，被告在聘请专家证人方面将系统性地比原告花费更多。我们的模型是基于十年来证券集体诉讼中手工收集的数据，我们发现专家几乎完全两极分化为原告方专家与辩方专家，辩方专家在教育和学术背景方面更“有声望”，而辩方专家的每小时费用至少高出 36%。我们认为，专家不对称可以通过某些个人索赔中的最佳合同来解决，但这可能是“对抗性”诉讼体系中所有集体诉讼的必要特征，例如有毒侵权或消费者保护。因此，这种防守方的优势提供了一个新的识别"
   },
   {
     "title": "Ideology and Agenda Setting in the High Court of Australia",
@@ -2791,7 +2972,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598023+00:00"
+    "date_added": "2026-07-28T13:25:00.598023+00:00",
+    "title_zh": "澳大利亚高等法院的意识形态和议程设置",
+    "abstract_zh": "摘要 司法意识形态是否影响澳大利亚高等法院的议程设定过程？申请上诉“特别许可”是高等法院管理案件量的主要方法，类似于美国最高法院的调卷卷。受理率很低（10%–15%），而诉讼当事人被拒绝的后果很高，因为法院是澳大利亚法律所有领域（包括宪法事务）的最终上诉法院。为了处理特别许可申请，法院选择规模不等的小型法官小组进行裁决，主要通过口头辩论或即决裁决来裁决案件。然而，专家组选择的具体标准没有明确记录，在实践中，首席大法官选择特别假专家组的规模和组成。我们认为，这显然会导致意识形态偏见影响案件结果。应用新颖的方法，我们证明，尽管特别休假小组的意识形态构成存在很大差异，但非常有限的证据表明，战略性地选择小组是为了限制特定法律领域申请的成功，并且"
   },
   {
     "title": "Sentencing in the Shadow of Promotion: The Impacts of Circuit Court Nomination on Federal Judges",
@@ -2810,7 +2993,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-07",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598155+00:00"
+    "date_added": "2026-07-28T13:25:00.598155+00:00",
+    "title_zh": "晋升阴影下的量刑：巡回法院提名对联邦法官的影响",
+    "abstract_zh": "摘要 法官像其他人一样寻求最大化自己的效用。他们的目标包括工作保障和晋升。联邦法官缺乏州法官通常会受到的选举激励，但他们可以通过试镜来获得晋升。我测试他们是否在刑事判决中参加晋升试镜。根据 2006 年至 2023 年联邦法院判处的刑事判决，我发现最终被提名到更高一级法院的联邦法官比其他“竞争者”同行判处的刑期更长，尽管这种影响受到司法区的调节。这种效应是司法行为和选择效应的混合体——法官因各种其他原因而得到晋升，其中许多原因可能与刑事判决有关。虽然没有全面的证据表明在空缺期间进行了司法试镜，但有证据表明在某些总统领导下对某些法官进行了司法试镜。然而，这种行为在提名时结束：事件研究设计发现，提名的宣布对被提名人的量刑没有实质性影响。这些结果表明，尽管联邦司法机构与州法院的结构不同，但战略地位"
   },
   {
     "title": "A New Source of Data on Class Action Settlements: The Department of Justice's Class Action Fairness Act Log",
@@ -2829,7 +3014,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-05",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598289+00:00"
+    "date_added": "2026-07-28T13:25:00.598289+00:00",
+    "title_zh": "集体诉讼和解数据的新来源：司法部集体诉讼公平法日志",
+    "abstract_zh": "摘要 由于从地方法院命令中收集数据集的后勤负担，集体诉讼和解的研究一直非常困难。对于非证券结算尤其如此。而且，即使已经实施，其代表性也无人知晓。然而，自 2005 年《集体诉讼公平法案》（“CAFA”）颁布以来，被告每次解决集体诉讼时都必须向美国司法部发送通知，以免和解不具有约束力。因此，这些通知有可能克服过去定居点目录中的许多挑战和限制。本文是第一篇评估该部 CAFA 通知研究集体诉讼和解的有效性的论文。根据《信息自由法》的要求，我获得了该部门保存的 CAFA 通知日志。尽管该日志包含数千个条目，并且每年的结算量比任何以前的数据集都要多，但我发现该日志出人意料地不完整。这对于证券集体诉讼尤其明显，但对于非证券集体诉讼似乎也是如此。因此，日志不会改善"
   },
   {
     "title": "Randomly Albright: The End of Judge Shopping in the Western District of Texas?",
@@ -2848,7 +3035,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-01",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598417+00:00"
+    "date_added": "2026-07-28T13:25:00.598417+00:00",
+    "title_zh": "随机奥尔布赖特：德克萨斯州西区法官购物的终结？",
+    "abstract_zh": "摘要 由于法官在如何处理和判决案件方面行使自由裁量权，法官之间的异质性会影响案件结果，从而影响诉讼当事人对特定法官的偏好。然而，选择掩盖了驱动这些偏好的因果机制。我们通过研究在一个审判地（美国德克萨斯州西区地方法院）引入随机案件分配来克服这一挑战，该审判地以前经历过案件高度集中在一名法官（艾伦·奥尔布赖特）面前，诉讼当事人可以几乎确定地选择法官。为了评估奥尔布赖特对专利执法者的重要性，我们研究了采用随机案件分配后案件申请模式如何变化，并表明德克萨斯州西区的案件申请在集约边缘和广泛边缘均显着下降。此外，为了阐明为什么诉讼当事人更喜欢奥尔布赖特法官，我们比较了随机分配案件的案件管理指标和动议实践，并表明分配给奥尔布赖特的案件收到了相对较早的审判日期，并产生了较少的搁置待决并行行政无效程序的动议和较少的侵犯动议。"
   },
   {
     "title": "In Memoriam: Marc Galanter",
@@ -2867,26 +3056,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-05-31",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598466+00:00"
-  },
-  {
-    "title": "Issue Information",
-    "authors": "",
-    "abstract": "Journal of Empirical Legal Studies, Volume 23, Issue 2, Page 157-159, June 2026.",
-    "keywords": [
-      "ISSUE INFORMATION"
-    ],
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jels.70024?af=R",
-    "source": "Journal of Empirical Legal Studies",
-    "publish_date": "Wed, 13 May 2026 21:48:43 -0700",
-    "id": "e5b4272fcb3188ce",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-05-13",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598515+00:00"
+    "date_added": "2026-07-28T13:25:00.598466+00:00",
+    "title_zh": "悼念：马克·加兰特",
+    "abstract_zh": "实证法律研究杂志，EarlyView。"
   },
   {
     "title": "Sentence Variability in a Mathematical Sentencing Framework: A Statistical Analysis of Brazilian Court Data",
@@ -2906,7 +3078,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598650+00:00"
+    "date_added": "2026-07-28T13:25:00.598650+00:00",
+    "title_zh": "数学量刑框架中的句子变异性：巴西法院数据的统计分析",
+    "abstract_zh": "摘要 本文介绍了巴西量刑实践的定量研究结果，重点关注司法判决中数字模式和“刑事集群”的存在。该研究利用圣保罗（该国人口最多、最活跃的司法机构）的刑事判决数据集，统计调查巴西法官是否对某些刑期长度表现出偏好，例如偶数、“整数”和 6 个月的倍数。该研究还探讨了数字分数在塑造句子变异性中的作用。尽管巴西有民法传统且缺乏正式的量刑指南，但结果显示，刑法集中程度很高，法官始终依赖一套狭隘的量刑价值观。这些模式表明认知启发法，特别是“锚定效应”对量刑决定的影响。虽然数字分数的使用可以增强一致性和可预测性，但它也可能限制个性化——引起对机械决策的担忧，并降低对具体情况的响应能力。本文讨论了这些发现对"
   },
   {
     "title": "Patents and Supra‐Competitive Prices: Evidence From Consumer Products",
@@ -2925,7 +3099,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "实证研究",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598743+00:00"
+    "date_added": "2026-07-28T13:25:00.598743+00:00",
+    "title_zh": "专利和超竞争价格：来自消费品的证据",
+    "abstract_zh": "摘要 专利制度是创新政策的核心工具。垄断定价的前景据称会鼓励企业创新。然而，很少有经验证据支持受专利保护的产品存在较高的加价。我们使用将消费品与保护它们的专利联系起来的原始数据集，研究专利保护对产品价格的影响。利用专利状况的外生变化，我们发现专利保护的丧失会导致产品价格下降 8%–10%。对于更重要的专利，价格下降幅度更大，并且在竞争更激烈的产品市场中更明显。"
   },
   {
     "title": "Can Disclaimers of Affiliation Dispel Trademark Confusion? Evidence From Two Randomized Experiments",
@@ -2939,12 +3115,15 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 13 May 2026 21:48:43 -0700",
     "id": "3cfda18f2570b2ed",
     "topics": [
-      "其他"
+      "司法和执法",
+      "实验"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598859+00:00"
+    "date_added": "2026-07-28T13:25:00.598859+00:00",
+    "title_zh": "隶属关系免责声明能否消除商标混淆？两次随机实验的证据",
+    "abstract_zh": "摘要 长期以来，法律学者和法院一直认为免责声明是消除商标混淆的无效工具。我们用两个随机实验的新证据重新审视这场争论。与早期的研究一致，我们发现仅靠免责声明并不能消除消费者的困惑。然而，我们的实验表明，仅仅要求消费者登记对免责声明的认可就可以将混乱程度减少到大多数法院认为可以忽略不计的程度。我们在在线购物环境中测试了两项免责声明确认任务：一项繁重的任务，要求参与者在继续研究之前重新输入免责声明的文本；一项简单得多的任务，要求参与者单击一个框，确认他们已阅读并理解免责声明才能继续。这些任务在将混淆可能性降低到通常会触发混淆可能性发现的阈值以下方面同样有效。"
   },
   {
     "title": "A Survey of Preferences for Estate Distribution at Death",
@@ -2963,7 +3142,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.598983+00:00"
+    "date_added": "2026-07-28T13:25:00.598983+00:00",
+    "title_zh": "死亡时遗产分配偏好调查",
+    "abstract_zh": "摘要 当您去世后，您想如何处理您的财产？本文介绍了一项调查结果，我们向 9000 名具有全国代表性的美国成年人样本提出了这个问题。我们收集了受访者家庭的数据，然后询问他们希望如何将财产分配给留下的人。我们发现，人们对于给予配偶的礼物更加矛盾，而对于非婚姻伴侣的礼物则比无遗嘱法通常假设的更加慷慨。人们对父母的捐赠也比预期的要少，而对兄弟姐妹、远亲和朋友的捐赠则比预期的要多，而对继子女的捐赠则比预期的要多得多。我们发现种族、阶级和性别之间存在一些显着差异，女性、非裔美国人以及收入和教育程度较低的人更愿意向配偶提供较少的钱。我们的研究结果通过提供公正的样本、纳入人口特征数据以及观察非常规家庭中人们的偏好，改进了遗嘱认证的实证研究。我们认为，虽然无遗嘱法常被认为是实现多数主义偏好，但它可能更符合多数主义、家长主义和行政主义的混合。"
   },
   {
     "title": "An Assessment of Racial Disparities in Pretrial Decision‐Making Using Misclassification Models",
@@ -2982,7 +3163,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599117+00:00"
+    "date_added": "2026-07-28T13:25:00.599117+00:00",
+    "title_zh": "使用错误分类模型评估审前决策中的种族差异",
+    "abstract_zh": "摘要 全国各地的司法管辖区都使用审前风险评估工具来评估“审前失败”的可能性，即被告未能出庭 (FTA) 或再次犯罪的事件。司法官员则利用这些评估来决定在审判期间是否释放或拘留被告。虽然算法风险评估工具的设计目的是为了比法官更准确地预测审前失败，但仍然有人担心风险评估建议和审前决策都对少数群体存在偏见。我们以弗吉尼亚州审前风险评估工具（VPRAI）作为案例研究，调查风险评估算法和司法判决的准确性和公平性。在本文中，我们开发了方法来调查风险因素与审前失败之间的关联，同时估计审前风险评估和司法判决的错误分类率作为被告种族的函数。这种方法增加了越来越多的文献，利用结果错误分类方法来回答有关审前决策公平性的问题。我们给出了详细的模拟研究"
   },
   {
     "title": "Crime, Punishment, and Expectations",
@@ -2996,12 +3179,14 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 13 May 2026 21:48:43 -0700",
     "id": "39d6e539e52f16a1",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599223+00:00"
+    "date_added": "2026-07-28T13:25:00.599223+00:00",
+    "title_zh": "犯罪、惩罚和期望",
+    "abstract_zh": "摘要 犯罪是没有代价的。或者确实如此？我们研究了期望对制裁的作用以及发现人们是否遵守法律的可能性。我们研究期望如何影响人们是否遵守法律，并对各种执法反事实进行模拟。我们发现对检测可能性的平均评估相当准确，但那些（错误地）认为概率低于实际情况的人更有可能违法。此外，对于被抓到可能产生的后果的预期也各不相同。在我们的模拟中，感知到的罚款对违法意愿影响不大，但感知到的逮捕可能性较高会产生明显的影响。由于边缘受访者在违法率方面起着关键作用，因此对全体民众的预期偏差影响不大。"
   },
   {
     "title": "Is the German Constitutional Court Partisan?",
@@ -3013,12 +3198,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "c37c369c117ec752",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599266+00:00"
+    "date_added": "2026-07-28T13:25:00.599266+00:00",
+    "title_zh": "德国宪法法院有党派倾向吗？",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 397-432 页，2026 年 6 月。"
   },
   {
     "title": "Differentiation through Legal Uncertainty",
@@ -3030,12 +3217,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "ebf8beaf12594ffe",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599307+00:00"
+    "date_added": "2026-07-28T13:25:00.599307+00:00",
+    "title_zh": "通过法律不确定性实现差异化",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 463-510 页，2026 年 6 月。"
   },
   {
     "title": "Charging Leniency and Federal Sentences",
@@ -3047,12 +3236,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "aa8329e57033b7ee",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599345+00:00"
+    "date_added": "2026-07-28T13:25:00.599345+00:00",
+    "title_zh": "指控宽大处理和联邦判决",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 317-364 页，2026 年 6 月。"
   },
   {
     "title": "Color Helps Consumers Notice and Understand Contract Terms",
@@ -3064,12 +3255,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "e86a4e5f5f494a20",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599385+00:00"
+    "date_added": "2026-07-28T13:25:00.599385+00:00",
+    "title_zh": "颜色帮助消费者注意和理解合同条款",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 511-544 页，2026 年 6 月。"
   },
   {
     "title": "Digital Markets and Hidden Noncompliance",
@@ -3086,7 +3279,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599424+00:00"
+    "date_added": "2026-07-28T13:25:00.599424+00:00",
+    "title_zh": "数字市场和隐藏的违规行为",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 433-461 页，2026 年 6 月。"
   },
   {
     "title": "A (Plea) Offer You Can Refuse",
@@ -3098,12 +3293,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "aea6b8d17cdd1fc9",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599463+00:00"
+    "date_added": "2026-07-28T13:25:00.599463+00:00",
+    "title_zh": "您可以拒绝的（辩诉）要约",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 277-316 页，2026 年 6 月。"
   },
   {
     "title": "The Reasons Highest Courts Give: England, France, Germany: 1880–89 and 2007–16",
@@ -3115,29 +3312,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "c05f17d993522b9a",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599504+00:00"
-  },
-  {
-    "title": "Front Matter",
-    "authors": "",
-    "abstract": "The Journal of Legal Studies, Volume 55, Issue 2 , Page Inside front cover-i, June 2026.",
-    "keywords": [],
-    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/742953?af=R",
-    "source": "Journal of Legal Studies",
-    "publish_date": "2026-07-17T07:57:18Z",
-    "id": "f68c8128b061bc61",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-07-17",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599541+00:00"
+    "date_added": "2026-07-28T13:25:00.599504+00:00",
+    "title_zh": "最高法院给出的理由：英国、法国、德国：1880–89 年和 2007–16 年",
+    "abstract_zh": "《法律研究杂志》，第 55 卷，第 2 期，第 365-395 页，2026 年 6 月。"
   },
   {
     "title": "Contract Remedies and Search Efforts",
@@ -3149,12 +3331,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "5f28f68ee0a0f2b8",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599578+00:00"
+    "date_added": "2026-07-28T13:25:00.599578+00:00",
+    "title_zh": "合同补救措施和搜寻工作",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 317-359 页，2026 年 5 月。"
   },
   {
     "title": "The Impact of the Dodd-Frank Act on Acquisition Activity",
@@ -3166,12 +3350,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "d5b63f72e6be6e37",
     "topics": [
-      "其他"
+      "公司并购"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599617+00:00"
+    "date_added": "2026-07-28T13:25:00.599617+00:00",
+    "title_zh": "多德弗兰克法案对收购活动的影响",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 285-316 页，2026 年 5 月。"
   },
   {
     "title": "Growing Awareness to Reduce Labor Abuse: An Experimental Test of a Migrant Domestic Workers’ Rights Awareness Campaign",
@@ -3183,12 +3369,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "3a34bd1a78af2da3",
     "topics": [
-      "其他"
+      "实验"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "实验",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599663+00:00"
+    "date_added": "2026-07-28T13:25:00.599663+00:00",
+    "title_zh": "提高减少劳工虐待的意识：移民家庭工人权利意识运动的实验测试",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 213-249 页，2026 年 5 月。"
   },
   {
     "title": "Recreational Marijuana Laws and Racial Disparities: New Evidence on Arrests and Deaths of Despair",
@@ -3200,12 +3388,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "ce2cc53c0ef0f2ec",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599705+00:00"
+    "date_added": "2026-07-28T13:25:00.599705+00:00",
+    "title_zh": "娱乐性大麻法和种族差异：逮捕和绝望死亡的新证据",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 251-284 页，2026 年 5 月。"
   },
   {
     "title": "The Rule of Law Predicts Trust in Journalists",
@@ -3217,12 +3407,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "71c456e9de0330ce",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599742+00:00"
+    "date_added": "2026-07-28T13:25:00.599742+00:00",
+    "title_zh": "法治预示着对记者的信任",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 361-385 页，2026 年 5 月。"
   },
   {
     "title": "AI at the Wheel: The Effectiveness of Advanced Driver-Assistance Systems",
@@ -3234,12 +3426,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "6ca30d0113899a42",
     "topics": [
-      "其他"
+      "AI"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "AI",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599782+00:00"
+    "date_added": "2026-07-28T13:25:00.599782+00:00",
+    "title_zh": "人工智能驾驶：先进驾驶辅助系统的有效性",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 387-411 页，2026 年 5 月。"
   },
   {
     "title": "Does Securities Regulation Matter? Mandatory Disclosure, Excess Stock Volatility, and the US Securities Exchange Act of 1934",
@@ -3257,24 +3451,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599826+00:00"
-  },
-  {
-    "title": "Front Matter",
-    "authors": "",
-    "abstract": "The Journal of Law and Economics, Volume 69, Issue 2 , Page Inside front cover-i, May 2026.",
-    "keywords": [],
-    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/742159?af=R",
-    "source": "Journal of Law and Economics",
-    "publish_date": "2026-05-15T08:19:14Z",
-    "id": "023577992fd95f85",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-05-15",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599863+00:00"
+    "date_added": "2026-07-28T13:25:00.599826+00:00",
+    "title_zh": "证券监管重要吗？强制披露、股票过度波动和 1934 年美国证券交易法",
+    "abstract_zh": "《法律与经济学杂志》，第 69 卷，第 2 期，第 413-463 页，2026 年 5 月。"
   },
   {
     "title": "Beyond markets and hierarchies: Williamson's legacy and the frontiers of institutional analysis",
@@ -3286,12 +3465,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "452898a1ac853c5e",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599886+00:00"
+    "date_added": "2026-07-28T13:25:00.599886+00:00",
+    "title_zh": "超越市场和等级制度：威廉姆森的遗产和制度分析的前沿",
+    "abstract_zh": "出版日期：2026 年 9 月 资料来源：国际法律与经济学评论，第 87 卷 作者：Jean Beuve、Alexandre Mayol、Simon Porcher、Stéphane Saussier"
   },
   {
     "title": "The cognitive underpinnings of judicial bias: The role of social identity and prospect theory",
@@ -3308,7 +3489,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599908+00:00"
+    "date_added": "2026-07-28T13:25:00.599908+00:00",
+    "title_zh": "司法偏见的认知基础：社会认同和前景理论的作用",
+    "abstract_zh": "出版日期：2026 年 9 月 资料来源：国际法律与经济评论，第 87 卷 作者：Daniel L. Chen、Jimmy Graham、Manuel Ramos-Maqueda、Shashank Singh"
   },
   {
     "title": "Judicial panel selection and strategic behaviour in the Indian Supreme Court: Measuring the performance of Chief Justices",
@@ -3325,7 +3508,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599932+00:00"
+    "date_added": "2026-07-28T13:25:00.599932+00:00",
+    "title_zh": "印度最高法院司法小组的选择和战略行为：衡量首席大法官的表现",
+    "abstract_zh": "出版日期：2026 年 9 月 资料来源：国际法律与经济学评论，第 87 卷 作者：Madhav S. Aney、Shubhankar Dam、Giovanni Ko、Aditi Raman"
   },
   {
     "title": "Tradition or tragedy: Arranged marriages and domestic violence",
@@ -3337,12 +3522,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "fe1024a2a1783f3d",
     "topics": [
-      "其他"
+      "实证研究"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "实证研究",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599951+00:00"
+    "date_added": "2026-07-28T13:25:00.599951+00:00",
+    "title_zh": "传统还是悲剧：包办婚姻和家庭暴力",
+    "abstract_zh": "出版日期：2026 年 9 月 资料来源：International Review of Law and Economics，第 87 卷 作者：Weidong Tian、Dongli Cao、Xiting Zhuang"
   },
   {
     "title": "Financial innovation and local governments investment",
@@ -3354,12 +3541,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "42a1c7a521b1e8e6",
     "topics": [
-      "其他"
+      "实证研究"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "实证研究",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599970+00:00"
+    "date_added": "2026-07-28T13:25:00.599970+00:00",
+    "title_zh": "金融创新与地方政府投资",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：国际法律与经济学评论，第 86 卷 作者：Maxime Fajeau、Samuel Ligonnière、Alexandre Mayol"
   },
   {
     "title": "Which is better for distressed firms: Comparison between bankruptcy reorganization and major asset restructuring",
@@ -3376,7 +3565,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "破产法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.599992+00:00"
+    "date_added": "2026-07-28T13:25:00.599992+00:00",
+    "title_zh": "困境企业哪个更好：破产重整与重大资产重组比较",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：《国际法律与经济学评论》第 86 卷 作者：周宇君、朱彦建、施一峰"
   },
   {
     "title": "Tax debt collection enforcement: When are collateral tax sanctions effective due to their prompt impact?",
@@ -3393,7 +3584,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.600012+00:00"
+    "date_added": "2026-07-28T13:25:00.600012+00:00",
+    "title_zh": "税收债务征收执行：附带税收制裁何时会因其即时影响而生效？",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：国际法律与经济评论，第 86 卷 作者：Yulia Kuchumova"
   },
   {
     "title": "Hidden ownership in suspicious transactions - experimental evidence on anti-money laundering reporting priorities in Norway",
@@ -3405,12 +3598,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "2552007f88cb14cc",
     "topics": [
-      "其他"
+      "实验"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "实验",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.600035+00:00"
+    "date_added": "2026-07-28T13:25:00.600035+00:00",
+    "title_zh": "可疑交易中的隐藏所有权——挪威反洗钱报告优先事项的实验证据",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：国际法律与经济学评论，第 86 卷 作者：Anne Marthe Bjønness、Ivar Kolstad"
   },
   {
     "title": "Spillover effects of foreign takeover restrictions on corporate investment of peer firms: Evidence from CFIUS denials",
@@ -3422,12 +3617,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "dcd19d52e9063fe2",
     "topics": [
-      "其他"
+      "公司并购"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "公司并购",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.600057+00:00"
+    "date_added": "2026-07-28T13:25:00.600057+00:00",
+    "title_zh": "外国收购限制对同行企业投资的溢出效应：来自 CFIUS 否认的证据",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：国际法律与经济评论，第 86 卷 作者：Vedran Capkun、Francesco Grazioli"
   },
   {
     "title": "Embedded courts under campaign-style enforcement: How top-down reforms reshape conditional justice in China",
@@ -3444,7 +3641,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.600077+00:00"
+    "date_added": "2026-07-28T13:25:00.600077+00:00",
+    "title_zh": "运动式执行下的嵌入法院：自上而下的改革如何重塑中国的有条件司法",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：International Review of Law and Economics，第 86 卷 作者：Chao Ma、Chao-Yo Cheng"
   },
   {
     "title": "Can judicial independence restrain corporate fraud? Empirical evidence from Chinese A-share listed firms",
@@ -3462,24 +3661,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "司法和执法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.600099+00:00"
-  },
-  {
-    "title": "Editorial Board",
-    "authors": "",
-    "abstract": "Publication date: June 2026 Source: International Review of Law and Economics, Volume 86 Author(s):",
-    "keywords": [],
-    "url": "https://www.sciencedirect.com/science/article/pii/S0144818826000190?dgcid=rss_sd_all",
-    "source": "International Review of Law and Economics",
-    "publish_date": "",
-    "id": "1618507d121b0d4b",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T13:25:00.600111+00:00"
+    "date_added": "2026-07-28T13:25:00.600099+00:00",
+    "title_zh": "司法独立能否抑制企业舞弊？来自中国A股上市公司的经验证据",
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：International Review of Law and Economics，第 86 卷 作者：Tengjiao He、Yijun Yu、Yufei Zhang、Li Wang"
   },
   {
     "title": "What drives exchange rate pass-throughs? Evidence from a non-parametric method",
@@ -3496,7 +3680,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "机器学习",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339165+00:00"
+    "date_added": "2026-07-28T15:12:04.339165+00:00",
+    "title_zh": "是什么推动了汇率传递？来自非参数方法的证据",
+    "abstract_zh": "我们结合计量经济学和随机森林，提供了四十年来近一百个国家的汇率变动传导至消费者价格的驱动因素的新证据。随机森林对于建模高度非线性关系以及识别可能影响传递程度的不同理论因素的相对重要性特别有用。"
   },
   {
     "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
@@ -3514,7 +3700,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339280+00:00"
+    "date_added": "2026-07-28T15:12:04.339280+00:00",
+    "title_zh": "美元化和货币管制：稳定币的崛起有什么教训？",
+    "abstract_zh": "稳定币的出现为新兴市场和发展中经济体（EMDE）创造了获取美元流动性的新渠道，类似于外币存款或“存款美元化”的历史作用。这引起了人们对新兴市场经济体货币管制可能产生的影响的担忧。我们利用 130 多个经济体的外币存款和与美元挂钩的稳定币流入数据，将“稳定币美元化”与传统存款美元化的动态和驱动因素进行了比较。"
   },
   {
     "title": "The evolving nexus: sovereigns, banks and NBFIs",
@@ -3532,24 +3720,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "非银机构",
     "publish_date_norm": "2026-07-16",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339366+00:00"
-  },
-  {
-    "title": "Geopolitical risk and emerging market sovereign risk premia",
-    "authors": "Fredy Gamboa, José Vicente Romero",
-    "abstract": "This study examines how geopolitical risk (GPR) transmits to sovereign credit risk in emerging market economies (EMEs), using monthly data on the 5-year sovereign credit default swap (SCDS) and the J.P. Morgan Emerging Markets Bond Index (EMBI) spread for 13 EMEs over the period of January 2005–October 2025. Using fixed-effects panel local projections, the framework is extended to allow for state-dependent transmission. Differences in impulse responses across states are attributed to specific macro financial fundamentals. Three main findings are identified. First, an increase in the GPR index raises both SCDS and EMBI spreads. Second, disaggregating the index into its subcomponents reveals a larger response to threats than to acts, consistent with the possibility of anticipation effects in sovereign credit markets.",
-    "keywords": [],
-    "url": "https://www.bis.org/publ/work1368.htm",
-    "source": "BIS Working Paper",
-    "publish_date": "2026-07-15T08:32:00Z",
-    "id": "2d24ae3b237e67b0",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "2026-07-15",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339485+00:00"
+    "date_added": "2026-07-28T15:12:04.339366+00:00",
+    "title_zh": "不断演变的关系：主权国家、银行和非银行金融机构",
+    "abstract_zh": "本文记录了传统的主权银行关系已经演变为更广泛的关系，现在还包括非银行金融机构（NBFI）：主权银行-NBFI 关系。欧元区危机后，传统的主权银行关系一直是金融稳定的主要担忧。此后，许多主要经济体的主权债务水平大幅上升，而非银行金融机构在主权债券市场的足迹也大幅增加。"
   },
   {
     "title": "The AI investment race",
@@ -3561,12 +3734,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-14T09:32:00Z",
     "id": "2845e750492565e9",
     "topics": [
-      "其他"
+      "AI"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "AI",
     "publish_date_norm": "2026-07-14",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339596+00:00"
+    "date_added": "2026-07-28T15:12:04.339596+00:00",
+    "title_zh": "人工智能投资竞赛",
+    "abstract_zh": "人工智能建设跻身美国历史上最大的技术驱动投资热潮之一。其规模、对债务的依赖和循环股权关系引发了人们对繁荣的可持续性和金融稳定性的质疑。我们研究了一种动态竞争，在这种竞争中，企业为了争夺少数主导地位而过度投入资源。过度投资使该行业面临收入令人失望的风险，从而可能导致繁荣转为萧条。繁荣越大，最终的萧条就越深。通过债务和循环融资尽早承诺的竞赛也更有可能导致破产。根据资产负债表和交易数据进行校准后，该模型表明过度投资约为效率水平的 1.5 倍，在需求弹性较小的情况下则上升至约三倍。一项网络分析表明，一家公司的压力可能会通过金融风险链传递到其他公司。"
   },
   {
     "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
@@ -3584,7 +3759,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-09",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339702+00:00"
+    "date_added": "2026-07-28T15:12:04.339702+00:00",
+    "title_zh": "评估近期拨备规则对哥伦比亚消费信贷分配的影响",
+    "abstract_zh": "哥伦比亚 2021-2022 年疫情后复苏的特点是消费信贷快速增长，随后在金融状况收紧的情况下信贷质量指标恶化。 2023年1月，哥伦比亚金融监管局（SFC）对长期消费贷款提出了更高的拨备要求，以增强金融抵御信贷风险的弹性，并帮助缓解改革前消费信贷的快速扩张。从信贷机构的角度来看，拨备增加意味着费用增加和潜在的盈利压力，这可能导致贷款策略的调整。"
   },
   {
     "title": "Public debt and monetary policy transmission: evidence from advanced and emerging Europe",
@@ -3601,7 +3778,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-06-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339769+00:00"
+    "date_added": "2026-07-28T15:12:04.339769+00:00",
+    "title_zh": "公共债务和货币政策传导：来自发达和新兴欧洲的证据",
+    "abstract_zh": "本文利用欧元区高频货币政策冲击和 2001 年至 2020 年期间的面板本地预测，研究了宏观经济变量如何根据公共债务水平和期限结构做出反应。结果表明，公共债务对货币政策传导具有显着影响。"
   },
   {
     "title": "Financial and real effects of fiscal risk",
@@ -3613,12 +3792,14 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-28T09:31:00Z",
     "id": "3c6f3b4959927eaf",
     "topics": [
-      "其他"
+      "金融市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "金融市场",
     "publish_date_norm": "2026-06-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339833+00:00"
+    "date_added": "2026-07-28T15:12:04.339833+00:00",
+    "title_zh": "财政风险的财务和实际影响",
+    "abstract_zh": "本文使用债券收益率的新颖识别方法来估计财政风险冲击的宏观经济和金融影响。我们首先从主权和安全公司债券收益率的每日贝叶斯 VAR 模型中恢复特定国家的财政风险冲击，这些模型是通过同期标志限制来确定的，这些限制捕获了投资组合从政府债务转向私人安全资产的再平衡。"
   },
   {
     "title": "The macroeconomics of stablecoins",
@@ -3636,7 +3817,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-06-23",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339903+00:00"
+    "date_added": "2026-07-28T15:12:04.339903+00:00",
+    "title_zh": "稳定币的宏观经济学",
+    "abstract_zh": "我们使用定量宏观经济模型分析稳定币的宏观经济影响。稳定币通过两个相反的渠道影响经济：（i）银行贷款渠道，因为家庭对稳定币的需求提高了存款利率，增加了银行融资成本，并减少了贷款供应； (ii) 财政空间渠道，因为稳定币发行者对国库券的需求降低了主权借贷成本，扩大了减税或增加支出的财政空间。"
   },
   {
     "title": "Embracing carbon uncertainty in portfolio construction",
@@ -3653,7 +3836,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "绿色金融",
     "publish_date_norm": "2026-06-17",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.339965+00:00"
+    "date_added": "2026-07-28T15:12:04.339965+00:00",
+    "title_zh": "在投资组合构建中拥抱碳不确定性",
+    "abstract_zh": "我们提出了一个构建主权债券固定收益投资组合的框架，该框架整合了金融和环境因素。我们方法的核心是引入碳回报，这是一个类似于财务回报的概念，建模为随机变量以捕获未来碳排放的固有不确定性。"
   },
   {
     "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
@@ -3670,7 +3855,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-06-16",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340052+00:00"
+    "date_added": "2026-07-28T15:12:04.340052+00:00",
+    "title_zh": "债券收益率对宏观消息的反应：宏观预测分歧和货币政策不确定性的作用",
+    "abstract_zh": "债券收益率会对宏观经济意外做出反应，但这种反应的程度取决于宏观经济预测的分歧和货币政策的不确定性。通过美国国债期货对宏观经济数据意外发布的盘中反应，我们发现，在经济指标发布之前，对经济指标的预测分歧越大，就会抑制收益率曲线的反应，而货币政策不确定性的增加则会放大这种反应。通胀意外是一个例外：在新冠疫情后通胀飙升之前，债券收益率对通胀意外的反应并未因货币政策的不确定性而放大。"
   },
   {
     "title": "Credit supply in the wake of distressed bank acquisitions",
@@ -3683,12 +3870,14 @@ window.ARTICLES_DATA = [
     "id": "56e04a110d3742cd",
     "topics": [
       "银行",
-      "破产法"
+      "公司并购"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2026-06-12",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340137+00:00"
+    "date_added": "2026-07-28T15:12:04.340137+00:00",
+    "title_zh": "不良银行收购后的信贷供应",
+    "abstract_zh": "本文研究了全球金融危机后监管框架下业务出售（SoB）银行决议对信贷供应的影响，重点关注西班牙一家主要银行的决议。我们提供了首个微观层面的证据，说明 SoB 决议如何重塑信贷分配。收购银行保留了贷款关系，优先支持最容易受到竞争银行紧缩影响的风险较高的继承借款人。尽管资本条件趋紧，但由于收购银行在其更广泛的投资组合中战略性地重新分配信贷，摆脱资本密集型风险敞口，因此实现了稳定。"
   },
   {
     "title": "The anatomy of stablecoin transactions",
@@ -3706,7 +3895,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-06-11",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340217+00:00"
+    "date_added": "2026-07-28T15:12:04.340217+00:00",
+    "title_zh": "稳定币交易的剖析",
+    "abstract_zh": "稳定币转账通常被解释为支付。然而，在可编程区块链上，它们经常嵌入到原子执行的交易包中，这些交易包结合了交易、借贷、套利、流动性提供和结算。我们表明，忽视这种结构会严重扭曲对稳定币活动的解释。利用涉及三种主要美元稳定币的 1.41 亿笔以太坊交易中的 5.93 亿条事件日志，我们开发了一个可复制的框架，通过存档节点数据、公共合约标签和事件签名来衡量交易复杂性。"
   },
   {
     "title": "Asset price bubbles and systemic risk in money market funds",
@@ -3724,7 +3915,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-06-09",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340277+00:00"
+    "date_added": "2026-07-28T15:12:04.340277+00:00",
+    "title_zh": "资产价格泡沫与货币市场基金的系统性风险",
+    "abstract_zh": "我们调查了 2004 年 1 月至 2022 年 12 月期间美国 3,500 支货币市场基金 (MMF) 在正常时期和资产价格泡沫期间的系统性风险贡献。利用最先进的泡沫检测统计技术和精细的基金级别数据，我们发现 MMF 特征显着影响系统性风险。"
   },
   {
     "title": "The digitalisation of banking and social media: implications for deposit pricing",
@@ -3742,7 +3935,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "银行",
     "publish_date_norm": "2026-06-08",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340351+00:00"
+    "date_added": "2026-07-28T15:12:04.340351+00:00",
+    "title_zh": "银行和社交媒体的数字化：对存款定价的影响",
+    "abstract_zh": "本文探讨了两种同时出现的数字趋势——银行业数字化和社交媒体的广泛采用——对美国存款定价的影响。利用分行层面的数据，我们分析了这两种趋势如何相互作用以影响存款利率水平及其对政策利率变化的调整。"
   },
   {
     "title": "The credibility of bail-in",
@@ -3759,7 +3954,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "银行",
     "publish_date_norm": "2026-06-05",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340406+00:00"
+    "date_added": "2026-07-28T15:12:04.340406+00:00",
+    "title_zh": "保释的可信度",
+    "abstract_zh": "全球系统重要性银行的处置框架已经酝酿了十多年。瑞士信贷 (CS) 2023 年 3 月的失败是其第一次重大考验。当局制定了解决计划，但出于对金融稳定的担忧而选择了不同的路径。"
   },
   {
     "title": "Making stablecoins stable(r): can regulation help?",
@@ -3777,7 +3974,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-06-02",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340462+00:00"
+    "date_added": "2026-07-28T15:12:04.340462+00:00",
+    "title_zh": "使稳定币稳定（r）：监管有帮助吗？",
+    "abstract_zh": "我们对稳定币发行人进行建模，在稳定币持续流动的情况下优化资本、现金和债券持有量。由于缺乏监管，发行人持有的资本很少，并且更青睐有息但流动性较低的债券而不是现金。"
   },
   {
     "title": "Monetary policy according to households: perceptions, reactions and channels",
@@ -3789,12 +3988,15 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-01T09:28:00Z",
     "id": "76878580fb51e83a",
     "topics": [
-      "央行和货币政策"
+      "央行和货币政策",
+      "实验"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-06-01",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340527+00:00"
+    "date_added": "2026-07-28T15:12:04.340527+00:00",
+    "title_zh": "基于家庭的货币政策：看法、反应和渠道",
+    "abstract_zh": "本文研究家庭如何看待货币政策的传导以及这些看法如何影响他们的决策。通过对 25,000 多个美国家庭进行大规模调查并结合随机信息处理，我们衡量了家庭预期联邦基金利率变化将如何影响经济状况及其自身行为。"
   },
   {
     "title": "The strength of the inflation-output link in China",
@@ -3811,7 +4013,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-05-28",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340615+00:00"
+    "date_added": "2026-07-28T15:12:04.340615+00:00",
+    "title_zh": "中国通胀与产出联系的强度",
+    "abstract_zh": "我们通过新凯恩斯菲利普斯曲线（NKPC）的视角系统地研究了中国通胀、经济疲软和预期之间的关系。扩展现有研究，我们采用共识经济学对最近样本的通胀预期，并评估估计的稳定性。尽管中国的制度独特且不断发展，但 NKPC 的估计值仍然稳定，并且与之前的研究结果相比，产出缺口和通胀预期都显示出重要作用。纳入开放经济变量可以略微提高模型的性能。我们的研究结果表明，新凯恩斯主义框架可以在不针对具体制度特征进行调整的情况下适用于中国。"
   },
   {
     "title": "Liquidity regulation and bank funding costs",
@@ -3829,7 +4033,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-05-27",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340688+00:00"
+    "date_added": "2026-07-28T15:12:04.340688+00:00",
+    "title_zh": "流动性监管和银行融资成本",
+    "abstract_zh": "我们在流动性监管与银行批发融资成本降低之间建立了因果关系。为了进行识别，我们在双重差分设置中使用银行流动性覆盖率（LCR）的预先确定的变化。精细的工具级数据使我们能够在债权人、工具类型和宏观经济层面仔细控制任何可观察和不可观察的时变因素。我们发现，LCR 敞口较大的银行的批发融资成本下降幅度更大。"
   },
   {
     "title": "Disciplining digital risk: evidence from cyber stress tests",
@@ -3847,7 +4053,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "银行",
     "publish_date_norm": "2026-05-26",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340757+00:00"
+    "date_added": "2026-07-28T15:12:04.340757+00:00",
+    "title_zh": "管控数字风险：来自网络压力测试的证据",
+    "abstract_zh": "对互联银行系统网络安全的投资具有公益性质：正外部性可能导致系统性投资不足。利用欧洲央行的机密监管数据，我们首先识别出相对于网络风险状况而言投资不足的“落后”欧洲银行，然后研究监管审查如何影响其投资动机。"
   },
   {
     "title": "Elasticity of money in production networks, working capital, credit lines and financial conditions",
@@ -3864,7 +4072,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "银行",
     "publish_date_norm": "2026-05-21",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340871+00:00"
+    "date_added": "2026-07-28T15:12:04.340871+00:00",
+    "title_zh": "生产网络、营运资金、信贷额度和财务状况中的货币弹性",
+    "abstract_zh": "通过透支和信用额度实现的弹性货币供应克服了预付现金的限制，无需等待现金到账即可进行大额支付。这种弹性对于长供应链至关重要，否则预付现金限制可能会导致僵局。从本质上讲，货币弹性和营运资金供给是同一枚硬币的两个侧面，未动用的授信额度是其中的操作环节。本文探讨了金融状况的变化如何影响货币弹性，进而影响生产网络内的企业活动。使用精细的公司级数据，我们证明了生产网络驱动的营运资本需求引入了一个随着财务状况而变化的周期性元素。信贷利差上升或美元走强等更紧缩的条件会大幅减少产出，而生产网络的溢出效应会放大这种影响。这些发现强调了货币弹性在支持经济稳定方面的重要性。"
   },
   {
     "title": "Learning monetary policy strategies at the effective lower bound with sudden surprises",
@@ -3881,7 +4091,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-05-20",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.340960+00:00"
+    "date_added": "2026-07-28T15:12:04.340960+00:00",
+    "title_zh": "学习有效下限的货币政策策略和突然的意外",
+    "abstract_zh": "我们研究了私营部门代理人如何在通货膨胀和通货紧缩冲击较大的环境中学习在政策利率处于有效下限（ELB）时引入的新货币策略。我们考虑采用新的非对称平均通胀目标规则，旨在抵消 ELB 带来的通货紧缩偏见。最关键的学习时间是从旧策略下的利率接近上升到新规则下的早期上升。在此期间的经济衰退冲击可能会延迟学习，而大规模的通胀冲击可能会彻底阻止学习，从而抑制新策略解决与 ELB 相关成本的能力。"
   },
   {
     "title": "Geopolitical risk in the euro area: measurement and transmission",
@@ -3898,7 +4110,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341013+00:00"
+    "date_added": "2026-07-28T15:12:04.341013+00:00",
+    "title_zh": "欧元区地缘政治风险：衡量和传导",
+    "abstract_zh": "地缘政治风险是欧元区的主要担忧，但广泛使用的措施主要反映了美国的观点。我们利用欧洲当地新闻来源引入了针对欧元区的地缘政治风险指标。"
   },
   {
     "title": "The Trafalgar squeeze of global liquidity",
@@ -3915,7 +4129,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "其他",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341095+00:00"
+    "date_added": "2026-07-28T15:12:04.341095+00:00",
+    "title_zh": "特拉法加事件导致全球流动性紧缩",
+    "abstract_zh": "缺乏国际流动性或缺乏全球最后贷款人会加剧金融危机的严重性。这在长期萧条（1873-1896）、大萧条（1929-1936）期间以及特拉法加海战之后的 1805-1806 年危机期间表现得很明显。后者夺走了西班牙的大西洋贸易路线，并切断了欧洲获得拉丁美洲白银的渠道，而白银是当时重要的高能货币。白银短缺导致法兰西银行在三个月内削减了近 50% 的贷款，刻意收紧信贷以囤积硬币并恢复其纸币的价值。"
   },
   {
     "title": "Mortgage Design, Repayment Schedules, and Household Borrowing",
@@ -3932,29 +4148,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "6ed7e66e77fb96ca",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341159+00:00"
-  },
-  {
-    "title": "Zur Hauptversammlungspräsenz bei börsennotierten Aktiengesellschaften",
-    "authors": "Bero Gebhard",
-    "abstract": "Die tatsächliche Teilnahme von Aktionären an der Hauptversammlung hat zwei normative Auswirkungen auf das Gesellschaftsrecht: Sie kann den Maßstab der Beherrschung im Konzernrecht (§ 17 AktG) für jede Gesellschaft individuell bedingen und liegt dem typisierten Kontrollmaßstab des Übernahmerechts (§ 29 II WpÜG) zugrunde. Eine empirische Überprüfung dieses Maßstabs bietet zudem die Gelegenheit, die Auswirkungen des virtuellen Hauptversammlungsformats auf die Teilnehmerzahlen zu überprüfen. Die Untersuchung der Hauptversammlungspräsenzen der deutschen Gesellschaften in DAX und MDAX für die Jahre 2023-2025 zeigt zwei wesentliche Ergebnisse: Zunächst ist die Teilnahmequote bei virtuellen Hauptversammlungen signifikant niedriger als bei Präsenzversammlungen. Weiterhin erfüllt die Schwelle von 30% der Stimmrechte in § 29 II WpÜG nicht mehr die Prämissen, die ihrer Einführung zugrunde lagen, und ist zu niedrig angesetzt: Nur in einer deutlichen Minderheit der Versammlungen würde ein solcher Stimmrechtsanteil zu einer Hauptversammlungsmehrheit führen.",
-    "keywords": [],
-    "url": "https://safe-frankfurt.de/publications/pub-details-startseite/publicationname/zur-hauptversammlungspraesenz-bei-boersennotierten-aktiengesellschaften.html",
-    "source": "SAFE Working Paper Series",
-    "publish_date": "",
-    "id": "27764fd5b8d1aa76",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341248+00:00"
+    "date_added": "2026-07-28T15:12:04.341159+00:00",
+    "title_zh": "抵押贷款设计、还款计划和家庭借贷",
+    "abstract_zh": "债务偿还时间表的设计如何影响家庭借贷？为了回答这个问题，我们利用瑞典的一项政策改革，取消了贷款价值比超过 50% 的只还息抵押贷款。我们记录了在阈值处的大量聚集，导致借款减少 5%。富裕的借款人推动了结果，挑战信贷限制作为主要解释。我们开发了一个模型来评估驱动家庭行为的机制，发现大部分影响来自于家庭正在经历摊销支付的持续流量负效用。我们的研究结果表明，初始付款较低的抵押贷款合同会大幅增加家庭借贷和终生利息成本。"
   },
   {
     "title": "Europe’s Payments Bottleneck: Merchant Choice as a Competition Remedy",
@@ -3966,12 +4167,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "d5f28ac4b1a5bc65",
     "topics": [
+      "支付",
       "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "支付",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341337+00:00"
+    "date_added": "2026-07-28T15:12:04.341337+00:00",
+    "title_zh": "欧洲的支付瓶颈：商家选择作为竞争补救措施",
+    "abstract_zh": "欧盟交换费法规出台十年后，欧洲卡支付的集中竞争问题并未消失。费用上限调节一个重要的价格组成部分，但它们本身并不能在销售点创造可信的商家方外部选择。在实践中，商家仍然面临着难以拒绝和难以回避的支付方式。因此，本政策信函认为，欧洲支付政策的下一步应该是结构性的，而不仅仅是基于价格的。基于德国电子直接借记及其向 SEPA 直接借记框架迁移的经验，我们提议赋予欧洲商家通过借记卡凭证发起直接借记交易的权利。这样的权利将规范卡计划费用，减少对非欧洲支付基础设施的依赖，并加强欧洲零售支付的竞争性。"
   },
   {
     "title": "Business Responsibilities in Achieving Sustainable Development Goals Through Fintech",
@@ -3988,7 +4192,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "金融科技",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341380+00:00"
+    "date_added": "2026-07-28T15:12:04.341380+00:00",
+    "title_zh": "通过金融科技实现可持续发展目标的企业责任",
+    "abstract_zh": "本章提出了“商业责任”的概念框架，并将金融科技置于该框架内。在此过程中，它整合了公司法、公司财务和管理研究的见解。此外，它重新审视了“以可持续发展为导向的创新”的概念，并强调了金融科技实现可持续发展目标的潜力。"
   },
   {
     "title": "Homo cooperans: Understanding the nature of human cooperation",
@@ -4000,12 +4206,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "9b0bd69582f5e72e",
     "topics": [
-      "其他"
+      "实验"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "实验",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341460+00:00"
+    "date_added": "2026-07-28T15:12:04.341460+00:00",
+    "title_zh": "合作人：理解人类合作的本质",
+    "abstract_zh": "人类合作是解决集体挑战的基础，但其个体驱动因素仍未得到充分了解。我们利用在 125 个国家（N = 101,123 人）进行的激励性两人合作实验的全球代表性数据，评估人类合作的程度并研究其个体决定因素。在全球范围内，大约三分之二的人选择合作。合作决策在很大程度上受到合作信念、禁令性规范和偏好的影响。这些决定因素的影响大小因国家而异，这种变化与历史和文化标志系统相关。在全球范围内，人们低估了他人的合作意愿——人类比他们想象的更加合作。简单的信息处理可以减少误解并增强合作。"
   },
   {
     "title": "Collateral Pledgeability and Asset Manager Portfolio Choices During Redemption Waves",
@@ -4029,24 +4237,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "非银机构",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341578+00:00"
-  },
-  {
-    "title": "Democratic Defaults",
-    "authors": "Rebecca Stone",
-    "abstract": "Prominent analyses of contractual default rules are ex ante in orientation. According to economic accounts, default rules, like the rules of contract interpretation, should be designed to further the substantive objective of social welfare maximization either by filling gaps with terms that maximize the parties’ joint welfare or by giving parties incentives to write such […]",
-    "keywords": [],
-    "url": "https://www.yalejreg.com/print/democratic-defaults/",
-    "source": "Yale Journal on Regulation",
-    "publish_date": "",
-    "id": "693dbab73287e30b",
-    "topics": [
-      "其他"
-    ],
-    "primary_topic": "其他",
-    "publish_date_norm": "",
-    "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341617+00:00"
+    "date_added": "2026-07-28T15:12:04.341578+00:00",
+    "title_zh": "赎回浪潮期间的抵押品质押性和资产管理公司的投资组合选择",
+    "abstract_zh": "本文研究了央行抵押框架在投资基金遭受大规模赎回冲击时是否发挥稳定作用。以 2020 年的“抢现金”为案例研究，我们发现，持有符合欧洲央行资格的公司债券比例较高的基金，其赎回量较低，尤其是那些与银行关系密切的基金。我们还发现，资产管理公司遵循清算优先顺序，通过出售合格债券来为赎回融资，从而减少了对合格债券的配置。这些发现为之前关于 COVID-19 大流行期间公司债券市场流动性紧张和抛售压力的研究增添了重要的细微差别，表明交易商更愿意增加可向欧洲央行质押的公司债券库存。在分析这些投资组合选择对价格的影响时，我们还发现有证据表明欧洲央行合格和不合格的公司债券都面临持续的价格压力。虽然对符合欧洲央行资格的债券的价格影响普遍较低且持续时间较短，但差异主要是由于银行发行的债券价格压力较低。我们讨论这些发现对货币政策传导和金融稳定的更广泛影响，以及关于央行如何更好地缓解未来类似流动性冲击的政策辩论。"
   },
   {
     "title": "Regulation on the Margin: Evidence from Online Payday Lending",
@@ -4058,12 +4251,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "f146bf9b2aa1eef3",
     "topics": [
-      "金融监管"
+      "金融监管",
+      "实验"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341657+00:00"
+    "date_added": "2026-07-28T15:12:04.341657+00:00",
+    "title_zh": "保证金监管：来自在线发薪日贷款的证据",
+    "abstract_zh": "发薪日贷款仍然是低收入消费者常用但有争议的信贷来源。对这个市场的监管必须平衡发薪日贷款的有益用途与加剧财务困难的有害、低效用途。我们认为，实现这种平衡的最佳方法是进行边际监管——也就是说，尝试不同的[…]"
   },
   {
     "title": "Freedom of Contract, Commercial Rationality, and State Cooperation",
@@ -4075,12 +4271,14 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "ac81cf1c41be7671",
     "topics": [
-      "其他"
+      "合同"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "合同",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341704+00:00"
+    "date_added": "2026-07-28T15:12:04.341704+00:00",
+    "title_zh": "契约自由、商业理性和国家合作",
+    "abstract_zh": "本文捍卫了艾伦·施瓦茨（Alan Schwartz）通过整合结果论和道义论观点而在商业当事人之间自由化合同法的智力项目。它回应了对施瓦茨假设的两个主要批评：“理性反对”，它认为并非所有商人都是真正老练的，因此需要家长式的保护；以及“道德主义的反对意见”，它认为某些交易[...]"
   },
   {
     "title": "Plaintiffs Exploiting Plaintiffs: Mass Tort Claims v. Shareholder Derivative Suits",
@@ -4098,7 +4296,9 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341750+00:00"
+    "date_added": "2026-07-28T15:12:04.341750+00:00",
+    "title_zh": "原告利用原告：大规模侵权索赔诉股东派生诉讼",
+    "abstract_zh": "当许多原告起诉一名被告时，每个原告的和解决定都会影响其他原告可以获得的赔偿。现有文献表明被告如何利用这种相互依赖关系；我们表明，原告也可能被其他原告利用，具体取决于和解谈判的结构。我们研究了各种定居点姿态的正式模型[...]"
   },
   {
     "title": "A Contractarian Approach to Stakeholder Primacy",
@@ -4110,12 +4310,15 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "62d4ce30c90c2532",
     "topics": [
-      "公司治理"
+      "公司治理",
+      "合同"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341789+00:00"
+    "date_added": "2026-07-28T15:12:04.341789+00:00",
+    "title_zh": "利益相关者至上的契约主义方法",
+    "abstract_zh": "受艾伦·施瓦茨（Alan Schwartz）商业法契约论方法的启发，我们提供了一个框架，用于确定企业利益相关者何时应该能够选择退出法律规则，以推进超越财富最大化的社会目标。我们认为，在这个施瓦茨框架下，股东和其他公司决策者将能够可靠地选择退出[...]"
   },
   {
     "title": "Shareholder Control and the Delaware Dilemma: Is Private Capital Ruining Corporate Law?",
@@ -4132,12 +4335,112 @@ window.ARTICLES_DATA = [
     "primary_topic": "公司治理",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
-    "date_added": "2026-07-28T15:12:04.341835+00:00"
+    "date_added": "2026-07-28T15:12:04.341835+00:00",
+    "title_zh": "股东控制与特拉华困境：私人资本是否正在破坏公司法？",
+    "abstract_zh": "大型上市公司中控股股东和新型股东控制的日益盛行给公司法带来了严重的困境——特别是在特拉华州，因为特拉华州是此类公司长期以来选择的司法管辖区。一方面，允许控股股东不受约束地行事违背了公司法经典的以董事会为中心的治理模式及其政策 […]"
+  },
+  {
+    "title": "Overseeing banks' governance: can we do it better?",
+    "authors": "Fernando Restoy",
+    "abstract": "Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the 2026 Corporate Governance Summit, Bangko Sentral ng Pilipinas (BSP), Manila, 25 May 2026.",
+    "keywords": [],
+    "url": "https://www.bis.org/speeches/sp260526.htm",
+    "source": "BIS speech",
+    "publish_date": "2026-05-26T13:36:00Z",
+    "id": "dd5116fedb7b5229",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-05-26",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T13:25:00.589259+00:00",
+    "title_zh": "监督银行治理：我们能做得更好吗？",
+    "abstract_zh": "金融稳定研究所主席 Fernando Restoy 先生于 2026 年 5 月 25 日在马尼拉举行的 2026 年公司治理峰会上的讲话。"
+  },
+  {
+    "title": "Merger Remedies Unbound",
+    "authors": "Dhruv Aggarwal et al.",
+    "abstract": "How should foundational contract law doctrines apply to corporate mergers? This Article argues that recent changes in Delaware law grant parties expansive contractual freedom to define their preferred remedies in merger agreements, untethered from the limits imposed by traditional contract law. A new provision in the Delaware corporate code permits penalty clauses in merger agreements, departing from the traditional “anti-penalty doctrine” that forbids punitive liquidated damages in contract. Delaware courts have also shown deference to specific performance provisions, treating them as presumptively enforceable commitments instead of retaining their traditional judicial discretion over the choice of remedies. Given that Delaware law governs the vast majority of major corporate transactions, these developments reflect a significant shift toward contractual freedom in merger law. Merging parties can now customize their contractual remedies with minimal judicial intervention. This Article, however, argues that such expansion of contractual freedom can carry undesirable and unanticipated risks. Allowing parties to move away from the traditional anti-penalty doctrine could lead to infla",
+    "keywords": [],
+    "url": "https://repository.law.umich.edu/law_econ_current/298",
+    "source": "Michigan Law & Economics Working Papers",
+    "publish_date": "Mon, 08 Sep 2025 12:22:07 PDT",
+    "id": "eba1ab5b8428be2e",
+    "topics": [
+      "公司并购",
+      "合同"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2025-09-08",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T13:25:00.594868+00:00",
+    "title_zh": "合并补救措施不受约束",
+    "abstract_zh": "基本合同法原则应如何适用于公司合并？本文认为，特拉华州法律最近的变化赋予当事人广泛的合同自由，以在合并协议中定义其首选补救措施，不受传统合同法施加的限制。特拉华州公司法中的一项新规定允许在合并协议中包含惩罚条款，这与禁止合同中惩罚性违约金的传统“反惩罚原则”背道而驰。特拉华州法院也尊重具体的履约条款，将其视为推定可执行的承诺，而不是保留其传统的司法自由裁量权。鉴于特拉华州法律管辖绝大多数主要公司交易，这些发展反映出合并法向合同自由的重大转变。合并方现在可以在最少的司法干预下定制合同补救措施。然而，本文认为，合同自由的这种扩展可能会带来不良和意料之外的风险。允许当事人放弃传统的反处罚原则可能会导致通货膨胀"
+  },
+  {
+    "title": "Partisan Entrepreneurship",
+    "authors": "JOSEPH ENGELBERG, \nJORGE GUZMAN, \nRUNJING LU, \nWILLIAM MULLINS",
+    "abstract": "ABSTRACT Republicans start more firms than Democrats. In a sample of 40 million party‐identified Americans between 2005 and 2017, we find that 5.5% of Republicans and 3.7% of Democrats become entrepreneurs. This partisan entrepreneurship gap is time‐varying—Republicans increase their relative entrepreneurship during Republican administrations and decrease it during Democratic administrations, amounting to a partisan reallocation of 170,000 new firms over our 13‐year sample. We find sharp changes in partisan entrepreneurship around the elections of President Obama and President Trump, with the strongest effects among the most politically active partisans: those that donate and vote.",
+    "keywords": [
+      "Original Article"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70042?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
+    "id": "b477ac5975655ac4",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-07-15",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T13:25:00.596038+00:00",
+    "title_zh": "党派创业",
+    "abstract_zh": "摘要 共和党人创办的公司比民主党人多。在 2005 年至 2017 年间 4000 万具有政党身份的美国人的样本中，我们发现 5.5% 的共和党人和 3.7% 的民主党人成为企业家。这种党派创业精神差距是随时间变化的——共和党人在共和党执政期间增加了相对创业精神，而在民主党执政期间则减少了，这相当于在我们 13 年的样本中对 170,000 家新公司进行了党派重新分配。我们发现，奥巴马总统和特朗普总统的选举前后，党派创业精神发生了巨大变化，其中影响最强烈的是政治上最活跃的党派：即那些捐款和投票的党派。"
+  },
+  {
+    "title": "Geopolitical risk and emerging market sovereign risk premia",
+    "authors": "Fredy Gamboa, José Vicente Romero",
+    "abstract": "This study examines how geopolitical risk (GPR) transmits to sovereign credit risk in emerging market economies (EMEs), using monthly data on the 5-year sovereign credit default swap (SCDS) and the J.P. Morgan Emerging Markets Bond Index (EMBI) spread for 13 EMEs over the period of January 2005–October 2025. Using fixed-effects panel local projections, the framework is extended to allow for state-dependent transmission. Differences in impulse responses across states are attributed to specific macro financial fundamentals. Three main findings are identified. First, an increase in the GPR index raises both SCDS and EMBI spreads. Second, disaggregating the index into its subcomponents reveals a larger response to threats than to acts, consistent with the possibility of anticipation effects in sovereign credit markets.",
+    "keywords": [],
+    "url": "https://www.bis.org/publ/work1368.htm",
+    "source": "BIS Working Paper",
+    "publish_date": "2026-07-15T08:32:00Z",
+    "id": "2d24ae3b237e67b0",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-07-15",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T15:12:04.339485+00:00",
+    "title_zh": "地缘政治风险和新兴市场主权风险溢价",
+    "abstract_zh": "本研究利用 2005 年 1 月至 2025 年 10 月期间 13 个新兴市场经济体的 5 年期主权信用违约掉期 (SCDS) 和摩根大通新兴市场债券指数 (EMBI) 利差的月度数据，研究了地缘政治风险 (GPR) 如何传导至新兴市场经济体 (EME) 的主权信用风险。利用固定效应面板本地预测，该框架得到扩展，以允许依赖于国家的传导。各州脉冲响应的差异归因于特定的宏观金融基本面。确定了三个主要发现。首先，GPR 指数的上升会提高 SCDS 和 EMBI 利差。其次，将该指数分解为其子组成部分表明，对威胁的反应比对行为的反应更大，这与主权信贷市场预期效应的可能性一致。"
+  },
+  {
+    "title": "Democratic Defaults",
+    "authors": "Rebecca Stone",
+    "abstract": "Prominent analyses of contractual default rules are ex ante in orientation. According to economic accounts, default rules, like the rules of contract interpretation, should be designed to further the substantive objective of social welfare maximization either by filling gaps with terms that maximize the parties’ joint welfare or by giving parties incentives to write such […]",
+    "keywords": [],
+    "url": "https://www.yalejreg.com/print/democratic-defaults/",
+    "source": "Yale Journal on Regulation",
+    "publish_date": "",
+    "id": "693dbab73287e30b",
+    "topics": [
+      "合同"
+    ],
+    "primary_topic": "合同",
+    "publish_date_norm": "",
+    "week_of": "2026-07-28",
+    "date_added": "2026-07-28T15:12:04.341617+00:00",
+    "title_zh": "民主默认",
+    "abstract_zh": "对合同违约规则的重要分析都是事前的。根据经济核算，默认规则，如合同解释规则，应旨在进一步实现社会福利最大化的实质性目标，要么通过用最大化当事人共同福利的条款来填补空白，要么通过激励当事人写下这样的条款[……]"
   }
 ];
 window.LAST_REPORT = {
   "period_start": "2026-07-21",
   "period_end": "2026-07-28",
-  "trend_summary": "本期（2026-07-21 至 2026-07-28）共收录 219 篇新文章，覆盖来源 14 个。从主题分布看，其他（83篇）、司法和执法（29篇）、金融监管（27篇）、公司治理（20篇）、金融市场（11篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（31篇）、Journal of Finance（26篇）、BIS speech（25篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
-  "generated_at": "2026-07-28 17:12:12"
+  "trend_summary": "本期（2026-07-21 至 2026-07-28）共收录 211 篇新文章，覆盖来源 14 个。从主题分布看，司法和执法（37篇）、其他（26篇）、公司治理（25篇）、金融监管（24篇）、金融市场（13篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（31篇）、BIS speech（25篇）、BIS Working Paper（25篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
+  "generated_at": "2026-07-28 17:34:27"
 };

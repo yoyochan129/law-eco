@@ -15,13 +15,27 @@ import argparse
 import json
 import os
 import sys
+import time
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 
 from dateutil import parser as dtparser
+from deep_translator import GoogleTranslator
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from classify import classify_article, TOPICS
+
+_translator = GoogleTranslator(source="en", target="zh-CN")
+
+
+def translate_text(text):
+    if not text:
+        return ""
+    try:
+        return _translator.translate(text[:4500]) or ""
+    except Exception as exc:
+        print(f"[warn] 翻译失败: {exc}")
+        return ""
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_PATH = os.path.join(BASE_DIR, "database", "new_articles_raw.json")
@@ -108,9 +122,13 @@ def build_report(period_start, period_end, articles, trend_text):
         lines.append("")
         for a in items:
             lines.append(f"**{a['title']}**")
+            if a.get("title_zh"):
+                lines.append(f"*{a['title_zh']}*")
             lines.append("")
             lines.append(f"- 作者：{a['authors'] or '（见原文链接）'}")
             lines.append(f"- 摘要：{a['abstract'] or '（原文未提供摘要，详见链接）'}")
+            if a.get("abstract_zh"):
+                lines.append(f"- 摘要（中文）：{a['abstract_zh']}")
             kw = "、".join(a["keywords"]) if a["keywords"] else "无"
             lines.append(f"- 关键词：{kw}")
             lines.append(f"- 原文链接：{a['url']}")
@@ -159,6 +177,10 @@ def main():
         a["publish_date_norm"] = normalize_date(a.get("publish_date", ""))
         a["week_of"] = week_of
         a["date_added"] = datetime.now(timezone.utc).isoformat()
+        a["title_zh"] = translate_text(a["title"])
+        time.sleep(0.3)
+        a["abstract_zh"] = translate_text(a.get("abstract", ""))
+        time.sleep(0.3)
         classified.append(a)
 
     if args.trend_file and os.path.exists(args.trend_file):

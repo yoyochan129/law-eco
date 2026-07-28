@@ -1,9 +1,10 @@
 (function () {
   const TOPIC_ORDER = [
-    "公司治理", "破产法", "金融监管", "竞争法和反垄断法", "司法和执法",
-    "金融市场", "金融科技", "AI", "央行和货币政策", "银行", "稳定币",
-    "非银机构", "私募信贷", "绿色金融", "行为研究", "实证研究", "DID",
-    "因果推断", "机器学习", "其他",
+    "公司治理", "公司并购", "破产法", "金融监管", "竞争法和反垄断法",
+    "司法和执法", "合同", "金融市场", "金融科技", "支付", "AI",
+    "央行和货币政策", "银行", "稳定币", "非银机构", "私募信贷", "绿色金融",
+    "行为研究", "实验", "实证研究", "DID", "因果推断", "机器学习",
+    "区块链", "财政和主权债", "其他",
   ];
 
   const articles = (window.ARTICLES_DATA || []).slice().sort((a, b) => {
@@ -124,7 +125,9 @@
     if (state.search) {
       const hay = [
         article.title,
+        article.title_zh,
         article.abstract,
+        article.abstract_zh,
         (article.keywords || []).join(" "),
         article.authors,
       ]
@@ -160,8 +163,10 @@
         return `
         <article class="article-card">
           <h3 class="article-title"><a href="${escapeAttr(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
+          ${a.title_zh ? `<div class="article-title-zh">${escapeHtml(a.title_zh)}</div>` : ""}
           <div class="article-meta">${escapeHtml(a.authors || "作者信息见原文")} ${a.publish_date_norm ? " · " + a.publish_date_norm : ""}</div>
           <div class="article-abstract">${escapeHtml(a.abstract || "原文未提供摘要，详见链接。")}</div>
+          ${a.abstract_zh ? `<div class="article-abstract-zh">${escapeHtml(a.abstract_zh)}</div>` : ""}
           <div class="article-tags">
             <span class="tag source">${escapeHtml(a.source)}</span>
             ${topicTags}

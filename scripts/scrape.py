@@ -33,6 +33,25 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 HEADERS = {"User-Agent": UA}
 TIMEOUT = 15
 
+JUNK_TITLES = {
+    "print edition", "editorial board", "front matter", "issue information",
+    "table of contents", "masthead", "back matter", "cover",
+}
+
+
+def is_junk_title(title):
+    return title.strip().lower() in JUNK_TITLES
+
+
+NON_ENGLISH_CHARS = re.compile(
+    r"[äöüßÄÖÜàâçéèêëîïôùûÿñáéíóúüñ¿¡ãõâêôàèìòùæœ]"
+)
+
+
+def is_non_english_title(title):
+    """基于特征字符的启发式判断(比 langdetect 对短标题更可靠,避免误杀英文标题)"""
+    return bool(NON_ENGLISH_CHARS.search(title))
+
 
 def load_json(path, default):
     if os.path.exists(path):
@@ -314,6 +333,8 @@ def main():
 
         try:
             items = parser(source)
+            items = [it for it in items if not is_junk_title(it["title"])]
+            items = [it for it in items if not is_non_english_title(it["title"])]
             new_items = [it for it in items if it["url"] not in known_urls]
 
             enricher = ENRICHERS.get(source["id"])
