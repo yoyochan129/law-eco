@@ -8,8 +8,14 @@
     "research_methods": "制度分析；金融中介理论；监管设计",
     "why_track": "将信息缺口、最后贷款人与银行—NBFI风险传导连接起来，是你的银行流动性支持论文最直接的法律框架。",
     "profile_url": "https://www.law.columbia.edu/faculty/kathryn-judge",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=5VvYE44AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "5VvYE44AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Elisabeth de Fontenay",
@@ -20,8 +26,14 @@
     "research_methods": "公司金融法；交易制度；市场结构",
     "why_track": "直接研究私人信贷和私人市场不透明化，与你的私人信贷和公开/私人债务比较高度重合。",
     "profile_url": "https://law.duke.edu/fac/defontenay",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=bBLtWiYAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "bBLtWiYAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Jared A. Ellias",
@@ -32,7 +44,17 @@
     "research_methods": "破产数据；文本分析；实证法学",
     "why_track": "使用破产和债务数据研究LME、债权人控制和私人信贷，是当前最前沿的实证破产法作者之一。",
     "profile_url": "https://hls.harvard.edu/faculty/jared-ellias/",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=lUiJI5kAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "lUiJI5kAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://hls.harvard.edu/faculty/jared-ellias/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -44,8 +66,14 @@
     "research_methods": "比较金融监管；合同结构；制度法经",
     "why_track": "把银行、货币、支付与非银竞争放在统一功能框架内，特别适合监管套利和活动监管。",
     "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/daniel-awray/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=LnJBDlIAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "LnJBDlIAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Lev Menand",
@@ -56,7 +84,17 @@
     "research_methods": "法律史；制度经济学；公共法",
     "why_track": "能够解释银行为何特殊，以及稳定币和影子货币如何挑战银行法和央行架构。",
     "profile_url": "https://www.law.columbia.edu/faculty/lev-menand",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=SmGOSHgAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "SmGOSHgAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.columbia.edu/faculty/lev-menand"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -68,8 +106,14 @@
     "research_methods": "货币理论；制度设计；功能监管",
     "why_track": "money-claims框架可直接用于MMF、ABCP、稳定币和可赎回私人负债。",
     "profile_url": "https://law.vanderbilt.edu/faculty-directory/resident-faculty/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=yn1qrTUAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "yn1qrTUAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Vincent S.J. Buccola",
@@ -80,7 +124,17 @@
     "research_methods": "合同理论；交易数据；破产法经济学",
     "why_track": "最贴近私人信贷中的waiver、uptiering、drop-down和庭外重组实践。",
     "profile_url": "https://www.law.uchicago.edu/faculty/buccola",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=CgQTbHAAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "CgQTbHAAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.uchicago.edu/faculty/buccola"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -92,7 +146,17 @@
     "research_methods": "结构性金融法；制度分析；风险治理",
     "why_track": "证券化SPV、bankruptcy remoteness和系统性风险的核心法律作者。",
     "profile_url": "https://law.duke.edu/fac/schwarcz/",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=Y9ay9-4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Y9ay9-4AAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://law.duke.edu/fac/schwarcz/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -104,8 +168,14 @@
     "research_methods": "实证法学；金融监管；公司与证券法",
     "why_track": "近年直接研究银行与私人信贷基金的联合结构、银行风险回流和影子银行监管，是当前最贴近你银行—私人信贷问题的新作者。",
     "profile_url": "https://law.nd.edu/assets/654165/patrick_corrigan_cv_03182026.pdf",
-    "tracking_type": "none",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=kaynkigAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "kaynkigAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Kenneth Ayotte",
@@ -116,7 +186,7 @@
     "research_methods": "公司金融模型；破产数据；合同理论",
     "why_track": "研究私人债权人控制、担保融资和破产机制的理论与实证基础。",
     "profile_url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/kenneth-ayotte/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -128,8 +198,14 @@
     "research_methods": "组织经济学；基金法；理论与实证",
     "why_track": "为私人信贷基金、MMF和资产管理人的法律结构提供最系统的组织法框架。",
     "profile_url": "https://law.yale.edu/john-d-morley",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=HdNUuoEAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "HdNUuoEAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Hilary J. Allen",
@@ -140,8 +216,14 @@
     "research_methods": "金融稳定法；技术风险；制度设计",
     "why_track": "持续研究新金融技术如何放大复杂性和金融稳定风险。",
     "profile_url": "https://www.wcl.american.edu/community/faculty/profile/hallen/bio",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=pnFwBrIAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "pnFwBrIAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Yesha Yadav",
@@ -152,8 +234,14 @@
     "research_methods": "市场结构分析；金融基础设施；监管设计",
     "why_track": "连接NBFI、repo、中央清算、市场基础设施与数字资产监管。",
     "profile_url": "https://law.vanderbilt.edu/bio/yesha-yadav/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=Dn5cmSQAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Dn5cmSQAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Christina Parajon Skinner",
@@ -164,7 +252,17 @@
     "research_methods": "制度法经；金融稳定理论；行政与宪法分析",
     "why_track": "《Nonbank Credit》提供非银基金可能增强金融韧性的理论对照，并持续研究中央银行和金融监管裁量。",
     "profile_url": "https://lgst.wharton.upenn.edu/profile/skinnerc/",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=ADVAHngAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "ADVAHngAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://lgst.wharton.upenn.edu/profile/skinnerc/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -176,7 +274,7 @@
     "research_methods": "货币与银行法；法经济学；制度设计",
     "why_track": "与Gary Gorton合著稳定币代表作，并持续研究GENIUS Act后的稳定币监管及银行监督信息问题。",
     "profile_url": "https://michigan.law.umich.edu/faculty-and-scholarship/our-faculty/jeffery-zhang",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -188,7 +286,7 @@
     "research_methods": "审慎监管理论；制度与政策分析；监管实践",
     "why_track": "Basel资本、压力测试和大型金融机构监管的不可替代作者，适合你的CCF、资本与流动性监管部分。",
     "profile_url": "https://hls.harvard.edu/faculty/daniel-tarullo/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -200,7 +298,17 @@
     "research_methods": "公司金融法；比较制度；合同与治理分析",
     "why_track": "将私人信贷放入公司治理、契约控制和资本结构中分析，与你的关系型贷款、waiver和延迟损失确认问题高度相关。",
     "profile_url": "https://www.law.cam.ac.uk/people/academic/nl-lalafaryan/6459",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=w3I-lv8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "w3I-lv8AAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.cam.ac.uk/people/academic/nl-lalafaryan/6459"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -212,8 +320,14 @@
     "research_methods": "跨国实证；监管比较；执法数据",
     "why_track": "能够支持美欧中金融监管比较和跨机构监管协调研究。",
     "profile_url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/stavros-gadinis/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=4wLezyEAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "4wLezyEAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Colleen Honigsberg",
@@ -224,7 +338,7 @@
     "research_methods": "准自然实验；监管数据库；金融实证",
     "why_track": "方法质量极高，可借鉴其强制披露和监管身份研究设计。",
     "profile_url": "https://law.stanford.edu/colleen-honigsberg/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -236,8 +350,14 @@
     "research_methods": "准实验；监管身份数据；市场微观结构",
     "why_track": "监管泄漏和法律身份选择框架可直接移植到银行—NBFI迁移研究。",
     "profile_url": "https://www.law.virginia.edu/faculty/profile/vwh7mb/3263653",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=0BPPzAcAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "0BPPzAcAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Gina-Gail S. Fletcher",
@@ -248,7 +368,7 @@
     "research_methods": "市场结构；行为与制度分析；证券法",
     "why_track": "适合追踪复杂产品、数字金融和金融市场操纵的新问题。",
     "profile_url": "https://law.duke.edu/fac/fletcher",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -260,7 +380,7 @@
     "research_methods": "比较监管；政策分析；金融创新",
     "why_track": "数字金融、稳定币和跨境监管协调的重要法律作者。",
     "profile_url": "https://www.law.georgetown.edu/faculty/chris-brummer/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -272,8 +392,14 @@
     "research_methods": "政治经济学；制度设计；公共—私人金融理论",
     "why_track": "finance franchise框架可解释私人信用创造和公共安全网之间的关系。",
     "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/saule-t-omarova/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=Gg5NOKYAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Gg5NOKYAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Douglas W. Arner",
@@ -284,8 +410,14 @@
     "research_methods": "比较金融法；政策研究；监管科技",
     "why_track": "全球稳定币和金融科技监管的重要比较法作者。",
     "profile_url": "https://www.law.hku.hk/academic_staff/professor-douglas-w-arner/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=-nCnn2IAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "-nCnn2IAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Adriana Z. Robertson",
@@ -296,7 +428,17 @@
     "research_methods": "基金数据；调查实验；资产管理法",
     "why_track": "在基金和投资者行为方面兼具金融学质量与法律问题意识。",
     "profile_url": "https://www.law.uchicago.edu/faculty/robertson",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=8IhJxJsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "8IhJxJsAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.uchicago.edu/faculty/robertson"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -308,7 +450,17 @@
     "research_methods": "交易数据；机器学习；文本与异常识别",
     "why_track": "适合学习如何把证券法问题转化为高频数据和机器学习研究。",
     "profile_url": "https://www.law.columbia.edu/faculty/joshua-mitts",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=YcKMGU0AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "YcKMGU0AAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.columbia.edu/faculty/joshua-mitts"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -320,8 +472,14 @@
     "research_methods": "准实验；行政数据；政策评估",
     "why_track": "研究监管套利和金融中介身份的高质量实证作者。",
     "profile_url": "https://www.law.nyu.edu/faculty/robert-jackson-jr",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=mJVze2YAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "mJVze2YAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Jeremy C. Kress",
@@ -332,8 +490,14 @@
     "research_methods": "银行数据；政策分析；实证法经",
     "why_track": "近年银行竞争、资本和金融稳定研究非常活跃；虽主职在商学院，研究范式仍属法律监管。",
     "profile_url": "https://michiganross.umich.edu/faculty-research/faculty/jeremy-kress",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=5gz2yAEAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "5gz2yAEAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Michael Simkovic",
@@ -344,8 +508,14 @@
     "research_methods": "计量实证；金融数据；法经分析",
     "why_track": "能够连接信贷市场、证券化和金融监管成本。",
     "profile_url": "https://gould.usc.edu/faculty/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=m2X4SScAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "m2X4SScAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Frank Partnoy",
@@ -356,8 +526,14 @@
     "research_methods": "金融理论；市场制度；法律分析",
     "why_track": "复杂金融产品、评级依赖和监管失灵的核心背景作者。",
     "profile_url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/frank-partnoy/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=3X3Cha8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "3X3Cha8AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Anna Gelpern",
@@ -368,7 +544,7 @@
     "research_methods": "合同分析；比较制度；文本与交易实践",
     "why_track": "债权人协调、债务条款和跨境金融基础设施的重要作者。",
     "profile_url": "https://www.law.georgetown.edu/faculty/anna-gelpern/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -380,8 +556,14 @@
     "research_methods": "实证与制度分析；破产和金融法",
     "why_track": "可补足银行业务边界、支付和非银消费信贷问题。",
     "profile_url": "https://www.law.georgetown.edu/faculty/adam-levitin/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=9HCQwqYAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "9HCQwqYAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Howell E. Jackson",
@@ -392,7 +574,12 @@
     "research_methods": "比较金融监管；实证政策分析",
     "why_track": "美国金融监管架构和跨部门协调的经典且仍有政策价值的作者。",
     "profile_url": "https://hls.harvard.edu/faculty/howell-e-jackson/",
-    "tracking_type": "faculty_citations",
+    "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://hls.harvard.edu/faculty/howell-e-jackson/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -404,8 +591,14 @@
     "research_methods": "银行法；制度分析；政策研究",
     "why_track": "银行—商业分离、TBTF和稳定币银行化问题的高相关作者。",
     "profile_url": "https://www.law.gwu.edu/arthur-e-wilmarth-jr",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=SwAxyfkAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "SwAxyfkAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Robert C. Hockett",
@@ -416,7 +609,7 @@
     "research_methods": "货币法；政治经济学；制度理论",
     "why_track": "适合构建央行—银行—NBFI之间公共—私人信用创造框架。",
     "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/robert-c-hockett/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -428,7 +621,17 @@
     "research_methods": "制度分析；银行法；政策设计",
     "why_track": "对美联储接入、银行流动性和审慎监管问题有直接价值。",
     "profile_url": "https://uclawsf.edu/faculty/john-crawford/",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=Ro9ckdkAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Ro9ckdkAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://uclawsf.edu/faculty/john-crawford/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -440,8 +643,14 @@
     "research_methods": "银行法；案例与制度研究",
     "why_track": "适合研究央行账户、支付接入和银行治理。",
     "profile_url": "https://law.ua.edu/faculty_staff/julie-hill/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=Bap8cT8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Bap8cT8AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Anita K. Krug",
@@ -452,7 +661,12 @@
     "research_methods": "投资管理法；制度分析；监管设计",
     "why_track": "私人基金和投资顾问法律边界的高相关作者。",
     "profile_url": "https://kentlaw.iit.edu/law/faculty-scholarship/faculty-directory/anita-k-krug",
-    "tracking_type": "faculty_citations",
+    "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://kentlaw.iit.edu/law/faculty-scholarship/faculty-directory/anita-k-krug"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -464,7 +678,17 @@
     "research_methods": "投资管理法；行业数据；制度分析",
     "why_track": "兼具学术和SEC经验，适合MMF与资产管理监管。",
     "profile_url": "https://www.law.uchicago.edu/faculty/birdthistle",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=mbtK91QAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "mbtK91QAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.uchicago.edu/faculty/birdthistle"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -476,7 +700,7 @@
     "research_methods": "不完全合同；公司金融理论；法律经济学",
     "why_track": "金融合同、优先级和重新谈判的理论基础作者。",
     "profile_url": "https://law.stanford.edu/george-g-triantis/",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -488,8 +712,14 @@
     "research_methods": "正式理论；公司金融实证；合同法",
     "why_track": "分散债权人协调和债券治理的重要作者。",
     "profile_url": "https://www.law.nyu.edu/faculty/marcel-kahan",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=EmlZUHYAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "EmlZUHYAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Edward R. Morrison",
@@ -500,7 +730,12 @@
     "research_methods": "破产数据；理论模型；实证法经",
     "why_track": "正式破产与庭外重组比较、金融困境数据的重要作者。",
     "profile_url": "https://www.law.columbia.edu/faculty/edward-r-morrison",
-    "tracking_type": "faculty_citations",
+    "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.columbia.edu/faculty/edward-r-morrison"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -512,7 +747,12 @@
     "research_methods": "博弈论；合同理论；机器学习",
     "why_track": "连接合同模型、私人市场和计算方法。",
     "profile_url": "https://www.law.columbia.edu/faculty/eric-talley",
-    "tracking_type": "faculty_citations",
+    "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.columbia.edu/faculty/eric-talley"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -524,7 +764,12 @@
     "research_methods": "机制设计；金融理论；制度分析",
     "why_track": "破产估值和重组机制的前沿理论作者。",
     "profile_url": "https://www.law.uchicago.edu/faculty/casey",
-    "tracking_type": "faculty_citations",
+    "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.uchicago.edu/faculty/casey"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -536,8 +781,14 @@
     "research_methods": "计算文本；合同理论；交易数据",
     "why_track": "适合你的信用协议文本分析和合同创新研究。",
     "profile_url": "https://law.byu.edu/faculty/matthew-jennejohn",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=6bNHlf4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "6bNHlf4AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Cathy Hwang",
@@ -548,8 +799,14 @@
     "research_methods": "手工合同数据；文本编码；实证公司法",
     "why_track": "研究设计可直接迁移到贷款协议、waiver和契约条款。",
     "profile_url": "https://www.law.virginia.edu/faculty/profile/ch9sc/2616667",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=hDGAyOUAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "hDGAyOUAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Jeremy McClane",
@@ -560,8 +817,14 @@
     "research_methods": "合同文本编码；实证法学；系统分析",
     "why_track": "其贷款协议研究适合直接借鉴到信用额度、财务契约、事件违约和waiver文本提取项目。",
     "profile_url": "https://www.law.gwu.edu/jeremy-mcclane",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=l0QKtrYAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "l0QKtrYAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Andrew F. Tuch",
@@ -572,7 +835,17 @@
     "research_methods": "代理理论；比较监管；制度分析",
     "why_track": "适合研究银行与NBFI的关联关系、利益冲突和看门人责任。",
     "profile_url": "https://law.wustl.edu/faculty-staff-directory/profile/andrew-tuch/",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=dJndfe8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "dJndfe8AAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://law.wustl.edu/faculty-staff-directory/profile/andrew-tuch/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -584,8 +857,14 @@
     "research_methods": "法经理论；证券实证；市场设计",
     "why_track": "兼顾证券市场、银行和加密金融，方法强度较高。",
     "profile_url": "https://law.utexas.edu/faculty/james-c-spindler/",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=eDm70j0AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "eDm70j0AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Daniel Schwarcz",
@@ -596,8 +875,14 @@
     "research_methods": "保险数据；准实验；制度分析",
     "why_track": "保险公司作为NBFI和私人信贷资金来源时的重要补充作者。",
     "profile_url": "https://law.umn.edu/profiles/daniel-schwarcz",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=xqRLN6QAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "xqRLN6QAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Viral V. Acharya",
@@ -607,9 +892,18 @@
     "research_topics": "银行—NBFI联系、银行信用额度、系统性风险",
     "research_methods": "银行/贷款微观数据；宏观金融；因果实证",
     "why_track": "直接研究银行向NBFI提供信用额度及风险回流，是你的银行流动性支持项目首要作者。",
-    "profile_url": "https://www.nber.org/people/viral_acharya",
-    "tracking_type": "nber_author",
-    "nber_uid": "43361",
+    "profile_url": "https://www.nber.org/papers/w32316",
+    "gs_profile_url": "https://scholar.google.com/citations?user=iZAsYLgAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "iZAsYLgAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "43361"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -620,9 +914,18 @@
     "research_topics": "私人债务、银团贷款、PE与银行关系",
     "research_methods": "贷款级数据；公司金融；机构分析",
     "why_track": "私人债务生态、银行互补和私募资本融资的顶级作者。",
-    "profile_url": "https://www.nber.org/people/victoria_ivashina",
-    "tracking_type": "nber_author",
-    "nber_uid": "45646",
+    "profile_url": "https://www.nber.org/papers/w34426",
+    "gs_profile_url": "https://scholar.google.com/citations?user=qgkCX5UAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "qgkCX5UAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "45646"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -633,9 +936,18 @@
     "research_topics": "私人信贷、非银直贷、MMF、证券化",
     "research_methods": "贷款与基金数据；准实验；公司金融",
     "why_track": "同时覆盖私人信贷、MMF和证券化，与你两条主线高度重合。",
-    "profile_url": "https://www.nber.org/people/sergey_chernenko",
-    "tracking_type": "nber_author",
-    "nber_uid": "72588",
+    "profile_url": "https://www.nber.org/papers/w26458",
+    "gs_profile_url": "https://scholar.google.com/citations?user=4BxdPTAAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "4BxdPTAAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "72588"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -646,9 +958,18 @@
     "research_topics": "银行监管、影子银行、私人信贷、金融科技",
     "research_methods": "行政微观数据；机器学习；因果推断",
     "why_track": "银行与非银监管、金融稳定和数据方法均处于前沿。",
-    "profile_url": "https://www.nber.org/people/amit_seru",
-    "tracking_type": "nber_author",
-    "nber_uid": "44011",
+    "profile_url": "https://www.nber.org/papers/w34991",
+    "gs_profile_url": "https://scholar.google.com/citations?user=fLDBx0YAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "fLDBx0YAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "44011"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -659,9 +980,18 @@
     "research_topics": "私人信贷基金资产负债表、金融稳定",
     "research_methods": "基金资产级数据；金融中介实证",
     "why_track": "2026年私人信贷基金杠杆、融资结构和金融稳定研究的核心作者。",
-    "profile_url": "https://www.nber.org/people/gregor_matvos",
-    "tracking_type": "nber_author",
-    "nber_uid": "44006",
+    "profile_url": "https://www.nber.org/papers/w34991",
+    "gs_profile_url": "https://scholar.google.com/citations?user=WxpAqy8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "WxpAqy8AAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "44006"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -673,7 +1003,21 @@
     "research_methods": "基金与贷款数据；公司金融；监管套利实证",
     "why_track": "近年直接研究银行资本是否推动私人信贷增长，以及私人信贷基金在极端压力下的韧性，与你的研究高度重合。",
     "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=VBBjgXsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "VBBjgXsAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "42941"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=68749"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -684,9 +1028,18 @@
     "research_topics": "私人信贷技术、企业债务、信贷周期",
     "research_methods": "企业微观数据；自然实验；宏观金融",
     "why_track": "研究直接贷款机构筛选与监控技术，质量和方法均属顶级。",
-    "profile_url": "https://www.nber.org/people/amir_sufi",
-    "tracking_type": "nber_author",
-    "nber_uid": "43226",
+    "profile_url": "https://www.nber.org/papers/w34500",
+    "gs_profile_url": "https://scholar.google.com/citations?user=s3bu-yAAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "s3bu-yAAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "43226"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -698,8 +1051,17 @@
     "research_methods": "银行微观数据；因果识别；金融中介",
     "why_track": "存款渠道、非银替代和金融科技信贷的顶级作者。",
     "profile_url": "https://www.nber.org/people/philipp_schnabl",
-    "tracking_type": "nber_author",
-    "nber_uid": "45771",
+    "gs_profile_url": "https://scholar.google.com/citations?user=fi8FWO4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "fi8FWO4AAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "45771"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -711,8 +1073,18 @@
     "research_methods": "金融中介理论；政策实证；资产定价",
     "why_track": "银行资本和MMF监管方案的高质量理论与政策作者。",
     "profile_url": "https://www.hbs.edu/ris/Profile%20Files/Hanson_Samuel_CV_20250217_d267df5a-065b-411e-9195-a84e77886b3b.pdf",
-    "tracking_type": "none",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=46u8aIkAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "46u8aIkAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "45611"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Adi Sunderam",
@@ -723,8 +1095,18 @@
     "research_methods": "基金持仓；资产定价；金融中介理论",
     "why_track": "MMF、短期融资和影子银行摩擦的持续核心作者。",
     "profile_url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=46339",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=1eX-pScAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "1eX-pScAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "45801"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Hyun Song Shin",
@@ -735,8 +1117,18 @@
     "research_methods": "宏观金融；国际数据；政策框架",
     "why_track": "全球非银金融和银行—市场型金融传导的权威作者。",
     "profile_url": "https://www.bis.org/about/biohss.htm",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=Wozc0GgAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Wozc0GgAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "43456"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Tobias Adrian",
@@ -747,8 +1139,18 @@
     "research_methods": "宏观金融；风险测量；政策研究",
     "why_track": "IMF非银金融和私人信贷政策议程的核心学者。",
     "profile_url": "https://www.imf.org/en/About/senior-officials/Bios/tobias-adrian",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=KAit8lUAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "KAit8lUAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "74243"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Marcin Kacperczyk",
@@ -759,8 +1161,18 @@
     "research_methods": "基金流量与持仓；因果实证；资产定价",
     "why_track": "开放式基金和MMF挤兑实证的顶级作者。",
     "profile_url": "https://www.imperial.ac.uk/people/m.kacperczyk",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=j3VwRoEAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "j3VwRoEAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "54156"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Arvind Krishnamurthy",
@@ -771,8 +1183,17 @@
     "research_methods": "宏观金融理论；市场数据；政策分析",
     "why_track": "安全资产、repo和市场型金融研究的顶级作者。",
     "profile_url": "https://www.nber.org/people/arvind_krishnamurthy",
-    "tracking_type": "nber_author",
-    "nber_uid": "44731",
+    "gs_profile_url": "https://scholar.google.com/citations?user=iIBrbR4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "iIBrbR4AAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "44731"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -784,8 +1205,17 @@
     "research_methods": "理论模型；基金数据；实验与因果实证",
     "why_track": "开放式基金挤兑机制和金融脆弱性的领先作者。",
     "profile_url": "https://www.nber.org/people/itay_goldstein",
-    "tracking_type": "nber_author",
-    "nber_uid": "54806",
+    "gs_profile_url": "https://scholar.google.com/citations?user=eYDkHEkAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "eYDkHEkAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "54806"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -797,7 +1227,17 @@
     "research_methods": "市场微观结构；理论；制度设计",
     "why_track": "金融市场管道、中央清算和数字金融制度的顶级作者。",
     "profile_url": "https://www.darrellduffie.com/",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=ElAtiUsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "ElAtiUsAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.darrellduffie.com/"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -809,8 +1249,14 @@
     "research_methods": "理论模型；链上数据；资产定价",
     "why_track": "连接传统金融中介与区块链金融的高质量前沿作者。",
     "profile_url": "https://academic.oup.com/rfs/article/32/5/1754/5427780",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=WI3u_xIAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "WI3u_xIAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Tomasz Piskorski",
@@ -820,9 +1266,18 @@
     "research_topics": "私人信贷、住房金融、银行监管",
     "research_methods": "大规模微观数据；结构与因果实证",
     "why_track": "私人信贷基金资产负债表研究和信贷市场数据方法的核心作者。",
-    "profile_url": "https://www.nber.org/people/tomasz_piskorski",
-    "tracking_type": "nber_author",
-    "nber_uid": "44881",
+    "profile_url": "https://www.nber.org/papers/w34991",
+    "gs_profile_url": "https://scholar.google.com/citations?user=ohMQeuwAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "ohMQeuwAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "44881"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -834,8 +1289,17 @@
     "research_methods": "银行数据；资产定价；因果识别",
     "why_track": "理解稳定币/MMF对银行存款特许权影响的重要基础。",
     "profile_url": "https://www.nber.org/people/itamar_drechsler",
-    "tracking_type": "nber_author",
-    "nber_uid": "44581",
+    "gs_profile_url": "https://scholar.google.com/citations?user=Rag-PlsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Rag-PlsAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "44581"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -847,8 +1311,17 @@
     "research_methods": "银行资产负债表；资产定价；实证",
     "why_track": "银行存款价值和非银竞争研究的顶级作者。",
     "profile_url": "https://www.nber.org/people/alexi_savov",
-    "tracking_type": "nber_author",
-    "nber_uid": "44906",
+    "gs_profile_url": "https://scholar.google.com/citations?user=uk1r_CYAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "uk1r_CYAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "44906"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -860,7 +1333,17 @@
     "research_methods": "货币与银行理论；金融史；制度分析",
     "why_track": "影子银行和可挤兑短期债务理论的奠基作者，近年仍持续研究稳定币和金融危机反复出现的机制。",
     "profile_url": "https://som.yale.edu/faculty-research/faculty-directory/gary-b-gorton",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=gUmhh8EAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "gUmhh8EAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://som.yale.edu/faculty-research/faculty-directory/gary-b-gorton"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -872,8 +1355,17 @@
     "research_methods": "金融中介理论；政策实证",
     "why_track": "银行资本和市场型金融监管的顶级理论作者。",
     "profile_url": "https://www.nber.org/people/jeremy_stein",
-    "tracking_type": "nber_author",
-    "nber_uid": "42681",
+    "gs_profile_url": "https://scholar.google.com/citations?user=BKG_SzMAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "BKG_SzMAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "42681"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -885,8 +1377,14 @@
     "research_methods": "准自然实验；贷款级数据；银行监管",
     "why_track": "资本规则推动风险迁移至非银部门的代表性RFS研究。",
     "profile_url": "https://academic.oup.com/rfs/article/34/5/2181/5901059",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=yKUPiA4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "yKUPiA4AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Isil Erel",
@@ -896,9 +1394,18 @@
     "research_topics": "非银直贷、私人债务基金回报、银行竞争",
     "research_methods": "公司金融数据；基金回报；因果实证",
     "why_track": "私人信贷借款人与基金绩效研究的重要作者。",
-    "profile_url": "https://www.nber.org/people/isil_erel",
-    "tracking_type": "nber_author",
-    "nber_uid": "45571",
+    "profile_url": "https://www.nber.org/papers/w32278",
+    "gs_profile_url": "https://scholar.google.com/citations?user=lyaGjecAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "lyaGjecAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "45571"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -910,8 +1417,14 @@
     "research_methods": "贷款数据；银行实证；政策研究",
     "why_track": "与Acharya共同研究银行和NBFI边界及流动性联系。",
     "profile_url": "https://www.nber.org/papers/w32316",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=N8Z4txcAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "N8Z4txcAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Nicola Cetorelli",
@@ -922,8 +1435,14 @@
     "research_methods": "机构网络数据；银行实证；系统风险",
     "why_track": "银行—非银网络和风险传导的长期核心作者。",
     "profile_url": "https://www.newyorkfed.org/research/economists/cetorelli",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=mu1RL9cAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "mu1RL9cAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Elena Loutskina",
@@ -934,8 +1453,17 @@
     "research_methods": "银行资产负债表；证券化数据；因果实证",
     "why_track": "证券化和银行流动性对信贷供给影响的重要作者。",
     "profile_url": "https://www.nber.org/people/elena_loutskina",
-    "tracking_type": "nber_author",
-    "nber_uid": "61003",
+    "gs_profile_url": "https://scholar.google.com/citations?user=y_ayJUgAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "y_ayJUgAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "61003"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -947,8 +1475,17 @@
     "research_methods": "银行微观数据；因果识别；金融中介",
     "why_track": "银行流动性创造和信贷供给的高质量持续作者。",
     "profile_url": "https://www.nber.org/people/philip_strahan",
-    "tracking_type": "nber_author",
-    "nber_uid": "45791",
+    "gs_profile_url": "https://scholar.google.com/citations?user=Xrd7m4UAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Xrd7m4UAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "45791"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -960,7 +1497,17 @@
     "research_methods": "跨国银行数据；危机实证；政策评估",
     "why_track": "银行监管和金融危机研究质量极高，适合审慎监管部分。",
     "profile_url": "https://www.ecb.europa.eu/pub/research/authors/profiles/luc-laeven.en.html",
-    "tracking_type": "faculty_citations",
+    "gs_profile_url": "https://scholar.google.com/citations?user=jaUJ6qwAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "jaUJ6qwAAAAJ"
+      },
+      {
+        "type": "faculty_citations",
+        "url": "https://www.ecb.europa.eu/pub/research/authors/profiles/luc-laeven.en.html"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -972,8 +1519,14 @@
     "research_methods": "银行理论；欧洲政策数据；产业组织",
     "why_track": "银行监管理论和欧洲金融稳定研究的顶级作者。",
     "profile_url": "https://www.unibocconi.eu/faculty/elena-carletti",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=Szl5kS4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Szl5kS4AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Young Soo Jang",
@@ -983,9 +1536,13 @@
     "research_topics": "私人债务基金、直接贷款技术、金融稳定",
     "research_methods": "基金调查；企业数据；借贷技术",
     "why_track": "近年私人信贷研究中最活跃的新一代作者之一。",
-    "profile_url": "https://www.nber.org/people/young_soo_jang",
-    "tracking_type": "nber_author",
-    "nber_uid": "109601",
+    "profile_url": "https://www.nber.org/papers/w34500",
+    "tracking_methods": [
+      {
+        "type": "nber_author",
+        "nber_uid": "109601"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -996,9 +1553,18 @@
     "research_topics": "私人信贷、直贷机构、监管数据",
     "research_methods": "行政数据；企业微观数据；因果实证",
     "why_track": "使用新型数据识别私人信贷的筛选和监控技术。",
-    "profile_url": "https://www.nber.org/people/dskim8001",
-    "tracking_type": "nber_author",
-    "nber_uid": "60768",
+    "profile_url": "https://www.nber.org/papers/w34500",
+    "gs_profile_url": "https://scholar.google.com/citations?user=4ORC05wAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "4ORC05wAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "60768"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -1010,8 +1576,14 @@
     "research_methods": "DID；结构模型；BDC数据",
     "why_track": "直接贷款市场纪律和BDC监管的代表性RFS作者。",
     "profile_url": "https://academic.oup.com/rfs/article/37/4/1190/7334479",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=HIRFagkAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "HIRFagkAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Robert Prilmeier",
@@ -1021,9 +1593,18 @@
     "research_topics": "非银直贷、贷款定价与非价格条款",
     "research_methods": "贷款数据；合同条款；公司金融",
     "why_track": "研究企业为何选择非银直接贷款的RFS作者。",
-    "profile_url": "https://www.nber.org/people/robert_prilmeier",
-    "tracking_type": "nber_author",
-    "nber_uid": "71617",
+    "profile_url": "https://www.nber.org/papers/w26458",
+    "gs_profile_url": "https://scholar.google.com/citations?user=SNAZWn8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "SNAZWn8AAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "71617"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -1035,8 +1616,14 @@
     "research_methods": "全球数据；自然实验；银行与非银比较",
     "why_track": "BIS近年私人信贷和非银危机贷款研究的高产作者。",
     "profile_url": "https://www.bis.org/publ/qtrpdf/r_qt2503b.htm",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=cZsgevwAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "cZsgevwAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Iñaki Aldasoro",
@@ -1047,8 +1634,14 @@
     "research_methods": "跨国数据；资产价格；政策研究",
     "why_track": "同时覆盖稳定币、MMF和私人信贷，研究面非常完整。",
     "profile_url": "https://www.bis.org/publ/work1219.pdf",
-    "tracking_type": "none",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=wH6TYPoAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "wH6TYPoAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Antoine Martin",
@@ -1059,8 +1652,14 @@
     "research_methods": "短期资金市场数据；理论；央行研究",
     "why_track": "连接MMF、repo、支付和稳定币的重要纽约联储作者。",
     "profile_url": "https://www.newyorkfed.org/research/economists/martin",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=Q_zx7EkAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Q_zx7EkAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Marco Cipriani",
@@ -1071,8 +1670,14 @@
     "research_methods": "基金与交易数据；事件研究；央行研究",
     "why_track": "稳定币—MMF比较和短期资金市场研究的核心作者。",
     "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=rIXXVHsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "rIXXVHsAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Gabriele La Spada",
@@ -1083,8 +1688,14 @@
     "research_methods": "基金流量；交易数据；货币传导",
     "why_track": "持续研究MMF和稳定币流量及货币政策冲击。",
     "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=XUctCF8AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "XUctCF8AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Thomas M. Eisenbach",
@@ -1095,8 +1706,14 @@
     "research_methods": "实时支付数据；挤兑识别；金融稳定",
     "why_track": "挤兑微观数据和稳定币研究的方法非常前沿。",
     "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=ZGtZXDoAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "ZGtZXDoAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Kenechukwu Anadu",
@@ -1107,8 +1724,14 @@
     "research_methods": "基金和链上数据；政策实证",
     "why_track": "稳定币与MMF挤兑比较的核心作者。",
     "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1073.html",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=xJeOxNoAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "xJeOxNoAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Marco Macchiavelli",
@@ -1119,8 +1742,14 @@
     "research_methods": "基金持仓；政策冲击；央行研究",
     "why_track": "RFS MMF干预研究和稳定币挤兑研究的重要作者。",
     "profile_url": "https://academic.oup.com/rfs/article/34/11/5402/6289999",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=W1gU-EsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "W1gU-EsAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Yiming Ma",
@@ -1130,9 +1759,18 @@
     "research_topics": "稳定币挤兑、基金流动性、银行—基金联系",
     "research_methods": "链上数据；资产定价；金融中介",
     "why_track": "稳定币挤兑与套利集中研究的前沿作者。",
-    "profile_url": "https://www.nber.org/people/yiming_ma",
-    "tracking_type": "nber_author",
-    "nber_uid": "168024",
+    "profile_url": "https://www.nber.org/papers/w33882",
+    "gs_profile_url": "https://scholar.google.com/citations?user=G4o6XuQAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "G4o6XuQAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "168024"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -1143,9 +1781,18 @@
     "research_topics": "稳定币挤兑、基金脆弱性、金融中介",
     "research_methods": "理论模型；链上数据；基金研究",
     "why_track": "稳定币挤兑和开放式基金脆弱性的高质量年轻作者。",
-    "profile_url": "https://www.nber.org/people/yao_zeng1",
-    "tracking_type": "nber_author",
-    "nber_uid": "86388",
+    "profile_url": "https://www.nber.org/papers/w33882",
+    "gs_profile_url": "https://scholar.google.com/citations?user=1t2OwPsAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "1t2OwPsAAAAJ"
+      },
+      {
+        "type": "nber_author",
+        "nber_uid": "86388"
+      }
+    ],
     "tracking_status": "active"
   },
   {
@@ -1157,8 +1804,14 @@
     "research_methods": "资产价格；跨国数据；链上数据",
     "why_track": "研究稳定币对T-bill和宏观金融影响的前沿作者。",
     "profile_url": "https://www.bis.org/publ/work1270.pdf",
-    "tracking_type": "none",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=5DK7dzIAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "5DK7dzIAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Patrick E. McCabe",
@@ -1169,7 +1822,7 @@
     "research_methods": "基金数据；政策设计；危机研究",
     "why_track": "美国MMF危机和监管改革研究的核心政策学者。",
     "profile_url": "https://www.federalreserve.gov/econres/feds/files/2018137pap.pdf",
-    "tracking_type": "none",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -1181,7 +1834,7 @@
     "research_methods": "基金数据；准实验；政策评估",
     "why_track": "RFS研究MMF限制和央行干预的关键作者。",
     "profile_url": "https://academic.oup.com/rfs/article/34/11/5402/6289999",
-    "tracking_type": "generic_page",
+    "tracking_methods": [],
     "tracking_status": "manual_only"
   },
   {
@@ -1193,8 +1846,14 @@
     "research_methods": "跨国银行数据；政策实证；数字金融",
     "why_track": "数字金融和银行传导领域的高质量持续作者。",
     "profile_url": "https://www.bis.org/publ/work1219.pdf",
-    "tracking_type": "none",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=hvCb0-4AAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "hvCb0-4AAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Raphael Auer",
@@ -1205,8 +1864,14 @@
     "research_methods": "链上数据；跨国政策研究；金融创新",
     "why_track": "全球数字货币和稳定币实证研究的高产作者。",
     "profile_url": "https://www.bis.org/publ/work905.pdf",
-    "tracking_type": "none",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=CifHukEAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "CifHukEAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   },
   {
     "name": "Michael Junho Lee",
@@ -1217,7 +1882,13 @@
     "research_methods": "交易级链上—银行支付数据；理论模型",
     "why_track": "2026年直接识别稳定币对银行存款、流动性和贷款的影响。",
     "profile_url": "https://www.newyorkfed.org/research/staff_reports/sr1185",
-    "tracking_type": "generic_page",
-    "tracking_status": "manual_only"
+    "gs_profile_url": "https://scholar.google.com/citations?user=J1FU07cAAAAJ&hl=en",
+    "tracking_methods": [
+      {
+        "type": "google_scholar",
+        "gs_user_id": "J1FU07cAAAAJ"
+      }
+    ],
+    "tracking_status": "active"
   }
 ]

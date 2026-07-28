@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-"""学者追踪板块的共用工具函数(来源类型判定、NBER作者页解析等)。"""
+"""学者追踪板块的共用工具函数(来源类型判定、Google Scholar/教师主页解析等)。"""
 import re
+import time
 
 import requests
 from bs4 import BeautifulSoup
@@ -9,6 +10,80 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
 HEADERS = {"User-Agent": UA}
 TIMEOUT = 15
+
+
+GS_REQUEST_DELAY = 3  # 秒;实测25次请求间隔3秒无触发限流,1~1.5秒间隔连续请求约20次后触发429
+
+
+def fetch_google_scholar_works(user_id, limit=10):
+    """抓取 Google Scholar 学者主页(按发表时间排序),取最新N篇标题+年份+链接。
+    Google Scholar 对"按姓名搜索作者"(search_authors)有人机验证拦截,
+    但已知具体 user id 后直接访问 citations 页面不受此限制(已实测验证)。
+    注意:实测发现请求过快(约1~1.5秒间隔连续20次左右)会触发429限流,
+    限流会在几分钟内自动解除,不是永久封禁,但生产环境里必须控制请求频率
+    (调用方需在两次调用间sleep,建议不少于 GS_REQUEST_DELAY 秒)。
+    本函数只返回标题/年份/链接,不抓摘要/完整作者名单(那需要访问每篇的
+    view_citation详情页,请求量太大不适合每次全量抓取,只应对增量新增的
+    条目调用 fetch_google_scholar_citation_detail 做补全)。
+    """
+    list_url = f"https://scholar.google.com/citations?user={user_id}&hl=en&sortby=pubdate"
+    try:
+        resp = requests.get(list_url, headers=HEADERS, timeout=TIMEOUT)
+        if resp.status_code != 200:
+            return None  # None区分于"页面存在但没有文献"的空列表,便于调用方识别限流/请求失败
+        soup = BeautifulSoup(resp.text, "html.parser")
+    except Exception:
+        return None
+
+    items = []
+    for row in soup.select("tr.gsc_a_tr"):
+        title_el = row.select_one(".gsc_a_at")
+        year_el = row.select_one(".gsc_a_y")
+        if not title_el or not title_el.get("href"):
+            continue
+        title = title_el.get_text(strip=True)
+        if len(title) < 5:
+            continue
+        href = title_el["href"]
+        full_url = "https://scholar.google.com" + href if href.startswith("/") else href
+        items.append({
+            "title": title,
+            "authors": "",
+            "date": year_el.get_text(strip=True) if year_el else "",
+            "abstract": "",
+            "url": full_url,
+        })
+        if len(items) >= limit:
+            break
+
+    return items
+
+
+def fetch_google_scholar_citation_detail(url):
+    """抓取Google Scholar单篇引用详情页(作者/期刊/摘要)"""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        if resp.status_code != 200:
+            return None
+        soup = BeautifulSoup(resp.text, "html.parser")
+    except Exception:
+        return None
+
+    fields = {}
+    for row in soup.select("#gsc_oci_table .gs_scl"):
+        field_el = row.select_one(".gsc_oci_field")
+        value_el = row.select_one(".gsc_oci_value")
+        if not field_el or not value_el:
+            continue
+        field = field_el.get_text(strip=True).lower()
+        value = value_el.get_text(" ", strip=True)
+        if field == "authors":
+            fields["authors"] = value
+        elif field == "description":
+            fields["abstract"] = value
+        elif field in ("journal", "conference", "publisher"):
+            fields.setdefault("journal", value)
+    return fields
 
 
 def classify_source(url):
