@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Regenerate docs/articles_data.js
         run: python3 scripts/regenerate_articles_data.py
 
