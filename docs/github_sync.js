@@ -62,11 +62,21 @@
   }
 
   async function fetchArticlesFile() {
-    const data = await apiRequest("GET");
-    return {
-      sha: data.sha,
-      articles: JSON.parse(base64ToUtf8(data.content)),
-    };
+    // GitHub Contents API的GET响应对超过1MB的文件不会内嵌base64内容
+    // (content字段会是空字符串,encoding为"none"),database/articles.json
+    // 已经超过这个门槛了。sha仍然能从这个接口正常拿到,但真正的文件内容
+    // 改为从 download_url(raw.githubusercontent.com,公开仓库不需要token)
+    // 单独请求,并加时间戳参数避免CDN缓存返回旧内容。
+    const meta = await apiRequest("GET");
+    if (!meta.download_url) {
+      throw new Error("获取文件元信息失败(缺少download_url)");
+    }
+    const rawResp = await fetch(`${meta.download_url}?t=${Date.now()}`, { cache: "no-store" });
+    if (!rawResp.ok) {
+      throw new Error(`获取文件内容失败(HTTP ${rawResp.status})`);
+    }
+    const articles = await rawResp.json();
+    return { sha: meta.sha, articles };
   }
 
   async function saveArticlesFile(articles, sha, commitMessage) {
