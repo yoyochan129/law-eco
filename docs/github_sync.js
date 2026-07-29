@@ -64,14 +64,35 @@
   async function fetchArticlesFile() {
     // GitHub Contents API的GET响应对超过1MB的文件不会内嵌base64内容
     // (content字段会是空字符串,encoding为"none"),database/articles.json
-    // 已经超过这个门槛了。sha仍然能从这个接口正常拿到,但真正的文件内容
-    // 改为从 download_url(raw.githubusercontent.com,公开仓库不需要token)
-    // 单独请求,并加时间戳参数避免CDN缓存返回旧内容。
-    const meta = await apiRequest("GET");
-    if (!meta.download_url) {
-      throw new Error("获取文件元信息失败(缺少download_url)");
+    // 已经超过这个门槛了。sha从标准接口正常拿到(不受文件大小影响)。
+    //
+    // 真正的文件内容【不能】通过 download_url(raw.githubusercontent.com)拿——
+    // 那是一层CDN,实测发现提交后短时间内会返回缓存的旧内容,导致连续编辑
+    // 多篇文章时,后一次编辑读到的还是上上次提交前的旧数据,保存时把上一次
+    // 编辑的结果覆盖掉了(这个bug实际把用户好几次编辑结果冲掉过)。
+    // 改为对同一个 contents API 端点加 Accept: application/vnd.github.raw+json
+    // 请求头,直接从 api.github.com 拿原始内容,不经过CDN,读到的一定是最新
+    // 提交的内容,同时依然不受1MB门槛限制。
+    const token = getToken();
+    if (!token) {
+      throw new Error("NO_TOKEN");
     }
-    const rawResp = await fetch(`${meta.download_url}?t=${Date.now()}`, { cache: "no-store" });
+    const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}?ref=${BRANCH}`;
+
+    const metaResp = await fetch(url, {
+      headers: { Authorization: `token ${token}`, Accept: "application/vnd.github+json" },
+    });
+    if (!metaResp.ok) {
+      const errBody = await metaResp.json().catch(() => ({}));
+      const err = new Error(errBody.message || `获取文件元信息失败(HTTP ${metaResp.status})`);
+      err.status = metaResp.status;
+      throw err;
+    }
+    const meta = await metaResp.json();
+
+    const rawResp = await fetch(url, {
+      headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.raw+json" },
+    });
     if (!rawResp.ok) {
       throw new Error(`获取文件内容失败(HTTP ${rawResp.status})`);
     }
