@@ -64,24 +64,25 @@
   async function fetchArticlesFile() {
     // GitHub Contents API的GET响应对超过1MB的文件不会内嵌base64内容
     // (content字段会是空字符串,encoding为"none"),database/articles.json
-    // 已经超过这个门槛了。sha从标准接口正常拿到(不受文件大小影响)。
+    // 已经超过这个门槛了。
     //
-    // 真正的文件内容【不能】通过 download_url(raw.githubusercontent.com)拿——
-    // 那是一层CDN,实测发现提交后短时间内会返回缓存的旧内容,导致连续编辑
-    // 多篇文章时,后一次编辑读到的还是上上次提交前的旧数据,保存时把上一次
-    // 编辑的结果覆盖掉了(这个bug实际把用户好几次编辑结果冲掉过)。
-    // 改为对同一个 contents API 端点加 Accept: application/vnd.github.raw+json
-    // 请求头,直接从 api.github.com 拿原始内容,不经过CDN,读到的一定是最新
-    // 提交的内容,同时依然不受1MB门槛限制。
+    // 排查过两种方案都不可靠:
+    // 1. download_url(raw.githubusercontent.com)是CDN,提交后短时间内会
+    //    返回缓存的旧内容,连续编辑时会把上一次编辑结果覆盖掉
+    // 2. Accept: application/vnd.github.raw+json 这个内容协商头在实测中
+    //    行为不稳定(带Authorization头时可能拿到的不是原始数组,导致后续
+    //    articles.findIndex不是函数的报错)
+    // 最终改用 Git Data 的 Blobs API(/git/blobs/{sha}):这是底层、语义
+    // 明确的接口,不受文件大小限制,不经CDN,永远返回稳定的
+    // {content(base64), encoding:"base64"} 结构,不存在内容协商的不确定性。
     const token = getToken();
     if (!token) {
       throw new Error("NO_TOKEN");
     }
-    const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}?ref=${BRANCH}`;
+    const headers = { Authorization: `token ${token}`, Accept: "application/vnd.github+json" };
+    const contentsUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}?ref=${BRANCH}`;
 
-    const metaResp = await fetch(url, {
-      headers: { Authorization: `token ${token}`, Accept: "application/vnd.github+json" },
-    });
+    const metaResp = await fetch(contentsUrl, { headers });
     if (!metaResp.ok) {
       const errBody = await metaResp.json().catch(() => ({}));
       const err = new Error(errBody.message || `获取文件元信息失败(HTTP ${metaResp.status})`);
@@ -90,13 +91,19 @@
     }
     const meta = await metaResp.json();
 
-    const rawResp = await fetch(url, {
-      headers: { Authorization: `token ${token}`, Accept: "application/vnd.github.raw+json" },
-    });
-    if (!rawResp.ok) {
-      throw new Error(`获取文件内容失败(HTTP ${rawResp.status})`);
+    const blobUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/git/blobs/${meta.sha}`;
+    const blobResp = await fetch(blobUrl, { headers });
+    if (!blobResp.ok) {
+      throw new Error(`获取文件内容失败(HTTP ${blobResp.status})`);
     }
-    const articles = await rawResp.json();
+    const blob = await blobResp.json();
+    if (blob.encoding !== "base64" || typeof blob.content !== "string") {
+      throw new Error("获取到的文件内容格式不符合预期(非base64编码)");
+    }
+    const articles = JSON.parse(base64ToUtf8(blob.content));
+    if (!Array.isArray(articles)) {
+      throw new Error("解析出的文章数据不是数组,可能是文件内容异常");
+    }
     return { sha: meta.sha, articles };
   }
 
