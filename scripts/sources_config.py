@@ -34,6 +34,8 @@ SOURCES = [
         "type": "rss",
         "feed_url": "https://www.nber.org/rss/new.xml",
         "status": "active",
+        "no_reliable_date": True,
+        "note": "RSS条目不含可解析的发布日期,无法按周过滤,依赖feed本身只推送新增论文的特性",
     },
     {
         "id": "bis_wp",
@@ -112,6 +114,9 @@ SOURCES = [
         "type": "html_yalejreg",
         "page_url": "https://www.yalejreg.com/",
         "status": "active",
+        "no_reliable_date": True,
+        "note": "首页及文章详情页均无任何可提取的发布日期信号(已核实),"
+                "无法按周过滤,依赖首页只展示近期文章的特性",
     },
     # ---------------- 可自动抓取 (Drupal JSON:API) ----------------
     {

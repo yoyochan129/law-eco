@@ -17,9 +17,12 @@ from datetime import datetime, timezone
 import requests
 import feedparser
 from bs4 import BeautifulSoup
+from dateutil import parser as dtparser
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sources_config import SOURCES
+
+LOOKBACK_DAYS = 7
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, "database", "articles.json")
@@ -51,6 +54,41 @@ NON_ENGLISH_CHARS = re.compile(
 def is_non_english_title(title):
     """基于特征字符的启发式判断(比 langdetect 对短标题更可靠,避免误杀英文标题)"""
     return bool(NON_ENGLISH_CHARS.search(title))
+
+
+MONTH_YEAR_ONLY_RE = re.compile(r"^[A-Za-z]+\.?\s+\d{4}$")
+# RePEc/IDEAS的citation_publication_date在只知道月份时,会用"日=01"占位
+# (例如"2026/07/01"实际只代表"2026年7月"),同一来源里连续多篇不同论文
+# 都精确落在"01"这个概率极低的巧合足以说明这是占位符而非真实日期
+NUMERIC_MONTH_ONLY_RE = re.compile(r"^\d{4}[/-]\d{1,2}([/-]0?1)?$")
+
+
+def is_within_lookback(publish_date, days=LOOKBACK_DAYS):
+    """判断publish_date是否在最近days天内。
+    解析失败返回None,由调用方决定如何处理(不应直接当作"不在范围内"丢弃,
+    否则会掩盖抓取/解析本身的bug)。
+    部分来源(SAFE/IRLE的"Aug 2026"、RePEc的"2026/07/01"占位日)只有月+年
+    精度,精确到天的7天窗口对这类来源没有意义(几乎只有月初几天能命中),
+    所以这类日期改用更粗粒度的判断:只要是"当月"或"上月"就视为在窗口内。
+    """
+    if not publish_date:
+        return None
+    raw = publish_date.strip()
+    month_year_only = bool(MONTH_YEAR_ONLY_RE.match(raw) or NUMERIC_MONTH_ONLY_RE.match(raw))
+    default_dt = datetime.now(timezone.utc).replace(
+        day=1, hour=0, minute=0, second=0, microsecond=0
+    )
+    try:
+        dt = dtparser.parse(publish_date, default=default_dt)
+    except Exception:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    now = datetime.now(timezone.utc)
+    if month_year_only:
+        months_diff = (now.year - dt.year) * 12 + (now.month - dt.month)
+        return 0 <= months_diff <= 1
+    return (now - dt).days <= days
 
 
 def load_json(path, default):
@@ -143,6 +181,12 @@ def parse_rss_generic(source):
             author = fix_glued_names(author)
         keywords = [t.get("term") for t in (e.get("tags") or []) if t.get("term")]
         pub_date = e.get("published", "") or e.get("updated", "")
+        if not pub_date:
+            # ScienceDirect(IRLE)等Elsevier RSS的日期不在published/updated字段,
+            # 而是写在summary开头的"Publication date: <Month> <Year>"文字里
+            m = re.search(r"Publication date:\s*([A-Za-z]+\s+\d{4})", e.get("summary", ""))
+            if m:
+                pub_date = m.group(1)
         items.append({
             "title": title,
             "authors": author,
@@ -307,12 +351,20 @@ def parse_repec_series(source):
     """通过 IDEAS/RePEc 镜像抓取列表(原官网有反爬保护,但RePEc公开镜像可直接访问)。
     source 需提供 repec_list_url 与 repec_path_prefix (如 /p/fip/fednsr/)。
     """
+    # IDEAS/RePEc的series列表页会列出该系列全部历史论文(按时间倒序排列),
+    # 没有天然的"仅最近一周"分页。这里的日期是在后续enrich_repec_citation()
+    # 逐篇抓取详情页时才能拿到的,所以此处先按列表顺序截取前REPEC_LIST_CAP篇
+    # 作为性能/请求量上限,真正精确的"是否在最近一周内"过滤在main()里
+    # enrichment之后统一进行。
+    REPEC_LIST_CAP = 30
     items = []
     try:
         resp = requests.get(source["repec_list_url"], headers=HEADERS, timeout=TIMEOUT)
         soup = BeautifulSoup(resp.text, "html.parser")
         prefix = source["repec_path_prefix"]
         for a in soup.select(f'a[href*="{prefix}"]'):
+            if len(items) >= REPEC_LIST_CAP:
+                break
             if a.parent.name != "b":
                 continue  # 排除"By citations"/"By downloads"排序链接
             title = a.get_text(strip=True)
@@ -467,6 +519,18 @@ def enrich_safe(item):
     if not container:
         return item
 
+    # "Date:"在.item盒子之外,是紧邻的一个普通<div>,格式类似"Date: Aug 2026"
+    date_div = container.find("div", string=re.compile(r"Date\s*:"))
+    if not date_div:
+        for div in container.find_all("div"):
+            if div.get_text(strip=True).lower().startswith("date"):
+                date_div = div
+                break
+    if date_div:
+        m = re.search(r"([A-Za-z]+\s+\d{4})", date_div.get_text(" ", strip=True))
+        if m:
+            item["publish_date"] = m.group(1)
+
     for box in container.select(".item"):
         h4 = box.find("h4")
         if not h4:
@@ -551,15 +615,36 @@ def main():
                         print(f"[warn] enrich failed for {it['url']}: {exc}")
                     time.sleep(1)
 
+            # 只保留最近一周内发布的内容,避免像NY Fed/BIS Bulletin这类
+            # 列表页天然没有时间窗口的来源把整个历史存量都当作"新文章"抓入。
+            # 个别来源(NBER、Yale JReg)确认完全没有可提取的发布日期,
+            # 对它们跳过该过滤,退化为原来"抓到即视为新"的行为。
+            stale_count = 0
+            if not source.get("no_reliable_date"):
+                kept = []
+                for it in new_items:
+                    recent = is_within_lookback(it.get("publish_date", ""))
+                    if recent is False:
+                        stale_count += 1
+                        known_urls.add(it["url"])  # 记录为已处理,避免下次重复抓取/enrich
+                    else:
+                        # None(日期缺失/解析失败)按"保留"处理,避免把抓取/解析bug
+                        # 误当成"内容过旧"而悄悄丢弃
+                        kept.append(it)
+                new_items = kept
+
             for it in new_items:
                 it["id"] = url_hash(it["url"])
                 known_urls.add(it["url"])
             all_new.extend(new_items)
             run_log["sources"].append({
                 "source": source["name"], "status": "ok",
-                "fetched": len(items), "new": len(new_items),
+                "fetched": len(items), "new": len(new_items), "stale_skipped": stale_count,
             })
-            print(f"[ok] {source['name']}: fetched={len(items)} new={len(new_items)}")
+            print(
+                f"[ok] {source['name']}: fetched={len(items)} new={len(new_items)}"
+                + (f" stale_skipped={stale_count}" if stale_count else "")
+            )
         except Exception as exc:
             run_log["sources"].append({
                 "source": source["name"], "status": "error", "reason": str(exc),
