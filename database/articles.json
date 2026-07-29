@@ -3639,14 +3639,15 @@
     "publish_date": "",
     "id": "d59c8ba879f2c498",
     "topics": [
-      "其他"
+      "司法和执法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.600077+00:00",
     "title_zh": "运动式执行下的嵌入法院：自上而下的改革如何重塑中国的有条件司法",
-    "abstract_zh": "出版日期：2026 年 6 月 资料来源：International Review of Law and Economics，第 86 卷 作者：Chao Ma、Chao-Yo Cheng"
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：International Review of Law and Economics，第 86 卷 作者：Chao Ma、Chao-Yo Cheng",
+    "manually_tagged": true
   },
   {
     "title": "Can judicial independence restrain corporate fraud? Empirical evidence from Chinese A-share listed firms",
@@ -13239,15 +13240,14 @@
     "publish_date": "Mon, 13 Oct 2025 12:03:32 PDT",
     "id": "ba2563dba1d6e1a6",
     "topics": [
-      "司法和执法"
+      "其他"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-10-13",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:43:55.943526+00:00",
     "title_zh": "信息丰富的陪审团分歧",
-    "abstract_zh": "文章提出了一个反直觉的论点，认为陪审团对被告有罪的分歧（非一致定罪）很可能比共识提供更多信息。因为更强的共识意味着更大的羊群效应的可能性，所以研究表明，超过某个阈值，进一步积累定罪选票将带来可以忽略不计的认知贡献，几乎不会提高有罪的后验概率。另一方面，虽然反对票提供了无罪的直接信号，但它们表明羊群效应并未参与决策过程，因此增加了该过程产生的任何投票的认知贡献（包括定罪票），并可能因此提供有罪的间接信号，从而可能增加后验。这揭示了异议的信息价值和共识可能的不利之处。",
-    "manually_tagged": true
+    "abstract_zh": "文章提出了一个反直觉的论点，认为陪审团对被告有罪的分歧（非一致定罪）很可能比共识提供更多信息。因为更强的共识意味着更大的羊群效应的可能性，所以研究表明，超过某个阈值，进一步积累定罪选票将带来可以忽略不计的认知贡献，几乎不会提高有罪的后验概率。另一方面，虽然反对票提供了无罪的直接信号，但它们表明羊群效应并未参与决策过程，因此增加了该过程产生的任何投票的认知贡献（包括定罪票），并可能因此提供有罪的间接信号，从而可能增加后验。这揭示了异议的信息价值和共识可能的不利之处。"
   },
   {
     "title": "The Evolution of Experiential Legal Education",
