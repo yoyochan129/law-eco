@@ -3639,15 +3639,14 @@
     "publish_date": "",
     "id": "d59c8ba879f2c498",
     "topics": [
-      "司法和执法"
+      "其他"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.600077+00:00",
     "title_zh": "运动式执行下的嵌入法院：自上而下的改革如何重塑中国的有条件司法",
-    "abstract_zh": "出版日期：2026 年 6 月 资料来源：International Review of Law and Economics，第 86 卷 作者：Chao Ma、Chao-Yo Cheng",
-    "manually_tagged": true
+    "abstract_zh": "出版日期：2026 年 6 月 资料来源：International Review of Law and Economics，第 86 卷 作者：Chao Ma、Chao-Yo Cheng"
   },
   {
     "title": "Can judicial independence restrain corporate fraud? Empirical evidence from Chinese A-share listed firms",
@@ -4947,14 +4946,15 @@
     "publish_date": "2026-05-23T18:58:10+00:00",
     "id": "85dc0ac139127132",
     "topics": [
-      "其他"
+      "AI"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "AI",
     "publish_date_norm": "2026-05-23",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:29.385403+00:00",
     "title_zh": "人工智能看门人",
-    "abstract_zh": "本文概述了金融市场既定看门人理论的目的。接下来介绍了三组人工智能看门人：成熟的审计师、新进入者和公开认可的看门人。然后，本文描述了指定的人工智能法律和指定的人工智能看门人，包括可选的和强制性的。最后给出了监管人工智能看门人的初步路线图。该论文对这场辩论做出了三点贡献。首先，它说明了为什么从金融市场环境中引入严格看门人责任版本的提案的移植对于人工智能看门人来说是不够的。其次，它提出了一个双层透明度制度：测试方法和标准的总体披露，与个人层面的紧凑认证或分数相结合。第三，本文提出了在两个地点实施的事前治理要求：在看门人本身，通过仿照欧盟公告机构制度的认证和独立要求。此外，在看门人与客户的界面上，通过类似于审计委员会但专为跨学科的机构结构"
+    "abstract_zh": "本文概述了金融市场既定看门人理论的目的。接下来介绍了三组人工智能看门人：成熟的审计师、新进入者和公开认可的看门人。然后，本文描述了指定的人工智能法律和指定的人工智能看门人，包括可选的和强制性的。最后给出了监管人工智能看门人的初步路线图。该论文对这场辩论做出了三点贡献。首先，它说明了为什么从金融市场环境中引入严格看门人责任版本的提案的移植对于人工智能看门人来说是不够的。其次，它提出了一个双层透明度制度：测试方法和标准的总体披露，与个人层面的紧凑认证或分数相结合。第三，本文提出了在两个地点实施的事前治理要求：在看门人本身，通过仿照欧盟公告机构制度的认证和独立要求。此外，在看门人与客户的界面上，通过类似于审计委员会但专为跨学科的机构结构",
+    "manually_tagged": true
   },
   {
     "title": "Complex Organizations, Leverage, and Interest Rates",
