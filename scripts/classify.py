@@ -10,7 +10,7 @@
 import re
 
 TOPICS = [
-    "公司治理", "公司并购", "破产法", "金融监管", "竞争法和反垄断法",
+    "公司治理", "公司并购", "破产法", "证券法", "金融监管", "竞争法和反垄断法",
     "司法和执法", "合同", "金融市场", "金融科技", "支付", "AI",
     "央行和货币政策", "银行", "稳定币", "非银机构", "私募信贷", "绿色金融",
     "行为研究", "实验", "实证研究", "DID", "因果推断", "机器学习", "其他",
@@ -38,12 +38,21 @@ KEYWORDS = {
         "financial distress", "reorganization", "debtor", "creditor rights",
         "liquidation", "workout", "distressed",
     ],
+    "证券法": [
+        "securities law", "securities regulation", "sec rule",
+        "sec commissioner", "sec enforcement", "insider trading",
+        "proxy rules", "tender offer rules", "prospectus", "broker-dealer",
+        "registration statement", "public offering", "securities fraud",
+        "rule 10b-5", "blue sky law", "regulation d", "exempt offering",
+        "securities act", "exchange act", "ipo regulation", "underwriter",
+        "securities exchange commission",
+    ],
     "金融监管": [
         "regulation", "regulatory", "supervision", "supervisory",
         "prudential", "basel", "capital requirement", "compliance",
-        "systemic risk", "macroprudential", "disclosure rule", "sec rule",
-        "rulemaking", "reporting rule", "comment letter", "sec commissioner",
-        "securities law", "provisioning rule", "financial governance",
+        "systemic risk", "macroprudential", "disclosure rule",
+        "rulemaking", "reporting rule", "comment letter",
+        "provisioning rule", "financial governance",
     ],
     "竞争法和反垄断法": [
         "antitrust", "competition law", "merger review", "monopoly",
@@ -53,7 +62,7 @@ KEYWORDS = {
     "司法和执法": [
         "litigation", "court decision", "judicial", "enforcement action",
         "lawsuit", "class action", "settlement", "prosecution", "prosecutor",
-        "judge", "legal liability", "sec enforcement", "doj",
+        "judge", "legal liability", "doj",
         "delaware supreme court", "delaware chancery", "court of chancery",
         "supreme court", "constitutional court", "discoverable",
         "breach of fiduciary duty", "sentencing", "sentences", "plea",

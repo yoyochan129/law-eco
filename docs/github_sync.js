@@ -89,6 +89,7 @@
     }
     articles[idx].topics = newTopics;
     articles[idx].primary_topic = newPrimaryTopic;
+    articles[idx].manually_tagged = true; // 防止之后的自动重新分类脚本覆盖人工编辑
     const title = articles[idx].title || articleId;
     try {
       await saveArticlesFile(articles, sha, `手动编辑标签: ${title}`);

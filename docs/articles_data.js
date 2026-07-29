@@ -198,7 +198,7 @@ window.ARTICLES_DATA = [
     "id": "0c242930c43b3430",
     "topics": [
       "金融监管",
-      "央行和货币政策"
+      "证券法"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-24",
@@ -539,7 +539,8 @@ window.ARTICLES_DATA = [
     "publish_date": "Sun, 19 Jul 2026 11:30:24 +0000",
     "id": "2089a3f16d685739",
     "topics": [
-      "金融市场"
+      "金融市场",
+      "证券法"
     ],
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-07-19",
@@ -702,9 +703,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 24 Jul 2026 04:01:45 +0000",
     "id": "21463d81301fdbd0",
     "topics": [
-      "金融监管"
+      "证券法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.584334+00:00",
@@ -762,7 +763,7 @@ window.ARTICLES_DATA = [
     "id": "c3c081766727075e",
     "topics": [
       "司法和执法",
-      "金融监管"
+      "证券法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-23",
@@ -847,9 +848,10 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 21 Jul 2026 04:05:28 +0000",
     "id": "e53aedd77879d5c7",
     "topics": [
+      "证券法",
       "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.584964+00:00",
@@ -2260,7 +2262,8 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:29 PST",
     "id": "ec591e8e3eba7e73",
     "topics": [
-      "金融监管"
+      "金融监管",
+      "证券法"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2025-12-17",
@@ -3445,10 +3448,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "5da7d9c8e58f6f55",
     "topics": [
-      "金融监管",
-      "金融市场"
+      "证券法",
+      "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-05-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.599826+00:00",
@@ -4687,7 +4690,7 @@ window.ARTICLES_DATA = [
     "id": "a4f4056828ef6d11",
     "topics": [
       "金融监管",
-      "司法和执法"
+      "证券法"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-06-20",
@@ -4804,7 +4807,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-08T23:44:58+00:00",
     "id": "167f6b0553324f79",
     "topics": [
-      "金融市场"
+      "金融市场",
+      "证券法"
     ],
     "primary_topic": "金融市场",
     "publish_date_norm": "2026-06-08",
@@ -5297,7 +5301,7 @@ window.ARTICLES_DATA = [
     "id": "b995e8ab0583b7dc",
     "topics": [
       "金融监管",
-      "金融市场"
+      "证券法"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-04-26",
@@ -12986,9 +12990,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 27 Feb 2026 12:53:18 PST",
     "id": "c5333d4957669866",
     "topics": [
-      "其他"
+      "证券法"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-02-27",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:43:22.357096+00:00",
@@ -13420,6 +13424,6 @@ window.ARTICLES_DATA = [
 window.LAST_REPORT = {
   "period_start": "2026-07-21",
   "period_end": "2026-07-28",
-  "trend_summary": "本期（2026-07-21 至 2026-07-28）共收录 616 篇新文章，覆盖来源 19 个。从主题分布看，其他（132篇）、央行和货币政策（71篇）、金融监管（65篇）、金融市场（52篇）、司法和执法（46篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：Federal Reserve Bank of New York staff report（199篇）、BIS bulletin（129篇）、European Corporate Governance Institute (ECGI) working paper（50篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
-  "generated_at": "2026-07-29 01:33:03"
+  "trend_summary": "本期（2026-07-21 至 2026-07-28）共收录 616 篇新文章，覆盖来源 19 个。从主题分布看，其他（131篇）、央行和货币政策（71篇）、金融监管（62篇）、金融市场（52篇）、司法和执法（46篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：Federal Reserve Bank of New York staff report（199篇）、BIS bulletin（129篇）、European Corporate Governance Institute (ECGI) working paper（50篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
+  "generated_at": "2026-07-29 02:24:41"
 };
