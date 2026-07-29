@@ -1,11 +1,12 @@
 (function () {
   const TOPIC_ORDER = [
     "公司治理", "公司并购", "破产法", "证券法", "金融监管", "竞争法和反垄断法",
-    "司法和执法", "合同", "金融市场", "金融科技", "支付", "AI",
-    "央行和货币政策", "银行", "稳定币", "非银机构", "私募信贷", "绿色金融",
-    "行为研究", "实验", "实证研究", "DID", "因果推断", "机器学习",
+    "司法和执法", "合同", "信贷市场", "债券市场", "衍生品市场", "金融科技",
+    "支付", "AI", "央行和货币政策", "银行", "稳定币", "非银机构", "私募信贷",
+    "绿色金融", "行为研究", "实验", "实证研究", "DID", "因果推断", "机器学习",
     "区块链", "财政和主权债", "其他",
   ];
+  const MAX_ARTICLE_TAGS = 3;
 
   const articles = (window.ARTICLES_DATA || []).slice().sort((a, b) => {
     return (b.date_added || "").localeCompare(a.date_added || "");
@@ -182,7 +183,7 @@
       .join("");
     const remaining = TOPIC_ORDER.filter((t) => !draft.includes(t));
     const options = remaining.map((t) => `<option value="${escapeAttr(t)}">${escapeHtml(t)}</option>`).join("");
-    const disabled = draft.length >= 2 ? "disabled" : "";
+    const disabled = draft.length >= MAX_ARTICLE_TAGS ? "disabled" : "";
     const msg = state.editError
       ? `<span class="tag-editor-msg" style="color:#cf222e;">${escapeHtml(state.editError)}</span>`
       : state.editSaving
@@ -192,7 +193,7 @@
       <div class="tag-editor" data-article-id="${escapeAttr(a.id)}">
         <div class="tag-editor-current">${chips || '<span class="tag-editor-msg">还没有标签,从下面选择添加</span>'}</div>
         <select class="tag-add-select" ${disabled}>
-          <option value="">${draft.length >= 2 ? "最多2个标签" : "+ 添加标签…"}</option>
+          <option value="">${draft.length >= MAX_ARTICLE_TAGS ? `最多${MAX_ARTICLE_TAGS}个标签` : "+ 添加标签…"}</option>
           ${options}
         </select>
         <div class="tag-editor-actions">
@@ -228,7 +229,7 @@
     state.editSaving = true;
     state.editError = "";
     renderArticles();
-    const newTopics = state.editDraftTopics.slice(0, 2);
+    const newTopics = state.editDraftTopics.slice(0, MAX_ARTICLE_TAGS);
     const newPrimary = newTopics[0] || "其他";
     try {
       await window.GitHubSync.updateArticleTopics(a.id, newTopics.length ? newTopics : ["其他"], newPrimary);
@@ -310,7 +311,7 @@
     });
     list.querySelectorAll(".tag-add-select").forEach((sel) => {
       sel.addEventListener("change", () => {
-        if (sel.value && state.editDraftTopics.length < 2) {
+        if (sel.value && state.editDraftTopics.length < MAX_ARTICLE_TAGS) {
           state.editDraftTopics.push(sel.value);
         }
         renderArticles();

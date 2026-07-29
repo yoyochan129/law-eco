@@ -74,8 +74,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 27 Jul 2026 11:32:38 +0000",
     "id": "71f81f16793aa8c5",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-27",
@@ -164,10 +163,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Sat, 25 Jul 2026 11:30:11 +0000",
     "id": "24683836f9eb91f2",
     "topics": [
-      "合同",
       "司法和执法"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-25",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.581972+00:00",
@@ -198,7 +196,8 @@ window.ARTICLES_DATA = [
     "id": "0c242930c43b3430",
     "topics": [
       "金融监管",
-      "证券法"
+      "证券法",
+      "央行和货币政策"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-24",
@@ -219,10 +218,11 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 24 Jul 2026 11:30:41 +0000",
     "id": "e9b6ee03b1fcd587",
     "topics": [
-      "金融监管",
-      "公司治理"
+      "公司治理",
+      "证券法",
+      "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.582232+00:00",
@@ -276,10 +276,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 23 Jul 2026 11:30:14 +0000",
     "id": "614dffea359f4b38",
     "topics": [
-      "公司治理",
       "司法和执法"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.582482+00:00",
@@ -304,9 +303,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 22 Jul 2026 11:32:32 +0000",
     "id": "a210d2fa0d068f42",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-22",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.582603+00:00",
@@ -364,8 +363,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 22 Jul 2026 11:30:35 +0000",
     "id": "bfb859e4e3904bd2",
     "topics": [
-      "司法和执法",
-      "公司并购"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-22",
@@ -422,10 +420,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 21 Jul 2026 11:30:46 +0000",
     "id": "14ddefb8b42afd82",
     "topics": [
-      "公司并购",
       "司法和执法"
     ],
-    "primary_topic": "公司并购",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-21",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.583099+00:00",
@@ -482,8 +479,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 20 Jul 2026 11:31:12 +0000",
     "id": "54afd8ed9b031754",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-20",
@@ -511,10 +507,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 20 Jul 2026 11:30:39 +0000",
     "id": "bee50a646e4914f7",
     "topics": [
-      "合同",
       "司法和执法"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-20",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.583479+00:00",
@@ -539,10 +534,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Sun, 19 Jul 2026 11:30:24 +0000",
     "id": "2089a3f16d685739",
     "topics": [
-      "金融市场",
       "证券法"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-07-19",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.583598+00:00",
@@ -568,7 +562,8 @@ window.ARTICLES_DATA = [
     "id": "a43ea666d12e4b6a",
     "topics": [
       "金融监管",
-      "公司治理"
+      "公司治理",
+      "证券法"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-18",
@@ -595,8 +590,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 28 Jul 2026 04:05:55 +0000",
     "id": "f7de6c352abd8e00",
     "topics": [
-      "司法和执法",
-      "公司治理"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-28",
@@ -651,8 +645,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 27 Jul 2026 04:01:12 +0000",
     "id": "d5468854af669e95",
     "topics": [
-      "司法和执法",
-      "竞争法和反垄断法"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-27",
@@ -703,9 +696,10 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 24 Jul 2026 04:01:45 +0000",
     "id": "21463d81301fdbd0",
     "topics": [
+      "区块链",
       "证券法"
     ],
-    "primary_topic": "证券法",
+    "primary_topic": "区块链",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.584334+00:00",
@@ -762,10 +756,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 23 Jul 2026 04:01:34 +0000",
     "id": "c3c081766727075e",
     "topics": [
-      "司法和执法",
       "证券法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.584587+00:00",
@@ -793,7 +786,8 @@ window.ARTICLES_DATA = [
     "id": "107b190db5384452",
     "topics": [
       "公司治理",
-      "公司并购"
+      "公司并购",
+      "金融监管"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-22",
@@ -820,8 +814,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 22 Jul 2026 04:01:11 +0000",
     "id": "928686aeac413749",
     "topics": [
-      "司法和执法",
-      "金融市场"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-22",
@@ -848,8 +841,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 21 Jul 2026 04:05:28 +0000",
     "id": "e53aedd77879d5c7",
     "topics": [
-      "证券法",
-      "金融监管"
+      "证券法"
     ],
     "primary_topic": "证券法",
     "publish_date_norm": "2026-07-21",
@@ -907,7 +899,7 @@ window.ARTICLES_DATA = [
     "id": "b31b71925b62e797",
     "topics": [
       "公司治理",
-      "金融监管"
+      "AI"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-28",
@@ -946,7 +938,8 @@ window.ARTICLES_DATA = [
     "id": "681211efea7375c9",
     "topics": [
       "公司治理",
-      "金融监管"
+      "金融监管",
+      "行为研究"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-27",
@@ -965,8 +958,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 07/24/2026 - 12:00",
     "id": "3b9d324782f66e79",
     "topics": [
-      "司法和执法",
-      "绿色金融"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-24",
@@ -985,10 +977,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 07/24/2026 - 12:00",
     "id": "5616c950ae52137c",
     "topics": [
-      "公司治理",
       "司法和执法"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-24",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.585450+00:00",
@@ -1024,9 +1015,10 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "dd8332da89bd5f57",
     "topics": [
+      "债券市场",
       "非银机构"
     ],
-    "primary_topic": "非银机构",
+    "primary_topic": "债券市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.585614+00:00",
@@ -1062,10 +1054,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "a4c634c35d67db9e",
     "topics": [
-      "金融市场",
       "实验"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "实验",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.585755+00:00",
@@ -1082,10 +1073,10 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "3160620ca184abde",
     "topics": [
-      "金融市场",
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.585814+00:00",
@@ -1102,10 +1093,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "ecb71219766c0766",
     "topics": [
-      "金融市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.585898+00:00",
@@ -1179,10 +1169,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "c0c5dbc807cf1e04",
     "topics": [
-      "金融市场",
-      "合同"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.586240+00:00",
@@ -1277,7 +1266,7 @@ window.ARTICLES_DATA = [
     "id": "055b7f5e3f0764f6",
     "topics": [
       "金融监管",
-      "金融市场"
+      "行为研究"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "",
@@ -1297,7 +1286,8 @@ window.ARTICLES_DATA = [
     "id": "70dd82dce68447bb",
     "topics": [
       "公司治理",
-      "实验"
+      "信贷市场",
+      "机器学习"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "",
@@ -1546,10 +1536,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "52970742a9485a42",
     "topics": [
-      "实验",
       "因果推断"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "因果推断",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.587774+00:00",
@@ -1585,8 +1574,7 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "1202cec5be43d0c7",
     "topics": [
-      "实验",
-      "金融监管"
+      "实验"
     ],
     "primary_topic": "实验",
     "publish_date_norm": "",
@@ -1833,9 +1821,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-03-02T15:50:00Z",
     "id": "b60e3f83d9baba6e",
     "topics": [
-      "金融市场"
+      "非银机构"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "非银机构",
     "publish_date_norm": "2026-03-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.589586+00:00",
@@ -1928,7 +1916,7 @@ window.ARTICLES_DATA = [
     "id": "cf32d721ab21da7d",
     "topics": [
       "财政和主权债",
-      "金融市场"
+      "债券市场"
     ],
     "primary_topic": "财政和主权债",
     "publish_date_norm": "2025-11-27",
@@ -1947,8 +1935,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2025-11-19T12:45:00Z",
     "id": "b6673211064398d6",
     "topics": [
-      "司法和执法",
-      "央行和货币政策"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2025-11-19",
@@ -1986,10 +1973,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025-11-12T15:45:00Z",
     "id": "240998dea7e90dcc",
     "topics": [
-      "银行",
       "司法和执法"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2025-11-12",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.589969+00:00",
@@ -2006,10 +1992,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025-11-12T11:05:00Z",
     "id": "f9d14ceaf4530824",
     "topics": [
-      "央行和货币政策",
       "司法和执法"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2025-11-12",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.590028+00:00",
@@ -2066,7 +2051,8 @@ window.ARTICLES_DATA = [
     "id": "3a7b8b4d63dc4cd8",
     "topics": [
       "AI",
-      "央行和货币政策"
+      "央行和货币政策",
+      "金融科技"
     ],
     "primary_topic": "AI",
     "publish_date_norm": "2025-10-08",
@@ -2105,8 +2091,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 11 Mar 2026 09:12:20 PDT",
     "id": "55253d0100d9a92e",
     "topics": [
-      "公司并购",
-      "金融监管"
+      "公司并购"
     ],
     "primary_topic": "公司并购",
     "publish_date_norm": "2026-03-11",
@@ -2145,7 +2130,8 @@ window.ARTICLES_DATA = [
     "id": "60df78f5bf494224",
     "topics": [
       "金融监管",
-      "公司治理"
+      "公司治理",
+      "证券法"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-03-11",
@@ -2164,8 +2150,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 11 Mar 2026 09:12:17 PDT",
     "id": "8bbfe37a5b967784",
     "topics": [
-      "DID",
-      "金融监管"
+      "DID"
     ],
     "primary_topic": "DID",
     "publish_date_norm": "2026-03-11",
@@ -2184,10 +2169,10 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 11 Mar 2026 09:12:16 PDT",
     "id": "109a4d79fae82c3f",
     "topics": [
-      "司法和执法",
-      "实证研究"
+      "实证研究",
+      "证券法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "实证研究",
     "publish_date_norm": "2026-03-11",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.593625+00:00",
@@ -2223,10 +2208,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:31 PST",
     "id": "be769b1089df7b3a",
     "topics": [
-      "公司治理",
-      "公司并购"
+      "司法和执法"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.593908+00:00",
@@ -2262,10 +2246,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:29 PST",
     "id": "ec591e8e3eba7e73",
     "topics": [
-      "金融监管",
       "证券法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "证券法",
     "publish_date_norm": "2025-12-17",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.594130+00:00",
@@ -2282,8 +2265,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 17 Dec 2025 07:52:29 PST",
     "id": "c9e7dfae91d4556f",
     "topics": [
-      "破产法",
-      "金融监管"
+      "破产法"
     ],
     "primary_topic": "破产法",
     "publish_date_norm": "2025-12-17",
@@ -2340,9 +2322,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 08 Sep 2025 12:22:08 PDT",
     "id": "1bb26957f585071e",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.594637+00:00",
@@ -2359,10 +2341,10 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 08 Sep 2025 12:22:08 PDT",
     "id": "2ebca56bae50fca5",
     "topics": [
-      "公司并购",
-      "银行"
+      "银行",
+      "公司并购"
     ],
-    "primary_topic": "公司并购",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.594739+00:00",
@@ -2379,9 +2361,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 08 Sep 2025 12:22:06 PDT",
     "id": "4901b20d578592a7",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.594994+00:00",
@@ -2499,10 +2481,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 23 Jul 2026 00:31:09 -0700",
     "id": "0e0cd7606f61fe6d",
     "topics": [
-      "金融市场",
-      "合同"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-23",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.595642+00:00",
@@ -2606,9 +2587,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "761aa64502be0946",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.596227+00:00",
@@ -2648,9 +2629,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "3a75af786482dd9d",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.596430+00:00",
@@ -2669,9 +2650,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "93adc2382ddfdbe2",
     "topics": [
-      "金融市场"
+      "债券市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.596527+00:00",
@@ -2690,9 +2671,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "a50e9a09e38a2403",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.596623+00:00",
@@ -2711,8 +2692,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "eb44c62a6ce470fd",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-07-15",
@@ -2733,10 +2713,11 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "6fb687da3f18487b",
     "topics": [
-      "央行和货币政策",
-      "银行"
+      "信贷市场",
+      "衍生品市场",
+      "央行和货币政策"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.596822+00:00",
@@ -2778,7 +2759,8 @@ window.ARTICLES_DATA = [
     "id": "6c36a1e298363c83",
     "topics": [
       "央行和货币政策",
-      "公司治理"
+      "公司治理",
+      "实证研究"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-07-15",
@@ -2799,9 +2781,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 15 Jul 2026 14:43:41 -0700",
     "id": "0a2ef6de4bb160c1",
     "topics": [
-      "其他"
+      "信贷市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.597112+00:00",
@@ -2841,10 +2823,10 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 25 Jun 2026 06:36:24 -0700",
     "id": "cfda06e8368c4c97",
     "topics": [
-      "金融监管",
-      "银行"
+      "银行",
+      "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "银行",
     "publish_date_norm": "2026-06-25",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.597349+00:00",
@@ -2905,10 +2887,10 @@ window.ARTICLES_DATA = [
     "publish_date": "Thu, 07 May 2026 01:10:18 -0700",
     "id": "84a7dddd3f16e8f6",
     "topics": [
-      "实验",
-      "银行"
+      "信贷市场",
+      "实验"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2026-05-07",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.597628+00:00",
@@ -2948,10 +2930,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 19 Jun 2026 18:56:19 -0700",
     "id": "575e2cdc5e9c6d77",
     "topics": [
-      "司法和执法",
-      "合同"
+      "证券法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-06-19",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.597893+00:00",
@@ -3012,9 +2993,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 05 Jun 2026 22:04:15 -0700",
     "id": "2c41fcb900e8520e",
     "topics": [
-      "司法和执法"
+      "证券法"
     ],
-    "primary_topic": "司法和执法",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-06-05",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.598289+00:00",
@@ -3097,9 +3078,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Wed, 13 May 2026 21:48:43 -0700",
     "id": "d730a9ed4d3becda",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-05-13",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.598743+00:00",
@@ -3277,9 +3258,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-17T07:57:18Z",
     "id": "cf18e569ce6210e9",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-17",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.599424+00:00",
@@ -3448,8 +3429,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-15T08:19:14Z",
     "id": "5da7d9c8e58f6f55",
     "topics": [
-      "证券法",
-      "金融监管"
+      "证券法"
     ],
     "primary_topic": "证券法",
     "publish_date_norm": "2026-05-15",
@@ -3525,9 +3505,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "fe1024a2a1783f3d",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.599951+00:00",
@@ -3544,9 +3524,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "42a1c7a521b1e8e6",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.599970+00:00",
@@ -3601,9 +3581,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "2552007f88cb14cc",
     "topics": [
-      "实验"
+      "其他"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.600035+00:00",
@@ -3718,7 +3698,7 @@ window.ARTICLES_DATA = [
     "id": "4976863c4331deb2",
     "topics": [
       "非银机构",
-      "金融市场"
+      "债券市场"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2026-07-16",
@@ -3757,7 +3737,7 @@ window.ARTICLES_DATA = [
     "id": "dc78cc69383f3f03",
     "topics": [
       "金融监管",
-      "银行"
+      "信贷市场"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-07-09",
@@ -3795,9 +3775,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-28T09:31:00Z",
     "id": "3c6f3b4959927eaf",
     "topics": [
-      "金融市场"
+      "债券市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2026-06-28",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.339833+00:00",
@@ -3834,7 +3814,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-17T11:27:00Z",
     "id": "fc55544bd6297923",
     "topics": [
-      "绿色金融"
+      "绿色金融",
+      "债券市场"
     ],
     "primary_topic": "绿色金融",
     "publish_date_norm": "2026-06-17",
@@ -3853,9 +3834,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-16T11:27:00Z",
     "id": "1a86f177418e595c",
     "topics": [
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2026-06-16",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.340052+00:00",
@@ -3873,7 +3855,8 @@ window.ARTICLES_DATA = [
     "id": "56e04a110d3742cd",
     "topics": [
       "银行",
-      "公司并购"
+      "公司并购",
+      "破产法"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2026-06-12",
@@ -3892,10 +3875,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-11T12:00:00Z",
     "id": "35c658e34fe1be86",
     "topics": [
-      "稳定币",
       "司法和执法"
     ],
-    "primary_topic": "稳定币",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-11",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.340217+00:00",
@@ -3912,10 +3894,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-09T09:06:00Z",
     "id": "5a3b9ce62a01c27e",
     "topics": [
-      "金融监管",
       "非银机构"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "非银机构",
     "publish_date_norm": "2026-06-09",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.340277+00:00",
@@ -3971,10 +3952,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-02T09:28:00Z",
     "id": "4be3ac4c9e04ac8a",
     "topics": [
-      "金融监管",
       "稳定币"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "稳定币",
     "publish_date_norm": "2026-06-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.340462+00:00",
@@ -3991,8 +3971,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-01T09:28:00Z",
     "id": "76878580fb51e83a",
     "topics": [
-      "央行和货币政策",
-      "实验"
+      "央行和货币政策"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-06-01",
@@ -4030,10 +4009,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-27T12:00:00Z",
     "id": "3a5cdf24f66460ee",
     "topics": [
-      "金融监管",
       "DID"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "DID",
     "publish_date_norm": "2026-05-27",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.340688+00:00",
@@ -4050,8 +4028,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-26T12:00:00Z",
     "id": "4495acb3050cdefb",
     "topics": [
-      "银行",
-      "金融监管"
+      "银行"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2026-05-26",
@@ -4070,9 +4047,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-21T07:01:00Z",
     "id": "4d4116b553ff3606",
     "topics": [
-      "银行"
+      "信贷市场"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2026-05-21",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.340871+00:00",
@@ -4151,9 +4128,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "6ed7e66e77fb96ca",
     "topics": [
-      "合同"
+      "信贷市场"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.341159+00:00",
@@ -4170,8 +4147,7 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "d5f28ac4b1a5bc65",
     "topics": [
-      "支付",
-      "金融监管"
+      "支付"
     ],
     "primary_topic": "支付",
     "publish_date_norm": "",
@@ -4209,9 +4185,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "9b0bd69582f5e72e",
     "topics": [
-      "实验"
+      "其他"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.341460+00:00",
@@ -4235,6 +4211,7 @@ window.ARTICLES_DATA = [
     "id": "d6159a52efad6c81",
     "topics": [
       "非银机构",
+      "债券市场",
       "央行和货币政策"
     ],
     "primary_topic": "非银机构",
@@ -4254,10 +4231,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "f146bf9b2aa1eef3",
     "topics": [
-      "金融监管",
-      "实验"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.341657+00:00",
@@ -4293,10 +4269,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "ac0a8900101fff64",
     "topics": [
-      "公司治理",
       "司法和执法"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.341750+00:00",
@@ -4313,8 +4288,7 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "62d4ce30c90c2532",
     "topics": [
-      "公司治理",
-      "合同"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "",
@@ -4371,10 +4345,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 08 Sep 2025 12:22:07 PDT",
     "id": "eba1ab5b8428be2e",
     "topics": [
-      "公司并购",
-      "合同"
+      "司法和执法"
     ],
-    "primary_topic": "公司并购",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2025-09-08",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T13:25:00.594868+00:00",
@@ -4412,9 +4385,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-15T08:32:00Z",
     "id": "2d24ae3b237e67b0",
     "topics": [
-      "其他"
+      "信贷市场",
+      "衍生品市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2026-07-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.339485+00:00",
@@ -4431,9 +4405,9 @@ window.ARTICLES_DATA = [
     "publish_date": "",
     "id": "693dbab73287e30b",
     "topics": [
-      "合同"
+      "其他"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "其他",
     "publish_date_norm": "",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:12:04.341617+00:00",
@@ -4492,9 +4466,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-20T20:59:11+00:00",
     "id": "56afd8914dea1089",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-07-20",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:41:31.940006+00:00",
@@ -4511,8 +4485,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-20T20:30:59+00:00",
     "id": "f350e0392938d5c9",
     "topics": [
-      "司法和执法",
-      "公司治理"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-07-20",
@@ -4571,8 +4544,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-07-02T04:52:32+00:00",
     "id": "5088463c9aeb233a",
     "topics": [
-      "破产法",
-      "金融市场"
+      "破产法"
     ],
     "primary_topic": "破产法",
     "publish_date_norm": "2026-07-02",
@@ -4592,7 +4564,8 @@ window.ARTICLES_DATA = [
     "id": "302f3182d6e02e72",
     "topics": [
       "公司治理",
-      "非银机构"
+      "非银机构",
+      "绿色金融"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-06-30",
@@ -4611,8 +4584,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-30T20:26:01+00:00",
     "id": "f3462681716d1de7",
     "topics": [
-      "司法和执法",
-      "公司治理"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-06-30",
@@ -4669,8 +4641,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-24T02:32:00+00:00",
     "id": "6f28da038f78fa20",
     "topics": [
-      "破产法",
-      "金融监管"
+      "破产法"
     ],
     "primary_topic": "破产法",
     "publish_date_norm": "2026-06-24",
@@ -4689,10 +4660,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-20T21:05:30+00:00",
     "id": "a4f4056828ef6d11",
     "topics": [
-      "金融监管",
-      "证券法"
+      "证券法",
+      "金融监管"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-06-20",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:41:54.043267+00:00",
@@ -4710,7 +4681,7 @@ window.ARTICLES_DATA = [
     "id": "f2d8c8f7fdb15658",
     "topics": [
       "公司治理",
-      "金融监管"
+      "证券法"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-06-19",
@@ -4748,9 +4719,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-10T00:36:41+00:00",
     "id": "1b4f8f6b0dd50c58",
     "topics": [
-      "合同"
+      "其他"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-06-10",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:01.223982+00:00",
@@ -4807,10 +4778,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-08T23:44:58+00:00",
     "id": "167f6b0553324f79",
     "topics": [
-      "金融市场",
       "证券法"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-06-08",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:09.827945+00:00",
@@ -4827,8 +4797,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-05T05:20:44+00:00",
     "id": "c36b68f3ee8f12ec",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-06-05",
@@ -4847,10 +4816,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-02T21:55:18+00:00",
     "id": "cb12e1828914ccf0",
     "topics": [
-      "金融监管",
-      "合同"
+      "区块链"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "区块链",
     "publish_date_norm": "2026-06-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:15.253722+00:00",
@@ -4867,10 +4835,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-06-02T04:23:00+00:00",
     "id": "2c210082213f4fd4",
     "topics": [
-      "金融监管",
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-06-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:19.048326+00:00",
@@ -4887,7 +4854,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-30T17:56:51+00:00",
     "id": "fda0c943eda5caed",
     "topics": [
-      "AI"
+      "AI",
+      "衍生品市场"
     ],
     "primary_topic": "AI",
     "publish_date_norm": "2026-05-30",
@@ -4906,8 +4874,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-29T19:29:31+00:00",
     "id": "7a5151745be4c94c",
     "topics": [
-      "公司治理",
-      "合同"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-05-29",
@@ -4926,8 +4893,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-23T19:07:10+00:00",
     "id": "5723c7f09114e211",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-05-23",
@@ -4984,8 +4950,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-21T17:43:18+00:00",
     "id": "af8c5c86355070a3",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-05-21",
@@ -5043,10 +5008,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-17T23:40:35+00:00",
     "id": "e3a309aaa65fc827",
     "topics": [
-      "金融监管",
-      "合同"
+      "竞争法和反垄断法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "竞争法和反垄断法",
     "publish_date_norm": "2026-05-17",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:41.364434+00:00",
@@ -5063,8 +5027,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-17T19:21:04+00:00",
     "id": "193e27018be97bd5",
     "topics": [
-      "司法和执法",
-      "公司治理"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-17",
@@ -5083,10 +5046,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-17T18:43:41+00:00",
     "id": "aebc8e108f556892",
     "topics": [
-      "金融市场",
       "公司并购"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "公司并购",
     "publish_date_norm": "2026-05-17",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:47.775915+00:00",
@@ -5122,8 +5084,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-16T20:53:08+00:00",
     "id": "34a43a66ea12bb23",
     "topics": [
-      "公司治理",
-      "实验"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-05-16",
@@ -5142,10 +5103,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-16T18:12:01+00:00",
     "id": "f1ff67c5b9f069d5",
     "topics": [
-      "公司治理",
       "司法和执法"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-16",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:54.344793+00:00",
@@ -5162,10 +5122,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-16T15:56:38+00:00",
     "id": "a255c4568b12cacb",
     "topics": [
-      "金融监管",
       "公司治理"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-05-16",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:57.236159+00:00",
@@ -5182,9 +5141,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-11T01:11:21+00:00",
     "id": "70dd7990bfdc560a",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-05-11",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:42:59.407922+00:00",
@@ -5221,9 +5180,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-05T22:28:54+00:00",
     "id": "c15cae040e7001d6",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-05-05",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:43:05.111673+00:00",
@@ -5240,10 +5199,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-03T20:08:14+00:00",
     "id": "86a267b172517d42",
     "topics": [
-      "金融监管",
       "司法和执法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-05-03",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:43:08.090574+00:00",
@@ -5260,10 +5218,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-05-03T19:38:49+00:00",
     "id": "0ce71c76cb305f21",
     "topics": [
-      "合同",
-      "公司治理"
+      "公司治理",
+      "公司并购"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "公司治理",
     "publish_date_norm": "2026-05-03",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:43:10.241395+00:00",
@@ -5300,10 +5258,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-04-26T02:27:51+00:00",
     "id": "b995e8ab0583b7dc",
     "topics": [
-      "金融监管",
       "证券法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "证券法",
     "publish_date_norm": "2026-04-26",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:43:14.484697+00:00",
@@ -5320,8 +5277,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-04-21T18:45:29+00:00",
     "id": "6cdde12ca18fc657",
     "topics": [
-      "金融监管",
-      "合同"
+      "金融监管"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2026-04-21",
@@ -5380,10 +5336,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-04-15T01:28:48+00:00",
     "id": "77de7acfccfba942",
     "topics": [
-      "公司治理",
       "司法和执法"
     ],
-    "primary_topic": "公司治理",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-04-15",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T15:43:24.444443+00:00",
@@ -5401,7 +5356,8 @@ window.ARTICLES_DATA = [
     "id": "de19acf5990d199d",
     "topics": [
       "破产法",
-      "公司治理"
+      "公司治理",
+      "合同"
     ],
     "primary_topic": "破产法",
     "publish_date_norm": "2026-04-12",
@@ -5459,8 +5415,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026-04-01T01:46:05+00:00",
     "id": "02eda5849ffa4bec",
     "topics": [
-      "公司治理",
-      "金融监管"
+      "公司治理"
     ],
     "primary_topic": "公司治理",
     "publish_date_norm": "2026-04-01",
@@ -5487,7 +5442,8 @@ window.ARTICLES_DATA = [
     "id": "ffdf95b4e1895119",
     "topics": [
       "银行",
-      "AI"
+      "AI",
+      "机器学习"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2026-07-01",
@@ -5538,10 +5494,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/05/01",
     "id": "d02b9953385dcd4f",
     "topics": [
+      "银行",
       "金融监管",
       "破产法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "银行",
     "publish_date_norm": "2026-05-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:07:44.749216+00:00",
@@ -5586,8 +5543,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/05/01",
     "id": "c35645a58fa41966",
     "topics": [
-      "银行",
-      "实验"
+      "银行"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2026-05-01",
@@ -5611,10 +5567,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/04/01",
     "id": "18d58fe76187c3c7",
     "topics": [
-      "银行",
-      "实验"
+      "信贷市场",
+      "因果推断"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2026-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:07:53.354428+00:00",
@@ -5713,10 +5669,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/03/01",
     "id": "904c4b1b0a3e2c56",
     "topics": [
-      "合同",
       "央行和货币政策"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:04.863627+00:00",
@@ -5744,9 +5699,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/03/01",
     "id": "037f44cde3ab3391",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:08.144133+00:00",
@@ -5770,9 +5725,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/03/01",
     "id": "01fa8c6c73f67900",
     "topics": [
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2026-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:10.149879+00:00",
@@ -5795,10 +5751,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/02/01",
     "id": "59d437aae0dd157c",
     "topics": [
-      "金融监管",
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:12.549106+00:00",
@@ -5820,10 +5775,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/02/01",
     "id": "24a10ea8e91ba45e",
     "topics": [
-      "稳定币",
       "银行"
     ],
-    "primary_topic": "稳定币",
+    "primary_topic": "银行",
     "publish_date_norm": "2026-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:15.579889+00:00",
@@ -5846,9 +5800,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/02/01",
     "id": "ef252613a69d3965",
     "topics": [
-      "银行"
+      "其他"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:18.315010+00:00",
@@ -5968,10 +5922,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/02/01",
     "id": "80bda1be60bb463f",
     "topics": [
-      "稳定币",
-      "银行"
+      "区块链",
+      "银行",
+      "稳定币"
     ],
-    "primary_topic": "稳定币",
+    "primary_topic": "区块链",
     "publish_date_norm": "2026-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:32.776138+00:00",
@@ -6019,9 +5974,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/01/01",
     "id": "8d9fa39945e17106",
     "topics": [
-      "其他"
+      "区块链"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "区块链",
     "publish_date_norm": "2026-01-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:39.348106+00:00",
@@ -6047,10 +6002,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/01/01",
     "id": "a6b1d7ee3754c28a",
     "topics": [
-      "非银机构",
-      "银行"
+      "银行",
+      "信贷市场",
+      "非银机构"
     ],
-    "primary_topic": "非银机构",
+    "primary_topic": "银行",
     "publish_date_norm": "2026-01-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:42.201680+00:00",
@@ -6078,7 +6034,7 @@ window.ARTICLES_DATA = [
     "id": "c024b41db58e232a",
     "topics": [
       "银行",
-      "金融监管"
+      "非银机构"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2025-12-01",
@@ -6124,9 +6080,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/12/01",
     "id": "4b1f21b1f7d61e18",
     "topics": [
-      "合同"
+      "其他"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-12-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:49.059296+00:00",
@@ -6148,8 +6104,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/11/01",
     "id": "3dd738ba403a2232",
     "topics": [
-      "非银机构",
-      "金融市场"
+      "非银机构"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2025-11-01",
@@ -6199,9 +6154,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/11/01",
     "id": "219519238c59d9e4",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-11-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:08:56.935674+00:00",
@@ -6246,10 +6201,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/10/01",
     "id": "3f0df4c4aa835e1e",
     "topics": [
-      "金融监管",
-      "合同"
+      "银行"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-10-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:00.321415+00:00",
@@ -6273,10 +6227,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/10/01",
     "id": "1420c2bdf9e90e58",
     "topics": [
-      "银行",
+      "信贷市场",
       "实验"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2025-10-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:01.963076+00:00",
@@ -6394,9 +6348,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/08/01",
     "id": "973752dc35858116",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-08-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:17.391423+00:00",
@@ -6418,8 +6372,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/08/01",
     "id": "e9f68903b488831b",
     "topics": [
-      "绿色金融",
-      "金融市场"
+      "绿色金融"
     ],
     "primary_topic": "绿色金融",
     "publish_date_norm": "2025-08-01",
@@ -6564,10 +6517,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/06/01",
     "id": "f7107271731d6145",
     "topics": [
-      "金融监管",
       "银行"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-06-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:36.245913+00:00",
@@ -6592,9 +6544,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/06/01",
     "id": "aa4b6811302df3be",
     "topics": [
-      "实验"
+      "其他"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-06-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:38.924927+00:00",
@@ -6623,9 +6575,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/04/01",
     "id": "4b735430cd65b982",
     "topics": [
-      "金融市场"
+      "区块链"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "区块链",
     "publish_date_norm": "2025-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:41.655149+00:00",
@@ -6697,9 +6649,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/04/01",
     "id": "8feb39364dbfe8f8",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:49.782231+00:00",
@@ -6722,10 +6674,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/04/01",
     "id": "47055e448b33d56f",
     "topics": [
+      "债券市场",
       "银行",
       "非银机构"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2025-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:52.861481+00:00",
@@ -6747,9 +6700,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/04/01",
     "id": "2532264b58ccc132",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:56.128284+00:00",
@@ -6771,10 +6724,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/04/01",
     "id": "4b6e03ef85aa0d9d",
     "topics": [
-      "金融市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2025-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:09:59.609711+00:00",
@@ -6797,10 +6749,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/04/01",
     "id": "fd3991f6da53198d",
     "topics": [
-      "金融市场",
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:00.955238+00:00",
@@ -6822,7 +6773,8 @@ window.ARTICLES_DATA = [
     "id": "ff5efccb79795357",
     "topics": [
       "非银机构",
-      "合同"
+      "金融科技",
+      "私募信贷"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2025-03-01",
@@ -6848,8 +6800,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/03/01",
     "id": "e8f9fe45c362f989",
     "topics": [
-      "银行",
-      "金融监管"
+      "银行"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2025-03-01",
@@ -6873,10 +6824,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/03/01",
     "id": "7233e4b6edc24004",
     "topics": [
-      "金融监管",
       "银行"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:09.348077+00:00",
@@ -6899,10 +6849,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/03/01",
     "id": "0c95166b6e77a1d7",
     "topics": [
-      "金融监管",
       "非银机构"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "非银机构",
     "publish_date_norm": "2025-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:11.829681+00:00",
@@ -6924,10 +6873,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/02/01",
     "id": "4a6ec1a9c50ae7fd",
     "topics": [
-      "金融市场",
       "绿色金融"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "绿色金融",
     "publish_date_norm": "2025-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:14.467385+00:00",
@@ -7023,9 +6971,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/11/01",
     "id": "935064d0b9b521fa",
     "topics": [
-      "央行和货币政策"
+      "其他"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-11-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:25.753043+00:00",
@@ -7049,7 +6997,7 @@ window.ARTICLES_DATA = [
     "id": "3ccf46b17621ae61",
     "topics": [
       "绿色金融",
-      "金融市场"
+      "因果推断"
     ],
     "primary_topic": "绿色金融",
     "publish_date_norm": "2024-11-01",
@@ -7098,7 +7046,8 @@ window.ARTICLES_DATA = [
     "id": "f8234b20c7c1c0df",
     "topics": [
       "破产法",
-      "银行"
+      "银行",
+      "实证研究"
     ],
     "primary_topic": "破产法",
     "publish_date_norm": "2024-11-01",
@@ -7123,9 +7072,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/10/01",
     "id": "3ea1363bfb4a58ce",
     "topics": [
-      "实验"
+      "其他"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-10-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:36.472967+00:00",
@@ -7198,7 +7147,7 @@ window.ARTICLES_DATA = [
     "id": "c1691aaa59bf9913",
     "topics": [
       "破产法",
-      "金融监管"
+      "银行"
     ],
     "primary_topic": "破产法",
     "publish_date_norm": "2024-10-01",
@@ -7299,9 +7248,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/10/01",
     "id": "af9764484119aa7a",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-10-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:10:56.621245+00:00",
@@ -7351,9 +7300,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/09/01",
     "id": "454f8dd9e5ccdb14",
     "topics": [
-      "合同"
+      "其他"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-09-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:02.038718+00:00",
@@ -7375,10 +7324,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/09/01",
     "id": "5e3c85a3677fd9e5",
     "topics": [
-      "金融监管",
-      "实验"
+      "因果推断"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "因果推断",
     "publish_date_norm": "2024-09-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:05.147872+00:00",
@@ -7400,10 +7348,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/09/01",
     "id": "d8315a0b426e9344",
     "topics": [
-      "金融市场",
       "司法和执法"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2024-09-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:07.721272+00:00",
@@ -7425,10 +7372,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/09/01",
     "id": "7c69c500c5b8fe76",
     "topics": [
-      "金融市场",
       "司法和执法"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2024-09-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:10.681639+00:00",
@@ -7479,7 +7425,7 @@ window.ARTICLES_DATA = [
     "id": "2723af6eb6c44368",
     "topics": [
       "非银机构",
-      "金融监管"
+      "信贷市场"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2024-09-01",
@@ -7505,8 +7451,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/09/01",
     "id": "a16541e0b5ef518b",
     "topics": [
-      "非银机构",
-      "金融市场"
+      "非银机构"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2024-09-01",
@@ -7606,10 +7551,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/08/01",
     "id": "4604502ae39621fa",
     "topics": [
-      "银行",
-      "破产法"
+      "破产法",
+      "信贷市场"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "破产法",
     "publish_date_norm": "2024-08-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:30.338554+00:00",
@@ -7658,10 +7603,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/08/01",
     "id": "16c2abc8059d1084",
     "topics": [
-      "金融监管",
       "司法和执法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2024-08-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:36.569584+00:00",
@@ -7734,10 +7678,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/07/01",
     "id": "fd2895d020608abb",
     "topics": [
-      "金融监管",
       "央行和货币政策"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2024-07-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:42.824222+00:00",
@@ -7881,10 +7824,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/05/01",
     "id": "7044d39ba2e70abf",
     "topics": [
-      "实验",
       "央行和货币政策"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2024-05-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:11:58.809172+00:00",
@@ -7907,9 +7849,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/05/01",
     "id": "2421762164738e67",
     "topics": [
+      "区块链",
       "竞争法和反垄断法"
     ],
-    "primary_topic": "竞争法和反垄断法",
+    "primary_topic": "区块链",
     "publish_date_norm": "2024-05-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:00.854354+00:00",
@@ -8077,8 +8020,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/04/01",
     "id": "2915c689147a04eb",
     "topics": [
-      "银行",
-      "金融市场"
+      "银行"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2024-04-01",
@@ -8102,10 +8044,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/01",
     "id": "e3f1554685774a43",
     "topics": [
-      "金融市场",
+      "信贷市场",
+      "债券市场",
       "实证研究"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2024-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:21.051644+00:00",
@@ -8151,9 +8094,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/01",
     "id": "195063b5bbf61919",
     "topics": [
-      "实验"
+      "其他"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:25.938521+00:00",
@@ -8176,10 +8119,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/01",
     "id": "97b52324bb94d4b2",
     "topics": [
+      "非银机构",
       "金融监管",
-      "非银机构"
+      "央行和货币政策"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "非银机构",
     "publish_date_norm": "2024-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:29.322167+00:00",
@@ -8204,9 +8148,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/01",
     "id": "981b776865796016",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:32.761026+00:00",
@@ -8253,10 +8197,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/01",
     "id": "6ce2650cbfd64e61",
     "topics": [
-      "金融市场",
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:38.458794+00:00",
@@ -8305,9 +8248,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/01",
     "id": "eb5070af69fb3b17",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:44.996113+00:00",
@@ -8351,9 +8294,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/01/01",
     "id": "6575462b80bc82f5",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-01-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:12:49.808159+00:00",
@@ -8425,7 +8368,8 @@ window.ARTICLES_DATA = [
     "id": "e8b73095d8c6390f",
     "topics": [
       "机器学习",
-      "AI"
+      "AI",
+      "央行和货币政策"
     ],
     "primary_topic": "机器学习",
     "publish_date_norm": "2023-11-01",
@@ -8472,7 +8416,8 @@ window.ARTICLES_DATA = [
     "id": "3da650d29e4b2405",
     "topics": [
       "银行",
-      "公司治理"
+      "公司治理",
+      "实证研究"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2023-11-01",
@@ -8546,7 +8491,8 @@ window.ARTICLES_DATA = [
     "id": "d02886015a15bbab",
     "topics": [
       "银行",
-      "金融监管"
+      "金融监管",
+      "实证研究"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2023-11-01",
@@ -8597,9 +8543,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/10/01",
     "id": "69c4a618e96f29c2",
     "topics": [
-      "其他"
+      "信贷市场",
+      "债券市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2023-10-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:15.097938+00:00",
@@ -8699,9 +8646,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/08/01",
     "id": "a65317f2257e20db",
     "topics": [
-      "金融市场"
+      "债券市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2023-08-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:25.774015+00:00",
@@ -8722,9 +8669,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/08/01",
     "id": "5f68adf62accf3dd",
     "topics": [
-      "合同"
+      "其他"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "其他",
     "publish_date_norm": "2023-08-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:28.414456+00:00",
@@ -8750,9 +8697,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/07/01",
     "id": "c4f668d22601e325",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2023-07-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:31.174076+00:00",
@@ -8797,8 +8744,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/07/01",
     "id": "3da35a7a786b79aa",
     "topics": [
-      "绿色金融",
-      "金融市场"
+      "绿色金融"
     ],
     "primary_topic": "绿色金融",
     "publish_date_norm": "2023-07-01",
@@ -8851,10 +8797,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/06/01",
     "id": "158184bc79603900",
     "topics": [
-      "金融监管",
-      "金融市场"
+      "央行和货币政策",
+      "非银机构",
+      "行为研究"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2023-06-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:43.564820+00:00",
@@ -8877,9 +8824,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/06/01",
     "id": "084015e4b59e88dd",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2023-06-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:45.837111+00:00",
@@ -8900,9 +8847,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/06/01",
     "id": "5d67f546e5957a2f",
     "topics": [
-      "央行和货币政策"
+      "其他"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "其他",
     "publish_date_norm": "2023-06-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:48.582056+00:00",
@@ -8950,8 +8897,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/05/01",
     "id": "a7bdc902830c8151",
     "topics": [
-      "司法和执法",
-      "金融科技"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2023-05-01",
@@ -8974,10 +8920,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/04/01",
     "id": "77be5bd91a6494dc",
     "topics": [
-      "金融监管",
+      "信贷市场",
       "绿色金融"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2023-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:13:57.998655+00:00",
@@ -9050,9 +8996,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/02/01",
     "id": "802cad01524ff7c5",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2023-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:14:08.963711+00:00",
@@ -9073,9 +9019,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/02/01",
     "id": "b04e4bd0b019c502",
     "topics": [
-      "实验"
+      "其他"
     ],
-    "primary_topic": "实验",
+    "primary_topic": "其他",
     "publish_date_norm": "2023-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:14:11.328208+00:00",
@@ -9148,9 +9094,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/02/01",
     "id": "9476e69ec6a34bc3",
     "topics": [
-      "其他"
+      "区块链"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "区块链",
     "publish_date_norm": "2023-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:14:20.635317+00:00",
@@ -9247,10 +9193,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/01/01",
     "id": "2176ae7a691243af",
     "topics": [
-      "金融监管",
-      "银行"
+      "非银机构",
+      "因果推断"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "非银机构",
     "publish_date_norm": "2023-01-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:14:33.402473+00:00",
@@ -9346,10 +9292,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/12/01",
     "id": "4f36769881e33f00",
     "topics": [
-      "金融市场",
-      "实验"
+      "行为研究"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "行为研究",
     "publish_date_norm": "2022-12-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:14:45.426402+00:00",
@@ -9397,6 +9342,7 @@ window.ARTICLES_DATA = [
     "id": "fd93b73155def5fb",
     "topics": [
       "银行",
+      "信贷市场",
       "公司治理"
     ],
     "primary_topic": "银行",
@@ -9423,10 +9369,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/12/01",
     "id": "13f40ac2e2275714",
     "topics": [
+      "银行",
       "央行和货币政策",
-      "银行"
+      "非银机构"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "银行",
     "publish_date_norm": "2022-12-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:14:52.492311+00:00",
@@ -9543,9 +9490,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/10/01",
     "id": "ec80c85b745eac9d",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2022-10-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:15:05.171965+00:00",
@@ -9597,10 +9544,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/09/01",
     "id": "ce0ababc728bd648",
     "topics": [
-      "金融市场",
-      "金融监管"
+      "区块链",
+      "稳定币"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "区块链",
     "publish_date_norm": "2022-09-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:15:10.844939+00:00",
@@ -9859,9 +9806,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/07/01",
     "id": "0b3e21740d0e0f2d",
     "topics": [
-      "金融监管"
+      "债券市场"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2022-07-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:15:41.425943+00:00",
@@ -9910,7 +9857,7 @@ window.ARTICLES_DATA = [
     "id": "18f128ae51c5e173",
     "topics": [
       "银行",
-      "实验"
+      "因果推断"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2022-06-01",
@@ -10034,10 +9981,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/05/01",
     "id": "a48acdb3c0adbfde",
     "topics": [
-      "金融市场",
       "行为研究"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "行为研究",
     "publish_date_norm": "2022-05-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:15:59.451201+00:00",
@@ -10061,10 +10007,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/05/01",
     "id": "731b32b2cbeb6a8d",
     "topics": [
-      "金融市场",
       "行为研究"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "行为研究",
     "publish_date_norm": "2022-05-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:16:01.799264+00:00",
@@ -10135,10 +10080,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/04/01",
     "id": "352ba70af3cd4ebc",
     "topics": [
-      "金融监管",
+      "债券市场",
       "绿色金融"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2022-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:16:07.480957+00:00",
@@ -10160,6 +10105,7 @@ window.ARTICLES_DATA = [
     "id": "fa7b7a6d2367face",
     "topics": [
       "央行和货币政策",
+      "债券市场",
       "实证研究"
     ],
     "primary_topic": "央行和货币政策",
@@ -10187,9 +10133,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/04/01",
     "id": "a74c7696699a4304",
     "topics": [
-      "实证研究"
+      "其他"
     ],
-    "primary_topic": "实证研究",
+    "primary_topic": "其他",
     "publish_date_norm": "2022-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:16:12.729800+00:00",
@@ -10237,10 +10183,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/03/01",
     "id": "c6b373cc4da98179",
     "topics": [
-      "金融市场",
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2022-03-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:16:18.398030+00:00",
@@ -10266,7 +10212,7 @@ window.ARTICLES_DATA = [
     "id": "0a2476df57981879",
     "topics": [
       "非银机构",
-      "金融监管"
+      "银行"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2022-03-01",
@@ -10290,6 +10236,7 @@ window.ARTICLES_DATA = [
     "id": "dd270047bcabfb7b",
     "topics": [
       "央行和货币政策",
+      "信贷市场",
       "非银机构"
     ],
     "primary_topic": "央行和货币政策",
@@ -10361,10 +10308,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/02/01",
     "id": "831858fbd0a0e4c8",
     "topics": [
-      "破产法",
-      "银行"
+      "银行",
+      "破产法"
     ],
-    "primary_topic": "破产法",
+    "primary_topic": "银行",
     "publish_date_norm": "2022-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:16:33.856888+00:00",
@@ -10387,10 +10334,11 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/02/01",
     "id": "11c03d9d2ee196bc",
     "topics": [
-      "金融市场",
-      "央行和货币政策"
+      "债券市场",
+      "央行和货币政策",
+      "公司并购"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2022-02-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:16:36.807111+00:00",
@@ -10442,8 +10390,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/02/01",
     "id": "9ab0af9c0504b54b",
     "topics": [
-      "央行和货币政策",
-      "金融市场"
+      "央行和货币政策"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2022-02-01",
@@ -10482,6 +10429,7 @@ window.ARTICLES_DATA = [
     "id": "18995f4fc8870266",
     "topics": [
       "私募信贷",
+      "信贷市场",
       "AI"
     ],
     "primary_topic": "私募信贷",
@@ -10502,7 +10450,8 @@ window.ARTICLES_DATA = [
     "id": "6ce6a443aac5910c",
     "topics": [
       "金融科技",
-      "支付"
+      "支付",
+      "央行和货币政策"
     ],
     "primary_topic": "金融科技",
     "publish_date_norm": "2026-07-13",
@@ -10541,7 +10490,8 @@ window.ARTICLES_DATA = [
     "id": "0c90a0e8a2846fbe",
     "topics": [
       "稳定币",
-      "央行和货币政策"
+      "央行和货币政策",
+      "银行"
     ],
     "primary_topic": "稳定币",
     "publish_date_norm": "2026-06-19",
@@ -10561,7 +10511,7 @@ window.ARTICLES_DATA = [
     "id": "47f0b9c1d9766b40",
     "topics": [
       "央行和货币政策",
-      "金融市场"
+      "非银机构"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2026-05-06",
@@ -10580,9 +10530,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/04/22",
     "id": "e074bf6fd06274c8",
     "topics": [
-      "其他"
+      "债券市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2026-04-22",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:01.888814+00:00",
@@ -10676,9 +10626,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/12/03",
     "id": "b4375aea333de570",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-12-03",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:15.229718+00:00",
@@ -10695,10 +10645,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/12/02",
     "id": "aa1baa13be5b78da",
     "topics": [
-      "金融市场",
+      "债券市场",
       "非银机构"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2025-12-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:17.581981+00:00",
@@ -10716,7 +10666,8 @@ window.ARTICLES_DATA = [
     "id": "98ffd02441be3a8f",
     "topics": [
       "非银机构",
-      "央行和货币政策"
+      "央行和货币政策",
+      "债券市场"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2025-12-01",
@@ -10736,7 +10687,8 @@ window.ARTICLES_DATA = [
     "id": "ec11d6825bf04d0f",
     "topics": [
       "非银机构",
-      "金融监管"
+      "金融监管",
+      "稳定币"
     ],
     "primary_topic": "非银机构",
     "publish_date_norm": "2025-11-26",
@@ -10793,9 +10745,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/09/25",
     "id": "4c83e2d38b71c02b",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-09-25",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:30.590779+00:00",
@@ -10812,10 +10764,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/08/13",
     "id": "dd7ffccddbf7b040",
     "topics": [
-      "金融监管",
       "稳定币"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "稳定币",
     "publish_date_norm": "2025-08-13",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:33.125491+00:00",
@@ -10870,8 +10821,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/07/11",
     "id": "6305b6b5036ded97",
     "topics": [
-      "稳定币",
-      "金融监管"
+      "稳定币"
     ],
     "primary_topic": "稳定币",
     "publish_date_norm": "2025-07-11",
@@ -10890,10 +10840,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/07/10",
     "id": "9ddd1fad599fb56c",
     "topics": [
-      "金融监管",
-      "金融市场"
+      "债券市场"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2025-07-10",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:45.466866+00:00",
@@ -10910,7 +10859,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/07/09",
     "id": "7c5fa8f2c67ab115",
     "topics": [
-      "私募信贷"
+      "私募信贷",
+      "信贷市场"
     ],
     "primary_topic": "私募信贷",
     "publish_date_norm": "2025-07-09",
@@ -10929,9 +10879,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/06/20",
     "id": "79413652e93eb8f4",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-06-20",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:52.210712+00:00",
@@ -10987,10 +10937,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/06/05",
     "id": "cccbc374703aba69",
     "topics": [
-      "合同",
+      "银行",
       "支付"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-06-05",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:17:59.879213+00:00",
@@ -11007,10 +10957,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2025/06/04",
     "id": "00f47caf3759f9f1",
     "topics": [
-      "央行和货币政策",
       "银行"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "银行",
     "publish_date_norm": "2025-06-04",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:02.340928+00:00",
@@ -11123,9 +11072,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/10/29",
     "id": "e2e40df192c15a1c",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-10-29",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:17.082906+00:00",
@@ -11180,9 +11129,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/09/19",
     "id": "54c86fd423f90b48",
     "topics": [
-      "金融市场"
+      "债券市场",
+      "信贷市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2024-09-19",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:24.967376+00:00",
@@ -11218,9 +11168,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/08/27",
     "id": "14024da0358e89fc",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-08-27",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:29.365172+00:00",
@@ -11256,10 +11206,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/06/06",
     "id": "f8da3325bfbc077d",
     "topics": [
-      "金融监管",
-      "央行和货币政策"
+      "央行和货币政策",
+      "行为研究"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2024-06-06",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:35.004650+00:00",
@@ -11276,10 +11226,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/05/30",
     "id": "cdc048ecf01b444c",
     "topics": [
-      "金融监管",
       "司法和执法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2024-05-30",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:37.970122+00:00",
@@ -11297,7 +11246,7 @@ window.ARTICLES_DATA = [
     "id": "13189ec059fc5a8a",
     "topics": [
       "实证研究",
-      "金融监管"
+      "AI"
     ],
     "primary_topic": "实证研究",
     "publish_date_norm": "2024-04-23",
@@ -11316,9 +11265,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2024/03/28",
     "id": "dbbe26daa5fc990f",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2024-03-28",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:18:42.873445+00:00",
@@ -11336,7 +11285,8 @@ window.ARTICLES_DATA = [
     "id": "ae0222d84c109381",
     "topics": [
       "AI",
-      "央行和货币政策"
+      "央行和货币政策",
+      "支付"
     ],
     "primary_topic": "AI",
     "publish_date_norm": "2024-01-23",
@@ -11356,7 +11306,8 @@ window.ARTICLES_DATA = [
     "id": "8d82c30fda67e046",
     "topics": [
       "机器学习",
-      "AI"
+      "AI",
+      "央行和货币政策"
     ],
     "primary_topic": "机器学习",
     "publish_date_norm": "2024-01-04",
@@ -11432,9 +11383,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/11/02",
     "id": "385890a2baee5da2",
     "topics": [
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2023-11-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:00.407991+00:00",
@@ -11470,9 +11422,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/09/13",
     "id": "2852d95d6e6c1a4e",
     "topics": [
-      "其他"
+      "衍生品市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "衍生品市场",
     "publish_date_norm": "2023-09-13",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:04.780695+00:00",
@@ -11489,9 +11441,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/09/07",
     "id": "85588e3538f9b19d",
     "topics": [
-      "合同"
+      "区块链"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "区块链",
     "publish_date_norm": "2023-09-07",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:07.992177+00:00",
@@ -11547,7 +11499,8 @@ window.ARTICLES_DATA = [
     "id": "a502c52cd7299c45",
     "topics": [
       "银行",
-      "稳定币"
+      "稳定币",
+      "央行和货币政策"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2023-04-11",
@@ -11566,9 +11519,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/04/11",
     "id": "9d2ab67a78dee792",
     "topics": [
-      "合同"
+      "区块链"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "区块链",
     "publish_date_norm": "2023-04-11",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:18.727850+00:00",
@@ -11585,7 +11538,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/03/29",
     "id": "0a565bf730978490",
     "topics": [
-      "央行和货币政策"
+      "央行和货币政策",
+      "债券市场"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2023-03-29",
@@ -11624,10 +11578,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/02/20",
     "id": "1a854884ebca1676",
     "topics": [
-      "破产法",
-      "金融市场"
+      "区块链",
+      "破产法"
     ],
-    "primary_topic": "破产法",
+    "primary_topic": "区块链",
     "publish_date_norm": "2023-02-20",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:26.824372+00:00",
@@ -11644,10 +11598,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/02/07",
     "id": "c3a45c70fc4c40d4",
     "topics": [
-      "央行和货币政策",
       "司法和执法"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2023-02-07",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:29.892264+00:00",
@@ -11683,10 +11636,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2023/01/12",
     "id": "240f42f3ce321549",
     "topics": [
-      "金融监管",
-      "央行和货币政策"
+      "央行和货币政策",
+      "稳定币"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "央行和货币政策",
     "publish_date_norm": "2023-01-12",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:34.789106+00:00",
@@ -11703,10 +11656,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/12/16",
     "id": "29d63f54890dd54f",
     "topics": [
-      "金融市场",
+      "衍生品市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "衍生品市场",
     "publish_date_norm": "2022-12-16",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:37.565785+00:00",
@@ -11742,8 +11695,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/12/09",
     "id": "4941018ba62f94ba",
     "topics": [
-      "央行和货币政策",
-      "金融市场"
+      "央行和货币政策"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2022-12-09",
@@ -11838,9 +11790,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/06/16",
     "id": "121a13518d7f752b",
     "topics": [
-      "金融监管"
+      "区块链",
+      "证券法"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "区块链",
     "publish_date_norm": "2022-06-16",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:56.716937+00:00",
@@ -11857,9 +11810,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2022/06/14",
     "id": "4e5382868a37f8f3",
     "topics": [
-      "其他"
+      "区块链"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "区块链",
     "publish_date_norm": "2022-06-14",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:19:59.499549+00:00",
@@ -12067,7 +12020,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2021/08/18",
     "id": "15eded8505b0b07b",
     "topics": [
-      "金融监管"
+      "金融监管",
+      "信贷市场"
     ],
     "primary_topic": "金融监管",
     "publish_date_norm": "2021-08-18",
@@ -12105,9 +12059,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2021/07/22",
     "id": "53acdb946fc65b6b",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2021-07-22",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:20:32.975508+00:00",
@@ -12163,9 +12117,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2021/04/12",
     "id": "77d7e1eba1ab9516",
     "topics": [
-      "合同"
+      "其他"
     ],
-    "primary_topic": "合同",
+    "primary_topic": "其他",
     "publish_date_norm": "2021-04-12",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:20:41.158264+00:00",
@@ -12201,9 +12155,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2021/03/17",
     "id": "95f08276ed2b7b96",
     "topics": [
+      "债券市场",
       "非银机构"
     ],
-    "primary_topic": "非银机构",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2021-03-17",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:20:45.767438+00:00",
@@ -12221,7 +12176,8 @@ window.ARTICLES_DATA = [
     "id": "0ee366e18cc3780c",
     "topics": [
       "银行",
-      "公司治理"
+      "公司治理",
+      "衍生品市场"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2021-03-10",
@@ -12297,8 +12253,7 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/12/14",
     "id": "c82a0cccae66ce75",
     "topics": [
-      "央行和货币政策",
-      "金融市场"
+      "央行和货币政策"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2020-12-14",
@@ -12337,7 +12292,7 @@ window.ARTICLES_DATA = [
     "id": "6e30c85075d02980",
     "topics": [
       "央行和货币政策",
-      "金融市场"
+      "债券市场"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2020-11-12",
@@ -12375,9 +12330,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/10/12",
     "id": "0443ad5a16146316",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2020-10-12",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:09.089288+00:00",
@@ -12394,9 +12349,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/08/14",
     "id": "12ba5a6f361f2756",
     "topics": [
-      "金融市场"
+      "信贷市场",
+      "债券市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2020-08-14",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:11.543550+00:00",
@@ -12451,9 +12407,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/07/01",
     "id": "96fb07b6905a4ab5",
     "topics": [
-      "其他"
+      "信贷市场"
     ],
-    "primary_topic": "其他",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2020-07-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:20.169011+00:00",
@@ -12470,9 +12426,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/06/26",
     "id": "2061ed2d7b9939c8",
     "topics": [
-      "金融市场"
+      "其他"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "其他",
     "publish_date_norm": "2020-06-26",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:22.422744+00:00",
@@ -12566,7 +12522,7 @@ window.ARTICLES_DATA = [
     "id": "3c6c9a9736a5f339",
     "topics": [
       "央行和货币政策",
-      "金融市场"
+      "债券市场"
     ],
     "primary_topic": "央行和货币政策",
     "publish_date_norm": "2020-06-02",
@@ -12604,9 +12560,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/05/20",
     "id": "c691ad4d08d4cf21",
     "topics": [
-      "金融市场"
+      "债券市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2020-05-20",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:41.880454+00:00",
@@ -12661,10 +12617,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/05/12",
     "id": "b916adb1611d0fe5",
     "topics": [
-      "央行和货币政策",
       "非银机构"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "非银机构",
     "publish_date_norm": "2020-05-12",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:49.257275+00:00",
@@ -12720,7 +12675,8 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/05/07",
     "id": "716fe0009cf7b4f9",
     "topics": [
-      "银行"
+      "银行",
+      "衍生品市场"
     ],
     "primary_topic": "银行",
     "publish_date_norm": "2020-05-07",
@@ -12739,9 +12695,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/05/05",
     "id": "816a6a893855da7b",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2020-05-05",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:21:58.429632+00:00",
@@ -12758,9 +12714,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/04/28",
     "id": "2f79b7c562ed3552",
     "topics": [
-      "银行"
+      "信贷市场"
     ],
-    "primary_topic": "银行",
+    "primary_topic": "信贷市场",
     "publish_date_norm": "2020-04-28",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:22:01.134238+00:00",
@@ -12777,9 +12733,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/04/24",
     "id": "e3b2fbf421764d6d",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2020-04-24",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:22:03.179010+00:00",
@@ -12834,9 +12790,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/04/14",
     "id": "6c67cabdc90d6720",
     "topics": [
-      "金融市场"
+      "债券市场"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2020-04-14",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:22:12.135223+00:00",
@@ -12853,10 +12809,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/04/07",
     "id": "d46e0529d0619bca",
     "topics": [
-      "金融市场",
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2020-04-07",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:22:15.003438+00:00",
@@ -12912,10 +12868,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/04/02",
     "id": "8fb42f82250e28d8",
     "topics": [
-      "金融市场",
+      "债券市场",
       "央行和货币政策"
     ],
-    "primary_topic": "金融市场",
+    "primary_topic": "债券市场",
     "publish_date_norm": "2020-04-02",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:22:22.534418+00:00",
@@ -12932,9 +12888,10 @@ window.ARTICLES_DATA = [
     "publish_date": "2020/04/01",
     "id": "db0a4b2eb4d848c3",
     "topics": [
+      "衍生品市场",
       "央行和货币政策"
     ],
-    "primary_topic": "央行和货币政策",
+    "primary_topic": "衍生品市场",
     "publish_date_norm": "2020-04-01",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:22:24.330029+00:00",
@@ -12951,9 +12908,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 24 Apr 2026 18:03:03 PDT",
     "id": "b52f24027fcf7f8a",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-04-24",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:43:16.906808+00:00",
@@ -12970,10 +12927,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 10 Apr 2026 11:55:43 PDT",
     "id": "07633068218a027d",
     "topics": [
-      "破产法",
       "司法和执法"
     ],
-    "primary_topic": "破产法",
+    "primary_topic": "司法和执法",
     "publish_date_norm": "2026-04-10",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:43:19.106836+00:00",
@@ -12990,7 +12946,8 @@ window.ARTICLES_DATA = [
     "publish_date": "Fri, 27 Feb 2026 12:53:18 PST",
     "id": "c5333d4957669866",
     "topics": [
-      "证券法"
+      "证券法",
+      "衍生品市场"
     ],
     "primary_topic": "证券法",
     "publish_date_norm": "2026-02-27",
@@ -13086,9 +13043,9 @@ window.ARTICLES_DATA = [
     "publish_date": "Tue, 14 Oct 2025 10:42:49 PDT",
     "id": "44ede5bd55507997",
     "topics": [
-      "金融监管"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2025-10-14",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:43:35.767178+00:00",
@@ -13200,8 +13157,7 @@ window.ARTICLES_DATA = [
     "publish_date": "Mon, 13 Oct 2025 12:18:49 PDT",
     "id": "c1f4434675763e3c",
     "topics": [
-      "司法和执法",
-      "实验"
+      "司法和执法"
     ],
     "primary_topic": "司法和执法",
     "publish_date_norm": "2025-10-13",
@@ -13391,10 +13347,9 @@ window.ARTICLES_DATA = [
     "publish_date": "2026/06/25",
     "id": "2d7baae1631fc485",
     "topics": [
-      "金融监管",
-      "合同"
+      "其他"
     ],
-    "primary_topic": "金融监管",
+    "primary_topic": "其他",
     "publish_date_norm": "2026-06-25",
     "week_of": "2026-07-28",
     "date_added": "2026-07-28T16:44:16.521181+00:00",
@@ -13424,6 +13379,6 @@ window.ARTICLES_DATA = [
 window.LAST_REPORT = {
   "period_start": "2026-07-21",
   "period_end": "2026-07-28",
-  "trend_summary": "本期（2026-07-21 至 2026-07-28）共收录 616 篇新文章，覆盖来源 19 个。从主题分布看，其他（131篇）、央行和货币政策（71篇）、金融监管（62篇）、金融市场（52篇）、司法和执法（46篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：Federal Reserve Bank of New York staff report（199篇）、BIS bulletin（129篇）、European Corporate Governance Institute (ECGI) working paper（50篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
-  "generated_at": "2026-07-29 02:24:41"
+  "trend_summary": "本期（2026-07-21 至 2026-07-28）共收录 616 篇新文章，覆盖来源 19 个。从主题分布看，其他（185篇）、央行和货币政策（67篇）、司法和执法（62篇）、公司治理（38篇）、银行（34篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：Federal Reserve Bank of New York staff report（199篇）、BIS bulletin（129篇）、European Corporate Governance Institute (ECGI) working paper（50篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
+  "generated_at": "2026-07-29 12:14:58"
 };
