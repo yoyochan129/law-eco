@@ -80,6 +80,12 @@ def try_nber(method, name, known):
 def try_faculty_citations(method, name, known):
     works = scrape_faculty_page_citations(method["url"], name, limit=10)
     time.sleep(1)
+    if not works:
+        # 个人主页版式各异,抓不到任何一条引用通常代表这个页面的结构没能被
+        # 现有启发式规则识别(而不是这个学者真的一篇文献都没有),应视为
+        # "此来源当前不可用",让调用方继续尝试下一个来源,
+        # 而不是把"抓取失败"误判成"本周没有新文献"
+        return None
     fresh = [w for w in works if w["url"] not in known]
     return works, fresh
 

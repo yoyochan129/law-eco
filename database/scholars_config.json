@@ -11,6 +11,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=5VvYE44AAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.law.columbia.edu/faculty/kathryn-judge"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "5VvYE44AAAAJ"
       }
@@ -28,6 +32,10 @@
     "profile_url": "https://law.duke.edu/fac/defontenay",
     "gs_profile_url": "https://scholar.google.com/citations?user=bBLtWiYAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://law.duke.edu/fac/defontenay"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "bBLtWiYAAAAJ"
@@ -47,12 +55,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=lUiJI5kAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "lUiJI5kAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://hls.harvard.edu/faculty/jared-ellias/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "lUiJI5kAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -68,6 +76,10 @@
     "profile_url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/daniel-awray/",
     "gs_profile_url": "https://scholar.google.com/citations?user=LnJBDlIAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/daniel-awray/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "LnJBDlIAAAAJ"
@@ -87,12 +99,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=SmGOSHgAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "SmGOSHgAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.columbia.edu/faculty/lev-menand"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "SmGOSHgAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -108,6 +120,10 @@
     "profile_url": "https://law.vanderbilt.edu/bio/morgan-ricks/",
     "gs_profile_url": "https://scholar.google.com/citations?user=yn1qrTUAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://law.vanderbilt.edu/bio/morgan-ricks/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "yn1qrTUAAAAJ"
@@ -127,12 +143,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=CgQTbHAAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "CgQTbHAAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.uchicago.edu/faculty/buccola"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "CgQTbHAAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -149,12 +165,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Y9ay9-4AAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "Y9ay9-4AAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://law.duke.edu/fac/schwarcz/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Y9ay9-4AAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -170,6 +186,10 @@
     "profile_url": "https://law.nd.edu/directory/patrick-corrigan/",
     "gs_profile_url": "https://scholar.google.com/citations?user=kaynkigAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://law.nd.edu/directory/patrick-corrigan/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "kaynkigAAAAJ"
@@ -201,6 +221,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=HdNUuoEAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://law.yale.edu/john-d-morley"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "HdNUuoEAAAAJ"
       }
@@ -218,6 +242,10 @@
     "profile_url": "https://www.american.edu/wcl/faculty/hjallen.cfm",
     "gs_profile_url": "https://scholar.google.com/citations?user=pnFwBrIAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.american.edu/wcl/faculty/hjallen.cfm"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "pnFwBrIAAAAJ"
@@ -237,6 +265,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Dn5cmSQAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://law.vanderbilt.edu/bio/yesha-yadav/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "Dn5cmSQAAAAJ"
       }
@@ -255,12 +287,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=ADVAHngAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "ADVAHngAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://lgst.wharton.upenn.edu/profile/skinnerc/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "ADVAHngAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -301,12 +333,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=w3I-lv8AAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "w3I-lv8AAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.cam.ac.uk/people/academic/nl-lalafaryan/6459"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "w3I-lv8AAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -322,6 +354,10 @@
     "profile_url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/stavros-gadinis/",
     "gs_profile_url": "https://scholar.google.com/citations?user=4wLezyEAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/stavros-gadinis/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "4wLezyEAAAAJ"
@@ -352,6 +388,10 @@
     "profile_url": "https://www.law.virginia.edu/faculty/profile/vwh7mb/3263653",
     "gs_profile_url": "https://scholar.google.com/citations?user=0BPPzAcAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.virginia.edu/faculty/profile/vwh7mb/3263653"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "0BPPzAcAAAAJ"
@@ -395,12 +435,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Gg5NOKYAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "Gg5NOKYAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.upenn.edu/live/profiles/19994-saule-omarova"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Gg5NOKYAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -416,6 +456,10 @@
     "profile_url": "https://www.law.hku.hk/academic_staff/professor-douglas-w-arner/",
     "gs_profile_url": "https://scholar.google.com/citations?user=-nCnn2IAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.hku.hk/academic_staff/professor-douglas-w-arner/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "-nCnn2IAAAAJ"
@@ -435,12 +479,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=8IhJxJsAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "8IhJxJsAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.uchicago.edu/faculty/robertson"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "8IhJxJsAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -457,12 +501,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=YcKMGU0AAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "YcKMGU0AAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.columbia.edu/faculty/joshua-mitts"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "YcKMGU0AAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -479,12 +523,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=mJVze2YAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "mJVze2YAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=45659"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "mJVze2YAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -500,6 +544,10 @@
     "profile_url": "https://michiganross.umich.edu/faculty-research/faculty/jeremy-kress",
     "gs_profile_url": "https://scholar.google.com/citations?user=5gz2yAEAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://michiganross.umich.edu/faculty-research/faculty/jeremy-kress"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "5gz2yAEAAAAJ"
@@ -519,12 +567,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=m2X4SScAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "m2X4SScAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://gould.usc.edu/faculty/profile/michael-simkovic/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "m2X4SScAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -540,6 +588,10 @@
     "profile_url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/frank-partnoy/",
     "gs_profile_url": "https://scholar.google.com/citations?user=3X3Cha8AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.berkeley.edu/our-faculty/faculty-profiles/frank-partnoy/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "3X3Cha8AAAAJ"
@@ -570,6 +622,10 @@
     "profile_url": "https://www.law.georgetown.edu/faculty/adam-j-levitin/",
     "gs_profile_url": "https://scholar.google.com/citations?user=9HCQwqYAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.georgetown.edu/faculty/adam-j-levitin/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "9HCQwqYAAAAJ"
@@ -606,6 +662,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=SwAxyfkAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.law.gwu.edu/arthur-e-wilmarth-jr"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "SwAxyfkAAAAJ"
       }
@@ -636,12 +696,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Ro9ckdkAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "Ro9ckdkAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://uclawsf.edu/faculty/john-crawford/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "Ro9ckdkAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -657,6 +717,10 @@
     "profile_url": "https://www.uwyo.edu/law/directory/julie-hill.html",
     "gs_profile_url": "https://scholar.google.com/citations?user=Bap8cT8AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.uwyo.edu/law/directory/julie-hill.html"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "Bap8cT8AAAAJ"
@@ -693,12 +757,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=mbtK91QAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "mbtK91QAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.law.uchicago.edu/faculty/birdthistle"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "mbtK91QAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -727,12 +791,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=EmlZUHYAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "EmlZUHYAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=20029"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "EmlZUHYAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -800,6 +864,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=6bNHlf4AAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://law.byu.edu/faculty/matthew-jennejohn"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "6bNHlf4AAAAJ"
       }
@@ -817,6 +885,10 @@
     "profile_url": "https://www.law.georgetown.edu/faculty/cathy-hwang/",
     "gs_profile_url": "https://scholar.google.com/citations?user=hDGAyOUAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.law.georgetown.edu/faculty/cathy-hwang/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "hDGAyOUAAAAJ"
@@ -836,6 +908,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=l0QKtrYAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.law.gwu.edu/jeremy-mcclane"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "l0QKtrYAAAAJ"
       }
@@ -854,12 +930,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=dJndfe8AAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "dJndfe8AAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://law.wustl.edu/faculty-staff-directory/profile/andrew-tuch/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "dJndfe8AAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -875,6 +951,10 @@
     "profile_url": "https://law.utexas.edu/faculty/james-c-spindler/",
     "gs_profile_url": "https://scholar.google.com/citations?user=eDm70j0AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://law.utexas.edu/faculty/james-c-spindler/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "eDm70j0AAAAJ"
@@ -894,6 +974,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=xqRLN6QAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://law.umn.edu/profiles/daniel-schwarcz"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "xqRLN6QAAAAJ"
       }
@@ -911,6 +995,10 @@
     "profile_url": "https://www.stern.nyu.edu/faculty/bio/viral-acharya",
     "gs_profile_url": "https://scholar.google.com/citations?user=iZAsYLgAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.stern.nyu.edu/faculty/bio/viral-acharya"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "iZAsYLgAAAAJ"
@@ -934,6 +1022,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=qgkCX5UAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "http://vivashina.com/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "qgkCX5UAAAAJ"
       },
@@ -955,6 +1047,10 @@
     "profile_url": "https://sites.google.com/site/chernenkosergey/",
     "gs_profile_url": "https://scholar.google.com/citations?user=4BxdPTAAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/site/chernenkosergey/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "4BxdPTAAAAAJ"
@@ -978,6 +1074,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=fLDBx0YAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://people.stanford.edu/aseru/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "fLDBx0YAAAAJ"
       },
@@ -999,6 +1099,10 @@
     "profile_url": "https://sites.google.com/site/gmatvos/",
     "gs_profile_url": "https://scholar.google.com/citations?user=WxpAqy8AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/site/gmatvos/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "WxpAqy8AAAAJ"
@@ -1022,16 +1126,16 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=VBBjgXsAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13567"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "VBBjgXsAAAAJ"
       },
       {
         "type": "nber_author",
         "nber_uid": "42941"
-      },
-      {
-        "type": "faculty_citations",
-        "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13567"
       }
     ],
     "tracking_status": "active"
@@ -1047,6 +1151,10 @@
     "profile_url": "https://faculty.chicagobooth.edu/amir-sufi",
     "gs_profile_url": "https://scholar.google.com/citations?user=s3bu-yAAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://faculty.chicagobooth.edu/amir-sufi"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "s3bu-yAAAAAJ"
@@ -1070,6 +1178,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=fi8FWO4AAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://pages.stern.nyu.edu/~pschnabl/index.html"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "fi8FWO4AAAAJ"
       },
@@ -1092,16 +1204,16 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=46u8aIkAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333598"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "46u8aIkAAAAJ"
       },
       {
         "type": "nber_author",
         "nber_uid": "45611"
-      },
-      {
-        "type": "faculty_citations",
-        "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333598"
       }
     ],
     "tracking_status": "active"
@@ -1117,6 +1229,10 @@
     "profile_url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538",
     "gs_profile_url": "https://scholar.google.com/citations?user=1eX-pScAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=333538"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "1eX-pScAAAAJ"
@@ -1140,6 +1256,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Wozc0GgAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.bis.org/about/biohss.htm"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "Wozc0GgAAAAJ"
       },
@@ -1161,6 +1281,10 @@
     "profile_url": "https://www.imf.org/en/About/senior-officials/Bios/tobias-adrian",
     "gs_profile_url": "https://scholar.google.com/citations?user=KAit8lUAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.imf.org/en/About/senior-officials/Bios/tobias-adrian"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "KAit8lUAAAAJ"
@@ -1184,6 +1308,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=j3VwRoEAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.imperial.ac.uk/people/m.kacperczyk"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "j3VwRoEAAAAJ"
       },
@@ -1205,6 +1333,10 @@
     "profile_url": "https://sites.google.com/stanford.edu/arvind-krishnamurthy",
     "gs_profile_url": "https://scholar.google.com/citations?user=iIBrbR4AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/stanford.edu/arvind-krishnamurthy"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "iIBrbR4AAAAJ"
@@ -1228,6 +1360,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=eYDkHEkAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "http://finance.wharton.upenn.edu/~itayg/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "eYDkHEkAAAAJ"
       },
@@ -1250,12 +1386,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=ElAtiUsAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "ElAtiUsAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.darrellduffie.com/"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "ElAtiUsAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -1271,6 +1407,10 @@
     "profile_url": "https://www.gsb.stanford.edu/faculty-research/faculty/zhiguo-he",
     "gs_profile_url": "https://scholar.google.com/citations?user=WI3u_xIAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.gsb.stanford.edu/faculty-research/faculty/zhiguo-he"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "WI3u_xIAAAAJ"
@@ -1289,6 +1429,10 @@
     "profile_url": "https://business.columbia.edu/faculty/people/tomasz-piskorski",
     "gs_profile_url": "https://scholar.google.com/citations?user=ohMQeuwAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://business.columbia.edu/faculty/people/tomasz-piskorski"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "ohMQeuwAAAAJ"
@@ -1312,6 +1456,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Rag-PlsAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/site/idrechsl/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "Rag-PlsAAAAJ"
       },
@@ -1333,6 +1481,10 @@
     "profile_url": "http://pages.stern.nyu.edu/~asavov/",
     "gs_profile_url": "https://scholar.google.com/citations?user=uk1r_CYAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "http://pages.stern.nyu.edu/~asavov/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "uk1r_CYAAAAJ"
@@ -1356,12 +1508,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=gUmhh8EAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "gUmhh8EAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://som.yale.edu/faculty-research/faculty-directory/gary-b-gorton"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "gUmhh8EAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -1377,6 +1529,10 @@
     "profile_url": "https://scholar.harvard.edu/stein/home",
     "gs_profile_url": "https://scholar.google.com/citations?user=BKG_SzMAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://scholar.harvard.edu/stein/home"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "BKG_SzMAAAAJ"
@@ -1400,12 +1556,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=yKUPiA4AAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "yKUPiA4AAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://giesbusiness.illinois.edu/profile/rustom-irani"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "yKUPiA4AAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -1421,6 +1577,10 @@
     "profile_url": "https://u.osu.edu/erel-koksal.1/",
     "gs_profile_url": "https://scholar.google.com/citations?user=lyaGjecAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://u.osu.edu/erel-koksal.1/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "lyaGjecAAAAJ"
@@ -1444,6 +1604,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=N8Z4txcAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.sascha-steffen.de/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "N8Z4txcAAAAJ"
       }
@@ -1462,6 +1626,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=mu1RL9cAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.newyorkfed.org/research/economists/cetorelli"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "mu1RL9cAAAAJ"
       }
@@ -1479,6 +1647,10 @@
     "profile_url": "https://www.darden.virginia.edu/faculty-research/directory/elena-loutskina",
     "gs_profile_url": "https://scholar.google.com/citations?user=y_ayJUgAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.darden.virginia.edu/faculty-research/directory/elena-loutskina"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "y_ayJUgAAAAJ"
@@ -1502,6 +1674,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Xrd7m4UAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/bc.edu/philip-strahan/home"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "Xrd7m4UAAAAJ"
       },
@@ -1524,12 +1700,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=jaUJ6qwAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "jaUJ6qwAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.ecb.europa.eu/pub/research/authors/profiles/luc-laeven.en.html"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "jaUJ6qwAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -1545,6 +1721,10 @@
     "profile_url": "https://www.unibocconi.eu/faculty/elena-carletti",
     "gs_profile_url": "https://scholar.google.com/citations?user=Szl5kS4AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.unibocconi.eu/faculty/elena-carletti"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "Szl5kS4AAAAJ"
@@ -1563,6 +1743,10 @@
     "profile_url": "https://sites.google.com/view/youngsoojang/home",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/view/youngsoojang/home"
+      },
+      {
         "type": "nber_author",
         "nber_uid": "109601"
       }
@@ -1580,6 +1764,10 @@
     "profile_url": "https://www.financialresearch.gov/research-staff/details/dasol-kim/",
     "gs_profile_url": "https://scholar.google.com/citations?user=4ORC05wAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.financialresearch.gov/research-staff/details/dasol-kim/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "4ORC05wAAAAJ"
@@ -1603,6 +1791,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=HIRFagkAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://carey.jhu.edu/faculty/tetiana-davydiuk-phd"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "HIRFagkAAAAJ"
       }
@@ -1620,6 +1812,10 @@
     "profile_url": "https://freeman.tulane.edu/faculty-research/finance/robert-prilmeier",
     "gs_profile_url": "https://scholar.google.com/citations?user=SNAZWn8AAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://freeman.tulane.edu/faculty-research/finance/robert-prilmeier"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "SNAZWn8AAAAJ"
@@ -1643,6 +1839,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=cZsgevwAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.bis.org/author/sebastian_doerr.htm"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "cZsgevwAAAAJ"
       }
@@ -1660,6 +1860,10 @@
     "profile_url": "https://sites.google.com/view/inakialdasoro",
     "gs_profile_url": "https://scholar.google.com/citations?user=wH6TYPoAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/view/inakialdasoro"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "wH6TYPoAAAAJ"
@@ -1679,6 +1883,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=Q_zx7EkAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.newyorkfed.org/research/economists/martin"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "Q_zx7EkAAAAJ"
       }
@@ -1696,6 +1904,10 @@
     "profile_url": "https://www.newyorkfed.org/research/economists/Cipriani",
     "gs_profile_url": "https://scholar.google.com/citations?user=rIXXVHsAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.newyorkfed.org/research/economists/Cipriani"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "rIXXVHsAAAAJ"
@@ -1715,6 +1927,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=XUctCF8AAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.newyorkfed.org/research/economists/laspada"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "XUctCF8AAAAJ"
       }
@@ -1732,6 +1948,10 @@
     "profile_url": "https://www.newyorkfed.org/research/economists/Eisenbach",
     "gs_profile_url": "https://scholar.google.com/citations?user=ZGtZXDoAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.newyorkfed.org/research/economists/Eisenbach"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "ZGtZXDoAAAAJ"
@@ -1751,12 +1971,12 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=xJeOxNoAAAAJ&hl=en",
     "tracking_methods": [
       {
-        "type": "google_scholar",
-        "gs_user_id": "xJeOxNoAAAAJ"
-      },
-      {
         "type": "faculty_citations",
         "url": "https://www.bostonfed.org/people/bank/ken-e-anadu.aspx"
+      },
+      {
+        "type": "google_scholar",
+        "gs_user_id": "xJeOxNoAAAAJ"
       }
     ],
     "tracking_status": "active"
@@ -1772,6 +1992,10 @@
     "profile_url": "https://sites.google.com/view/marco-macchiavelli-webpage",
     "gs_profile_url": "https://scholar.google.com/citations?user=W1gU-EsAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/view/marco-macchiavelli-webpage"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "W1gU-EsAAAAJ"
@@ -1790,6 +2014,10 @@
     "profile_url": "https://www.yimingma.com/",
     "gs_profile_url": "https://scholar.google.com/citations?user=G4o6XuQAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.yimingma.com/"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "G4o6XuQAAAAJ"
@@ -1813,6 +2041,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=1t2OwPsAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/site/yaozengwebsite/"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "1t2OwPsAAAAJ"
       },
@@ -1834,6 +2066,10 @@
     "profile_url": "https://sites.google.com/view/rashad-ahmed/home",
     "gs_profile_url": "https://scholar.google.com/citations?user=5DK7dzIAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/view/rashad-ahmed/home"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "5DK7dzIAAAAJ"
@@ -1877,6 +2113,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=hvCb0-4AAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://www.bis.org/author/leonardo_gambacorta.htm"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "hvCb0-4AAAAJ"
       }
@@ -1895,6 +2135,10 @@
     "gs_profile_url": "https://scholar.google.com/citations?user=CifHukEAAAAJ&hl=en",
     "tracking_methods": [
       {
+        "type": "faculty_citations",
+        "url": "https://sites.google.com/site/raphaelauer/home"
+      },
+      {
         "type": "google_scholar",
         "gs_user_id": "CifHukEAAAAJ"
       }
@@ -1912,6 +2156,10 @@
     "profile_url": "https://www.newyorkfed.org/research/economists/mlee",
     "gs_profile_url": "https://scholar.google.com/citations?user=J1FU07cAAAAJ&hl=en",
     "tracking_methods": [
+      {
+        "type": "faculty_citations",
+        "url": "https://www.newyorkfed.org/research/economists/mlee"
+      },
       {
         "type": "google_scholar",
         "gs_user_id": "J1FU07cAAAAJ"
