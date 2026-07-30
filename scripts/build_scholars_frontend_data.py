@@ -2,6 +2,10 @@
 """生成 docs/scholars_data.js,供前端"学者追踪"板块读取。"""
 import json
 import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scholars_common import resolve_literature_date
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(BASE_DIR, "database", "scholars_config.json")
@@ -27,7 +31,9 @@ def main():
     scholars = []
     for c in configs:
         works = lit_by_scholar.get(c["name"], [])
-        works_sorted = sorted(works, key=lambda w: w.get("date_added", ""), reverse=True)[:10]
+        # 按文献自身的发表时间倒序(最新的在最前面),而不是按抓取入库时间;
+        # 发表日期缺失/无法解析时退回到抓取时间兜底排序(resolve_literature_date)
+        works_sorted = sorted(works, key=resolve_literature_date, reverse=True)[:10]
         scholars.append({
             "name": c["name"],
             "category": c["category"],

@@ -2,9 +2,11 @@
 """学者追踪板块的共用工具函数(来源类型判定、Google Scholar/教师主页解析等)。"""
 import re
 import time
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
+from dateutil import parser as dtparser
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
@@ -183,8 +185,28 @@ STOP_HEADINGS = PUB_HEADINGS | {
 
 
 def extract_year(text):
-    m = re.findall(r"(19|20)\d{2}", text)
+    # 用非捕获组(?:...)避免findall只返回捕获组本身("19"/"20")而丢掉后两位数字
+    m = re.findall(r"(?:19|20)\d{2}", text)
     return m[-1] if m else ""  # 取最后一个年份,通常引用格式里年份在末尾
+
+
+def resolve_literature_date(item):
+    """返回用于排序的可比较日期(ISO YYYY-MM-DD字符串)。
+    优先解析文献自身的date字段(可能是"2025"、"February 2026"、"July 1, 2026"
+    等不同来源产生的不同格式);解析失败或明显不含4位年份(例如历史上
+    extract_year()的bug产生的"20"/"19"这种损坏值)时,退回到date_added
+    (抓取入库时间,不代表真实发表时间,只是排序兜底,保证仍按"较新的排前面"
+    这个大方向排列)。
+    """
+    raw = (item.get("date") or "").strip()
+    if raw and re.search(r"(19|20)\d{2}", raw):
+        default_dt = datetime(1900, 1, 1)
+        try:
+            dt = dtparser.parse(raw, default=default_dt)
+            return dt.strftime("%Y-%m-%d")
+        except Exception:
+            pass
+    return (item.get("date_added") or "")[:10]
 
 
 LINK_LABEL_SUFFIX = re.compile(

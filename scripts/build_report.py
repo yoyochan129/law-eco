@@ -24,6 +24,7 @@ from deep_translator import GoogleTranslator
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from classify import classify_article, TOPICS
+from scholars_common import resolve_literature_date
 
 _translator = GoogleTranslator(source="en", target="zh-CN")
 
@@ -148,6 +149,7 @@ def build_scholars_section(scholar_updates):
         for u in items:
             by_scholar[u["scholar_name"]].append(u)
         for scholar, works in by_scholar.items():
+            works.sort(key=resolve_literature_date, reverse=True)
             for w in works:
                 lines.append(f"**{w['title']}**（{scholar}）")
                 if w.get("title_zh"):
