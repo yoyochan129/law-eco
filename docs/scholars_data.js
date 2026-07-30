@@ -2616,7 +2616,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行—NBFI联系、银行信用额度、系统性风险",
     "research_methods": "银行/贷款微观数据；宏观金融；因果实证",
     "why_track": "直接研究银行向NBFI提供信用额度及风险回流，是你的银行流动性支持项目首要作者。",
-    "profile_url": "https://www.nber.org/people/viral_acharya",
+    "profile_url": "https://www.stern.nyu.edu/faculty/bio/viral-acharya",
     "tracking_status": "active",
     "literature": [
       {
@@ -2769,7 +2769,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人债务、银团贷款、PE与银行关系",
     "research_methods": "贷款级数据；公司金融；机构分析",
     "why_track": "私人债务生态、银行互补和私募资本融资的顶级作者。",
-    "profile_url": "https://www.nber.org/people/victoria_ivashina",
+    "profile_url": "http://vivashina.com/",
     "tracking_status": "active",
     "literature": [
       {
@@ -2922,7 +2922,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、非银直贷、MMF、证券化",
     "research_methods": "贷款与基金数据；准实验；公司金融",
     "why_track": "同时覆盖私人信贷、MMF和证券化，与你两条主线高度重合。",
-    "profile_url": "https://www.nber.org/people/sergey_chernenko",
+    "profile_url": "https://sites.google.com/site/chernenkosergey/",
     "tracking_status": "active",
     "literature": [
       {
@@ -3075,7 +3075,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行监管、影子银行、私人信贷、金融科技",
     "research_methods": "行政微观数据；机器学习；因果推断",
     "why_track": "银行与非银监管、金融稳定和数据方法均处于前沿。",
-    "profile_url": "https://www.nber.org/people/amit_seru",
+    "profile_url": "https://people.stanford.edu/aseru/",
     "tracking_status": "active",
     "literature": [
       {
@@ -3228,7 +3228,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷基金资产负债表、金融稳定",
     "research_methods": "基金资产级数据；金融中介实证",
     "why_track": "2026年私人信贷基金杠杆、融资结构和金融稳定研究的核心作者。",
-    "profile_url": "https://www.nber.org/people/gregor_matvos",
+    "profile_url": "https://sites.google.com/site/gmatvos/",
     "tracking_status": "active",
     "literature": [
       {
@@ -3534,7 +3534,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷技术、企业债务、信贷周期",
     "research_methods": "企业微观数据；自然实验；宏观金融",
     "why_track": "研究直接贷款机构筛选与监控技术，质量和方法均属顶级。",
-    "profile_url": "https://www.nber.org/people/amir_sufi",
+    "profile_url": "https://faculty.chicagobooth.edu/amir-sufi",
     "tracking_status": "active",
     "literature": [
       {
@@ -3687,7 +3687,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行存款、影子银行、金融科技、货币传导",
     "research_methods": "银行微观数据；因果识别；金融中介",
     "why_track": "存款渠道、非银替代和金融科技信贷的顶级作者。",
-    "profile_url": "https://www.nber.org/people/philipp_schnabl",
+    "profile_url": "https://pages.stern.nyu.edu/~pschnabl/index.html",
     "tracking_status": "active",
     "literature": [
       {
@@ -4549,7 +4549,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "影子银行、安全资产、repo、央行工具",
     "research_methods": "宏观金融理论；市场数据；政策分析",
     "why_track": "安全资产、repo和市场型金融研究的顶级作者。",
-    "profile_url": "https://www.nber.org/people/arvind_krishnamurthy",
+    "profile_url": "https://sites.google.com/stanford.edu/arvind-krishnamurthy",
     "tracking_status": "active",
     "literature": [
       {
@@ -4702,7 +4702,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "基金挤兑、战略互补、金融脆弱性",
     "research_methods": "理论模型；基金数据；实验与因果实证",
     "why_track": "开放式基金挤兑机制和金融脆弱性的领先作者。",
-    "profile_url": "https://www.nber.org/people/itay_goldstein",
+    "profile_url": "http://finance.wharton.upenn.edu/~itayg/",
     "tracking_status": "active",
     "literature": [
       {
@@ -4978,7 +4978,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、住房金融、银行监管",
     "research_methods": "大规模微观数据；结构与因果实证",
     "why_track": "私人信贷基金资产负债表研究和信贷市场数据方法的核心作者。",
-    "profile_url": "https://www.nber.org/people/tomasz_piskorski",
+    "profile_url": "https://business.columbia.edu/faculty/people/tomasz-piskorski",
     "tracking_status": "active",
     "literature": [
       {
@@ -5131,7 +5131,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行存款、利率风险、货币传导",
     "research_methods": "银行数据；资产定价；因果识别",
     "why_track": "理解稳定币/MMF对银行存款特许权影响的重要基础。",
-    "profile_url": "https://www.nber.org/people/itamar_drechsler",
+    "profile_url": "https://sites.google.com/site/idrechsl/",
     "tracking_status": "active",
     "literature": [
       {
@@ -5284,7 +5284,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行存款、金融中介、货币政策",
     "research_methods": "银行资产负债表；资产定价；实证",
     "why_track": "银行存款价值和非银竞争研究的顶级作者。",
-    "profile_url": "https://www.nber.org/people/alexi_savov",
+    "profile_url": "http://pages.stern.nyu.edu/~asavov/",
     "tracking_status": "active",
     "literature": [
       {
@@ -5520,7 +5520,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行监管、资本要求、货币政策、信贷周期",
     "research_methods": "金融中介理论；政策实证",
     "why_track": "银行资本和市场型金融监管的顶级理论作者。",
-    "profile_url": "https://www.nber.org/people/jeremy_stein",
+    "profile_url": "https://scholar.harvard.edu/stein/home",
     "tracking_status": "active",
     "literature": [
       {
@@ -5770,7 +5770,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "非银直贷、私人债务基金回报、银行竞争",
     "research_methods": "公司金融数据；基金回报；因果实证",
     "why_track": "私人信贷借款人与基金绩效研究的重要作者。",
-    "profile_url": "https://www.nber.org/people/isil_erel",
+    "profile_url": "https://u.osu.edu/erel-koksal.1/",
     "tracking_status": "active",
     "literature": [
       {
@@ -5947,7 +5947,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "证券化、银行流动性、非银信贷",
     "research_methods": "银行资产负债表；证券化数据；因果实证",
     "why_track": "证券化和银行流动性对信贷供给影响的重要作者。",
-    "profile_url": "https://www.nber.org/people/elena_loutskina",
+    "profile_url": "https://www.darden.virginia.edu/faculty-research/directory/elena-loutskina",
     "tracking_status": "active",
     "literature": [
       {
@@ -6030,7 +6030,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "银行流动性、信贷供给、金融稳定",
     "research_methods": "银行微观数据；因果识别；金融中介",
     "why_track": "银行流动性创造和信贷供给的高质量持续作者。",
-    "profile_url": "https://www.nber.org/people/philip_strahan",
+    "profile_url": "https://sites.google.com/bc.edu/philip-strahan/home",
     "tracking_status": "active",
     "literature": [
       {
@@ -6222,7 +6222,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人债务基金、直接贷款技术、金融稳定",
     "research_methods": "基金调查；企业数据；借贷技术",
     "why_track": "近年私人信贷研究中最活跃的新一代作者之一。",
-    "profile_url": "https://www.nber.org/people/young_soo_jang",
+    "profile_url": "https://sites.google.com/view/youngsoojang/home",
     "tracking_status": "active",
     "literature": [
       {
@@ -6277,7 +6277,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "私人信贷、直贷机构、监管数据",
     "research_methods": "行政数据；企业微观数据；因果实证",
     "why_track": "使用新型数据识别私人信贷的筛选和监控技术。",
-    "profile_url": "https://www.nber.org/people/dskim8001",
+    "profile_url": "https://www.financialresearch.gov/research-staff/details/dasol-kim/",
     "tracking_status": "active",
     "literature": [
       {
@@ -6386,7 +6386,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "非银直贷、贷款定价与非价格条款",
     "research_methods": "贷款数据；合同条款；公司金融",
     "why_track": "研究企业为何选择非银直接贷款的RFS作者。",
-    "profile_url": "https://www.nber.org/people/robert_prilmeier",
+    "profile_url": "https://freeman.tulane.edu/faculty-research/finance/robert-prilmeier",
     "tracking_status": "active",
     "literature": [
       {
@@ -6706,7 +6706,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币挤兑、基金流动性、银行—基金联系",
     "research_methods": "链上数据；资产定价；金融中介",
     "why_track": "稳定币挤兑与套利集中研究的前沿作者。",
-    "profile_url": "https://www.nber.org/people/yiming_ma",
+    "profile_url": "https://www.yimingma.com/",
     "tracking_status": "active",
     "literature": [
       {
@@ -6817,7 +6817,7 @@ window.SCHOLARS_DATA = [
     "research_topics": "稳定币挤兑、基金脆弱性、金融中介",
     "research_methods": "理论模型；链上数据；基金研究",
     "why_track": "稳定币挤兑和开放式基金脆弱性的高质量年轻作者。",
-    "profile_url": "https://www.nber.org/people/yao_zeng1",
+    "profile_url": "https://sites.google.com/site/yaozengwebsite/",
     "tracking_status": "active",
     "literature": [
       {
