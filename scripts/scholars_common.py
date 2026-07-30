@@ -3,6 +3,7 @@
 import re
 import time
 from datetime import datetime
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -176,12 +177,41 @@ PUB_HEADINGS = {
     "publications", "scholarship", "selected publications",
     "selected scholarship", "articles", "journal articles",
     "selected works", "working papers",
+    "recent papers", "recent publications", "recent working papers",
+    "selected papers", "selected research", "working papers and publications",
+    "publications and working papers", "cv & publications",
 }
+# 注意: 刻意不把裸词"research"/"papers"放进PUB_HEADINGS ——
+# 这两个词太常被用作整页大章节的标题(标题下往往先是一段个人简介文字才是
+# 真正的文献列表,或者真正列表在导航链接指向的子页面里),直接在标题后
+# 摘取紧邻的<p>/<li>文本块很容易连简介段落一起当成"文献"抓进来
+# (实测vivashina.com的<h1>Research</h1>后紧跟的就是个人简介段落)。
+# 但作为导航栏短标签(NAV_SUBPAGE_LABELS)它们仍然是可靠信号,
+# 因为那只是用来判断"该不该跳转到专门的文献子页面",不直接采信标题后的内容。
 STOP_HEADINGS = PUB_HEADINGS | {
     "presentations", "other publications", "book sections", "education",
     "education and experience", "media", "in the media", "teaching",
     "additional activities", "biography",
 }
+
+# 个人学术主页几乎总是把论文列表放在导航栏指向的独立子页面
+# (常见结构: Home / Research / Papers / CV),而不是首页本身;
+# 这个短标签集合专门用来在导航栏里定位那个子页面的链接
+NAV_SUBPAGE_LABELS = {
+    "research", "papers", "publications", "working papers", "scholarship",
+    "working papers and publications", "publications and working papers",
+    "selected publications", "selected papers", "selected research",
+    "recent papers", "recent publications", "cv & publications",
+}
+
+SPECIFIC_PAPER_LINK_RE = re.compile(
+    r"ssrn\.com/(sol3/)?(papers|abstract)"
+    r"|nber\.org/papers/"
+    r"|doi\.org/"
+    r"|/cgi/viewcontent\.cgi"
+    r"|\.pdf(\?|$)",
+    re.IGNORECASE,
+)
 
 
 def extract_year(text):
@@ -214,32 +244,42 @@ LINK_LABEL_SUFFIX = re.compile(
 )
 
 
+LEADING_LIST_NUMBER_RE = re.compile(r"^\d{1,3}[.、)]\s+")
+
+
 def clean_citation_text(text):
     """去掉页面上引用文字末尾常见的相邻链接标签(如'... (2019). ssrn cu'
-    里的'ssrn cu'其实是两个独立的下载链接文字,被get_text()拼接了进来)"""
+    里的'ssrn cu'其实是两个独立的下载链接文字,被get_text()拼接了进来),
+    以及页面上手动编号列表残留的开头序号(如'10. The Dynamics of...')"""
     prev = None
     while prev != text:
         prev = text
         text = LINK_LABEL_SUFFIX.sub("", text).rstrip()
-    return text
+    return LEADING_LIST_NUMBER_RE.sub("", text)
 
 
-def scrape_faculty_page_citations(url, scholar_name, limit=10):
-    """针对个人/学校教师主页的文献抓取(比 snapshot_faculty_page 更精确):
-    策略1: 收集页面里所有指向SSRN论文的链接(链接文字通常就是完整引用,
-           这个信号误报率极低,不会像抓全部长链接那样把导航栏/课程介绍抓进来)
-    策略2: 定位"Publications"/"Scholarship"等标题元素,只提取该标题到下一个
+NON_CITATION_TEXT_RE = re.compile(
+    r"\b(cv|curriculum vitae|r[eé]sum[eé]|syllabus|bio|biography|"
+    r"media coverage|press coverage|teaching|course)\b",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_non_citation(text):
+    """CV/简历/大纲/媒体报道这类链接文字有时也会足够长、指向.pdf,
+    会被"具体论文链接"的宽泛匹配误伤,需要额外排除(如实测中Victoria
+    Ivashina主页的"Professor Ivashina's CV>>"链接指向一份PDF简历)"""
+    return bool(NON_CITATION_TEXT_RE.search(text))
+
+
+def _extract_strict_citations(soup, url, scholar_name, limit):
+    """策略1: 收集页面里所有指向SSRN/NBER/DOI/PDF等"具体某一篇论文"的链接
+       (链接文字通常就是完整引用,这个信号误报率极低,不会像抓全部长链接
+       那样把导航栏/课程介绍抓进来)
+    策略2: 定位"Publications"/"Research"等标题元素,只提取该标题到下一个
            同级标题之间的内容块,且要求文本包含年份数字,进一步降低误判
-    两种信号取并集去重,仍然抓不到时如实返回空列表,不做进一步猜测。
+    两种信号取并集去重。
     """
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-        if resp.status_code != 200:
-            return []
-        soup = BeautifulSoup(resp.text, "html.parser")
-    except Exception:
-        return []
-
     citations = []
     seen_texts = set()
     generic_texts = {
@@ -248,12 +288,13 @@ def scrape_faculty_page_citations(url, scholar_name, limit=10):
     }
 
     for a in soup.find_all("a", href=True):
-        href = a["href"].lower()
+        href = a["href"]
         # 只认"某一篇具体论文"的链接,排除SSRN作者页/系列页/搜索页等泛链接
-        if not re.search(r"ssrn\.com/(sol3/)?(papers|abstract)", href) and "abstract_id=" not in href:
+        if not SPECIFIC_PAPER_LINK_RE.search(href) and "abstract_id=" not in href.lower():
             continue
         text = a.get_text(strip=True)
-        if len(text) < 20 or text.lower() in generic_texts or text in seen_texts:
+        if (len(text) < 20 or text.lower() in generic_texts or text in seen_texts
+                or _looks_like_non_citation(text)):
             continue
         seen_texts.add(text)
         citations.append({
@@ -261,7 +302,7 @@ def scrape_faculty_page_citations(url, scholar_name, limit=10):
             "authors": scholar_name,
             "date": extract_year(text),
             "abstract": "",
-            "url": a["href"],
+            "url": urljoin(url, href),
         })
 
     # 标题文字可能在多处出现(如页面顶部tab导航复用了"Publications"字样),
@@ -285,7 +326,7 @@ def scrape_faculty_page_citations(url, scholar_name, limit=10):
                     "authors": scholar_name,
                     "date": extract_year(text),
                     "abstract": "",
-                    "url": link["href"] if link else url,
+                    "url": urljoin(url, link["href"]) if link else url,
                 })
             if len(block_citations) >= limit:
                 break
@@ -297,3 +338,91 @@ def scrape_faculty_page_citations(url, scholar_name, limit=10):
             break  # 找到真正有效的文献列表后就不再继续找其他同名标题
 
     return citations[:limit]
+
+
+def _extract_loose_citations(soup, url, scholar_name, limit):
+    """策略3(宽松兜底): 只在已经通过导航标签确认"这是一个专门列文献的
+    子页面"之后才使用。放宽为"任意含4位年份、文字长度>=25的链接文字"都
+    当作一条引用,不再要求链接必须指向SSRN/NBER等已知的具体来源——很多
+    个人主页把论文链接到期刊官网/自己上传的PDF/working paper系列页,
+    类型多到无法穷举。之所以只在确认是"论文列表专用子页"后才放宽,是为了
+    避免在链接庞杂的机构主页/院系目录页上误抓一堆不相关的长文字链接。
+    """
+    citations = []
+    seen_texts = set()
+    generic_texts = {
+        "here", "link", "view", "ssrn", "read more", "paper", "download",
+        "pdf", "available here", "download pdf", "view on ssrn", "abstract",
+    }
+    for a in soup.find_all("a", href=True):
+        text = a.get_text(strip=True)
+        if (len(text) < 25 or text.lower() in generic_texts or text in seen_texts
+                or _looks_like_non_citation(text)):
+            continue
+        if not re.search(r"(19|20)\d{2}", text):
+            continue
+        seen_texts.add(text)
+        citations.append({
+            "title": clean_citation_text(text[:300]),
+            "authors": scholar_name,
+            "date": extract_year(text),
+            "abstract": "",
+            "url": urljoin(url, a["href"]),
+        })
+        if len(citations) >= limit:
+            break
+    return citations
+
+
+def _find_nav_subpage_url(soup, base_url):
+    """在导航栏里找"Research"/"Papers"/"Publications"等短标签链接。
+    个人学术主页几乎总把论文列表放在这样一个独立子页面而不是首页本身。"""
+    for a in soup.find_all("a", href=True):
+        label = a.get_text(strip=True).lower()
+        if label in NAV_SUBPAGE_LABELS:
+            return urljoin(base_url, a["href"])
+    return None
+
+
+def scrape_faculty_page_citations(url, scholar_name, limit=10):
+    """针对个人/学校教师主页的文献抓取:
+    1. 先在给定URL本身尝试严格策略(_extract_strict_citations)
+    2. 抓不到时,在导航栏里查找"Research"/"Papers"/"Publications"这类
+       子页面链接并跟进抓取(个人主页的论文列表几乎都放在这样的子页而不是
+       首页本身),子页同样先试严格策略
+    3. 子页仍抓不到时,在子页上改用宽松策略(_extract_loose_citations);
+       只在确认是子页之后才放宽,避免在信息庞杂的机构目录页上
+       (导航链接可能有几百条,"Research"可能指向与本人无关的院系页面)
+       误抓一堆不相关内容
+    仍然抓不到时如实返回空列表,不做进一步猜测(常见于依赖前端JS渲染文献
+    列表的机构主页,如部分央行经济学家页面,静态抓取本身就拿不到内容)。
+    """
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        if resp.status_code != 200:
+            return []
+        soup = BeautifulSoup(resp.text, "html.parser")
+    except Exception:
+        return []
+
+    citations = _extract_strict_citations(soup, url, scholar_name, limit)
+    if citations:
+        return citations
+
+    subpage_url = _find_nav_subpage_url(soup, url)
+    if not subpage_url or subpage_url == url:
+        return []
+
+    try:
+        resp2 = requests.get(subpage_url, headers=HEADERS, timeout=TIMEOUT)
+        if resp2.status_code != 200:
+            return []
+        soup2 = BeautifulSoup(resp2.text, "html.parser")
+    except Exception:
+        return []
+
+    citations = _extract_strict_citations(soup2, subpage_url, scholar_name, limit)
+    if citations:
+        return citations
+
+    return _extract_loose_citations(soup2, subpage_url, scholar_name, limit)
