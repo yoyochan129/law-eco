@@ -1538,7 +1538,22 @@ window.SCHOLARS_DATA = [
     "why_track": "银行—商业分离、TBTF和稳定币银行化问题的高相关作者。",
     "profile_url": "https://www.law.gwu.edu/arthur-e-wilmarth-jr",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "C-LEAF Overview Brochure",
+        "authors": "Arthur E. Wilmarth Jr.",
+        "date": "",
+        "abstract": "",
+        "url": "https://www.law.gwu.edu/sites/g/files/zaxdzs5421/files/downloads/CLEAF_Brochure_2014.pdf",
+        "scholar_name": "Arthur E. Wilmarth Jr.",
+        "category": "法学",
+        "title_zh": "C-LEAF 概述手册",
+        "abstract_zh": "",
+        "date_added": "2026-08-03T12:47:30.177942+00:00",
+        "week_of": "2026-08-03",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Robert C. Hockett",
@@ -2576,7 +2591,22 @@ window.SCHOLARS_DATA = [
     "why_track": "其贷款协议研究适合直接借鉴到信用额度、财务契约、事件违约和waiver文本提取项目。",
     "profile_url": "https://www.law.gwu.edu/jeremy-mcclane",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "C-LEAF Overview Brochure",
+        "authors": "Jeremy McClane",
+        "date": "",
+        "abstract": "",
+        "url": "https://www.law.gwu.edu/sites/g/files/zaxdzs5421/files/downloads/CLEAF_Brochure_2014.pdf",
+        "scholar_name": "Jeremy McClane",
+        "category": "法学",
+        "title_zh": "C-LEAF 概述手册",
+        "abstract_zh": "",
+        "date_added": "2026-08-03T12:48:01.888869+00:00",
+        "week_of": "2026-08-03",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Andrew F. Tuch",
@@ -2753,7 +2783,50 @@ window.SCHOLARS_DATA = [
     "why_track": "保险公司作为NBFI和私人信贷资金来源时的重要补充作者。",
     "profile_url": "https://law.umn.edu/profiles/daniel-schwarcz",
     "tracking_status": "active",
-    "literature": []
+    "literature": [
+      {
+        "title": "2025 Career Facts & Statistics",
+        "authors": "Daniel Schwarcz",
+        "date": "2025",
+        "abstract": "",
+        "url": "https://law.umn.edu/careers/where-grads-go/2025-career-facts-statistics",
+        "scholar_name": "Daniel Schwarcz",
+        "category": "法学",
+        "title_zh": "2025 年职业概况与统计",
+        "abstract_zh": "",
+        "date_added": "2026-08-03T12:48:12.077433+00:00",
+        "week_of": "2026-08-03",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "2024 Career Facts & Statistics",
+        "authors": "Daniel Schwarcz",
+        "date": "2024",
+        "abstract": "",
+        "url": "https://law.umn.edu/careers/where-grads-go/2024-career-facts-statistics",
+        "scholar_name": "Daniel Schwarcz",
+        "category": "法学",
+        "title_zh": "2024 年职业概况与统计",
+        "abstract_zh": "",
+        "date_added": "2026-08-03T12:48:12.332538+00:00",
+        "week_of": "2026-08-03",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "2023 Career Facts & Statistics",
+        "authors": "Daniel Schwarcz",
+        "date": "2023",
+        "abstract": "",
+        "url": "https://law.umn.edu/2023-career-facts-statistics",
+        "scholar_name": "Daniel Schwarcz",
+        "category": "法学",
+        "title_zh": "2023 年职业概况与统计",
+        "abstract_zh": "",
+        "date_added": "2026-08-03T12:48:12.988207+00:00",
+        "week_of": "2026-08-03",
+        "source_method": "faculty_citations"
+      }
+    ]
   },
   {
     "name": "Viral V. Acharya",
