@@ -9840,5 +9840,33 @@
     "date_added": "2026-08-10T06:10:04.619830+00:00",
     "week_of": "2026-08-10",
     "source_method": "faculty_citations"
+  },
+  {
+    "title": "Do Banks Hedge Using Interest Rate Swaps?",
+    "authors": "Philipp Schnabl",
+    "date": "",
+    "abstract": "",
+    "url": "https://pages.stern.nyu.edu/~pschnabl/research/MST_hedging.pdf",
+    "scholar_name": "Philipp Schnabl",
+    "category": "金融",
+    "title_zh": "银行是否使用利率互换进行对冲？",
+    "abstract_zh": "",
+    "date_added": "2026-08-17T03:39:15.913958+00:00",
+    "week_of": "2026-08-17",
+    "source_method": "faculty_citations"
+  },
+  {
+    "title": "Insurers and real estate credit",
+    "authors": "Iñaki Aldasoro",
+    "date": "",
+    "abstract": "",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7264840",
+    "scholar_name": "Iñaki Aldasoro",
+    "category": "金融",
+    "title_zh": "保险公司和房地产信贷",
+    "abstract_zh": "",
+    "date_added": "2026-08-17T03:40:50.487289+00:00",
+    "week_of": "2026-08-17",
+    "source_method": "faculty_citations"
   }
 ]

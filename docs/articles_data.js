@@ -15809,11 +15809,624 @@ window.ARTICLES_DATA = [
     "date_added": "2026-08-10T06:13:22.595429+00:00",
     "title_zh": "能源冲击和通货膨胀：货币政策面临的挑战",
     "abstract_zh": "最近的能源冲击是 20 世纪 90 年代以来最严重的一次。结构性因素和初始条件影响能源冲击如何直接传播到通货膨胀，并通过第二轮效应传播。适当的货币政策反应取决于通胀压力的持续程度以及对增长影响的程度，并且不同经济体的情况有所不同。这些影响的不确定性使政策挑战进一步复杂化。"
+  },
+  {
+    "title": "2026 Proxy Season: CPA Political Disclosure and Accountability Effort Maintains Strong Momentum",
+    "authors": "",
+    "abstract": "Posted by Dan Carroll, David Pahlic, and Bruce Freed, Center for Political Accountability, on Sunday, August 16, 2026 Editor's Note: Dan Carroll is the Vice President for Programs and Counsel, David Pahlic is the Director of Programs, and Bruce Freed is the President at the Center for Political Accountability. This post is based on their CPA report. The 2026 proxy season continued to show strong shareholder support for the Center for Political Accountability’s corporate political disclosure and accountability effort in an increasingly challenging environment. Companies face increased uncertainty in their election-related spending. The reputational risks that are always present in political spending are now coupled with the regulatory risks of an executive eager to punish perceived enemies. Moreover, with high stakes midterm elections approaching, the scrutiny and risks posed to companies by their political spending, the candidates and issues they support, the outcomes and policies they advance and questions – and concerns – about corruption have increased. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "Campaign finance",
+      "Corporate Accountability",
+      "Corporate Political Spending",
+      "ESG investing",
+      "Political Accountability",
+      "Political Disclosure",
+      "Political Spending Disclosure",
+      "Proxy Season 2026",
+      "Shareholder activism",
+      "Shareholder proposals"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/16/2026-proxy-season-cpa-political-disclosure-and-accountability-effort-maintains-strong-momentum/?utm_source=rss&utm_medium=rss&utm_campaign=2026-proxy-season-cpa-political-disclosure-and-accountability-effort-maintains-strong-momentum",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sun, 16 Aug 2026 11:30:33 +0000",
+    "id": "e46ff36a3695b091",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-16",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:29.977827+00:00",
+    "title_zh": "2026年代理季：注册会计师政治披露和问责工作保持强劲势头",
+    "abstract_zh": "由政治问责中心 Dan Carroll、David Pahlic 和 Bruce Freed 于 2026 年 8 月 16 日星期日发布 编者注：Dan Carroll 是负责项目和法律顾问的副总裁，David Pahlic 是项目总监，Bruce Freed 是政治问责中心的主席。这篇文章是基于他们的注册会计师报告。 2026 年代理季继续表明，在日益充满挑战的环境中，股东对政治问责中心的企业政治披露和问责工作给予了强有力的支持。公司在与选举相关的支出中面临着越来越大的不确定性。政治支出中始终存在的声誉风险现在与渴望惩罚已知敌人的高管的监管风险相结合。此外，随着高风险的中期选举临近，企业的政治支出、候选人及其支持的问题、其推动的结果和政策以及对腐败的质疑和担忧给企业带来的审查和风险有所增加。 （更多的…）"
+  },
+  {
+    "title": "Debunking Five Investor Relations Fallacies for Controlled Companies",
+    "authors": "",
+    "abstract": "Posted by Garrett Muzikowski, Christina Dell'Orto, and Caleigh Leyton, FTI Consulting, on Saturday, August 15, 2026 Editor's Note: Garrett Muzikowski is a Managing Director, Christina Dell’Orto is a Senior Director, and Caleigh Leyton is a Senior Consultant at FTI Consulting. This post is based on an FTI Consulting memorandum by Mr. Muzikowski, Ms. Dell’Orto, Ms. Leyton, and Patrick C. Tucker , all at FTI Consulting. SpaceX, one of the largest companies in the world, just went public, and its founder, Elon Musk, holds 82.4% of the company’s voting power. [1] Theoretically, controlled companies are supposed to be insulated from shareholder pressure. Even “effectively controlled” companies – those with a large investor (for example, a 20% holder) – should benefit from this protection. Conceptually, a controlling shareholder, whether through economic ownership or through multi-class share structures, should remove the threat of proxy contests, hostile takeovers or other challenges to board decisions. The textbook activist mechanisms that are supposed to hold management and a company’s board accountable to shareholders do not apply to these companies. Why, then, are controlled companie",
+    "keywords": [
+      "Practitioner Publications",
+      "Board of Directors",
+      "Capital allocation",
+      "Company valuation",
+      "Controlled companies",
+      "Controlling shareholders",
+      "Dual-Class Shares",
+      "Investor communications",
+      "Investor Relations",
+      "M&A",
+      "mergers and acquisitions",
+      "Shareholder activism",
+      "shareholder engagement"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/15/debunking-five-investor-relations-fallacies-for-controlled-companies/?utm_source=rss&utm_medium=rss&utm_campaign=debunking-five-investor-relations-fallacies-for-controlled-companies",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sat, 15 Aug 2026 11:30:57 +0000",
+    "id": "c0ce9735dc119662",
+    "topics": [
+      "公司治理",
+      "公司并购"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-15",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:31.560361+00:00",
+    "title_zh": "揭穿受控公司投资者关系的五种谬论",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Boardroom Catalysts: Patterns in Activist Director Selection",
+    "authors": "",
+    "abstract": "Posted by Sergi Corbatera, DEF 14 Inc., on Friday, August 14, 2026 Editor's Note: Sergi Corbatera is the Founder and CEO of DEF 14 Inc. This post is based on his DEF 14 memorandum. Executive Summary When an activist obtains board representation, the number of seats tells only part of the story. The backgrounds of the directors who enter the boardroom may reveal whether the campaign emphasizes direct investor participation, operating experience, financial capabilities, or industry knowledge. We examine 1,048 board appointments involving 835 individuals in U.S. activist campaigns since 2015, including directors seated through negotiated settlements and contested elections. We analyze the professional profiles associated with those appointments, how they differ by appointment pathway, how the mix varies over time and across sectors, the expertise directors bring to the board, and differences by gender. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "activist investors",
+      "Board composition",
+      "Board of Directors",
+      "Director nominations",
+      "Proxy contests",
+      "Shareholder activism"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/14/boardroom-catalysts-patterns-in-activist-director-selection/?utm_source=rss&utm_medium=rss&utm_campaign=boardroom-catalysts-patterns-in-activist-director-selection",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Fri, 14 Aug 2026 11:32:20 +0000",
+    "id": "1ac26a3f20c497a2",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-14",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:32.678893+00:00",
+    "title_zh": "董事会催化剂：激进董事选择模式",
+    "abstract_zh": "由 DEF 14 Inc. 的 Sergi Corbatera 于 2026 年 8 月 14 日星期五发布 编者注：Sergi Corbatera 是 DEF 14 Inc. 的创始人兼首席执行官。本文基于他的 DEF 14 备忘录。执行摘要 当积极分子获得董事会代表权时，席位数量只能说明问题的一部分。进入董事会的董事的背景可能会揭示该活动是否强调投资者的直接参与、运营经验、财务能力或行业知识。我们审查了自 2015 年以来美国积极竞选活动中涉及 835 名个人的 1,048 项董事会任命，其中包括通过谈判和解和有争议的选举就任的董事。我们分析与这些任命相关的专业概况、它们在任命途径上的差异、组合随时间和跨部门的变化、董事为董事会带来的专业知识以及性别差异。 （更多的…）"
+  },
+  {
+    "title": "Weekly Roundup: August 7-13, 2026",
+    "authors": "Erica Lasdon and Timothy Smith / ICCR",
+    "abstract": "Posted by the Harvard Law School Forum on Corporate Governance, on Friday, August 14, 2026 Editor's Note: This roundup contains a collection of the posts published on the Forum during the week of August 7-13, 2026 A Cross Section of Company Statements Supporting Climate Action Posted by Erica Lasdon and Timothy Smith, ICCR, on Friday, August 7, 2026 Tags: Climate change , Climate Disclosure , climate risk , Corporate climate commitments , corporate sustainability , Decarbonization , Energy transition , Environmental stewardship , ESG , Greenhouse gas emissions , net zero , Sustainability Bye Bye 80s: It’s Time to Revisit the Exchange Ban on Dual Class Companies Extending Sunsets Posted by David Berger (WSGR), Daniel Gallagher (Robinhood Markets), and Steven Davidoff Solomon (University of California), on Saturday, August 8, 2026 Tags: Capital structure , Delaware law , Dual-Class Shares , NASDAQ , Shareholder rights , Stock Exchange Rules Beyond the Filing Calendar: The Questions Boards Must Ask Before Changing Reporting Cadence Posted by Neri Bukspan and Marc Siegel, Metrix Advisory LLC, on Sunday, August 9, 2026 Tags: Board of Directors , Financial reporting , Public Company Disc",
+    "keywords": [
+      "Weekly Roundup"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/14/weekly-roundup-august-7-13-2026/?utm_source=rss&utm_medium=rss&utm_campaign=weekly-roundup-august-7-13-2026",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Fri, 14 Aug 2026 11:30:56 +0000",
+    "id": "b7df4f0230356753",
+    "topics": [
+      "公司治理",
+      "绿色金融"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-14",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:34.435441+00:00",
+    "title_zh": "每周综述：2026 年 8 月 7 日至 13 日",
+    "abstract_zh": "哈佛法学院公司治理论坛于 2026 年 8 月 14 日星期五发布 编者注：本综述包含 2026 年 8 月 7 日至 13 日这一周期间在论坛上发布的帖子的集合 支持气候行动的公司声明的横截面 由 ICCR 的 Erica Lasdon 和 Timothy Smith 于 2026 年 8 月 7 日星期五发布 标签： 气候变化 , 气候信息披露 , 气候风险 ,企业气候承诺、企业可持续发展、脱碳、能源转型、环境管理、ESG、温室气体排放、净零排放、可持续发展 再见 80 年代：是时候重新审视双重股权公司的交易所禁令了2026 标签： 资本结构 、 特拉华州法 、 双重股权 、 纳斯达克 、 股东权利 、 超越提交日历的证券交易所规则：董事会在更改报告节奏之前必须提出的问题 由 Metrix Advisory LLC 的 Neri Bukspan 和 Marc Siegel 于 2026 年 8 月 9 日星期日发表 标签： 董事会 、 财务报告 、 上市公司光盘"
+  },
+  {
+    "title": "Global CEO Turnover Index",
+    "authors": "Rusty O'Kelley and Emma Combe / Russell Reynolds Associates",
+    "abstract": "Posted by Rusty O'Kelley and Emma Combe, Russell Reynolds Associates, on Thursday, August 13, 2026 Editor's Note: Rusty O’Kelley co-leads the Global Board & CEO Advisory Practice and Emma Combe leads the UK Board Practice at Russell Reynolds Associates. This post is based on their Russell Reynolds memorandum. Global CEO departures drop to lowest H1 level, while appointments hold steady After two years of elevated CEO turnover across the world’s largest indices, H1 2026 data suggests that leadership change is beginning to stabilize. Globally, 101 CEOs departed their roles, down from 118 in H1 2025 and the lowest H1 departure total in our nine-year tracking period. At the same time, global CEO hiring held steady, with 131 CEO appointments, broadly in line with the nine-year H1 average (129). The decline in CEO turnover was driven primarily by the Nikkei 225 , where CEO departures fell from 30 to 19 year-on-year, while CEO appointments fell from 33 to 22. The S&P 500 also recorded fewer CEO transitions, declining from 36 to 30 year-on-year, while appointments declined from 37 to 32. The moderation in CEO turnover coincided with broader market conditions that may have reduced pressure ",
+    "keywords": [
+      "Practitioner Publications",
+      "Board of Directors",
+      "CEO succession",
+      "CEO turnover",
+      "corporate strategy",
+      "Executive Leadership",
+      "talent management"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/13/global-ceo-turnover-index/?utm_source=rss&utm_medium=rss&utm_campaign=global-ceo-turnover-index",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Thu, 13 Aug 2026 11:32:36 +0000",
+    "id": "999723299d92b71e",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-08-13",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:35.876982+00:00",
+    "title_zh": "全球CEO更替指数",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Sound of Silence",
+    "authors": "",
+    "abstract": "Posted by Mitu Gulati (University of Virginia), Stephen Choi (NYU), and Molly Ball (University of Virginia), on Thursday, August 13, 2026 Editor's Note: Mitu Gulati is the Warner-Booker Distinguished Professor of International Law at the University of Virginia School of Law, Stephen J. Choi is the Bernard Petrie Professor of Law and Business and Director of the Pollack Center at the New York University School of Law, and Molly Ball is a J.D. candidate at the University of Virginia School of Law. This post is based on their recent article . In 2018, the Delaware Supreme Court dropped a footnote. In Eagle Force Holdings v. Campbell , Justice Valihura noted that the court had never actually decided whether a buyer who knows that some of the seller’s representations are false can still sue for breach after closing — the practice deal lawyers call “sandbagging.” Then-Chief Justice Strine, dissenting in part, confirmed, in his part of opinion, that Delaware had not yet decided the question. Many M&A practitioners took the footnotes in Eagle Force as a signal that Delaware law was undecided on sandbagging. Because buyers rely on “pro-sandbagging” rules to protect their bargained-for repre",
+    "keywords": [
+      "Academic Research",
+      "Delaware Law Series",
+      "Contract Drafting",
+      "Deal Practice",
+      "delaware",
+      "Delaware law",
+      "Judicial Signaling",
+      "M&A",
+      "Sandbagging"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/13/the-sound-of-silence/?utm_source=rss&utm_medium=rss&utm_campaign=the-sound-of-silence",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Thu, 13 Aug 2026 11:30:29 +0000",
+    "id": "2ab6f1f82c9706e3",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-13",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:37.465456+00:00",
+    "title_zh": "寂静之声",
+    "abstract_zh": "发布者：Mitu Gulati（弗吉尼亚大学）、Stephen Choi（纽约大学）和 Molly Ball（弗吉尼亚大学），2026 年 8 月 13 日星期四 编者注：Mitu Gulati 是弗吉尼亚大学法学院华纳-布克国际法杰出教授，Stephen J. Choi 是纽约大学法学院法律与商业伯纳德·皮特里教授兼波拉克中心主任，Molly Ball 是弗吉尼亚大学法学院国际法杰出教授。弗吉尼亚大学法学院法学博士候选人。这篇文章是基于他们最近的文章。 2018年，特拉华州最高法院删除了一个脚注。在 Eagle Force Holdings 诉 Campbell 案中，法官 Valihura 指出，法院从未真正决定，明知卖方部分陈述不真实的买方是否仍可在成交后提起违约诉讼——交易律师将这种做法称为“沙袋”。时任首席大法官斯特林部分反对，但他确认特拉华州尚未就该问题做出决定。许多并购从业者将《Eagle Force》中的脚注视为特拉华州法律在沙袋问题上尚未做出决定的信号。因为买家依靠“支持沙袋”的规则来保护他们讨价还价的代表权"
+  },
+  {
+    "title": "2026 Say-on-Pay Results: Strong Overall, With Large Special Awards Common Among Low-Vote Outcomes",
+    "authors": "Chloe Maister and Kenneth Sparling / FW Cook",
+    "abstract": "Posted by Chloe Maister and Kenneth Sparling, FW Cook, on Wednesday, August 12, 2026 Editor's Note: Chloe Maister is a Consultant and Kenneth Sparling is a Managing Director at FW Cook. This post is based on their FW Cook memorandum. The 2026 say-on-pay season produced stronger results for most S&P 500 companies. Nearly 75% received at least 90% shareholder support, up from 70% in 2025, while the share below 70% declined from about 6% to 5%. The low-support group became smaller in 2026, but the remaining weakness was more concentrated. Large special awards appeared in half of the 22 cases below 70% support, and all five failed votes involved an outsized equity grant. Among widely held companies receiving an adverse ISS recommendation, support topped out in the mid-70s and averaged 56.9%, lower than in any pre-pandemic year in the period reviewed. Much of that weakness was concentrated among companies with large one-time awards. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "Compensation committees",
+      "Equity Compensation",
+      "Executive Compensation",
+      "Proxy advisors",
+      "Say on pay",
+      "Shareholder voting"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/12/2026-say-on-pay-results-strong-overall-with-large-special-awards-common-among-low-vote-outcomes/?utm_source=rss&utm_medium=rss&utm_campaign=2026-say-on-pay-results-strong-overall-with-large-special-awards-common-among-low-vote-outcomes",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 12 Aug 2026 11:32:51 +0000",
+    "id": "1ae8ad4238ce7704",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-12",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:39.256534+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Legacies, Lessons and Launchpads: Charting Delaware’s Course in a New Era",
+    "authors": "",
+    "abstract": "Posted by Justice Karen Valihura (Wilmington Univerity), on Wednesday, August 12, 2026 Editor's Note: Justice Karen Valihura is a Distinguished Professor of Corporate Law and Founding Director of the Corporate Law, Governance and Practice Institute, Farnan School of Law, at the Wilmington University. This post is based on her 2026 Weinberg Distinguished Lecture , and is part of the Delaware Law Series ; links to other posts in the series are available here . It is a great honor for me to be part of the Weinberg Distinguished Lecture series. Thank you for inviting me. My remarks today are solely my own and are not made on behalf of the Delaware Supreme Court or any other person. As I near the end of my twelve-year term, I have been reflecting on the amazing privilege and honor I have had serving as a Justice on the Delaware Supreme Court. I am so grateful to all who have been part of my journey. In thinking about how to describe it, I was recently inspired by NASA’s stunningly successful Artemis II Mission. That Mission – lasting only 10 days – had a successful launch, lunar fly by and a safe splashdown off the coast of San Diego. One of the Artemis II’s astronauts’ description of t",
+    "keywords": [
+      "Academic Research",
+      "Delaware Law Series",
+      "Business judgment rule",
+      "delaware",
+      "Delaware Corporate Law",
+      "Delaware law",
+      "Delaware Supreme Court",
+      "Director Independence",
+      "entire fairness",
+      "Fiduciary duties",
+      "judicial independence"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/12/legacies-lessons-and-launchpads-charting-delawares-course-in-a-new-era/?utm_source=rss&utm_medium=rss&utm_campaign=legacies-lessons-and-launchpads-charting-delawares-course-in-a-new-era",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 12 Aug 2026 11:30:42 +0000",
+    "id": "55dd1109093083ab",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-12",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:40.104519+00:00",
+    "title_zh": "遗产、经验教训和启动平台：绘制新时代特拉华州的路线",
+    "abstract_zh": "作者：Karen Valihura 大法官（威尔明顿大学），2026 年 8 月 12 日星期三 编者注：Karen Valihura 大法官是威尔明顿大学法南法学院公司法杰出教授，也是公司法、治理和实践研究所的创始主任。这篇文章基于她 2026 年温伯格杰出演讲，是特拉华州法律系列的一部分；此处提供了该系列其他帖子的链接。我很荣幸能够成为温伯格杰出讲座系列的一部分。谢谢你邀请我。我今天的言论仅代表我自己，不代表特拉华州最高法院或任何其他人。当我的十二年任期即将结束时，我一直在反思我作为特拉华州最高法院法官所获得的令人惊叹的特权和荣誉。我非常感谢所有参与我旅程的人。在思考如何描述它时，我最近受到美国宇航局令人惊叹的成功阿耳忒弥斯二号任务的启发。该任务仅持续了 10 天，成功发射、飞越月球并在圣地亚哥海岸安全溅落。阿耳忒弥斯二号的一位宇航员对 t 的描述"
+  },
+  {
+    "title": "SEC’s Proposal to Simplify Filer Status for Public Companies: Comment from CHRO Association",
+    "authors": "Ani Huang / CHRO Association",
+    "abstract": "Posted by Ani Huang, CHRO Association, on Tuesday, August 11, 2026 Editor's Note: Ani Huang is the President, Policy and Practice, for the CHRO Association. This post is based on a comment letter by CHRO Association submitted to the U.S. Securities and Exchange Commission regarding the proposal to simplify filer status for public companies. The CHRO Association submits these comments in response to the rule proposal issued by the Securities and Exchange Commission (SEC) regarding the simplification of filer status for public companies (“Proposal”). We appreciate the SEC’s ongoing efforts to reform public company reporting requirements and are pleased to provide our views on the Proposal. The CHRO Association is a public policy advocacy organization that represents the most senior human resource officers (CHROs) in nearly 400 of the largest corporations across industries doing business in the United States and globally. Collectively, these companies employ more than 10 million employees in the United States, nearly nine percent of the private sector workforce, and 20 million employees worldwide. Approximately two-thirds of the Association’s members are federal contractors, including",
+    "keywords": [
+      "Practitioner Publications",
+      "SEC Comment letters",
+      "Comment letters",
+      "SEC"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/11/secs-proposal-to-simplify-filer-status-for-public-companies-comment-from-chro-association/?utm_source=rss&utm_medium=rss&utm_campaign=secs-proposal-to-simplify-filer-status-for-public-companies-comment-from-chro-association",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 11 Aug 2026 11:32:44 +0000",
+    "id": "8a536033cd07bd38",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-11",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:41.594970+00:00",
+    "title_zh": "SEC 关于简化上市公司申报人身份的提案：CHRO 协会的评论",
+    "abstract_zh": "由 CHRO 协会 Ani Huang 于 2026 年 8 月 11 日星期二发布 编者注：Ani Huang 是 CHRO 协会政策与实践主席。本文基于 CHRO 协会向美国证券交易委员会提交的关于简化上市公司申报人身份提案的评论信。 CHRO 协会提交这些评论是为了回应美国证券交易委员会 (SEC) 发布的有关简化上市公司申报人身份的规则提案（“提案”）。我们赞赏 SEC 为改革上市公司报告要求所做的持续努力，并很高兴就该提案提供我们的看法。 CHRO 协会是一个公共政策倡导组织，代表在美国和全球开展业务的各行业近 400 家最大公司的最高级人力资源官员 (CHRO)。这些公司在美国总共雇用了超过 1000 万名员工，占私营部门劳动力的近 9%，在全球范围内雇用了 2000 万名员工。该协会大约三分之二的成员是联邦承包商，包括"
+  },
+  {
+    "title": "M&As, Employee Costs, and Labor Reallocation",
+    "authors": "",
+    "abstract": "Posted by Spyridon Lagaras (University of Illinois Urbana-Champaign), on Tuesday, August 11, 2026 Editor's Note: Spyridon Lagaras is an Assistant Professor of Finance, Gies College of Business, at the University of Illinois Urbana-Champaign. This post is based on his recent article , forthcoming in the Journal of Finance. Mergers and acquisitions reallocate control over the factors of production and are typically followed by extensive restructuring aimed at raising efficiency. A long-standing question is whether those efficiency gains come partly at the expense of employees. In my article, forthcoming in the Journal of Finance , I study the labor market consequences of mergers for the employees of target firms, and I find that mergers impose substantial, persistent, and unevenly distributed costs on workers. These costs arise primarily from displacement and reallocation across firms, rather than from lower wages for those who remain. To study this, I follow individual workers over time and across employers. I combine information on the public and private firms involved in merger activity in Brazil between 2004 and 2012 with a comprehensive administrative data set that links every f",
+    "keywords": [
+      "Academic Research",
+      "Antitrust Policy",
+      "Employment",
+      "Labor markets",
+      "Mergers & acquisitions",
+      "Wages and Earnings",
+      "Workforce Restructuring"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/11/mas-employee-costs-and-labor-reallocation/?utm_source=rss&utm_medium=rss&utm_campaign=mas-employee-costs-and-labor-reallocation",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 11 Aug 2026 11:31:35 +0000",
+    "id": "2b277a299ace7e38",
+    "topics": [
+      "公司并购",
+      "破产法"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-08-11",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:43.179782+00:00",
+    "title_zh": "",
+    "abstract_zh": "发布者：Spyridon Lagaras（伊利诺伊大学厄巴纳-香槟分校），2026 年 8 月 11 日星期二 编者注：Spyridon Lagaras 是伊利诺伊大学厄巴纳-香槟分校吉斯商学院金融学助理教授。这篇文章基于他最近发表在《金融杂志》上的文章。兼并和收购重新分配对生产要素的控制权，随后通常会进行旨在提高效率的大规模重组。一个长期存在的问题是，这些效率提升是否部分是以牺牲员工为代价的。在我即将发表在《金融杂志》上的文章中，我研究了合并对目标公司员工的劳动力市场影响，我发现合并给工人带来了巨大的、持续的、分布不均的成本。这些成本主要来自企业间的搬迁和重新分配，而不是留下来的人工资下降。为了研究这一点，我对不同雇主的个体工人进行了长期跟踪。我将 2004 年至 2012 年间参与巴西并购活动的公营和私营公司的信息与链接每个企业的综合管理数据集结合起来。"
+  },
+  {
+    "title": "Do CEOs Trust Their Boards? RRA’s Leadership Confidence Index Finds an Emerging Gap",
+    "authors": "",
+    "abstract": "Posted by Maggie Benkert, Amy Sampson, and Joy Tan, Russell Reynolds Associates, on Monday, August 10, 2026 Editor's Note: Maggie Benkert is a member of the Board and CEO Advisory Partners in the Americas, Amy Sampson is a member of the Board Effectiveness practice, and Joy Tan is a member of the Center for Leadership Insight at Russell Reynolds Associates. This post is based on a Russell Reynolds memorandum by Ms. Benkert, Ms. Sampson, Ms. Tan, Ela Buczynska, and Gabrielle Lieberman, all at Russel Reynolds Associates. In today’s unpredictable environment of economic volatility, AI disruption, and geopolitical instability, there’s another emerging threat to organizational health: a widening confidence gap between CEOs and their boards. Our latest Leadership Confidence Index (LCI) indicates that CEO’s confidence in their boards continued to decline at an average of 2.3 points per year since 2021. Despite this drop, board members’ confidence in their own abilities remain relatively stable. While perhaps unsurprising, this highlights a deeper disconnect. As both the complexity and breadth of issues requiring oversight grows, boards have assumed an increasingly expansive mandate. Yet m",
+    "keywords": [
+      "Practitioner Publications",
+      "Board culture",
+      "board effectiveness",
+      "Board of Directors",
+      "CEO-Board Relations",
+      "corporate strategy",
+      "Executive Leadership"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/10/do-ceos-trust-their-boards-rras-leadership-confidence-index-finds-an-emerging-gap/?utm_source=rss&utm_medium=rss&utm_campaign=do-ceos-trust-their-boards-rras-leadership-confidence-index-finds-an-emerging-gap",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 10 Aug 2026 11:32:04 +0000",
+    "id": "090fe185e439f737",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-08-10",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:44.320190+00:00",
+    "title_zh": "首席执行官信任他们的董事会吗？ RRA 的领导信心指数发现了新的差距",
+    "abstract_zh": "发布者：Maggie Benkert、Amy Sampson 和 Joy Tan，Russell Reynolds Associates，于 2026 年 8 月 10 日星期一 编者注：Maggie Benkert 是董事会成员和美洲区首席执行官咨询合作伙伴，Amy Sampson 是董事会有效性实践的成员，Joy Tan 是 Russell Reynolds Associates 领导力洞察中心的成员。本文基于 Russell Reynolds Associates 的 Benkert 女士、Sampson 女士、Tan 女士、Ela Buczynska 和 Gabrielle Lieberman 女士撰写的 Russell Reynolds 备忘录。在当今经济波动、人工智能颠覆和地缘政治不稳定的不可预测的环境中，组织健康面临着另一个新的威胁：首席执行官与其董事会之间不断扩大的信心差距。我们最新的领导信心指数 (LCI) 表明，自 2021 年以来，首席执行官对其董事会的信心持续下降，平均每年 2.3 个百分点。尽管有所下降，但董事会成员对自身能力的信心仍然相对稳定。虽然这也许并不令人意外，但这凸显了更深层次的脱节。随着需要监督的问题的复杂性和广度的增加，董事会承担了越来越广泛的职责。然而我"
+  },
+  {
+    "title": "Judicial Review of SEC Rulemaking",
+    "authors": "",
+    "abstract": "Posted by Adam Pritchard (University of Michigan Law School), on Monday, August 10, 2026 Editor's Note: Adam Pritchard is the Frances and George Skestos Professor of Law at the University of Michigan Law School. This post is based on a working paper by Prof. Pritchard, Professor Joseph Grundfest , the William A. Franke Professor of Law and Business, Emeritus, Stanford Law School; Professor Yuliya Guseva, the Kevin Wood and Mary Jo Peed Professor of Law, Florida State University College of Law; and Professor Irena Hutton , the Gene Taylor/Bank of America Professor of Finance, Florida State University College of Business. The Administrative Procedure Act (APA) provides the procedural framework for both rulemaking and its subsequent judicial review. Stakeholders participate throughout this process as commenters, meeting participants, and, sometimes, litigants. Judicial review represents not a separate regulatory stage, but the culmination of the rulemaking process. Most empirical scholarship, however, does not connect the two stages. Our empirical paper examines the relationship between the comment process, rulemaking, and litigation in the context of Securities and Exchange Commissio",
+    "keywords": [
+      "Academic Research",
+      "administrative law",
+      "Administrative Procedure Act (APA)",
+      "Empirical Legal Studies",
+      "judicial review",
+      "SEC rulemaking",
+      "Securities regulation"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/10/judicial-review-of-sec-rulemaking/?utm_source=rss&utm_medium=rss&utm_campaign=judicial-review-of-sec-rulemaking",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 10 Aug 2026 11:31:48 +0000",
+    "id": "b6895255fad0d683",
+    "topics": [
+      "证券法",
+      "金融监管",
+      "公司治理"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-08-10",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:46.064044+00:00",
+    "title_zh": "SEC 规则制定的司法审查",
+    "abstract_zh": "作者：Adam Pritchard（密歇根大学法学院），2026 年 8 月 10 日星期一 编者注：Adam Pritchard 是密歇根大学法学院 Frances 和 George Skestos 法学教授。这篇文章基于普里查德教授、斯坦福大学法学院威廉·A·弗兰克法律与商业荣誉教授约瑟夫·格伦德菲斯特教授的工作论文；佛罗里达州立大学法学院 Kevin Wood 和 Mary Jo Peed 法学教授 Yuliya Guseva 教授；以及佛罗里达州立大学商学院 Gene Taylor/美国银行金融学教授 Irena Hutton 教授。 《行政程序法》（APA）为规则制定及其随后的司法审查提供了程序框架。利益相关者作为评论者、会议参与者，有时还作为诉讼当事人参与整个过程。司法审查并不代表一个单独的监管阶段，而是规则制定过程的最终阶段。然而，大多数实证研究并没有将这两个阶段联系起来。我们的实证论文探讨了证券交易委员会背景下的评论流程、规则制定和诉讼之间的关系。"
+  },
+  {
+    "title": "Staying Alive: ISS Continues Its Influence on 2026 Voting Outcomes",
+    "authors": "Martha Carter and Sydney Carlock / Teneo",
+    "abstract": "Posted by Martha Carter and Sydney Carlock, Teneo, on Monday, August 10, 2026 Editor's Note: Martha Carter is the Vice Chairman and Head of Governance and Sustainability and Sydney Carlock is a Managing Director at Teneo. This post is based on a Teneo memorandum by Ms. Carter, Ms. Carlock, Matt Filosa , Sean Quinn , and Diana Lee , all at Teneo. Despite regulatory pressures and competition from AI-enabled proxy voting systems, adverse recommendations from Institutional Shareholder Services (ISS) continued to influence vote outcomes during the 2026 proxy season. When ISS recommended against management, investor opposition often matched or exceeded prior levels, especially in categories where ISS issued fewer adverse recommendations overall. Therefore, companies still need to pay close attention to ISS policies and potential recommendations as they prepare for Fall investor engagement and the 2027 proxy season. ISS has faced no shortage of challenges in recent months: President Trump’s December Executive Order targeting core elements of its business model, lawsuits from multiple state attorneys general and the adoption of AI-enabled proxy voting tools by J.P. Morgan and Wells Fargo. ",
+    "keywords": [
+      "Practitioner Publications",
+      "director elections",
+      "Institutional Shareholder Services",
+      "Proxy advisors",
+      "Proxy voting",
+      "Say on pay",
+      "Shareholder Voting Outcomes"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/08/10/staying-alive-iss-continues-its-influence-on-2026-voting-outcomes/?utm_source=rss&utm_medium=rss&utm_campaign=staying-alive-iss-continues-its-influence-on-2026-voting-outcomes",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 10 Aug 2026 11:30:31 +0000",
+    "id": "349930d37b243a70",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-10",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:47.829957+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "How Corporate Ownership Concentration Differs Down Under",
+    "authors": "renholding",
+    "abstract": "Institutional investors’ rising ownership of publicly traded shares and its implications for corporate governance have prompted scrutiny in both the United States and Australia. In the U.S., shares are increasingly in the hands of the Big Three index funds: BlackRock, State Street and Vanguard. In Australia, though, the ownership pattern looks quite different. Australia’s domestic superannuation funds, known as pension funds elsewhere, are major equity owners with substantial influence over Australian public corporations. While the Big Three are also investors, their significance is counterbalanced by superannuation funds. In a new article, I argue that this gives ownership concentration “down under” a distinctive nature. The Rise of “Big Super” Australia’s compulsory retirement savings system does not establish a single, national pension fund to manage retirement savings. The system instead allows workers to choose from a large number of qualifying institutional funds or establish their own self-managed accounts. Many workers choose an institutional fund. As of 2023, institutional funds managed AUD$1.6 trillion of superannuation assets, fuelled by a steady stream of compulsory con",
+    "keywords": [
+      "Corporate Governance",
+      "International Developments",
+      "activist hedge funds",
+      "Activist Investors",
+      "Australia",
+      "concentrated ownership",
+      "institutional investors",
+      "pension funds",
+      "superannuation funds"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/08/14/how-corporate-ownership-concentration-differs-down-under/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Fri, 14 Aug 2026 04:05:03 +0000",
+    "id": "5239e2238369b6d5",
+    "topics": [
+      "公司治理",
+      "非银机构"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-14",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:48.695945+00:00",
+    "title_zh": "澳大利亚企业所有权集中度有何不同",
+    "abstract_zh": "机构投资者对公开交易股票的持有量不断增加及其对公司治理的影响引发了美国和澳大利亚的审查。在美国，股票越来越多地掌握在三大指数基金：贝莱德（BlackRock）、道富银行（State Street）和先锋集团（Vanguard）手中。然而在澳大利亚，所有权模式看起来却截然不同。澳大利亚国内养老基金（在其他地方称为养老基金）是对澳大利亚上市公司具有重大影响力的主要股权所有者。虽然三巨头也是投资者，但他们的重要性被养老基金所抵消。在一篇新文章中，我认为这赋予了所有权集中度“低下”的独特性质。 “超级大”的崛起 澳大利亚的强制退休储蓄制度并未建立单一的国家养老基金来管理退休储蓄。相反，该系统允许工人从大量合格的机构基金中进行选择或建立自己的自我管理账户。许多工人选择机构基金。截至 2023 年，在源源不断的强制储蓄的推动下，机构基金管理着 1.6 万亿澳元的退休金资产"
+  },
+  {
+    "title": "Prediction Markets Need Informed Traders",
+    "authors": "renholding",
+    "abstract": "A U.S. servicemember used classified information about the planned capture of Venezuelan President Nicolás Maduro to make more than $400,000 trading on Polymarket. A Google engineer with the online moniker “AlphaRaccoon” converted confidential company information about search traffic into more than $1 million in prediction market profits. In France, authorities are investigating whether someone used a hair dryer to manipulate an airport temperature sensor and then cashed in on weather contracts. It is easy to look at stories like these and conclude that popular prediction markets like Polymarket and Kalshi have an insider trading problem—and that lawmakers need to do something about it. But consider another trader. Before Super Bowl LX, a 21-year-old TikToker flew from Cincinnati to San Francisco, spent hours listening to national anthem rehearsals outside the stadium, timed them with a stopwatch, and then reportedly made more than $50,000 trading on the length of the anthem at halftime. He knew something most other traders did not. And that is precisely the kind of informational advantage prediction markets are designed to reward. In a new article , we argue that this distinction ",
+    "keywords": [
+      "Securities Regulation",
+      "CFTC",
+      "Commodity Futures Trading Commission",
+      "election markets",
+      "insider trading",
+      "Kalshi",
+      "Polymarket",
+      "prediction markets"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/08/13/prediction-markets-need-informed-traders/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Thu, 13 Aug 2026 04:05:21 +0000",
+    "id": "ed710bc19e7a0072",
+    "topics": [
+      "证券法"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-08-13",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:50.439414+00:00",
+    "title_zh": "预测市场需要消息灵通的交易者",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Cleary Gottlieb Discusses SEC’s Financial Reporting and Accounting Unit Within Enforcement Division",
+    "authors": "renholding",
+    "abstract": "On August 5, 2026, the SEC announced the creation of a new Financial Reporting and Accounting Unit within the Division of Enforcement “to provide the dedicated expertise, focus, and capacity to pursue accounting and financial reporting cases as well as general misconduct in the accounting and auditing areas.” The creation of this unit marks a significant step in formalizing what newly appointed Director of Enforcement David Woodcock signaled in remarks earlier this year: “financial reporting fraud, as well as accounting and auditor misconduct more generally,” will continue to be a priority and the focus of enforcement actions. It comes as no surprise that Woodcock’s first major initiative involves a unit directed at financial reporting fraud, as his prior experience includes time as a Big Four auditor, in-house counsel, and the creator and head of the Enforcement Division’s Financial Reporting and Audit Task Force, which focused on complex financial reporting investigations in the wake of the global financial crisis. This announcement also falls squarely in line with the priorities Woodcock noted in his first—and only—major speech after taking over the Enforcement Division. In his ",
+    "keywords": [
+      "Securities Regulation",
+      "accounting fraud",
+      "financial reporting",
+      "SEC",
+      "Securities and Exchange Commission",
+      "securities fraud",
+      "securities law enforcement"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/08/13/cleary-gottlieb-discusses-secs-financial-reporting-and-accounting-unit-within-enforcement-division/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Thu, 13 Aug 2026 04:01:04 +0000",
+    "id": "a0d9c371970b5977",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-08-13",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:51.832077+00:00",
+    "title_zh": "Cleary Gottlieb 讨论 SEC 执法部门内的财务报告和会计部门",
+    "abstract_zh": "2026 年 8 月 5 日，SEC 宣布在执法部门内设立一个新的财务报告和会计部门，“以提供专门的专业知识、重点和能力来追查会计和财务报告案件以及会计和审计领域的一般不当行为。”该部门的成立标志着新任命的执法总监戴维·伍德科克在今年早些时候的讲话中所表示的正式化迈出了重要一步：“财务报告欺诈以及更广泛的会计和审计师不当行为”将继续成为执法行动的优先事项和重点。伍德科克的第一个重大举措涉及一个针对财务报告欺诈的部门，这并不奇怪，因为他之前的经验包括担任四大审计师、内部法律顾问以及执法部门财务报告和审计工作组的创建者和负责人，该工作组专注于全球金融危机后复杂的财务报告调查。这一声明也完全符合伍德科克在接手执法部门后的第一次也是唯一一次重要演讲中指出的优先事项。在他的"
+  },
+  {
+    "title": "Accelerated Share Repurchases, Corporate Governance, and Market Integrity",
+    "authors": "renholding",
+    "abstract": "Can the method of making a share repurchase create a regulatory and governance paradox? In this article, we argue that it can. One increasingly popular mechanism, the accelerated share repurchase (ASR), can at sufficient scale, distort market prices, force the issuer to settle at temporarily inflated levels, and erode long-term shareholder value—all while complying with the technical requirements of Rule 10b-18’s safe harbor for market manipulation enforcement. The mechanics are straightforward. An ASR is, in effect, a forward transaction: At initiation the company pays the full value up front—typically based on the prevailing market price—and in return receives the majority of the intended shares from a counterparty bank, which the company typically retires immediately. The final price of these shares (after what is called a true-up) is contractually set to be the average of daily volume-weighted prices over the buyback period, minus a pre-agreed discount. To deliver the upfront block of shares, the bank borrows the shares from stock lenders, then buys them back in the open market over the contract’s life to cover its short position and meet the true-up. At small size—say, 2.5% of",
+    "keywords": [
+      "Corporate Governance",
+      "accelerated share repurchase",
+      "buybacks",
+      "General Motors",
+      "open-market buyback",
+      "share repurchases",
+      "stock lending"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/08/12/accelerated-share-repurchases-corporate-governance-and-market-integrity/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Wed, 12 Aug 2026 04:05:00 +0000",
+    "id": "434fdc57d6b2a946",
+    "topics": [
+      "公司治理",
+      "证券法"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-12",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:53.040946+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Sullivan & Cromwell Discusses Proposed Revisions to Rules on Bank Lending to Insiders",
+    "authors": "renholding",
+    "abstract": "On July 31, the Board of Governors of the Federal Reserve System (the “Federal Reserve”) released a notice of proposed rulemaking (the “Federal Reserve Proposal”) to “modernize” Regulation O, which governs loans by member banks to their insiders (directors, certain officers and principal shareholders) and insiders of their affiliates. [1] It would be the first comprehensive update to Regulation O since 1979. In addition, the FDIC proposed revisions to its rules governing extensions of credit to insiders of FDIC-supervised institutions (the “FDIC Proposal”). [2] The Federal Reserve Proposal would, among other changes: update and significantly increase “outdated” dollar-based limits on lending to insiders and index these limits based on nominal GDP going forward; exempt portfolio companies of companies that sponsor, manage and advise investment funds [3] from Regulation O’s presumption of control, if the fund complexes meet proposed eligibility requirements; update Regulation O’s definition of “extension of credit” to (i) expand the “non-exhaustive list of transactions” that constitute extensions of credit to include credit exposures arising from derivative transactions (including sp",
+    "keywords": [
+      "Finance & Economics",
+      "bank lending",
+      "banks",
+      "corporate insiders",
+      "FDIC",
+      "Fed",
+      "Federal Reserve",
+      "loans"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/08/12/sullivan-cromwell-discusses-proposed-revisions-to-rules-on-bank-lending-to-insiders/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Wed, 12 Aug 2026 04:01:28 +0000",
+    "id": "731972f1f325b69d",
+    "topics": [
+      "银行",
+      "公司治理",
+      "金融监管"
+    ],
+    "primary_topic": "银行",
+    "publish_date_norm": "2026-08-12",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:53.867771+00:00",
+    "title_zh": "沙利文和克伦威尔讨论银行向内部人士贷款规则的拟议修订",
+    "abstract_zh": ""
+  },
+  {
+    "title": "How Does the SEC Respond to Reputation Shocks?",
+    "authors": "renholding",
+    "abstract": "In April 2010, the Securities and Exchange Commission found itself in headlines no regulator wants. The agency’s Office of Inspector General revealed that 33 SEC employees and contractors had been regularly viewing pornography on government computers during work hours. More than half were relatively senior staff, and the details were vivid: One regional office accountant received more than 16,000 access denials from the agency’s internet filter in a single month. The press was merciless ( The Atlantic ran a piece titled “Did Porn Cause the Financial Crisis?”), and Congress piled on, with Representative Darrell Issa charging that “high-ranking officials within the SEC were spending more time looking at porn than taking action to help stave off the events that put our nation’s economy on the brink of collapse.” One might have expected the episode to remain an embarrassing but inconsequential personnel matter. The misconduct involved fewer than 1 percent of the agency’s workforce, was personal and idiosyncratic, and had no obvious connection to the offices’ enforcement competence. The SEC’s own disciplinary response was muted: No implicated employee was fired. In a new study , however",
+    "keywords": [
+      "Securities Regulation",
+      "agency scandals",
+      "financial crisis",
+      "inspectors general",
+      "SEC",
+      "SEC reputation",
+      "Securities and Exchange Commission"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/08/11/how-does-the-sec-respond-to-reputation-shocks/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Tue, 11 Aug 2026 04:05:44 +0000",
+    "id": "84a2e6eb99e75b7d",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-08-11",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:54.998196+00:00",
+    "title_zh": "SEC 如何应对声誉冲击？",
+    "abstract_zh": "2010 年 4 月，美国证券交易委员会发现自己成为了监管机构不希望看到的头条新闻。该机构监察长办公室透露，33 名 SEC 员工和承包商在工作时间经常在政府计算机上观看色情内容。超过一半是相对资深的员工，细节也很生动：一名地区办事处会计师在一个月内收到来自该机构互联网过滤器的 16,000 多次拒绝访问请求。媒体是无情的（《大西洋月刊》发表了一篇题为“色情导致金融危机吗？”的文章），国会也对此进行了猛烈抨击，众议员达雷尔·伊萨（Darrell Issa）指责“美国证券交易委员会的高级官员花更多的时间在色情上，而不是采取行动来帮助避免使我们国家经济濒临崩溃的事件。”人们可能会认为这一事件仍然是一件令人尴尬但无关紧要的人事问题。这些不当行为涉及该机构不到 1% 的员工，是个人的、特殊的，与办公室的执法能力没有明显的联系。美国证券交易委员会自己的纪律回应也很低调：没有涉及的员工被解雇。然而，在一项新的研究中"
+  },
+  {
+    "title": "Sequential Search for Corporate Bonds",
+    "authors": "MAHYAR KARGAR, \nBENJAMIN LESTER, \nSÉBASTIEN PLANTE, \nPIERRE‐OLIVIER WEILL",
+    "abstract": "ABSTRACT Customers in over‐the‐counter (OTC) markets must find a counterparty to trade. Little is known about this process, however, because existing data consist of transaction records, which only reveal the outcome of a search. Using data from a trading platform for corporate bonds, we unpack the search process. We analyze how long it takes customers to trade and how dealers' offers evolve across repeated inquiries. We estimate that it takes two to three days to complete a transaction after an unsuccessful attempt, with substantial variation across trade and customer characteristics. Our analysis offers insights into the sources of trading delays in OTC markets.",
+    "keywords": [
+      "Original Article"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Mon, 10 Aug 2026 23:31:31 -0700",
+    "id": "d4e8a782967485f2",
+    "topics": [
+      "债券市场"
+    ],
+    "primary_topic": "债券市场",
+    "publish_date_norm": "2026-08-10",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:56.771382+00:00",
+    "title_zh": "公司债券的顺序搜索",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Stablecoin Regulation – A Comparative Glance at U.S. and EU law",
+    "authors": "Katja Langenbucher",
+    "abstract": "How should legislators and regulators cope with technological innovation in the field of financial services? Move quickly, top-down, to provide legal certainty – or let things develop bottom-up, with decentralised legislators and agency initiatives preparing the ground? Over the last years, stablecoins, i.e., crypto assets that are framed as payment instruments and promise stability through a peg to underlying reserves, have been a paradigm example for regulatory strategies and cultural differences between the U.S. and the EU. The U.S. has been inclined to take a bottom-up engagement, coupled with a distrust of government intervention, while the EU was more disposed towards quickly moving forward with comprehensive regulation, aimed at insulating financial consumers from anticipated harm.",
+    "keywords": [],
+    "url": "https://safe-frankfurt.de/publications/pub-details-startseite/publicationname/stablecoin-regulation-a-comparative-glance-at-us-and-eu-law.html",
+    "source": "SAFE Working Paper Series",
+    "publish_date": "Aug 2026",
+    "id": "2a0dc5552feb7eeb",
+    "topics": [
+      "区块链",
+      "稳定币"
+    ],
+    "primary_topic": "区块链",
+    "publish_date_norm": "2026-08-17",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:57.652512+00:00",
+    "title_zh": "稳定币监管——美国和欧盟法律的比较",
+    "abstract_zh": "立法者和监管者应如何应对金融服务领域的技术创新？快速、自上而下地采取行动，以提供法律确定性——或者让事情自下而上地发展，让分散的立法者和机构举措做好准备？在过去的几年里，稳定币，即被视为支付工具并通过与基础储备挂钩来保证稳定性的加密资产，一直是美国和欧盟之间监管策略和文化差异的典范。美国一直倾向于采取自下而上的参与方式，加上对政府干预的不信任，而欧盟则更倾向于迅速推进全面监管，旨在使金融消费者免受预期的伤害。"
+  },
+  {
+    "title": "Deprogramming Corporations",
+    "authors": "Mariana Pargendler",
+    "abstract": "This essay explores the agenda of “deprogramming” the orthodox approach to U.S. corporate law and scholarship. Prompted by the Law and Political Economy (LPE) project but drawing largely on the Law and Economics (L&E) movement it critiques, it argues that central L&E frameworks—modularity, corporate law as contract, agency costs, and corporate law as product—operate as blinders: they artificially narrow corporate law’s subject matter and obscure issues of externalities, inequality, corporate power, and geopolitics. Key L&E theories such as “nexus of contracts” and the “market for corporate control” were not purely technocratic concepts but interventions in a broader agenda, including efforts to delegitimize corporate social responsibility, cabin antitrust scrutiny of mergers, and limit government intervention in corporations. Yet some blinders, such as the fetishization of limited liability, persist not because of L&E, but despite the critical resources L&E supplies for overcoming them. Beyond mapping the familiar critical moves and calls for transformational institutional reform, this essay redirects attention to the overlooked social and political consequences of traditional corp",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/deprogramming-corporations",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-08-15T20:25:40+00:00",
+    "id": "23f6f6b3edf37899",
+    "topics": [
+      "公司并购",
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-08-15",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:41:59.045502+00:00",
+    "title_zh": "解除公司编程",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Institutional Ownership Overstates Voting Power: The Allocation of Voting Authority",
+    "authors": "Alon Brav, Tao Li",
+    "abstract": "Institutional ownership is commonly used to assess corporate governance influence, yet voting rights are often allocated through adviser-client relationships. We study how reported ownership translates into realized voting by reporting institutions and construct voting utilization, the fraction of reported ownership voted by the institution. Even among institutions that vote, the average institution votes 77 percent of its reported shares, and utilization varies substantially across institutions and firms. Advisers' stated allocation of voting authority strongly predicts which institutions vote. The largest institutional blockholders’ reported holdings overstate their realized voting control, implying that voting power is more diffuse than ownership suggests.",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/institutional-ownership-overstates-voting-power-the-allocation-of",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-08-11T06:24:25+00:00",
+    "id": "944372facd9d927f",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-08-11",
+    "week_of": "2026-08-17",
+    "date_added": "2026-08-17T03:42:00.311488+00:00",
+    "title_zh": "机构所有权夸大了投票权：投票权的分配",
+    "abstract_zh": "机构所有权通常用于评估公司治理影响力，但投票权通常通过顾问与客户关系来分配。我们研究报告的所有权如何转化为报告机构实现的投票，并构建投票利用率，即机构投票的报告所有权的比例。即使在投票机构中，平均机构也对其报告股份的 77% 进行投票，而且不同机构和公司的利用率差异很大。顾问所声明的投票权分配强烈预测了哪些机构投票。最大的机构大股东所报告的持股量夸大了他们已实现的投票控制权，这意味着投票权比所有权所暗示的更为分散。"
   }
 ];
 window.LAST_REPORT = {
-  "period_start": "2026-08-03",
-  "period_end": "2026-08-10",
-  "trend_summary": "本期（2026-08-03 至 2026-08-10）共收录 50 篇新文章，覆盖来源 7 个。从主题分布看，其他（16篇）、公司治理（9篇）、证券法（6篇）、司法和执法（4篇）、金融监管（3篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（17篇）、Harvard Law School Forum on Corporate Governance（10篇）、Columbia Law School Blogs (CLS Blue Sky Blog)（9篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
-  "generated_at": "2026-08-10 06:13:24"
+  "period_start": "2026-08-10",
+  "period_end": "2026-08-17",
+  "trend_summary": "本期（2026-08-10 至 2026-08-17）共收录 23 篇新文章，覆盖来源 5 个。从主题分布看，公司治理（7篇）、司法和执法（6篇）、其他（3篇）、公司并购（2篇）、证券法（2篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：Harvard Law School Forum on Corporate Governance（13篇）、Columbia Law School Blogs (CLS Blue Sky Blog)（6篇）、European Corporate Governance Institute (ECGI) working paper（2篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
+  "generated_at": "2026-08-17 03:42:01"
 };

@@ -4787,6 +4787,20 @@ window.SCHOLARS_DATA = [
         "authors": "Philipp Schnabl",
         "date": "",
         "abstract": "",
+        "url": "https://pages.stern.nyu.edu/~pschnabl/research/MST_hedging.pdf",
+        "scholar_name": "Philipp Schnabl",
+        "category": "金融",
+        "title_zh": "银行是否使用利率互换进行对冲？",
+        "abstract_zh": "",
+        "date_added": "2026-08-17T03:39:15.913958+00:00",
+        "week_of": "2026-08-17",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Do Banks Hedge Using Interest Rate Swaps?",
+        "authors": "Philipp Schnabl",
+        "date": "",
+        "abstract": "",
         "url": "https://pages.stern.nyu.edu/~pschnabl/research/MST_june2024.pdf",
         "scholar_name": "Philipp Schnabl",
         "category": "金融",
@@ -4905,20 +4919,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "金融公司和金融科技贷款机构在小企业贷款中的崛起",
         "abstract_zh": "",
         "date_added": "2026-07-30T21:13:46.129467+00:00",
-        "week_of": "2026-07-30",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "How Monetary Policy Shaped the Housing Boom",
-        "authors": "Philipp Schnabl",
-        "date": "",
-        "abstract": "",
-        "url": "https://pages.stern.nyu.edu/~pschnabl/research/DSS_Housing_Apr2021.pdf",
-        "scholar_name": "Philipp Schnabl",
-        "category": "金融",
-        "title_zh": "货币政策如何塑造房地产繁荣",
-        "abstract_zh": "",
-        "date_added": "2026-07-30T21:13:46.847031+00:00",
         "week_of": "2026-07-30",
         "source_method": "faculty_citations"
       }
@@ -8209,6 +8209,20 @@ window.SCHOLARS_DATA = [
     "profile_url": "https://sites.google.com/view/inakialdasoro",
     "tracking_status": "active",
     "literature": [
+      {
+        "title": "Insurers and real estate credit",
+        "authors": "Iñaki Aldasoro",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7264840",
+        "scholar_name": "Iñaki Aldasoro",
+        "category": "金融",
+        "title_zh": "保险公司和房地产信贷",
+        "abstract_zh": "",
+        "date_added": "2026-08-17T03:40:50.487289+00:00",
+        "week_of": "2026-08-17",
+        "source_method": "faculty_citations"
+      },
       {
         "title": "Stablecoin flows and spillovers to FX markets",
         "authors": "Iñaki Aldasoro",
