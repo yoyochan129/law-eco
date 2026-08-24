@@ -372,6 +372,34 @@ window.SCHOLARS_DATA = [
         "source_method": "faculty_citations"
       },
       {
+        "title": "Kenneth Ayotte & Jared Ellias,Bankruptcy team sports and the private equity playbook,inResearch Handbook on the Structure of Private Equity and Venture Capital(Brian Broughman & Elisabeth de Fontenay eds., 2026).",
+        "authors": "Jared A. Ellias",
+        "date": "2026",
+        "abstract": "",
+        "url": "http://doi.org/10.4337/9781803922577.00029",
+        "scholar_name": "Jared A. Ellias",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-08-24T04:03:46.192376+00:00",
+        "week_of": "2026-08-24",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Kenneth Ayotte & Jared Ellias, Bankruptcy team sports and the private equity playbook , in Research Handbook on the Structure of Private Equity and Venture Capital (Brian Broughman & Elisabeth de Fontenay eds., 2026).",
+        "authors": "Jared A. Ellias",
+        "date": "2026",
+        "abstract": "",
+        "url": "http://doi.org/10.4337/9781803922577.00029",
+        "scholar_name": "Jared A. Ellias",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-08-24T04:03:46.266034+00:00",
+        "week_of": "2026-08-24",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "Jared A. Ellias & Elisabeth de Fontenay,The Credit Markets Go Dark, 134Yale L.J.779 (2025).",
         "authors": "Jared A. Ellias",
         "date": "2025",
@@ -7561,6 +7589,20 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "Consumer attitudes towards a central bank digital currency",
+        "authors": "Luc Laeven",
+        "date": "",
+        "abstract": "",
+        "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3035~cde4bd616e.en.pdf?df63be59023239ac0bd2add6605b8e61",
+        "scholar_name": "Luc Laeven",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-08-24T04:07:19.656326+00:00",
+        "week_of": "2026-08-24",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "The rise of China in academic research",
         "authors": "Luc Laeven",
         "date": "",
@@ -7683,20 +7725,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "金融市场与绿色创新",
         "abstract_zh": "",
         "date_added": "2026-07-30T21:16:09.080389+00:00",
-        "week_of": "2026-07-30",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "Monetary policy, macroprudential policy and financial stability",
-        "authors": "Luc Laeven",
-        "date": "",
-        "abstract": "",
-        "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2647~0a0b3030e1.en.pdf?9e5a2a21dcbada9a0489d399f01c0be1",
-        "scholar_name": "Luc Laeven",
-        "category": "金融",
-        "title_zh": "货币政策、宏观审慎政策和金融稳定",
-        "abstract_zh": "",
-        "date_added": "2026-07-30T21:16:09.917655+00:00",
         "week_of": "2026-07-30",
         "source_method": "faculty_citations"
       }
