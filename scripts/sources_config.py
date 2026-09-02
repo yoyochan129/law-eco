@@ -162,6 +162,18 @@ SOURCES = [
                 "而非SSRN;Digital Commons提供公开RSS,可直接抓取完整摘要与作者",
     },
     {
+        "id": "voxeu",
+        "name": "VoxEU (CEPR)",
+        "type": "html_voxeu",
+        "page_url": "https://cepr.org/voxeu",
+        "status": "active",
+        "note": "cepr.org整体套着Cloudflare防护,VoxEU的搜索页"
+                "(voxeu/search-all-columns)和专栏详情页都会被拦截返回403,"
+                "但/voxeu这个首页列表本身可以正常访问,且标题/作者/发布日期"
+                "都直接展示在列表卡片上,足以满足抓取需要;因详情页拿不到,"
+                "摘要留空(与其他部分博客类来源做法一致)",
+    },
+    {
         "id": "nyu_law_econ",
         "name": "NYU Law & Economics Research Paper Series",
         "type": "pending",

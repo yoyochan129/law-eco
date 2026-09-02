@@ -276,6 +276,47 @@ def parse_html_yalejreg(source):
     return uniq
 
 
+def parse_html_voxeu(source):
+    """VoxEU(CEPR): cepr.org整体套着Cloudflare防护,专栏搜索页/详情页都会被
+    拦截返回403,但/voxeu首页本身可以正常访问,且标题/作者/发布日期都直接
+    展示在列表卡片(<article class="c-card">)上,不需要访问详情页就能拿到
+    这些信息;因详情页拿不到,摘要留空。首页同一篇文章可能在"最新"/
+    "编辑精选"等不同板块重复出现,这里按URL去重。
+    """
+    items = []
+    try:
+        resp = requests.get(source["page_url"], headers=HEADERS, timeout=TIMEOUT)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for card in soup.find_all("article", class_="c-card"):
+            title_el = card.select_one(".c-card__title-link")
+            if not title_el or not title_el.get("href"):
+                continue
+            title = title_el.get_text(strip=True)
+            href = title_el["href"]
+            full_url = "https://cepr.org" + href if href.startswith("/") else href
+            authors = [a.get_text(strip=True) for a in card.select(".c-card__meta-text--link")]
+            time_el = card.find("time")
+            pub_date = time_el.get_text(strip=True) if time_el else ""
+            items.append({
+                "title": title,
+                "authors": ", ".join(authors),
+                "abstract": "",
+                "keywords": [],
+                "url": full_url,
+                "source": source["name"],
+                "publish_date": pub_date,
+            })
+    except Exception as exc:
+        print(f"[warn] VoxEU fetch failed: {exc}")
+    seen = set()
+    uniq = []
+    for it in items:
+        if it["url"] not in seen:
+            seen.add(it["url"])
+            uniq.append(it)
+    return uniq
+
+
 def parse_ecgi(source):
     """ECGI working papers: 通过Drupal公开的 JSON:API 抓取(网页本身是前端JS渲染,
     但底层 https://www.ecgi.global/jsonapi/node/working_paper 端点可直接访问)"""
@@ -491,6 +532,7 @@ PARSERS = {
     "ecgi_jsonapi": parse_ecgi,
     "repec_series": parse_repec_series,
     "html_springer": parse_html_springer,
+    "html_voxeu": parse_html_voxeu,
 }
 
 
