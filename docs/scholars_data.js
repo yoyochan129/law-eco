@@ -4395,6 +4395,62 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "Book Value Risk Management of Banks: Limited Hedging, HTM Accounting, and Rising Interest Rates",
+        "authors": "Gregor Matvos",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4781916",
+        "scholar_name": "Gregor Matvos",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:36:34.396505+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Interest Rate Risk, Bank Stability, and Valuation",
+        "authors": "Gregor Matvos",
+        "date": "",
+        "abstract": "",
+        "url": "https://doi.org/10.1146/annurev-financial-120123-122455",
+        "scholar_name": "Gregor Matvos",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:36:34.486886+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Understanding Financial Advisor Misconduct",
+        "authors": "Gregor Matvos",
+        "date": "",
+        "abstract": "",
+        "url": "https://doi.org/10.1146/annurev-financial-111424-121857",
+        "scholar_name": "Gregor Matvos",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:36:34.584172+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Monetary Policy, Bank Fragility, and the Modern Financial Intermediation",
+        "authors": "Gregor Matvos",
+        "date": "",
+        "abstract": "",
+        "url": "https://doi.org/10.1146/annurev-economics-051624-060715",
+        "scholar_name": "Gregor Matvos",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:36:34.704069+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "Why is Intermediating Houses so Difficult? Evidence from iBuyers",
         "authors": "Gregor Matvos",
         "date": "",
@@ -4477,62 +4533,6 @@ window.SCHOLARS_DATA = [
         "date_added": "2026-07-30T21:13:14.288187+00:00",
         "week_of": "2026-07-30",
         "source_method": "faculty_citations"
-      },
-      {
-        "title": "When Harry Fired Sally: The Double Standard in Punishing Misconduct",
-        "authors": "Gregor Matvos",
-        "date": "",
-        "abstract": "",
-        "url": "http://ssrn.com/abstract=2931940",
-        "scholar_name": "Gregor Matvos",
-        "category": "金融",
-        "title_zh": "当哈利解雇莎莉时：惩罚不当行为的双重标准",
-        "abstract_zh": "",
-        "date_added": "2026-07-30T21:13:14.799402+00:00",
-        "week_of": "2026-07-30",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "Government and Private Household Debt Relief during COVID-19",
-        "authors": "Gregor Matvos",
-        "date": "",
-        "abstract": "",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770124",
-        "scholar_name": "Gregor Matvos",
-        "category": "金融",
-        "title_zh": "COVID-19 期间政府和私人家庭债务减免",
-        "abstract_zh": "",
-        "date_added": "2026-07-30T21:13:15.718875+00:00",
-        "week_of": "2026-07-30",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "The Market for Financial Adviser Misconduct",
-        "authors": "Gregor Matvos",
-        "date": "",
-        "abstract": "",
-        "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2739170",
-        "scholar_name": "Gregor Matvos",
-        "category": "金融",
-        "title_zh": "财务顾问不当行为市场",
-        "abstract_zh": "",
-        "date_added": "2026-07-30T21:13:16.851970+00:00",
-        "week_of": "2026-07-30",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "Financial Sanctions and the Global Payments Network",
-        "authors": "Gregor Matvos, Brent Neiman",
-        "date": "July 2026",
-        "abstract": "Financial sanctions are widely viewed as a powerful tool of economic statecraft, yet direct evidence on their effects remains limited. We study how sanctions affect access to global payment networks using data on correspondent banking relationships, which link banks across countries and currencies",
-        "url": "https://www.nber.org/papers/w35453",
-        "scholar_name": "Gregor Matvos",
-        "category": "金融",
-        "title_zh": "金融制裁和全球支付网络",
-        "abstract_zh": "金融制裁被广泛视为经济治国的强大工具，但其影响的直接证据仍然有限。我们利用代理行关系数据研究制裁如何影响全球支付网络的准入，代理行关系将不同国家和不同货币的银行联系起来",
-        "date_added": "2026-07-28T21:59:41.095743+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "nber_author"
       }
     ]
   },
@@ -4701,6 +4701,20 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "Investing in Customer Capital",
+        "authors": "Amir Sufi",
+        "date": "",
+        "abstract": "",
+        "url": "https://faculty.chicagobooth.edu/-/media/faculty/amir-sufi/research/he_mostrom_sufi_customercapital_202605.pdf",
+        "scholar_name": "Amir Sufi",
+        "category": "金融",
+        "title_zh": "投资客户资本",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:36:39.100146+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "A Goldilocks Theory of Fiscal Deficits",
         "authors": "Amir Sufi",
         "date": "",
@@ -4823,20 +4837,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "金融科技与客户资本",
         "abstract_zh": "与传统金融公司相比，金融科技（FinTech）公司对客户资本的投资要多得多，这种投资可以建立宝贵的客户资本。金融科技公司的投资增加并不是由行业重点或公司年龄差异造成的。较高的原因",
         "date_added": "2026-07-28T22:00:10.844677+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "nber_author"
-      },
-      {
-        "title": "The Lending Technology of Direct Lenders in Private Credit",
-        "authors": "Young Soo Jang, Dasol Kim, Amir Sufi, Xiangyu Chen",
-        "date": "November 2025",
-        "abstract": "We compare the lending technology of direct lenders, banks, and finance companies using a unique data set on secured borrowing by the universe of U.S.-based private middle market firms. The dramatic rise of direct lenders over the past 20 years is due to their comparative strength in providing",
-        "url": "https://www.nber.org/papers/w34500",
-        "scholar_name": "Amir Sufi",
-        "category": "金融",
-        "title_zh": "民间信贷直接贷款人的借贷技术",
-        "abstract_zh": "我们使用美国私人中间市场公司的担保借款的独特数据集来比较直接贷款机构、银行和金融公司的贷款技术。过去 20 年来，直接贷款机构的急剧崛起是由于它们在提供贷款方面的相对优势。",
-        "date_added": "2026-07-28T22:00:11.113162+00:00",
         "week_of": "2026-07-28",
         "source_method": "nber_author"
       }
@@ -5313,6 +5313,20 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "DISCOVEROrganisation chart",
+        "authors": "Hyun Song Shin",
+        "date": "",
+        "abstract": "",
+        "url": "https://www.bis.org/pages/governance-and-organisation/organigram-0826.pdf",
+        "scholar_name": "Hyun Song Shin",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:36:46.646146+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "PublicationFSI BriefsNo 3327 Aug 2026Regulating stablecoin issuance: permissible entities and activitiesRegulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance.",
         "authors": "Hyun Song Shin",
         "date": "2026",
@@ -5435,20 +5449,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "",
         "abstract_zh": "",
         "date_added": "2026-08-31T01:06:37.007161+00:00",
-        "week_of": "2026-08-31",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "PublicationFSI Occasional PapersNo 2723 Apr 2026Cryptoasset service providers as financial intermediaries: risks and policy approachesCryptoasset service providers (CASPs) have expanded well beyond their initial roles as trading platforms and custodial service providers. The largest firms now offer",
-        "authors": "Hyun Song Shin",
-        "date": "2026",
-        "abstract": "",
-        "url": "https://www.bis.org/publications/fsi-paper-27-cryptoasset-service-providers-financial-intermediaries-risks-and-policy-approaches",
-        "scholar_name": "Hyun Song Shin",
-        "category": "金融",
-        "title_zh": "",
-        "abstract_zh": "",
-        "date_added": "2026-08-31T01:06:37.097696+00:00",
         "week_of": "2026-08-31",
         "source_method": "faculty_citations"
       }
@@ -6026,6 +6026,20 @@ window.SCHOLARS_DATA = [
         "authors": "Darrell Duffie",
         "date": "",
         "abstract": "",
+        "url": "https://www.darrellduffie.com/uploads/1/4/8/0/148007615/jacksonhole2026-duffie.pdf",
+        "scholar_name": "Darrell Duffie",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:37:25.374406+00:00",
+        "week_of": "2026-09-07",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Tokenized Finance and The Perimeter of Central Banking",
+        "authors": "Darrell Duffie",
+        "date": "",
+        "abstract": "",
         "url": "https://www.darrellduffie.com/uploads/1/4/8/0/148007615/duffiejacksonhole2026.pdf",
         "scholar_name": "Darrell Duffie",
         "category": "金融",
@@ -6144,20 +6158,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "网络市场中的智能合约",
         "abstract_zh": "",
         "date_added": "2026-07-28T22:02:35.592830+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "Comment in response to the U.S. Treasury Department's Advanced Notice of Proposed Rulemaking on the Guiding and Establishing National Innovation for U.S. Stablecoins Act Implementation",
-        "authors": "Darrell Duffie",
-        "date": "",
-        "abstract": "",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5692624",
-        "scholar_name": "Darrell Duffie",
-        "category": "金融",
-        "title_zh": "针对美国财政部关于《美国稳定币法案实施指导和建立国家创新拟议规则制定的预先通知》的评论",
-        "abstract_zh": "",
-        "date_added": "2026-07-28T22:02:35.710619+00:00",
         "week_of": "2026-07-28",
         "source_method": "faculty_citations"
       }
@@ -6992,6 +6992,20 @@ window.SCHOLARS_DATA = [
         "abstract_zh": "",
         "date_added": "2026-07-28T22:27:49.988925+00:00",
         "week_of": "2026-07-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Irani, R., Almeida, H., Ersahin, N., Fos, S., & Kronlund, M. (2026). How Do Short-Term Incentives Affect Long-Term Productivity? Review of Financial Studies, Oxford University Press (OUP) . link >",
+        "authors": "Rustom M. Irani",
+        "date": "2026",
+        "abstract": "",
+        "url": "https://doi.org/10.1093/rfs/hhae064",
+        "scholar_name": "Rustom M. Irani",
+        "category": "金融",
+        "title_zh": "伊朗尼 (Irani, R.)、阿尔梅达 (Almeida, H.)、埃尔萨欣 (Ersahin, N.)、福斯 (Fos, S.) 和克朗伦德 (Kronlund, M.) (2026)。短期激励如何影响长期生产力？金融研究评论，牛津大学出版社 (OUP)。链接>",
+        "abstract_zh": "",
+        "date_added": "2026-09-07T05:38:34.440573+00:00",
+        "week_of": "2026-09-07",
         "source_method": "faculty_citations"
       }
     ]
