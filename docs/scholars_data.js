@@ -5716,6 +5716,34 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "Disappearing Dollar Convenience?",
+        "authors": "Arvind Krishnamurthy, Miguel Chumbo",
+        "date": "September 2026",
+        "abstract": "We measure the convenience yield on dollar safe assets over the last 5 years to answer this question. We find that within the set of U.S. dollar assets, safe asset convenience yields are about the same in 2025 as they were in 2019, and these levels are expected to persist for the next decade. Across",
+        "url": "https://www.nber.org/papers/w35742",
+        "scholar_name": "Arvind Krishnamurthy",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-14T05:40:48.887717+00:00",
+        "week_of": "2026-09-14",
+        "source_method": "nber_author"
+      },
+      {
+        "title": "Valuing the Dollar’s Reserve Currency Status",
+        "authors": "Zhengyang Jiang, Arvind Krishnamurthy, Hanno Lustig, Robert J. Richmond",
+        "date": "September 1, 2026",
+        "abstract": "The dollars role as the worlds primary reserve currency has allowed the United States to borrow more cheaply than other countries, an advantage that economists call the exorbitant privilege. Foreign central banks, investors, and institutions hold Treasury bonds and other dollar assets not just for",
+        "url": "https://www.nber.org/digest/202609/valuing-dollars-reserve-currency-status",
+        "scholar_name": "Arvind Krishnamurthy",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-14T05:40:49.710276+00:00",
+        "week_of": "2026-09-14",
+        "source_method": "nber_author"
+      },
+      {
         "title": "Dollar Erosion: Understanding the Loss of Reserve Currency Status",
         "authors": "Zhengyang Jiang, Arvind Krishnamurthy, Hanno Lustig, Robert J. Richmond",
         "date": "June 2026",
@@ -5824,34 +5852,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "世界其他地区美国国债的美元加权回报",
         "abstract_zh": "自 1980 年以来，外国投资者购买和出售美国国债的时机选择得特别低。他们的年度美元加权回报率（以购买和出售国债的内部回报率衡量）比买入低超过 3.26 个百分点 (pp)",
         "date_added": "2026-07-28T22:02:21.966196+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "nber_author"
-      },
-      {
-        "title": "The Demand for Money, Near-Money, and Treasury Bonds",
-        "authors": "Arvind Krishnamurthy, Wenhao Li",
-        "date": "May 2022",
-        "abstract": "Bank-created money, shadow-bank money, and Treasury bonds all satisfy investors' demand for a liquid transaction medium and safe store of value. We measure the quantity of these three forms of liquidity and their corresponding liquidity premium over a sample from 1934 to 2016. We empirically examine",
-        "url": "https://www.nber.org/papers/w30051",
-        "scholar_name": "Arvind Krishnamurthy",
-        "category": "金融",
-        "title_zh": "对货币、准货币和国债的需求",
-        "abstract_zh": "银行创造的货币、影子银行货币和国债都满足了投资者对流动性交易媒介和安全价值储存的需求。我们通过 1934 年至 2016 年的样本来衡量这三种形式的流动性数量及其相应的流动性溢价。我们实证检验",
-        "date_added": "2026-07-28T22:02:22.235826+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "nber_author"
-      },
-      {
-        "title": "Are US Treasury Bonds Still a Safe Haven?",
-        "authors": "Zhiguo He, Arvind Krishnamurthy",
-        "date": "October 19, 2020",
-        "abstract": "Safe assets are integral to the functioning of banks, financial markets, and the international financial system. Financial market participants use safe assets to meet liquidity and transaction needs, as high-quality collateral for loans and derivative contracts, and as default-free stores of value.",
-        "url": "https://www.nber.org/reporter/2020number3/are-us-treasury-bonds-still-safe-haven",
-        "scholar_name": "Arvind Krishnamurthy",
-        "category": "金融",
-        "title_zh": "美国国债仍然是避风港吗？",
-        "abstract_zh": "安全资产是银行、金融市场和国际金融体系运作不可或缺的一部分。金融市场参与者使用安全资产来满足流动性和交易需求，作为贷款和衍生品合约的优质抵押品，并作为无违约的价值储存手段。",
-        "date_added": "2026-07-28T22:02:22.535839+00:00",
         "week_of": "2026-07-28",
         "source_method": "nber_author"
       }
@@ -6202,6 +6202,20 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "Do Social Norms Substitute for Enforcement? Evidence from Public Officials’ Home Purchases in Singapore",
+        "authors": "Tomasz Piskorski, Amit Seru, Jian Zhang, Chun Zhao",
+        "date": "September 2026",
+        "abstract": "We study whether pro-integrity social norms can substitute for formal enforcement in deterring misconduct by public officials. Singapore, widely regarded as one of the worlds least corrupt countries, provides a sharp setting to examine whether decades of successful anti-corruption enforcement can",
+        "url": "https://www.nber.org/papers/w35756",
+        "scholar_name": "Tomasz Piskorski",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-14T05:41:00.665029+00:00",
+        "week_of": "2026-09-14",
+        "source_method": "nber_author"
+      },
+      {
         "title": "Banks vs. Private Credit Funds: A Balance-Sheet Comparison",
         "authors": "Gregor Matvos, Tomasz Piskorski, Amit Seru",
         "date": "June 1, 2026",
@@ -6324,20 +6338,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "2023 年货币紧缩和美国银行脆弱性：按市价计算的损失和未投保的储户挤兑？",
         "abstract_zh": "我们开发了一个概念框架和实证方法来分析利率上升对美国银行资产价值和银行稳定性的影响。我们根据 2022 年第一季度至 2023 年第一季度利率上升的情况对银行资产价值进行了按市值计价，结果显示平均下降了 10%，",
         "date_added": "2026-07-28T22:02:46.967381+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "nber_author"
-      },
-      {
-        "title": "Lessons from Pandemic-Related Debt Forbearance",
-        "authors": "Susan Cherry, Erica Xuewei Jiang, Gregor Matvos, Tomasz Piskorski, Amit Seru",
-        "date": "April 1, 2021",
-        "abstract": "Low-income and less creditworthy households were more likely to obtain debt forbearance during the pandemic, but 60 percent of the forbearance dollars went to households with above median incomes. T he Coronavirus Aid, Relief, and Economic Security (CARES) Act, enacted in March 2020, included a",
-        "url": "https://www.nber.org/digest/202104/lessons-pandemic-related-debt-forbearance",
-        "scholar_name": "Tomasz Piskorski",
-        "category": "金融",
-        "title_zh": "与流行病相关的债务减免的教训",
-        "abstract_zh": "低收入和信用较差的家庭在疫情期间更有可能获得债务减免，但 60% 的债务减免资金流向了收入中位数以上的家庭。 2020 年 3 月颁布的《冠状病毒援助、救济和经济安全 (CARES) 法案》包括",
-        "date_added": "2026-07-28T22:02:47.237098+00:00",
         "week_of": "2026-07-28",
         "source_method": "nber_author"
       }
@@ -8020,6 +8020,20 @@ window.SCHOLARS_DATA = [
     "profile_url": "https://www.financialresearch.gov/research-staff/details/dasol-kim/",
     "tracking_status": "active",
     "literature": [
+      {
+        "title": "“Non-Marginal” Investor Beliefs",
+        "authors": "William N. Goetzmann, Dasol Kim, Robert J. Shiller",
+        "date": "September 2026",
+        "abstract": "This paper provides evidence of how the beliefs of investors who step out of the market, or non-marginal investors, influence asset prices. Using more than two decades of respondent-level investor surveys, we construct wedge measures that quantify the distance between subjective investor beliefs and",
+        "url": "https://www.nber.org/papers/w35708",
+        "scholar_name": "Dasol Kim",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-14T05:42:15.410937+00:00",
+        "week_of": "2026-09-14",
+        "source_method": "nber_author"
+      },
       {
         "title": "The Lending Technology of Direct Lenders in Private Credit",
         "authors": "Young Soo Jang, Dasol Kim, Amir Sufi, Xiangyu Chen",
