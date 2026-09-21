@@ -2428,6 +2428,20 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "Faculty Disclosures re: Related Outside Interests and Activities",
+        "authors": "Howell E. Jackson",
+        "date": "",
+        "abstract": "",
+        "url": "https://hls-facdir-public-assets-prod.s3.us-east-2.amazonaws.com/coi/10423-coi.pdf",
+        "scholar_name": "Howell E. Jackson",
+        "category": "法学",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-21T05:47:42.556731+00:00",
+        "week_of": "2026-09-21",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "Dan Awrey, Howell E. Jackson & Timothy G. Massad,Stable Foundations: Towards a Robust and Bipartisan Approach to Stablecoin Legislation(Harvard Public Law Working Paper 25-19, 2025).",
         "authors": "Howell E. Jackson",
         "date": "",
