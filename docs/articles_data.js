@@ -16886,11 +16886,1753 @@ window.ARTICLES_DATA = [
     "date_added": "2026-09-21T05:52:46.705427+00:00",
     "title_zh": "",
     "abstract_zh": ""
+  },
+  {
+    "title": "Staying the Course: The State of 2026 U.S. Sustainability Reports",
+    "authors": "Diana Lee and Matt Filosa / Teneo",
+    "abstract": "Posted by Diana Lee and Matt Filosa, Teneo, on Sunday, September 27, 2026 Editor's Note: Diana Lee is a Managing Director and Matt Filosa is a Senior Managing Director at Teneo. This post is based on a Teneo memorandum by Ms. Lee, Mr. Filosa, Rose James, Heidi Park, and Allie Ross, all at Teneo. Introduction It has been a year since we published our 2025 State of U.S. Sustainability Reports . The sustainability landscape remains marked by heightened scrutiny and uncertainty, as ongoing political conflicts and evolving global regulation continue to shape the expectations of key stakeholders. For example, in the U.S., Republican state attorneys general continued to scrutinize company participation in climate initiatives, plastics and packaging and other sustainability-related activities. At the same time, California moved forward with mandatory climate disclosure requirements and Democratic states have scrutinized company rollbacks of diversity initiatives. Outside the U.S., the European Union continued efforts to simplify its sustainability reporting regime, while additional jurisdictions moved toward adopting disclosure requirements aligned with international frameworks (e.g., Inte",
+    "keywords": [
+      "Practitioner Publications",
+      "ISSB",
+      "S&P500",
+      "Sustainability",
+      "Sustainability reporting"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/27/staying-the-course-the-state-of-2026-u-s-sustainability-reports/?utm_source=rss&utm_medium=rss&utm_campaign=staying-the-course-the-state-of-2026-u-s-sustainability-reports",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sun, 27 Sep 2026 11:30:27 +0000",
+    "id": "0b45b0eb48b85988",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-27",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:17:53.477576+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "2026 Say on Pay Recap: Strong Results and Evolving ﻿Voting Dynamics",
+    "authors": "",
+    "abstract": "Posted by Emily Chase, Perla Cuevas, and Linda Pappas, Pay Governance LLC, on Saturday, September 26, 2026 Editor's Note: Emily Chase and Perla Cuevas are Consultants and Linda Pappas is a Principal at Pay Governance LLC. This post is based on their Pay Governance memorandum. KEY TAKEAWAYS 2026 is shaping up to be the strongest Say-on-Pay (SOP) season in recent history. Average S&P 500 SOP support reached 90.3%, the only time above 90% in the past 5 years. Low support is less prevalent. Only 5% of companies received less than 70% support in 2026, down from 11% in 2022. Strong S&P 500 total shareholder return (TSR) coincided with favorable SOP results. Since 2024, SOP failures have remained at 1% of S&P 500 proposals while one-, three-, and five-year TSR results were strongly positive. Influence of proxy advisor SOP opposition continues to deteriorate. Institutional Shareholder Services (ISS) opposition declined to 9% year-over-year, while Glass Lewis (GL) opposition increased slightly to 13%. When both proxy advisors opposed SOP this season, only 19% failed to receive majority shareholder support, down from 50% in 2022. The “big five” investors continue to take a selective approach",
+    "keywords": [
+      "Practitioner Publications",
+      "Proxy Advisor",
+      "S&P 500",
+      "Say on pay",
+      "TSR"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/26/2026-say-on-pay-recap-strong-results-and-evolving-voting-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=2026-say-on-pay-recap-strong-results-and-evolving-voting-dynamics",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sat, 26 Sep 2026 11:30:06 +0000",
+    "id": "bf85e87d3a944d5e",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-26",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:17:54.868271+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SEC Issues “Innovation Exemption” for Tokenized Securities",
+    "authors": "",
+    "abstract": "Posted by Colin D. Lloyd, Marie-Louise M. Huth, and Mario Schollmeyer, Sullivan & Cromwell LLP, on Friday, September 25, 2026 Editor's Note: Colin D. Lloyd, Marie-Louise M. Huth and Mario Schollmeyer are Partners at Sullivan & Cromwell LLP. This post is based on a Sullivan & Cromwell memorandum by Mr. Lloyd, Ms. Huth, Mr. Schollmeyer, Natasha Vasan, James M. Shea Jr., and Rebecca J. Simmons, all at Sullivan & Cromwell. Summary On September 17, 2026, the Securities and Exchange Commission issued two five-year, conditional exemptions to facilitate the permissioned trading of “Tokenized NMS Stock” through automated market makers (“AMMs”) and liquidity pools (together, “AMM Liquidity Pools”): an exemption from the definition of “exchange” for Tokenized Securities Venues (“TSVs”); and an exemption from the definition of “dealer” for certain liquidity providers in an AMM Liquidity Pool that supplies liquidity to the liquidity pool in the form of Tokenized NMS Stock. Together, these exemptions allow certain venues that use AMM Liquidity Pools to facilitate trading tokenized versions of certain listed U.S. stocks without registration as a national securities exchange or alternative trading",
+    "keywords": [
+      "Practitioner Publications",
+      "NMS",
+      "SEC",
+      "Tokenized Securities",
+      "TSVs"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/25/sec-issues-innovation-exemption-for-tokenized-securities/?utm_source=rss&utm_medium=rss&utm_campaign=sec-issues-innovation-exemption-for-tokenized-securities",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Fri, 25 Sep 2026 11:32:01 +0000",
+    "id": "003c407cf7aa3942",
+    "topics": [
+      "区块链"
+    ],
+    "primary_topic": "区块链",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:17:56.182004+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Weekly Roundup: September 18-24, 2026",
+    "authors": "",
+    "abstract": "Posted by the Harvard Law School Forum on Corporate Governance, on Friday, September 25, 2026 Editor's Note: This roundup contains a collection of the posts published on the Forum during the week of September 18-24, 2026 Remarks by Chairman Atkins on 24-Hour Trading Posted by Paul Atkins, U.S. Securities and Exchange Commission, on Friday, September 18, 2026 Tags: DTCC , investors , SEC , Trading Statement by Commissioner Peirce on the Innovation Exemption Posted by Hester M. Peirce, U.S. Securities and Exchange Commission, on Friday, September 18, 2026 Tags: Corporate Goverance , Crypto , Crypto Task Force , TSVs Forced CEO Departures Posted by Matteo Tonello, The Conference Board, on Saturday, September 19, 2026 Tags: Board of Directors , CEOs , Russell 3000 , S&P 500 The Risks of Designated Directorships—Current Guidance for Directors and Those Who Appoint Them Posted by Brian Massengill, Craig Frame, and Andrew Noreuil, Mayer Brown LLP, on Sunday, September 20, 2026 Tags: Boards of Directors , Corporate Goverance , delaware , Delaware law A Breakout Year for CVRs: 2025 and First-Half 2026 Trends in Life Sciences Public M&A Posted by Sally Wagner Partin and Sharon Flanagan, Sidl",
+    "keywords": [
+      "Weekly Roundup"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/25/weekly-roundup-september-18-24-2026/?utm_source=rss&utm_medium=rss&utm_campaign=weekly-roundup-september-18-24-2026",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Fri, 25 Sep 2026 11:30:13 +0000",
+    "id": "35349277a3362da9",
+    "topics": [
+      "公司治理",
+      "公司并购"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:17:57.618267+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Rescission of Rule 14a-8: Anticipating the Potential Evolution of Shareholder Engagement Strategies",
+    "authors": "",
+    "abstract": "Posted by Carmen Lu and Frances Mi, Paul, Weiss, Rifkind, Wharton & Garrison LLP, on Thursday, September 24, 2026 Editor's Note: Carmen X. Lu and Frances F. Mi are Partners at Paul, Weiss, Rifkind, Wharton & Garrison LLP. This post is based on their Paul Weiss memorandum. As anticipated, the U.S. Securities and Exchange Commission (the “SEC”) has proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934. The SEC has also proposed to close the Rule 14a-4(c) “loophole,” which has inadvertently allowed shareholders who file their own proxy materials to add multiple shareholder proposals to a company’s proxy card. The rescission of Rule 14a-8 and the closure of the Rule 14a-4(c) loophole would mean that shareholders would need to turn to a company’s governing documents to propose business at an annual meeting. With the exception of Texas, which last year adopted ownership and solicitation requirements for shareholder proposals, no other state has enacted legislation governing shareholder proposals. Rule 14a-8 will likely remain effective for most if not all of the 2026-27 proxy season, and the proposed rescission could be challenged in the courts. However, the SEC has al",
+    "keywords": [
+      "Practitioner Publications",
+      "Proxy season",
+      "Rule 14a-8",
+      "SEC",
+      "Shareholder proposals"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/24/rescission-of-rule-14a-8-anticipating-the-potential-evolution-of-shareholder-engagement-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=rescission-of-rule-14a-8-anticipating-the-potential-evolution-of-shareholder-engagement-strategies",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Thu, 24 Sep 2026 11:32:11 +0000",
+    "id": "b5214004527a917c",
+    "topics": [
+      "公司治理",
+      "证券法"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:17:59.153988+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Dodiya v. Franklin and the Emerging Rules of the DGCL’s Section 144 Safe Harbors",
+    "authors": "",
+    "abstract": "Posted by John Butler, Adam Cromie, David Grubman, Sidley Austin LLP, on Thursday, September 24, 2026 Editor's Note: John Butler, Adam Cromie, David Grubman are Partners at Sidley Austin LLP. This post is based a Sidley memorandum by Mr. Butler, Mr. Cromie, Mr. Grubman, Courtney Hauck, Arthur Adler, all at Sidley, and is part of the Delaware Law Series ; links to other posts in the series are available here . On August 26, 2026, the Court of Chancery issued Dodiya v. Franklin , C.A. No. 2025-0932-LWW (Del. Ch. Aug. 26, 2026), concluding that the “striking breakdown in corporate governance” detailed in the complaint made the “predictable path to safe harbor” under amended Section 144 of the Delaware General Corporation Law (DGCL) unavailable at the pleading stage. Dodiya’s message for boards is simple: the safe harbors deliver powerful protection, particularly by virtue of the presumption of disinterestedness afforded to directors determined to be independent for listing standard purposes, but only to boards that (i) run a process that is not grossly negligent and (ii) provide materially accurate disclosure to stockholders. (more…)",
+    "keywords": [
+      "Delaware Law Series",
+      "Practitioner Publications",
+      "CEOs",
+      "Corporate governance",
+      "DGCL",
+      "Dodiya v. Franklin"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/24/dodiya-v-franklin-and-the-emerging-rules-of-the-dgcls-section-144-safe-harbors/?utm_source=rss&utm_medium=rss&utm_campaign=dodiya-v-franklin-and-the-emerging-rules-of-the-dgcls-section-144-safe-harbors",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Thu, 24 Sep 2026 11:30:23 +0000",
+    "id": "5c79893f0ced2f31",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:00.453427+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The CEO Decision: How PE Investors Select and Reassess Leaders from Entry to Exit",
+    "authors": "",
+    "abstract": "Posted by Emily Taylor, Heather Hammond, and Courtney Byrne, Russell Reynolds Associates, on Wednesday, September 23, 2026 Editor's Note: Emily Taylor and Heather Hammond are Consultants, and Courtney Byrne is an Associate at Russell Reynolds Associates. This post is based on their Russell Reynolds memorandum. For much of the past decade, private equity (PE) performance has benefited from favorable market conditions. Cheap financing, easy multiple expansion and relatively short hold periods meant that even subpar execution could produce attractive returns. [1] These conditions peaked in 2021 and early 2022, when abundant capital, intense competition for assets and supportive financing markets drove deal activity and valuations to record levels. Many sponsors moved quickly to acquire companies at elevated entry multiples and underwrote ambitious growth plans. Since then, the operating environment has become far more challenging. Higher interest rates, more volatile financing conditions and uncertain exit markets have coincided with geopolitical uncertainty, tariffs and supply chain disruption, and rapid advances in AI. Together, these forces have altered many of the assumptions unde",
+    "keywords": [
+      "Practitioner Publications",
+      "Board of Directors",
+      "CEOs",
+      "investors",
+      "Private equity"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/23/the-ceo-decision-how-pe-investors-select-and-reassess-leaders-from-entry-to-exit/?utm_source=rss&utm_medium=rss&utm_campaign=the-ceo-decision-how-pe-investors-select-and-reassess-leaders-from-entry-to-exit",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 23 Sep 2026 11:32:16 +0000",
+    "id": "eb3f70d3bfa9df6d",
+    "topics": [
+      "公司并购",
+      "私募信贷"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:01.876931+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SEC Proposes to Rescind Rule 14a-8",
+    "authors": "",
+    "abstract": "Posted by Jennifer Zepralka, Ali Perry, and Liz Walsh, Mayer Brown LLP, on Wednesday, September 23, 2026 Editor's Note: Jennifer Zepralka is a Partner, and Ali Perry and Liz Walsh are Counsels at Mayer Brown LLP. This post is based on a Mayer Brown memorandum by Ms. Zepralka, Ms. Perry, Ms. Walsh, and Christopher Nickas . In an awaited but not surprising proposing release, on September 16, 2026, the Securities and Exchange Commission (the “SEC” or the “Commission”) proposed rescinding Rule 14a-8 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which governs the processes under which a shareholder may include a proposal in a public company’s proxy materials. The SEC also proposed to amend Rule 14a-4(c) to expand the circumstances under which a company may exercise, with respect to proxies it receives, discretionary voting authority on proposals that will be presented at a shareholder meeting but not included in the company’s proxy materials. This proposal (the “Rule 14a-8 Rescission Release”) marks a significant change in the Commission’s view of the federal government’s role in interactions between companies and their shareholders. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "Proxy season",
+      "Rule 14a-8",
+      "SEC",
+      "Shareholder proposals"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/23/sec-proposes-to-rescind-rule-14a-8/?utm_source=rss&utm_medium=rss&utm_campaign=sec-proposes-to-rescind-rule-14a-8",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 23 Sep 2026 11:30:17 +0000",
+    "id": "b5b780ab63547cb3",
+    "topics": [
+      "公司治理",
+      "证券法"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:03.411253+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Compensation Clawbacks – Surveying the Disclosures to Date",
+    "authors": "",
+    "abstract": "Posted by Mark Borges, Hannah Orowitz, and Brigid Rosati, Compensia, on Tuesday, September 22, 2026 Editor's Note: Mark Borges and Hannah Orowitz are Principals and Brigid Rosati is a Senior Consultant at Compensia. This post is based on their Compensia memorandum. As we approach the third anniversary of the date when incentive compensation “received” is subject to clawback, we have taken a closer look at the disclosures companies have made since implementation. This Thoughtful Pay Alert summarizes our findings from reviewing publicly available disclosures of “recovery analyses” conducted between January 1, 2024 and June 30, 2026. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "Clawbacks",
+      "disclosures",
+      "Executive Compensation",
+      "SEC"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/22/compensation-clawbacks-surveying-the-disclosures-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=compensation-clawbacks-surveying-the-disclosures-to-date",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 22 Sep 2026 11:32:51 +0000",
+    "id": "f9530716862527a0",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:04.870102+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "FDA and SEC Open a New Information-Sharing Channel: Implications for Public Life Sciences Companies",
+    "authors": "",
+    "abstract": "Posted by Paul Rubin, Paul Rodel, and Melissa Runsten, Debevoise & Plimpton LLP, on Tuesday, September 22, 2026 Editor's Note: Paul Rubin and Paul Rodel are Parterns, and Melissa Runsten is a Counsel at Debevoise & Plimpton LLP. This post is based on their Debevoise memorandum. Key Takeaways: The U.S. Food and Drug Administration and Securities and Exchange Commission recently announced a new three-year Memorandum of Understanding (“MOU”) establishing a formal framework for the agencies to exchange nonpublic information concerning FDA-regulated products, activities and companies. For pharmaceutical, biotechnology and medical-device companies that are publicly traded or otherwise are SEC-reporting companies, the MOU could have significant implications for disclosures concerning clinical trials, FDA interactions, product approvals, manufacturing and inspection developments, and other regulatory matters that may be material to investors. Although the MOU does not change the securities-law disclosure standard, it likely makes it easier for SEC staff to test a company’s account of an FDA interaction against FDA’s own contemporaneous record. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "FDA",
+      "MOU",
+      "SEC",
+      "U.S. Food and Drug Administration"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/22/fda-and-sec-open-a-new-information-sharing-channel-implications-for-public-life-sciences-companies/?utm_source=rss&utm_medium=rss&utm_campaign=fda-and-sec-open-a-new-information-sharing-channel-implications-for-public-life-sciences-companies",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 22 Sep 2026 11:30:43 +0000",
+    "id": "7312f19d23b216cc",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:06.095325+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "2026 U.S. Compensation Post Season Review: Strong Investor Support Despite Resurgence of One-Time Grants",
+    "authors": "Subodh Mishra / ISS STOXX",
+    "abstract": "Posted by Subodh Mishra, ISS STOXX, on Monday, September 21, 2026 Editor's Note: Subodh Mishra is the Global Head of Communications at ISS STOXX. This post is based on an ISS STOXX by Pranav Pradeep, Compensation & Governance Advisor; Tim Sessing, Compensation & Governance Advisor; & Chris Sayo, Data Analytics, at ISS-Corporate. Key Takeaways CEO pay continued to climb to record levels in fiscal 2025, with median S&P 500 CEO compensation reaching $17.5 million, while median pay among Russell 3000 companies (excluding the S&P 500) remained relatively stable; Equity compensation remained the primary driver of CEO pay growth, as companies increased long-term incentive award values and expanded both the prevalence and magnitude of one-time equity grants; The prevalence of CEO security perquisites in the S&P 500 continued to increase sharply, and the Russell 3000 has followed suit; Say-on-Pay (SOP) support climbed to five-year highs across both the S&P 500 and Russell 3000, while SOP failures reached multi-year lows; Potential changes in SEC rulings may fundamentally alter compensation disclosure and voting in years to come. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "Board Compensation",
+      "CEOs",
+      "Corporate Goverance",
+      "investors",
+      "noemail"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/21/2026-u-s-compensation-post-season-review-strong-investor-support-despite-resurgence-of-one-time-grants-2/?utm_source=rss&utm_medium=rss&utm_campaign=2026-u-s-compensation-post-season-review-strong-investor-support-despite-resurgence-of-one-time-grants-2",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 21 Sep 2026 13:51:40 +0000",
+    "id": "52585849ae7909d1",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-21",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:07.517547+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "A Breakout Year for CVRs: 2025 and First-Half 2026 Trends in Life Sciences Public MA",
+    "authors": "Sally Wagner Partin and Sharon Flanagan / Sidley Austin LLP",
+    "abstract": "Posted by Sally Wagner Partin and Sharon Flanagan, Sidley Austin LLP, on Monday, September 21, 2026 Editor's Note: Sally Wagner Partin and Sharon R. Flanagan are Partners at Sidley Austin LLP. This post is based on their Sidley Austin memorandum. Three years after our first survey documented the reemergence of contingent value rights (“CVRs”) in public life sciences M&A, 2025 marked their biggest year yet. A record 28 of 59 announced public life sciences transactions (approximately 47%) included a CVR, the highest ever annual count and share. The concentration was even greater in biopharma, where over half of announced public biopharma transactions included a CVR. CVRs also moved upmarket and carried more of the potential deal value. More than a third (approximately 37%) of the $1 billion-plus life sciences CVR deals in our full dataset (going back to 2008) were announced in 2025 and the first half of 2026. Moreover, nearly half of all life sciences CVR deals above $3 billion were announced in 2025 and the first half of 2026, with two additional CVR deals over $3 billion announced since June 30, 2026. In addition, 2025 produced more CVRs with maximum potential payouts exceeding 100",
+    "keywords": [
+      "Practitioner Publications",
+      "Corporate Goverance",
+      "CVRs",
+      "M&A",
+      "Surveys"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/09/21/a-breakout-year-for-cvrs-2025-and-first-half-2026-trends-in-life-sciences-public-ma/?utm_source=rss&utm_medium=rss&utm_campaign=a-breakout-year-for-cvrs-2025-and-first-half-2026-trends-in-life-sciences-public-ma",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 21 Sep 2026 11:30:01 +0000",
+    "id": "240c9d9ed8d7acc0",
+    "topics": [
+      "公司并购"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-09-21",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:08.859103+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Does Loss of Natural Assets Raise Public Borrowing Costs?",
+    "authors": "renholding",
+    "abstract": "Forests, fisheries, freshwater, and biodiversity are not only environmental resources. They also support economic activity and growth. When these natural assets deteriorate, the consequences can ripple through the economy and potentially affect the cost of government financing. Governments are central to protecting nature, and issuing sovereign green bonds is one way to finance environmental projects such as renewable energy, clean transportation, biodiversity conservation, sustainable water management, and forestry. But do investors consider a country’s natural assets when pricing its green debt? Do promises to protect the environment affect borrowing costs, or do investors wait for evidence that projects have actually been implemented? In a new paper, we examine sovereign green bonds issued between 2016 and 2024, and then study more than 15,000 municipal green bonds to determine whether our findings extend from national to local public finance. In addition to bond-market information, we use issuers’ green bond frameworks, allocation reports, and impact reports to distinguish between governments’ stated intentions and their subsequent efforts. Three findings stand out. First, natu",
+    "keywords": [
+      "Finance & Economics",
+      "environmental protection",
+      "green bonds",
+      "municipal bonds",
+      "natural assets",
+      "sovereign green bonds"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/28/does-loss-of-natural-assets-raise-public-borrowing-costs/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Mon, 28 Sep 2026 04:05:36 +0000",
+    "id": "9dfc56c09e3b9319",
+    "topics": [
+      "绿色金融"
+    ],
+    "primary_topic": "绿色金融",
+    "publish_date_norm": "2026-09-28",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:10.146193+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Sullivan & Cromwell Discusses California Bill on Lawyers’ Use of Generative AI",
+    "authors": "martinyerovi",
+    "abstract": "On August 31, 2026, the California Legislature unanimously passed Senate Bill 574, a “first-in-the-nation” law that would establish statutory requirements governing the use of generative artificial intelligence by attorneys, arbitrators, judicial officers, and alternative dispute resolution providers. [1] The bill provides that an attorney “shall not delegate the practice of law to generative artificial intelligence.” [2] An attorney would be prohibited from entering “confidential, personal identifying, and other nonpublic information” into generative AI unless access to that information is restricted to the attorney and authorized persons obligated to protect its confidentiality. [3] Attorneys would also be required to take “reasonable steps” to “verify the accuracy” of AI outputs, including “all case and statutory citations,” and to “[c]orrect any erroneous or hallucinated output” in materials they use. [4] In addition, attorneys would be required to “[d]isclose the use of generative artificial intelligence to the court” for all court submissions and to consider disclosure of AI use for any content provided to the public. [5] Separately, the bill would also prohibit any paper fil",
+    "keywords": [
+      "Artificial Intelligence",
+      "cyber",
+      "AI",
+      "artificial intelligence",
+      "california",
+      "confidential information",
+      "generative AI",
+      "lawyers and AI"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/28/sullivan-cromwell-discuss-california-bill-on-lawyers-use-of-generative-ai/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Mon, 28 Sep 2026 04:01:36 +0000",
+    "id": "9c811b25aab7e5ef",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-28",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:11.595039+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Wachtell Lipton Discusses SEC Enforcement Division’s Signal of Faster Investigations",
+    "authors": "renholding",
+    "abstract": "On September 18, 2026, SEC Division of Enforcement Director David Woodcock delivered remarks before the 12th Annual Government Enforcement Institute in Dallas, his most substantive public address since assuming the role in May. In our year-end memorandum, we observed that the SEC was continuing to conduct significant investigations notwithstanding the sharp decline in enforcement statistics. Director Woodcock confirmed as much, rejecting case counts and aggregate recoveries as measures of enforcement quality and committing the Division to a “strong and visible” enforcement program that will “aggressively pursue” fraud, insider trading, and compliance failures. Director Woodcock also highlighted several ways in which the Division intends to accelerate the progress of investigations. In prior remarks , Director Woodcock had emphasized the Commission’s commitment to pre-enforcement dialogue and observed that “the days when a subpoena was our primary tool of communication are behind us.” He has now confirmed that commitment, but balanced it against the Division’s interest in moving matters quickly. Earlier detection and a narrower window to self-report . Director Woodcock stated that t",
+    "keywords": [
+      "Securities Regulation",
+      "Forms 8-K",
+      "SEC",
+      "SEC Division of Enforcement",
+      "SEC Enforcement",
+      "SEC investigations",
+      "Securities and Exchange Commission"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/25/wachtell-lipton-discusses-sec-enforcement-divisions-signal-of-faster-investigations/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Fri, 25 Sep 2026 04:05:44 +0000",
+    "id": "15f3819a825e46d6",
+    "topics": [
+      "证券法"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:13.220606+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Gladstone Place Discusses Where AI Is Adding Value in Investor Relations",
+    "authors": "renholding",
+    "abstract": "AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by Gladstone Place Partners that canvassed IR practitioners, advisors, and other industry leaders to better understand how AI is changing the investor relations function. Nearly 40% of those surveyed see a “dramatic change” from bringing AI tools into the IR profession, while about half said AI made some aspects “easier” but otherwise had little impact. The reality: Most IR professionals see evolution rather than revolution, primarily leveraging AI to research, challenge, and refine assumptions, with applications also emerging across proxy voting and governance work. Here are the results of the survey and five themes for IR practitioners to consider: Useful Enhancement With Broad Application Most IR practitioners agree that AI is a useful support tool. They see meaningful potential to support both institutional and retail investor targeting and engagement. The promise of AI in IR will continue to grow as retail participation increases and pas",
+    "keywords": [
+      "Corporate Governance",
+      "AI",
+      "artificial intelligence",
+      "investor relations"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Fri, 25 Sep 2026 04:01:19 +0000",
+    "id": "201b13ddc1e1a118",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:14.619267+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Guilt and Shame, from Homer to Corporate America",
+    "authors": "renholding",
+    "abstract": "In the Iliad and the Odyssey, heroes are only what society says they are. What constrains the likes of Achilles and Odysseus, then, is not fear of the gods or some codified prohibitions, but models of honor and the gaze of others. In a new article , I argue that American corporations have increasingly become subject to a comparable mode of constraint. Corporate law remains what it has long been: codified prohibitions, adjudicating authorities, and punishment. Alongside it, however, operates a system of social ordering, in which anticipated public judgment does much of the work. I call the resulting structure a guilt-shame model. Corporate law scholarship has shown, with growing sophistication, that values shape corporate conduct beyond what formal law captures. What is missing is a theory of the judgment itself, with the granularity that classicists and anthropologists have long brought to honor and shame. My article fills that gap. Two Models of Social Ordering In a guilt culture, conduct is regulated through codified prohibitions applied by an adjudicating authority, and conscience is internalized. In a shame culture, conduct is measured against aspirational models and assessed b",
+    "keywords": [
+      "Corporate Governance",
+      "corporate law",
+      "fiduciary duties",
+      "Homer",
+      "Odyssey",
+      "public opinion",
+      "securities regulation",
+      "shame culture",
+      "social ordering"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/24/guilt-and-shame-from-homer-to-corporate-america/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Thu, 24 Sep 2026 04:05:39 +0000",
+    "id": "e554f4573644a58d",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:16.307148+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Weil Discusses How New SEC Staff Guidance May Ease Constraints on Shareholder Engagement for Schedule 13G Filers",
+    "authors": "martinyerovi",
+    "abstract": "On September 2, 2026, the staff of the SEC’s Division of Corporation Finance issued three new interpretations addressing when a shareholder reporting beneficial ownership on Schedule 13G may engage with an issuer or with participants in a proxy contest without forfeiting its eligibility to remain on Schedule 13G. The new guidance is a welcome clarification of the staff’s February 2025 interpretations, which had an immediate chilling effect on communications between public companies and their significant institutional shareholders. In this Alert we discuss the new interpretations and provide important takeaways for companies and their 13G institutional investors. Background Schedule 13G offers greater-than-5% beneficial owners a streamlined alternative to Schedule 13D, but most filers must certify that they do not hold the securities with the “purpose or effect of changing or influencing the control of the issuer.” In February 2025, the SEC staff revised Question 103.11 and added Question 103.12 to its interpretations under Regulation 13D-G, taking the position that a shareholder’s stewardship engagement (for example, recommending governance, compensation or policy changes while exp",
+    "keywords": [
+      "Corporate Governance",
+      "Securities Regulation",
+      "Division of Corporation Finance",
+      "proxy contest",
+      "Schedule 13G",
+      "SEC",
+      "Securities and Exchnage Commission",
+      "Shareholder Reporting"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/24/weil-discusses-how-new-sec-staff-guidance-may-ease-constraints-on-shareholder-engagement-for-schedule-13g-filers/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Thu, 24 Sep 2026 04:01:07 +0000",
+    "id": "638838db4a7c8ad4",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:17.837313+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Does Board Gender Diversity Temper Regulatory Enforcement?",
+    "authors": "renholding",
+    "abstract": "In a new paper, we examine whether the gender composition of companies’ boards affects the Securities and Exchange Commission’s (SEC’s) decision to investigate those companies and, ultimately, to pursue regulatory enforcement. We consider three related reasons why firms with more women on their boards may face less SEC scrutiny. First, prior research suggests that female directors are associated with stronger monitoring, less risk-taking, and higher-quality financial reporting. Consistent with this view, we find that firms with more female directors have fewer red flags, including restatements, securities litigation, and extreme decreases in stock prices. Second, regulators may view greater female representation as a signal of stronger governance, particularly when they must allocate limited enforcement resources across many firms. Finally, SEC leaders’ public encouragement of gender equality may prompt them to give more diverse firms less scrutiny. Our results suggest a strong negative relation between female board representation and the opening of SEC investigations. Companies with at least 35% female directors are investigated 26% less often than the average of all companies. Id",
+    "keywords": [
+      "Securities Regulation",
+      "board diversity",
+      "gender diversity",
+      "SEC",
+      "SEC investigaitons",
+      "Securities and Exchange Commission",
+      "securities enforcement"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/23/does-board-gender-diversity-temper-regulatory-enforcement/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Wed, 23 Sep 2026 04:05:10 +0000",
+    "id": "3ea8de273eaa5996",
+    "topics": [
+      "证券法"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:19.360315+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Wachtell Lipton Discusses Ten Shareholder Activism Trends for 2027",
+    "authors": "renholding",
+    "abstract": "Last year, we identified ten trends that we expected to shape shareholder activism in 2026. Those trends included: increasing M&A-focused activism, emboldened occasional activists, less visibility into shareholder views, the normalization of serving as a dissident nominee, and more “withhold” campaigns. The 2026 proxy season has largely borne out our expectations. Activism continued at elevated levels globally in the first half of 2026. Approximately 40% of campaigns involved an M&A-related thesis, fueled by a constructive regulatory and financial environment. However, the high volume of activism has not translated into a corresponding increase in proxy fights going to a vote. Settlements remain the principal mechanism for resolution, with a significant number of settlements being announced prior to any public agitation by the activist. The proxy voting system is also becoming more fragmented, and therefore less predictable, as the “Big Three” institutional investors split their voting teams, pass-through voting becomes more prevalent, and large investors increasingly incorporate AI into their voting models. Against this backdrop, we expect the following ten trends for the year ahe",
+    "keywords": [
+      "Corporate Governance",
+      "AI",
+      "artificial intelligence",
+      "M&A-focused activism",
+      "proxy advisers",
+      "proxy battles",
+      "proxy season",
+      "shareholder activism"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/23/wachtell-lipton-discusses-ten-shareholder-activism-trends-for-2027/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Wed, 23 Sep 2026 04:01:26 +0000",
+    "id": "94966e85748303f7",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:20.725171+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "When Are Insider Purchases Credible Signals of Private Information?",
+    "authors": "renholding",
+    "abstract": "Empirical evidence shows that investors respond to corporate insiders’ open market purchases by increasing the company’s stock price, reflecting that insiders possess private information indicating that the firm is undervalued. Consistent with that evidence, in a new paper we find that the market reaction to insider purchases over a 5-day window starting at the Form 4 filing is significantly positive and approximately 2%. Moreover, prior studies find that when investors have far less information than corporate insiders do, their market reaction to insider purchases is even more positive as it resolves investors’ uncertainty. In the period after acquisitions, investors face high uncertainty about how the integration of the target into the acquirer is progressing and whether the acquirer is realizing synergies. This creates information asymmetry because insiders know more about how the integration is going. Therefore, on the one hand, investors can potentially put greater value on insider purchases in post-acquisition periods, interpreting them as a signal that the integration is going better than expected. On the other hand, insiders face strong incentives for the acquisition not to",
+    "keywords": [
+      "M & A",
+      "Securities Regulation",
+      "abnormal stock returns",
+      "acquisitions",
+      "Form 4",
+      "inside information",
+      "insider trading",
+      "mergers",
+      "SEC",
+      "SEC Form 4",
+      "Securities and Exchange Commission"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/22/when-are-insider-purchases-credible-signals-of-private-information/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Tue, 22 Sep 2026 04:05:43 +0000",
+    "id": "7487d063194fce80",
+    "topics": [
+      "公司并购",
+      "实证研究"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:22.370161+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Sidley Discusses Delaware Chancery Ruling on Public Benefit Corp. Directors’ Price-Maximization Duty",
+    "authors": "martinyerovi",
+    "abstract": "In Drakes Landing Associates, L.P. v. Tilden Park Capital Management, L.P. (Del. Ch. July 29, 2026), the Delaware Court of Chancery confronted an issue of first impression: how, if at all, the Revlon enhanced-scrutiny framework applies when the board of a public benefit corporation (“PBC”) navigates a change-of-control transaction. Revlon directs a board, in a sale-of-control scenario, to obtain the best price reasonably available for stockholders. However, under Section 365(a) of the Delaware General Corporation Law (“DGCL”), directors of a PBC are statutorily obligated to balance stockholders’ pecuniary interests against the interests of other stakeholders and the corporation’s stated public benefit when conducting corporate business. The Court resolved that tension by distinguishing between Revlon as a standard of conduct and Revlon as a standard of review . It concluded that (i) Revlon does not impose a standard of conduct ( i.e. , a price-maximization mandate) on PBC directors, because that would be irreconcilable with the balancing requirement of DGCL § 365(a), but that (ii) Revlon ’s “enhanced scrutiny” standard of review (which the Court styled “PBC enhanced scrutiny” in th",
+    "keywords": [
+      "Corporate Governance",
+      "Litigation",
+      "corporate directors",
+      "Court of Chancery",
+      "delaware",
+      "DGCL",
+      "public benefit corporations",
+      "Revlon",
+      "Revlon duties"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/09/22/sidley-discusses-delaware-chancery-ruling-on-public-benefit-corp-directors-price-maximization-duty/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Tue, 22 Sep 2026 04:01:18 +0000",
+    "id": "85e1dc2a79122665",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:23.886186+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Failure to Adopt Safety Measures in Artificial Intelligence Systems and Unlawful Alteration of Systems: Italy’s New Article 437-bis of the Criminal Code",
+    "authors": "Marco Di Donato",
+    "abstract": "The relationship between artificial intelligence (‘AI’) regulation, business and corporate (criminal) liability has become an increasingly important issue in Europe.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/failure-adopt-safety-measures-artificial-intelligence-systems-and-unlawful",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Mon, 09/28/2026 - 12:00",
+    "id": "f548e9d085b33c82",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-28",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:25.449840+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Rethinking the Regulation of Financial Infrastructures: A New Conceptual Framework",
+    "authors": "Anton Didenko",
+    "abstract": "Financial infrastructures (‘FIs’) sit at the heart of the financial system and are commonly described as the ‘plumbing’ or ‘rails’ of finance. As the most interconnected intermediaries linking together multiple parties, they generate systemic risks and therefore require a robust regulatory scaffolding to respond and contain potential disruption. Yet, despite the decades of regulatory wisdom and post-GFC (2007-2009 Global Financial Crisis) regulatory refinements, gaps nonetheless remain.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/rethinking-regulation-financial-infrastructures-new-conceptual-framework",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Fri, 09/25/2026 - 12:00",
+    "id": "05e503a55834bb96",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:26.886845+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Stakeholder Engagement and ESG in China",
+    "authors": "Tianxiang He, Lin Lin",
+    "abstract": "Conventional accounts of stakeholder engagement in China describe it as largely formalistic. Concentrated ownership, pervasive state control and an immature capital market are said to leave little room for genuine participation by anyone other than controlling shareholders. Our forthcoming paper challenges this assessment.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/stakeholder-engagement-and-esg-china",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Fri, 09/25/2026 - 12:00",
+    "id": "b4d3329b5516d7a3",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:28.279530+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Stakeholder Engagement and ESG in China",
+    "authors": "Tianxiang He, Lin Lin",
+    "abstract": "Conventional accounts of stakeholder engagement in China describe it as largely formalistic. Concentrated ownership, pervasive state control and an immature capital market are said to leave little room for genuine participation by anyone other than controlling shareholders. Our forthcoming paper challenges this assessment.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/stakeholder-engagement-and-esg-china",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Fri, 09/25/2026 - 12:00",
+    "id": "b4d3329b5516d7a3",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:29.630715+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Digital Assets as ‘Third Things’: What Yuen v Li Leaves Unresolved",
+    "authors": "Hui Jing, Kelvin F.K. Low",
+    "abstract": "Yuen v Li [2026] EWHC 532 (KB) (‘ Yuen ’) is the first English decision to consider digital assets after the enactment of the Property (Digital Assets etc) Act 2025 .",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/digital-assets-third-things-what-yuen-v-li-leaves-unresolved",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Thu, 09/24/2026 - 12:00",
+    "id": "d0d79956f66aa79e",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:31.163853+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Digital Assets as ‘Third Things’: What Yuen v Li Leaves Unresolved",
+    "authors": "Hui Jing, Kelvin F.K. Low",
+    "abstract": "Yuen v Li [2026] EWHC 532 (KB) (‘ Yuen ’) is the first English decision to consider digital assets after the enactment of the Property (Digital Assets etc) Act 2025 .",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/digital-assets-third-things-what-yuen-v-li-leaves-unresolved",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Thu, 09/24/2026 - 12:00",
+    "id": "d0d79956f66aa79e",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:32.542906+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "What India Can Teach Us About Corporate Governance",
+    "authors": "Afra Afsharipour",
+    "abstract": "The prevailing law and economics account treats the evolution of corporate law as a series of neutral, efficiency-driven adjustments. Scholars who study the Global South describe something messier. Corporate law in any given country is the product of political and economic tensions among managers, controlling shareholders, institutional investors, employees, and the state. India—the world’s largest democracy and its fifth largest economy—is one of the best places to watch that process unfold, and, increasingly, it is a mirror for the United States.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/09/what-india-can-teach-us-about-corporate-governance",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Wed, 09/23/2026 - 12:00",
+    "id": "32ad28336142f68a",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:34.033735+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research -- by Matthew Schwartz, Isaiah Andrews, Jesse M. Shapiro",
+    "authors": "",
+    "abstract": "We introduce an open-source workflow that enables an LLM to reproduce, improve, and extend an economics article using the article’s published replication package. First, the workflow attempts to reproduce the original calculations, checks for discrepancies with published findings, and performs automated sensitivity analysis. Across 4,452 published replication packages for five economics journals, the workflow flags discrepancies in 3,460 articles or their appendices. Second, the workflow improves the original calculations by using a different implementation or algorithm. In 496 articles, the workflow is able to reduce a calculation’s computation time, at similar or greater accuracy, by more than a factor of 10. Third, the workflow extends the original analysis. In 923 articles, the workflow develops an extension that does not appear in the original article and that is aligned with the original article’s goals and assumptions.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35782#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "92d1c5a61281de15",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:35.423044+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "(How) Do We Teach Emotions? -- by Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, Jake Nicoll, Teodora Szasz",
+    "authors": "",
+    "abstract": "Emotional intelligence constitutes a key component of human capital, shaped partially by educational materials. Using machine learning and generative AI tools, we examine emotional content in public-school textbooks and children’s literature. A stark mismatch emerges: text exposes children to a broad emotional range, but images overwhelmingly depict happiness and calm, regardless of emotions described in text on the same page. Nearly half of pages show zero overlap between the emotions described in text and those shown in images. This pattern persists across time, contexts, and identities. Household purchases and library inventories suggest content may be endogenously shaped by consumer demand favoring “positive” cover imagery, implying market forces narrow the emotional landscape children encounter.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35789#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "3270b1b271880d42",
+    "topics": [
+      "AI",
+      "机器学习"
+    ],
+    "primary_topic": "AI",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:36.773875+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Price Setting During a Currency Changeover -- by Fernando E. Alvarez, David Argente, Alberto Cavallo, Francesco Lippi",
+    "authors": "",
+    "abstract": "We use the euro cash changeover, a large-scale and purely nominal reform that requires all firms to redenominate posted prices, to distinguish among theories of price rigidity. We develop a nonstationary menu-cost model in which firms anticipate the changeover date and may combine currency adoption with real price adjustment. The announcement makes the firm’s inaction region time-varying, a singular control problem with a moving boundary for which closed-form characterizations are rarely available. We solve this problem analytically by perturbation, recovering the whole path of the boundary, the date at which firms begin adopting the new currency, and the implied pricing moments. The model predicts that, as the changeover approaches, firms adjust more frequently but by smaller amounts, compressing the distribution of price changes. We test these predictions using historical CPI micro data from Austria, Finland, Greece, and Slovakia, a UK benchmark, and daily price data from the recent changeovers in Croatia and Bulgaria. Across changeovers, adjustment frequency rises while the size and dispersion of price changes fall. The model adds a single parameter to the standard menu-cost set",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35790#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "c2a27a6c457e9eaf",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:38.334997+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK -- by Ian Burn, Melissa D. Gentry, Joanna Lahey",
+    "authors": "",
+    "abstract": "Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al. (2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35791#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "1533ae76f1338677",
+    "topics": [
+      "因果推断"
+    ],
+    "primary_topic": "因果推断",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:39.717619+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Impact of Adults’ College Completion on their Parents’ Mortality: Evidence from the 1993 Korean Higher Education Reform -- by Ah-Reum Lee, William H. Dow, Jacqueline M. Torres",
+    "authors": "",
+    "abstract": "A large literature examines the economic and health returns to college education. We extend this literature by studying the upward intergenerational effects of children’s education on parental mortality. We exploit Korea’s 1993 Higher Education Reform, which we estimate raised college completion by 13 percentage points among eldest children in the 1974–1983 birth cohorts relative to the prior 10-year cohort. Using data from the Korean Longitudinal Study of Aging, reduced-form estimates indicate a 27% (s.e.=10%) reduction in mortality among parents whose oldest child was in the reform-affected cohort. Because the reform affected college completion but not other education levels or quality, we use it as an instrumental variable (IV) for child college completion. IV estimates indicate a 20% (s.e.=7%) reduction in parental mortality for children induced to complete college by the reform. These parents received greater financial support and contact from their children and had lower smoking and higher physical activity, although these mechanisms explain only a small share of the mortality benefit. Effects were larger for parents of daughters in reduced-form analyses, although IV estimate",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35792#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "5f61eb398d6b4b57",
+    "topics": [
+      "因果推断"
+    ],
+    "primary_topic": "因果推断",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:41.018123+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Macroeconomic Effect of AI: Sizing the Software Engineering Channel -- by Alex Blumenfeld, Jonathon Hazell, Chen Lian, Andreas Schaab",
+    "authors": "",
+    "abstract": "We measure how artificial intelligence (AI) affects the economy through its impact on software engineering productivity. We use information from financial markets to develop a forward-looking measure that is available in real time. We estimate the sensitivity of each firm’s stock return to an AI stock market index, and how this sensitivity depends on the share of firm payroll in software engineering. We use a model to map this cross-sectional relationship into software engineering productivity gains. From November 2022 to December 2025, AI increased the market’s expected present value of software engineering productivity by the equivalent of a permanent 32.6% productivity increase. The corresponding effect on the level of GDP is 3.6% in the baseline and 6.5% when higher software engineering productivity also raises R&D productivity. By mid-2026, amid rapid progress in coding agents, the effect of AI on productivity and GDP had more than doubled relative to the end of 2025.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35793#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "147452efe978c1ad",
+    "topics": [
+      "金融监管",
+      "AI",
+      "实证研究"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:42.308060+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Permits as Real Options: Anticipation and Regulatory Leakage -- by Anna French, Nicholas Vreugdenhil",
+    "authors": "",
+    "abstract": "We identify a new channel for regulatory leakage: the “permitting channel”. In many settings, permits lock in the regulatory regime at approval, allowing firms to acquire the option to invest under current rules. Unlike the conventional Green Paradox response, this channel operates without accelerating physical investment and pollution. We develop a framework in which firms can use real options to avoid anticipated regulation. We estimate the framework using Colorado’s oil and gas reforms, where permits surged before regulation but drilling did not. Policy-relevant designs that remove the permitting channel substantially reduce the health risks from pollution despite amplifying anticipatory investment.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35794#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "059fc1d411e688ec",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:43.798357+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Early Impacts of AI on Employment among Recent College Graduates -- by Robert W. Fairlie, Jane Wu",
+    "authors": "",
+    "abstract": "The impact of AI on the employment prospects of recent college graduates is hotly debated with no consensus on the magnitude of impacts nor even the timing of those potential impacts. Using CPS microdata, we provide the first estimates of the effects of AI on the unemployment of recent college graduates in June, July and August 2026. We provide evidence suggesting that unemployment rates are especially high for summer months and that 2026 might be the first year of widespread enough AI use in the workplace to detect impacts of AI on recent college graduates, the group argued to be most vulnerable to AI replacement. Taking an agnostic approach to defining treatment timing, we find that unemployment rates did not spike in summer 2026 relative to summer months in previous years and did not rise in a significant way relative to older college graduates or young workers without a college degree. We also provide the first analysis of an expanded definition of unemployment that includes those who report “wanting a job” which adds nearly two percentage points to the unemployment rate of recent college graduates but we find no evidence of a statistically significant increase in summer 2026 e",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35796#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "9f84266ea2c30a59",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:45.368288+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Property Rights Uncertainty, Prices, and Speculation: Evidence from China's Housing Market -- by Hanming Fang, Jing Wu, Vincent Yao",
+    "authors": "",
+    "abstract": "We examine the causal effect of uncertainty in property rights on housing prices and speculative behavior. We take advantage of a distinctive setting in Shenzhen, China, where neighboring residential units that are otherwise similar differ in the strength of their property rights protections. Some units have full property rights (FPR) with a 70-year leasehold, whereas others have only limited property rights (LPR) protections. Using detailed listing data, we find that the sales market prices these protections, while the rental market does not. Our estimates imply that the perceived probability that FPR rights could be questioned at the end of the 70-year term is between 7% and 21%, and that the probability the LPR receives no legal protection in any future year exceeds 50%. We further show that LPR units are more susceptible to speculation, as reflected in higher turnover and greater price volatility. Lastly, we show that the public release of new urban planning codes raises listing prices and lowers turnover and price volatility for LPR properties relative to matched FPR units.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35797#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "ffc6878bd1c0b25e",
+    "topics": [
+      "因果推断"
+    ],
+    "primary_topic": "因果推断",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:46.922021+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Are Guidelines Worth Following? Decision-Making Under Incomplete Evidence -- by Jason Abaluck, Leila Agha, David C. Chan Jr",
+    "authors": "",
+    "abstract": "Medical guidelines translate clinical evidence into treatment rules, but the evidence may identify treatment benefits more clearly than harms. We study anticoagulation for atrial fibrillation, combining randomized trials with Veterans Health Administration data. Trial evidence reveals substantial heterogeneity in stroke-prevention benefits but does not reliably identify how treatment-induced bleeding harms vary across patients. In the target population, patients with larger predicted stroke benefits also have higher untreated bleeding risk, making this ambiguity consequential. We evaluate existing guidelines and develop maximin and minimax-regret treatment rules robust to alternative harm structures. At a benchmark preventing 50% of preventable strokes, robust rules induce 33-41% fewer bleeds than random treatment and outperform existing guidelines. Finite-sample uncertainty generates noticeable instability in fine patient rankings but little instability in treatment assignments or welfare. Physician performance and the relationship between guideline adherence and skill also depend substantially on assumptions about how treatment-induced bleeding harms vary across patients.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35798#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "85f754cf18718b3a",
+    "topics": [
+      "实验"
+    ],
+    "primary_topic": "实验",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:48.465403+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Wealth of Nations: Origins of Prosperity and Seeds of Inequality -- by Oded Galor",
+    "authors": "",
+    "abstract": "What ignited humanity’s momentous ascent from millennia of stagnation to an era of sustained economic growth? And what are the roots of the vast disparities in the wealth of nations? These enduring mysteries, which have preoccupied scholars across generations, lie at the core of Unified Growth Theory. This encompassing framework captures the evolution of societies over the entire course of human history and identifies the universal wheels of change that governed humanity’s long journey, propelled the growth process, and shaped inequality across the globe. The theory uncovers the forces underlying the dramatic transformation in living standards over the past two centuries, emerging from an economic ice age of near stagnation, while highlighting the enduring historical roots of the immense divergence in the prosperity of nations. It suggests that forces set in motion in the distant past played a pivotal role in shaping development across the globe and remain essential for the design of effective policies that foster economic progress and mitigate inequality in the wealth of nations.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35799#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "2680067d184d4aae",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:49.960082+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Injury, Workload, and the Strategic Response of Coaches in the NBA -- by Kala Krishna, Sergey Lychagin, Lewis S. McLean",
+    "authors": "",
+    "abstract": "Worker effort increases contemporaneous output but may result in injury or burnout. Directing effort away from the workers most exposed to injury would reduce this risk, but information on the exposure is often hidden. We ask whether managers act on such private information, studying the NBA as a data-rich workplace. Instrumenting workload with teammate absence, we find that work causally raises injury risk, which contrasts with the spurious negative correlation commonly found in sports medicine studies. We also show that coaches rest players in response to injury risk shocks. By acting on this private information, coaches can raise player productivity.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35803#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "a81e14afab000575",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:51.323883+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Beveridgean Phillips Curve -- by Pascal Michaillat, Emmanuel Saez",
+    "authors": "",
+    "abstract": "This paper develops a Beveridgean model of the Phillips curve. While the New Keynesian Phillips curve is based on monopolistic pricing under price-adjustment costs, the Beveridgean Phillips curve is based on directed-search pricing under price-adjustment costs. Under directed search, prices respond to slack instead of marginal costs. The resulting Phillips curve has three properties that match recent US evidence. First, it delivers the divine coincidence: inflation is on target whenever unemployment is at its efficient level—the full-employment rate of unemployment (FERU), the geometric mean of the unemployment and vacancy rates. Second, it is decreasing and convex in the unemployment-inflation plane: inflation responds more strongly to unemployment when the labor market is inefficiently tight than when it is inefficiently slack. The convexity is inherited from the Beveridge curve, which makes unemployment a decreasing and convex function of tightness. Third, shifts of the Beveridge curve move the FERU and therefore shift the unemployment-inflation Phillips curve. The model also implies that the Fed's dual mandate is internally consistent, that a soft landing from an inefficiently ",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35804#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "59f11ea0430564fe",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:52.913364+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Foreign Tax Advantages after the U.S. Tax Reform of 2017 -- by Anmol Bhandari, Ellen McGrattan",
+    "authors": "",
+    "abstract": "We construct a firm-year panel of income-tax rate reconciliations from annual 10-K filings of public companies to study the effects of the Tax Cuts and Jobs Act (TCJA) on U.S. multinational profit shifting. These reconciliations decompose the gap between company-level effective tax rates and the federal statutory corporate tax rate, allowing us to isolate the contribution of foreign tax advantages before and after the reform. We find that TCJA significantly reduced the tax rate gap and increased effective tax rates for companies most exposed to pre-TCJA international tax benefits. This resulted in an onshoring of profits with foreign profit shares falling 1.3 percentage points per percentage point of tax increase. Among more exposed companies, we find no differential change in investment, employment, or the geographic distribution of sales and installed capital. A neoclassical model of a multinational that chooses where to book its income rationalizes this pattern: the reform raised the average tax on income booked abroad relative to income booked at home, which governs where profits are reported, while the marginal tax on capital, which governs investment, changed by an amount com",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35805#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "546c316763fc30f8",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:54.394335+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Deep Learning as a Projection Method for Solving Economic Models -- by Kenneth L. Judd, Karl Schmedders",
+    "authors": "",
+    "abstract": "Deep learning is increasingly presented in economics as a new paradigm for solving dynamic models, superseding the classical projection methods of numerical economics. We argue that this dichotomy rests on a misclassification. The neural-network solvers emphasized in this literature are least-squares projection methods with an adaptive nonlinear parameterization. Placing deep learning inside the projection family reorients the agenda. The issue is not a contest between paradigms, but suggests a single toolkit using a variety of approximation methods, residual criteria, and evaluation designs to be chosen on the merits for the model at hand. In low and moderate dimensions, linear-basis and sparsegrid methods are often more accurate, faster, and easier to verify than a trained neural network. In high dimensions, an appropriate choice for the space of permissible functions will often avoid the curse of dimensionality.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35806#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "23b0be56192aad5f",
+    "topics": [
+      "机器学习"
+    ],
+    "primary_topic": "机器学习",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:55.751749+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects -- by Bernard Herskovic, Gill Segal",
+    "authors": "",
+    "abstract": "Time fixed effects are not a general-equilibrium control. In network economies, aggregate shocks do not enter firm outcomes uniformly: they propagate through equilibrium prices, costs, and demand, leaving a residual network gradient after time demeaning. When an instrument, treatment, or exposure design even partially aligns with this gradient, standard panel estimators recover the direct effect plus an endogenous network-leakage component. We develop a tractable framework that signs and quantifies this Network-SUTVA bias in closed form, showing how network topology governs its magnitude. Weak instruments magnify the leakage. Difference-in-differences designs are similarly contaminated because controls can be untreated by assignment but treated in equilibrium. Calibrated to the U.S. production network, the distortion can exceed 130% of the true direct effect. We propose observed- and hidden-network diagnostics and remedies, and test them on canonical difference-in-differences designs, showing that standard estimators can confound direct policy responses with systemic network leakage.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35807#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "e8c65ab288d84c89",
+    "topics": [
+      "DID"
+    ],
+    "primary_topic": "DID",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:57.393797+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Like a Good Neighbor: Childhood Neighbors Influence Occupation Choice -- by Michael J. Andrews, Ryan R. Hill, Joseph Price, Riley Wilson",
+    "authors": "",
+    "abstract": "Occupation choice is a key determinant of economic mobility. This paper studies how childhood neighbors influence occupational choices and later-life earnings. Using linked historical U.S. census records for over six million boys and four million girls, we reconstruct neighborhood microgeography to identify childhood neighbors and their occupations. We find that living next door to someone in a given occupation increases the probability of working in that same occupation 30 years later by about 10 percent relative to other children on the same street. The transmission effect is higher with more intense exposure, in more connected neighborhoods, and when neighboring families are more similar. Exposure to high-income or highly educated neighbors has lasting economic effects, leading to significant gains in adult income and education even compared to other children from the same street. These findings suggest that neighborhood networks play an important role in shaping intergenerational economic mobility.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35810#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "249d8e9e6a457ac0",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:18:58.972081+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Transportation Bottlenecks and Aggregate Shocks -- by Giulia Brancaccio, Myrto Kalouptsidi, Theodore Papageorgiou, Yixin Zhou",
+    "authors": "",
+    "abstract": "Do transportation disruptions affect aggregate outcomes? We develop a tractable model of the transportation sector to study its impact on prices and international trade. By casting maritime transportation as a queueing network, the model identifies where the transportation bottlenecks lie and delivers a simple and easy-to compute measure of transportation capacity over time. We calibrate the model using shipping and trade data and use it to evaluate the resilience of the shipping sector during the last 20 years. During the Great Supply Chain Disruption, port bottlenecks raised commodity prices and caused shortages, but a contemporaneous contraction in commodity supply reduced shipping demand and thereby dampened these effects. By contrast, insufficient shipping capacity was a key driver of price increases during the 2000s Commodity Supercycle.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35812#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "a01dbe0044525927",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:00.363662+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Dynamics of Development in a Zero-Sum World -- by Augustin Bergeron, Jean-Paul Carvalho, Joseph Henrich, Nathan Nunn, Jonathan L. Weigel",
+    "authors": "",
+    "abstract": "This chapter examines the consequences of zero-sum environments for cultural change, innovation, and long-term economic growth. We introduce innovation into the framework developed by Bergeron et al. (forthcoming), in which zero-sum environments give rise to demotivating beliefs. Although demotivating beliefs improve static efficiency by limiting excessive competition in zero-sum environments, we show that they can also impede long-term growth. Because demotivating beliefs suppress effort, they can also reduce learning-by-doing and other production spillovers. Hence, they can inhibit innovation and act as a cultural evolutionary kludge. We apply the model to explain the cultural changes associated with Western Europe's economic rise after 1500.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35813#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "45c45d1b8d6c61e8",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:02.037483+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Great Accretion and the Great Depression -- by Harold L. Cole, Stefano Cravero, Jeremy Greenwood",
+    "authors": "",
+    "abstract": "The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this over investment worsened by continuous process innovation? Could these factors have played a role in triggering the Great Depression? To explore these questions, a macroeconomic model that incorporates both process and product innovation is proposed. Proof-of-concept simulations are performed to assess whether these factors can help explain the Great Depression. The answer is yes.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35816#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "d4db35b02a9c06be",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:03.703226+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Early Results from the RESET Demonstration Project: Inflation in Food at Home -- by Steve Coffey, Gabriel Ehrlich, John C. Haltiwanger, Ron S. Jarmin, David Johnson, Tod Johnson, Matthew D. Shapiro",
+    "authors": "",
+    "abstract": "This paper presents early results from the RESET Demonstration Project, an initiative that constructs price and sales indices using item-level transactions data. The project’s overarching goal is to demonstrate the feasibility and advantages of leveraging modern transactions data for economic measurement by pointing toward a future in which official economic statistics are rebuilt on 21st-century data and technology. The paper introduces new inflation measures for Food at Home and evaluates them on two fronts: how they compare to current official statistics and what they offer as novel measures that capture more accurately the dynamics of consumer choice. The paper also addresses the challenges of producing reliable and credible official statistics from item-level transactions data and reports findings on recent Food at Home inflation trends.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35817#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "ad54ca2d89b20d24",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:05.203534+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Windows of Opportunity in Early Childhood: A Dynamic Model of Multidimensional Development -- by Orazio Attanasio, Raquel Bernal, Michele Giannola, Milagros Nores",
+    "authors": "",
+    "abstract": "Using child development data collected during the evaluation of an early childhood education program, this paper estimates a dynamic model of human development from ages 1 to 6. We model three latent factors—health, cognitive skills, and socio-emotional skills—and allow them to interact with each other and with multiple inputs to shape subsequent development. The richness and high-frequency nature of the data permit a flexible specification that (i) allows for complex dynamics, (ii) lets each factor con- tribute to the production of the others, (iii) permits age-varying production technologies, and (iv) treats parental investment as endogenous. We use the estimated model to identify “windows of opportunity” in which parental interventions, or programs that increase investment, are especially effective. Results indicate that developmental dynamics are richer than typically assumed, with important implications for persistence: the impact of inputs can decay or endure in ways that vary across domains and over age. Accounting for endogenous investment is consequential for inference.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35818#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "65d1845295b65fe9",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:06.473660+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection -- by Yifei Zhang, Andrew Keller, Shawn Arita, Sandro Steinbach",
+    "authors": "",
+    "abstract": "Publicly subsidized insurance programs can create incentives for subsidy capture when insured products closely resemble privately traded financial instruments. Livestock Risk Protection (LRP) is one such case because it provides price insurance through a contract that closely resembles an exchange-traded put option. Using LRP endorsement records and matched CME options data for 2020–2025, we document that endorsement activity clusters around CME option expiration dates, especially for feeder cattle and lean hogs. Because producer-level derivatives positions are unobserved, however, timing patterns alone cannot identify subsidy capture. We therefore simulate returns to combined LRP-CME strategies using observed contract terms, option prices, and trading frictions, including bid-ask spreads, margin requirements, and financing costs. We find that the subsidy-created premium wedge is observable at purchase, but realized gains are small, commodity-specific, and concentrated in low-volatility environments where realized volatility falls below implied volatility. Even in those favorable cases, combined strategies substantially worsen downside outcomes relative to holding LRP alone. Additi",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35819#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "bfb334b097348397",
+    "topics": [
+      "合同",
+      "衍生品市场"
+    ],
+    "primary_topic": "合同",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:07.980744+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships -- by Maria Garcia-Osipenko, Nicholas Vreugdenhil, Nahim B. Zahur",
+    "authors": "",
+    "abstract": "We investigate how endogenous rigidities inhibit physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents sign longer contracts in booms when markets are thin, they generate a contracting externality which further amplifies thinness and impedes the adjustment of markets to shocks. We develop a dynamic spatial framework with booms and busts where agents search and choose match duration. Applying the framework to the containership leasing market, we find substantial misallocation from endogenous rigidities, particularly in the transition after a crash.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35821#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "5bde145692b6760f",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:09.716020+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Financial Innovation and the International Monetary System -- by Gordon Y. Liao, Eswar S. Prasad, Tony Zhang",
+    "authors": "",
+    "abstract": "We show that the dollar remains dominant in most aspects of global finance. The euro and renminbi are competing in an increasingly fragmented second tier of currencies, leaving no clear rivals to the dollar. We study how financial innovation could reshape the international monetary system. In principle, innovation levels the playing field between countries, for instance by reducing the need for vehicle currencies to intermediate transactions between other currency pairs and by making it easier to acquire and trade foreign assets. We show that an alternative outcome is more likely. Innovations that reduce frictions in cross-border transactions, especially dollar-backed payment stablecoins and other forms of tokenization of money, could interact with relative market thickness to reinforce the dollar’s dominance. This outcome is not preordained but depends on other countries’ willingness to embrace innovations and strengthen their financial markets and regulatory frameworks. While unipolarity has many disadvantages, we show that in some circumstances multipolarity might result in greater global fragility at times of financial market stress.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35822#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "8738590933b4aca6",
+    "topics": [
+      "区块链",
+      "稳定币"
+    ],
+    "primary_topic": "区块链",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:11.121906+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Optimal Population Growth in the Diamond OLG Model -- by Laurence M. Ball",
+    "authors": "",
+    "abstract": "This paper studies the effects of population growth on welfare in an OLG model, in which lower population growth raises output per worker but also reduces the ratio of workers to retirees. Under fairly mild restrictions on the model’s parameters, there exists an optimal population-growth rate—one that maximizes steady-state welfare. This growth rate may well be negative: it may be optimal for the population to shrink over time. The introduction of a pay-as-you-go social security system reduces the optimal population-growth rate.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35823#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "ac0e1b2454cf73fe",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:12.803928+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Does Fertility Stabilize At Low Levels? Evidence from Period, Cohort, and Subnational Data -- by Diane Coffey, Michael Geruso, Dean Spears, Sangita Vyas",
+    "authors": "",
+    "abstract": "Many population projections used by international and government agencies assume that, in today's low-fertility societies, future fertility rates will stop declining and roughly stabilize. This paper assesses the evidence for an equilibrium point or rebound from low levels. We show that there is no robust evidence for a systematic fertility rebound, or for a stable equilibrium point at any fertility level conventionally assumed. Instead, where and when fertility has fallen low, it has tended to keep falling. This is true across a range of data sources, time periods, and fertility measures: United Nations data on period total fertility rates for all country-years from 1950 to 2023; Human Fertility Database data on completed fertility for cohorts born between 1935 and 1975 in 31 countries; and fertility rates in subnational geographies in Japan, India, and the United States. We reconcile these results with a prior literature that documented fertility reversals among some low-fertility countries in the early 2000s. Our findings provide an empirical basis for re-examining the equilibrium and rebound assumptions embedded in widely used population projections.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35824#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "4a3f7fec8b9e7dd5",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:14.168536+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties -- by Edward W. Chen, Reagan L. Lengefeld, Omar Isaac Asensio",
+    "authors": "",
+    "abstract": "This study examines a housing program that created affordable infill developments on formerly vacant, abandoned, or disinvested properties in Savannah, Georgia. Savannah is a major economic hub anchored by the Port of Savannah, where many urban neighborhoods remain impacted by disinvestment and climate risk. Using two decades of record-linked property and tax data, this study quantifies local economic spillovers from this public intervention, revealing previously hidden social and economic benefits of infill housing policies. These benefits include an 11% increase in the market value of properties immediately neighboring an infill development site and an increase of up to 35% in areas with a high density of infill activity, pointing to block-level revitalization in climate-disadvantaged and distressed areas.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35825#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "89bc364fa6e45ecf",
+    "topics": [
+      "破产法",
+      "绿色金融"
+    ],
+    "primary_topic": "破产法",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:15.577689+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Accounting for Cross-Country Income Differences Revisited -- by David Lagakos, Todd Schoellman",
+    "authors": "",
+    "abstract": "Development accounting is the search for proximate sources of cross-country income differences. This article describes how knowledge in this field has evolved over the two decades since the influential work of Caselli (2005). There have been large advances in the measurement of production inputs (labor, physical capital, and human capital). These advances have raised the estimated contribution of inputs, mostly human capital, in development accounting. Our preferred estimate is that inputs account for 50--65 percent of gross domestic product (GDP) per worker differences, versus 30 percent using the classic specification. The literature has also made progress in moving away from Cobb-Douglas production functions and measuring factors such as management quality that were previously bundled into total factor productivity (TFP). Our review highlights the new implications of these advances, areas where future research would be beneficial, and the limitations of development accounting.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35826#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "2ced41078c891103",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:17.004125+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Crime in Covid Times -- by Jens Ludwig",
+    "authors": "",
+    "abstract": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and costs as in Becker (1968). This model does a generally poor job of explaining recent trends in homicide. Behavioral economics helps explain what the Becker model cannot. This view starts with the fact that most shootings don’t further some larger goal like robbery or gang wars over drug turf (“instrumental violence”); they’re arguments settled with guns (“expressive violence”). Why do arguments start or escalate? The behavioral model points to automatic cognition that is fast, effortless but sometimes prone to error. The pandemic increased automaticity by increasing distress – a cognitive “bandwidth tax.” Recent homicide trends, driven by changes in expressive violence, are mirrored by similar trends for deaths from drug overdose, car crashes, and suicide (especially for Black Americans, the group most affected by violence) – “deaths of decision-making.” Also relevant ",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35827#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "41d14e0cacf379a4",
+    "topics": [
+      "行为研究"
+    ],
+    "primary_topic": "行为研究",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:18.298849+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Liability and Pricing of Dual-Use AI -- by Joshua S. Gans",
+    "authors": "",
+    "abstract": "How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack success or attacker profits, saving resources and improving the target's security payoff. Compensation weakens defence and raises attacker profits. Optimal liability balances these effects against productive exclusion. Greater competition can lower optimal liability; every such decline must end at an outcome retaining defence. With cybersecurity access fixed, monopoly can warrant partial liability but never full liability when provision is worthwhile. When guardrails preserving productive uses are available, strong competition favours universal guarding socially but encourages unilateral removal at insufficient liability. At a fixed provider count, sufficiently many productive users ensure a pure equilibrium with universal guarding under high liability. A universal-guarding requirement makes liability redundant. Under monopoly, adoption follows a unique liability threshold, ",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35828#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "1c0eceef1048177d",
+    "topics": [
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "竞争法和反垄断法",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:19.597361+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Importers, Market Power and Optimal Tariffs -- by Jonathan Becker, Corina Boar, Virgiliu Midrigan",
+    "authors": "",
+    "abstract": "Importers are few and large, have higher labor productivity and pass through cost changes to prices incompletely. We study optimal tariffs in a model consistent with these facts. Firms pay a fixed cost to import and charge markups that increase with size. Market power implies that importers are too few and too small relative to the efficient allocations. Tariffs amplify this distortion. We derive a formula that relates the optimal tariff not only to the foreign export supply elasticity but also to how much distortions amplify the effect of trade costs on welfare. In our calibrated economy the optimal tariff is negative and decreases with country size.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35829#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "0fe909370c21b70a",
+    "topics": [
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "竞争法和反垄断法",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:21.155565+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Economics of Demand-Side and Supply-Side Climate Policies -- by Ryan Kellogg",
+    "authors": "",
+    "abstract": "Should a jurisdiction seeking to cut greenhouse gas emissions use demand-side climate policies that target fossil fuel consumption? Or should it introduce supply-side policies that target extraction? My analysis points to a policy portfolio rather than an either/or choice. ``Leakage'' of emissions to unregulated jurisdictions can be mitigated by combining standard demand-side carbon emissions pricing with supply-side pricing of carbon extraction. Emissions pricing drives leakage by lowering fossil fuel prices abroad; extraction pricing counteracts this effect. Supply-side climate policies in practice, however, do not broadly price extraction but instead narrowly foreclose investments in fossil fuel infrastructure and are thus inefficient. To reduce carbon demand, an alternative to emissions pricing is support for clean energy. I emphasize reforms to transmission planning and utility governance as crucial for unlocking clean energy resources' potential, and I highlight the case for publicly supporting clean energy R&D, including green industrial policy, to reduce carbon emissions not just at home but also abroad. I close by discussing distributional consequences. Domestically, carbo",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35830#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "cb7728377894da94",
+    "topics": [
+      "绿色金融"
+    ],
+    "primary_topic": "绿色金融",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:22.650292+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Subjective Models of the Macroeconomy and the Transmission of Monetary Policy -- by Francesco D’Acunto, Dimitris Georgarakos, Geoff Kenny, Michael Weber",
+    "authors": "",
+    "abstract": "Standard macroeconomic theories assume that representative or heterogeneous agents share a common model of how the economy operates. Yet evidence shows that households hold heterogeneous subjective models---distinct beliefs about how macroeconomic variables interact. As a result, identical shocks or policies may elicit different responses from otherwise similar households. We test this hypothesis by measuring subjective models and investigating their role in the transmission of monetary policy to consumption embedding randomized controlled experiment in a large-scale, multi-country survey. Consumers who believe that monetary tightening primarily operates through its effects on borrowing or savings rates plan to reduce consumption more in response to randomly assigned rate increase scenarios. By contrast, those who think about inflation or general equilibrium effects adjust consumption less. These differences are not explained by demographics, financial characteristics, including mortgage holdings and mortgage type, or country-level factors. Households' actual consumption responses to endogenous policy-rate changes exhibit broadly similar patterns. Our findings stress that heterogen",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35831#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "53dc83bdc5244228",
+    "topics": [
+      "央行和货币政策"
+    ],
+    "primary_topic": "央行和货币政策",
+    "publish_date_norm": "",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:24.344775+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios",
+    "authors": "Marjorie Santos",
+    "abstract": "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.",
+    "keywords": [],
+    "url": "https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios",
+    "source": "BIS Working Paper",
+    "publish_date": "2026-09-23T00:00:00Z",
+    "id": "6fd99847fffa1f3b",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:25.758635+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "ANNOUNCEMENTS",
+    "authors": "",
+    "abstract": "The Journal of Finance, Volume 81, Issue 5, Page 3127-3127, October 2026.",
+    "keywords": [
+      "Announcement"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70019?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Tue, 22 Sep 2026 05:53:35 -0700",
+    "id": "82c998d6c2ffaba1",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:27.158542+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "AMERICAN FINANCE ASSOCIATION",
+    "authors": "",
+    "abstract": "The Journal of Finance, Volume 81, Issue 5, Page 3128-3129, October 2026.",
+    "keywords": [
+      "ISSUE INFORMATION"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13354?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Tue, 22 Sep 2026 05:53:35 -0700",
+    "id": "776214da07d3eb3e",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:28.668580+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Justice Good as Random?",
+    "authors": "NIKLAS HÜTHER, \nKRISTOPH KLEINER",
+    "abstract": "ABSTRACT The random assignment of judges promotes fairness and underpins causal identification across the social sciences. Analyzing Chapter 11 bankruptcies, we find sophisticated parties “judge‐shop”: relative to secured hedge fund creditors, cases involving unsecured hedge fund creditors and equity holders are assigned judges with lower past conversion rates and higher unsecured recovery rates. Experienced legal counsel similarly influences assignment. Because judges are not assigned consecutive large cases, knowledgeable parties can judge‐shop by timing the filing date. We develop a method to measure the resulting bias and demonstrate the need for controls and bounded instrumental variable specifications in judge/examiner designs.",
+    "keywords": [
+      "Original Article"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70081?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Tue, 22 Sep 2026 04:42:38 -0700",
+    "id": "c98c3ed40a90e28f",
+    "topics": [
+      "司法和执法",
+      "因果推断"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-22",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:30.162428+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Consumer Understanding of Climate Targets is Low and Hard to Improve: Evidence from Three Online Studies",
+    "authors": "Vittoria Battocletti, Alfredo Desiato, Alessandro Romano, Chiara Sotis, Tobias Tröger",
+    "abstract": "Many firms publicize net-zero or carbon neutral targets, yet it is unclear whether consumers understand these targets. Policy proposals-as well as recent court rulings-call on firms to explain what those targets mean. We test whether such explanations enhance consumer understanding in two online studies with nationally representative U.S. samples (N=300; N=1,500) and in a large-scale webcam-based eye-tracking experiment (N=500). Baseline knowledge is low: 95 percent of respondents fail to name even one defining feature of net-zero or carbon neutral targets, yet they are willing to pay a price premium for gift cards from companies with such targets. Concise disclosures raise objective understanding when a single product is shown, but none of the formats alter willingness to pay. In a more realistic setting with multiple products and competing cues, disclosures attract substantial gaze time, yet no longer improve comprehension; the visually salient color-coded format is associated with more misconceptions. These findings contribute to the growing evidence that individual-level measures, such as information provision, may be a less effective response to systemic problems like global warming than previously thought.",
+    "keywords": [],
+    "url": "https://safe-frankfurt.de/publications/pub-details-startseite/publicationname/consumer-understanding-of-climate-targets-is-low-and-hard-to-improve-evidence-from-three-online-studies.html",
+    "source": "SAFE Working Paper Series",
+    "publish_date": "Sep 2026",
+    "id": "ff4fa0bd7293c62f",
+    "topics": [
+      "金融监管",
+      "绿色金融"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "2026-09-28",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:31.552506+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Don't Bet on Bankruptcy: Prediction Markets and the Limits of Insolvency Law",
+    "authors": "nizanpackin",
+    "abstract": "Prediction markets have become multibillion-dollar platforms for putting a price on uncertainty in politics, sports, finance, and even war. States and the federal government are fighting to establish regulatory authority over them. But what happens if one becomes insolvent? Prediction markets depend on contingent event contracts whose value may turn on disputed facts, manipulable information, and uncertain legal status. A court confronting a failed prediction market may therefore need to resolve not only what law applies, but also what happened, before it can value the estate at all. At the same time, prediction markets strain ordinary bankruptcy doctrine governing the debtor, claim classification and priority, executory contracts, and dispute settlement. This uncertainty extends beyond doctrine to whether ordinary bankruptcy rules apply at all. If event contracts are derivatives—as the federal government argues—the Bankruptcy Code’s financial contract safe harbors may switch off some of bankruptcy’s central protections. If state efforts to outlaw many event contracts succeed, bankruptcy itself may be unavailable. These issues shed light on broader debates in bankruptcy theory. The",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/dont-bet-on-bankruptcy-prediction-markets-and-the-limits-of-insolvency",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-09-26T21:14:44+00:00",
+    "id": "25352e8f94edbdf7",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-26",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:33.046613+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Decentralized Voting in Mutual Fund Families",
+    "authors": "Roni Michaely, Matthew C. Ringgenberg, Silvina Rubio, Irene Yi",
+    "abstract": "We provide the first large-sample evidence that decentralized voting is widespread within mutual fund families. Contrary to the view that families vote as unified blocs, we find that more than one-third of families exhibit evidence of decentralized voting, starting as early as 2006. We measure decentralization using voting disagreement within the family, which is low unconditionally due to the high volume of routine proposals, but rises substantially for controversial proposals, environmental and social issues, and when proxy advisors recommend voting \"against.\" Decentralized voting is more prevalent in families with more active funds and greater stewardship resources, and funds within a family vote more similarly when they share management structures and characteristics. Decentralization has consequences for governance and fund investors. First, it weakens the monitoring effectiveness of institutional investors-a result we corroborate using Vanguard's 2019 adoption of decentralized voting as a quasi-natural experiment. Second, funds that deviate from their family's voting stance charge higher fees without delivering higher returns for clients. Yet, funds that deviate attract highe",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/decentralized-voting-in-mutual-fund-families",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-09-23T22:23:28+00:00",
+    "id": "ddd593bb33e910c1",
+    "topics": [
+      "非银机构",
+      "因果推断"
+    ],
+    "primary_topic": "非银机构",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:34.560675+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Credit Rating Agencies' Liabilities",
+    "authors": "Patrick C. Leyens",
+    "abstract": "Credit ratings assess the creditworthiness of an issuer or financial instrument. They help overcome information asymmetries and facilitate the functioning of financial markets. Credit ratings also serve a regulatory function, as they are used, inter alia, to determine the regulatory capital requirements of banks. Credit rating agencies thus act as private gatekeepers in financial markets. The global financial crisis of 2008 revealed serious shortcomings in the credit rating industry and led to a significant tightening of regulation and oversight. This paper focuses on the civil liability of credit rating agencies. The central issue concerns the liability of credit rating agencies towards investors who suffer losses as a result of excessively optimistic ratings. Credit rating agencies have traditionally been considered largely immune from civil liability. While this remains true to some extent, the paper demonstrates that the legal landscape is evolving. Some jurisdictions have adopted specific liability rules (China, the EU). Courts have tested concepts of quasi-contractual liability, as known in civil law jurisdictions (e.g., Austria, Germany, Portugal, and Türkiye), and in mixed ",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/credit-rating-agencies-liabilities",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-09-23T22:13:22+00:00",
+    "id": "4d031ab41527b02b",
+    "topics": [
+      "金融监管"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:35.982748+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Omnibus I Directive and the EU Sustainable Finance Trilemma: Sustainability, Simplification and Harmonization",
+    "authors": "Giovanni Strampelli",
+    "abstract": "This article examines the balance that Directive (EU) 2026/470 (“Omnibus I Directive”) strikes between sustainability, simplification and harmonization. It analyzes the Directive’s amendments to the Corporate Sustainability Reporting Directive (CSRD) and the Corporate Sustainability Due Diligence Directive (CS3D) against the simplification agenda developed in the Letta and Draghi Reports and in the Commission’s Competitiveness Compass. The article distinguishes genuine simplification of regulatory requirements from the contraction of their scope. Under the CSRD, several amendments reduce unnecessary complexity, but the substantial narrowing of mandatory reporting weakens the availability, comparability and assured quality of the company-level information on which the wider sustainable finance framework depends. The CS3D presents a more mixed picture: the revised due diligence process is more practicable, while higher thresholds, the repeal of the transition-plan obligation, and the removal of uniform civil liability conditions entail a more substantial retrenchment. The Directive also adopts a selective approach to harmonization, strengthening it for the core due diligence obligati",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/the-omnibus-i-directive-and-the-eu-sustainable-finance-trilemma",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-09-23T21:53:49+00:00",
+    "id": "d3e44d6b5cd0779e",
+    "topics": [
+      "绿色金融",
+      "公司治理"
+    ],
+    "primary_topic": "绿色金融",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:37.589946+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Shareholder Empowerment and Ownership Structure in a Free-Contracting Environment",
+    "authors": "Mike Burkart, Salvatore Miglietta, Charlotte Ostergaard",
+    "abstract": "We study how firms choose to allocate control over strategic corporate decisions between shareholders and management in a historical setting where governance design was not mandated by corporate law, but ownership structures were constrained by differences in regional wealth distributions. The general shareholder meeting is the dominant governance body, retaining control over the largest number of strategic decisions. Nevertheless, firms with a predominance of small —and plausibly less informed— shareholders empower managers by delegating control over a larger number of strategic decisions to them. Furthermore, shareholder empowerment is accompanied by statutory provisions that facilitate information acquisition, suggesting that control and information are complements. Our findings highlight that the debate on shareholder empowerment should account for the role of ownership structure and information as key determinants of the allocation of control between shareholders and management.",
+    "keywords": [],
+    "url": "https://www.ecgi.global/publications/working-papers/shareholder-empowerment-and-ownership-structure-in-a-free-contracting",
+    "source": "European Corporate Governance Institute (ECGI) working paper",
+    "publish_date": "2026-09-23T01:52:30+00:00",
+    "id": "ab8a9868070074b8",
+    "topics": [
+      "公司治理",
+      "公司并购"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-09-23",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:39.039531+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "When Higher Stakes Weaken Security",
+    "authors": "Pablo D. Azar, Maryam Farboodi",
+    "abstract": "A central design goal of settlement systems is that security should not degrade when transaction values are high. Using Ethereum’s Proof-of-Work era, we show that Proof-of-Work can fail this test: higher transaction fees—the reward for a successful attack—cause miners to deviate from honest behavior and fork the chain, undermining settlement finality when it is most needed. We exploit a unique feature of Ethereum’s Proof-of-Work era that records, for each fork, both the winning block and its displaced competitor’s timestamp. We jointly instrument hourly mean log fees, hashrate, and block size using a crypto shock indicator constructed from Ethereum hacks, market crises, and regulatory events, together with one-hour lags of hashrate and block size. Higher fees significantly increase canonical blocks arriving exactly one second later than the siblings they displace, which is consistent with deviation from honest behavior. The converse event showing honest behavior—a canonical block arriving before its siblings—is not driven by high fees. This contrast indicates that fees affect equilibrium behavior and settlement finality in Proof-of-Work blockchains.",
+    "keywords": [
+      "blockchain",
+      "payment",
+      "settlement"
+    ],
+    "url": "https://ideas.repec.org/p/fip/fednsr/103803.html",
+    "source": "Federal Reserve Bank of New York staff report",
+    "publish_date": "2026/09/01",
+    "id": "bef22d9938a160b3",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-09-01",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:40.467252+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Capital inflows boost output, even after accounting for expectations",
+    "authors": "Jongrim Ha, Dohan Kim, M. Ayhan Kose, Francis Warnock",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/index%2Ephp/voxeu/columns/capital-inflows-boost-output-even-after-accounting-expectations",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "28 Sep 2026",
+    "id": "ee8a4cbedb953c49",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-28",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:41.967780+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The cost of not innovating: Frontier AI models, cyber defence, and EU strategic autonomy",
+    "authors": "Eric Törnqvist, Jerzy Kopiński",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/voxeu/columns/cost-not-innovating-frontier-ai-models-cyber-defence-and-eu-strategic-autonomy",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "28 Sep 2026",
+    "id": "502e765966d89f40",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-28",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:43.021713+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The smokestack illusion: Who really pays for net zero",
+    "authors": "Eric Jondeau, Côme Poirier, Gauthier Vermandel",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/voxeu/columns/smokestack-illusion-who-really-pays-net-zero",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "27 Sep 2026",
+    "id": "7ea52f3c5aa2be88",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-27",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:43.924291+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Quantifying financial repression through the lens of portfolio choice: A century of evidence",
+    "authors": "Marijn Bolhuis, Jakree Koosakul, Neil Shenai, Jie Yang",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/voxeu/columns/quantifying-financial-repression-through-lens-portfolio-choice-century-evidence",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "26 Sep 2026",
+    "id": "1bd84a7b42a73872",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-26",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:45.031687+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Measuring what work generative AI does: Survey evidence versus chat logs",
+    "authors": "Alexander Bick, Adam Blandin, David Deming, Tyler Schumacher",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/voxeu/columns/measuring-what-work-generative-ai-does-survey-evidence-versus-chat-logs",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "25 Sep 2026",
+    "id": "8989b01a22f8958c",
+    "topics": [
+      "AI",
+      "实证研究"
+    ],
+    "primary_topic": "AI",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:45.965160+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "How minimum wages reshape firms and their productivity from within",
+    "authors": "Nicholas Lawson, Claire Lelarge, Grigorios Spanos",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/voxeu/columns/how-minimum-wages-reshape-firms-and-their-productivity-within",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "25 Sep 2026",
+    "id": "5ab6c9c2726cfb41",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:47.021225+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "How data centres affect electricity prices and for whom",
+    "authors": "Cameron Scalera, Valentina Bosetti, Filippo Pecci",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/voxeu/columns/how-data-centres-affect-electricity-prices-and-whom",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "24 Sep 2026",
+    "id": "20ea19d17da72b62",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-24",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:47.920966+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Decoupling from China after Trump's Trade Wars",
+    "authors": "Chad Bown",
+    "abstract": "",
+    "keywords": [],
+    "url": "https://cepr.org/multimedia/decoupling-china-after-trumps-trade-wars",
+    "source": "VoxEU (CEPR)",
+    "publish_date": "25 Sep 2026",
+    "id": "b8955cbcdb327215",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-09-25",
+    "week_of": "2026-09-28",
+    "date_added": "2026-09-28T06:19:48.970880+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
   }
 ];
 window.LAST_REPORT = {
-  "period_start": "2026-09-14",
-  "period_end": "2026-09-21",
-  "trend_summary": "本期（2026-09-14 至 2026-09-21）共收录 76 篇新文章，覆盖来源 7 个。从主题分布看，其他（29篇）、公司治理（13篇）、司法和执法（10篇）、公司并购（5篇）、区块链（3篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（24篇）、Harvard Law School Forum on Corporate Governance（14篇）、Columbia Law School Blogs (CLS Blue Sky Blog)（9篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
-  "generated_at": "2026-09-21 05:52:47"
+  "period_start": "2026-09-21",
+  "period_end": "2026-09-28",
+  "trend_summary": "本期（2026-09-21 至 2026-09-28）共收录 82 篇新文章，覆盖来源 10 个。从主题分布看，其他（34篇）、公司治理（12篇）、司法和执法（8篇）、公司并购（3篇）、绿色金融（3篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（34篇）、Harvard Law School Forum on Corporate Governance（12篇）、Columbia Law School Blogs (CLS Blue Sky Blog)（10篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
+  "generated_at": "2026-09-28 06:19:50"
 };

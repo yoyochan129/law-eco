@@ -7040,6 +7040,20 @@ window.SCHOLARS_DATA = [
         "authors": "Isil Erel",
         "date": "",
         "abstract": "",
+        "url": "https://u.osu.edu/erel-koksal.1/files/2026/09/CV_Isil-Erel.pdf",
+        "scholar_name": "Isil Erel",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-09-28T06:16:48.096359+00:00",
+        "week_of": "2026-09-28",
+        "source_method": "faculty_citations"
+      },
+      {
+        "title": "Click here to download",
+        "authors": "Isil Erel",
+        "date": "",
+        "abstract": "",
         "url": "https://u.osu.edu/erel-koksal.1/files/2026/08/CV_Isil-Erel.pdf",
         "scholar_name": "Isil Erel",
         "category": "金融",
@@ -7158,20 +7172,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "跨境并购",
         "abstract_zh": "任何公司一生中最重要的事件之一就是重大收购。由于其重要性，并购 (M&A) 一直是一个巨大的研究领域。然而，绝大多数研究和总结这项研究的调查论文都集中在国内",
         "date_added": "2026-07-28T22:03:28.341895+00:00",
-        "week_of": "2026-07-28",
-        "source_method": "nber_author"
-      },
-      {
-        "title": "Specialized Investments and Firms’ Boundaries: Evidence from Textual Analysis of Patents",
-        "authors": "Jan Bena, Isil Erel, Daisy Wang, Michael S. Weisbach",
-        "date": "August 2021",
-        "abstract": "Inducing firms to make specialized investments through bilateral contracts can be challenging because of potential hold- up problems. Such contracting difficulties have long been argued to be an important reason for acquisitions. To evaluate the extent to which this motivation leads to mergers, we",
-        "url": "https://www.nber.org/papers/w29174",
-        "scholar_name": "Isil Erel",
-        "category": "金融",
-        "title_zh": "专业化投资和企业边界：来自专利文本分析的证据",
-        "abstract_zh": "由于潜在的套牢问题，引导企业通过双边合同进行专门投资可能具有挑战性。长期以来，这种承包困难一直被认为是收购的一个重要原因。为了评估这种动机导致合并的程度，我们",
-        "date_added": "2026-07-28T22:03:29.315916+00:00",
         "week_of": "2026-07-28",
         "source_method": "nber_author"
       }
