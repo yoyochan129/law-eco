@@ -9037,6 +9037,20 @@ window.SCHOLARS_DATA = [
     "tracking_status": "active",
     "literature": [
       {
+        "title": "InformationSensitivity and Valuation Dispersionin Private Credit",
+        "authors": "Young Soo Jang",
+        "date": "",
+        "abstract": "",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7675518",
+        "scholar_name": "Young Soo Jang",
+        "category": "金融",
+        "title_zh": "",
+        "abstract_zh": "",
+        "date_added": "2026-11-02T07:06:30.363605+00:00",
+        "week_of": "2026-11-02",
+        "source_method": "faculty_citations"
+      },
+      {
         "title": "Venture Capital and Customer Capital",
         "authors": "Young Soo Jang",
         "date": "",
@@ -9159,20 +9173,6 @@ window.SCHOLARS_DATA = [
         "title_zh": "私人信贷中的信息不对称与估值中介",
         "abstract_zh": "",
         "date_added": "2026-07-30T21:16:22.707661+00:00",
-        "week_of": "2026-07-30",
-        "source_method": "faculty_citations"
-      },
-      {
-        "title": "Direct Lenders and Financial Stability",
-        "authors": "Young Soo Jang",
-        "date": "",
-        "abstract": "",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145257",
-        "scholar_name": "Young Soo Jang",
-        "category": "金融",
-        "title_zh": "直接贷款人和金融稳定",
-        "abstract_zh": "",
-        "date_added": "2026-07-30T21:16:23.645187+00:00",
         "week_of": "2026-07-30",
         "source_method": "faculty_citations"
       }
