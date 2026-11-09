@@ -26823,11 +26823,1418 @@ window.ARTICLES_DATA = [
     "date_added": "2026-11-02T07:08:51.902720+00:00",
     "title_zh": "",
     "abstract_zh": ""
+  },
+  {
+    "title": "Does Company Culture Deserve a Seat at the Deal Table?",
+    "authors": "",
+    "abstract": "Posted by Lucy Carruthers, Severin Pretzel, and Laura Llangozi, Freshfields Bruckhaus Deringer LLP, on Sunday, November 8, 2026 Editor's Note: Lucy Carruthers is a Senior Associate, Severin Pretzel is a Principal Associate, and Laura Llangozi is a Senior Knowledge Lawyer at Freshfields Bruckhaus Deringer LLP. This post is based on a Freshfields memorandum by Ms. Carruthers, Mr. Severin, Ms. Llangozi, and Tuna Tanik . The global M&A landscape is becoming more complex, with both buyers and sellers operating in less stable and more dynamic business environment. Modern M&A requires boards to consider transactions holistically, taking into account the value case not only from a pricing perspective but also from a cultural, operational and reputational perspective. Unlocking the full potential of a transaction relies just as much on bringing people together as it does on financial modeling and rigorous contract review. Today, there is a clear shift underway: deal teams are increasingly assessing organisational culture, complementing traditional diligence processes with deliberate, structured insights into key management and how teams collaborate. By taking a proactive approach to cultura",
+    "keywords": [
+      "Practitioner Publications",
+      "Board of Directors",
+      "Boardroom",
+      "Culture",
+      "M&A"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/08/does-company-culture-deserve-a-seat-at-the-deal-table/?utm_source=rss&utm_medium=rss&utm_campaign=does-company-culture-deserve-a-seat-at-the-deal-table",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sun, 08 Nov 2026 12:30:10 +0000",
+    "id": "96d0e57d0a84a94c",
+    "topics": [
+      "公司并购"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-11-08",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:25.514100+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Proposed SEC Rule on Rescinding Shareholder Proposal Rule 14a-8: A Comment from the National Association of Manufacturers",
+    "authors": "Ted Allen and Jake Kuhns / National Association of Manufacturers",
+    "abstract": "Posted by Ted Allen and Jake Kuhns, National Association of Manufacturers, on Saturday, November 7, 2026 Editor's Note: Ted Allen is a Senior Director and Jake Kuhns is a Vice President at National Association of Manufacturers. This post is based on a comment letter by the National Association of Manufacturers submitted to the U.S. Securities and Exchange Commission regarding the proposed rescission of Rule 14a-8 governing shareholder proposals and amendments to Rule 14a-4. This post is based on a comment letter submitted to the SEC regarding the SEC’s proposal on Rescinding Shareholder Proposal Rule 14a-8, by the National Association of Manufacturers. Below is the text of the letter with minor adjustments to eliminate the correspondence-related parts. On behalf of the 13 million people who make things in America, the National Association of Manufacturers (“NAM”) is writing in response to the Commission’s proposed rescission of Rule 14a-8 to offer suggestions to facilitate a smoother transition to state oversight of shareholder proposals. As the largest manufacturing association in the U.S., the NAM’s membership includes businesses of all sizes, across all industrial sectors, and i",
+    "keywords": [
+      "Practitioner Publications",
+      "NAM",
+      "Rule 14a-4",
+      "Rule 14a-8",
+      "Shareholder proposals"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/07/proposed-sec-rule-on-rescinding-shareholder-proposal-rule-14a-8-a-comment-from-the-national-association-of-manufacturers/?utm_source=rss&utm_medium=rss&utm_campaign=proposed-sec-rule-on-rescinding-shareholder-proposal-rule-14a-8-a-comment-from-the-national-association-of-manufacturers",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sat, 07 Nov 2026 12:30:32 +0000",
+    "id": "391ae8a6ba7847ea",
+    "topics": [
+      "公司治理",
+      "证券法",
+      "金融监管"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-07",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:27.309784+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SEC Sets 2027 Exam Priorities with Focus on Conflicts, Complex Products, and Technology",
+    "authors": "",
+    "abstract": "Posted by Chuck Daly, Ranah Esmaili, and Lara Mehraban, Sidley Austin LLP, on Saturday, November 7, 2026 Editor's Note: Chuck Daly , Ranah Esmaili , and Lara Mehraban are Partners at Sidley Austin LLP. This post is based on a Sidley memorandum by Mr. Daly, Ms. Esmaili, Ms. Mehraban, Kathryn Alessi , Hardy Callcott , and Kenyon Hall . On October 23, 2026, the U.S. Securities and Exchange Commission (SEC) Division of Examinations (EXAMS) published its annual examination priorities (2027 Priorities) [1] , outlining areas of perceived risk and topics on which EXAMS will focus in the new fiscal year. Substantively, many core themes from last year’s priorities carry over. The 2027 Priorities again underscore the importance of registrants’ standards of care, information security, and operational resiliency as well as the risks presented by alternative and complex products and investment strategies. The 2027 Priorities also (i) reflect an increased focus on artificial intelligence (AI), which the report refers to as “super intelligence” or SI and (ii) introduce certain new areas of focus, such as advisers’ reliance on proxy advisory firms and compliance with new rules or amendments to exis",
+    "keywords": [
+      "Practitioner Publications",
+      "AML",
+      "ETFs",
+      "EXAMS",
+      "SEC"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/07/sec-sets-2027-exam-priorities-with-focus-on-conflicts-complex-products-and-technology/?utm_source=rss&utm_medium=rss&utm_campaign=sec-sets-2027-exam-priorities-with-focus-on-conflicts-complex-products-and-technology",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Sat, 07 Nov 2026 12:30:27 +0000",
+    "id": "f6d27e454d2a6790",
+    "topics": [
+      "AI"
+    ],
+    "primary_topic": "AI",
+    "publish_date_norm": "2026-11-07",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:28.982651+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Early Lessons from the New Accelerated Offering Periods for Tender Offers",
+    "authors": "Douglas K. Schnell and Taylor M. Owings / Wilson Sonsini Goodrich & Rosati",
+    "abstract": "Posted by Douglas K. Schnell and Taylor M. Owings, Wilson Sonsini Goodrich & Rosati, on Friday, November 6, 2026 Editor's Note: Douglas K. Schnell and Taylor M. Owings are Partners at Wilson Sonsini Goodrich & Rosati. This post is based on their Wilson Sonsini memorandum. In April 2026, the Division of Corporation Finance of the U.S. Securities and Exchange Commission shortened the minimum offering period for certain types of equity tender offers from 20 business days to 10 business days. Since then, Wilson Sonsini has played a lead role—representing both buyers and sellers—in several tender offers that used shortened offering periods. Several lessons and best practices are beginning to emerge. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "delaware",
+      "Division of Corporation Finance",
+      "FTC",
+      "Rule 14d-6"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/06/early-lessons-from-the-new-accelerated-offering-periods-for-tender-offers/?utm_source=rss&utm_medium=rss&utm_campaign=early-lessons-from-the-new-accelerated-offering-periods-for-tender-offers",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Fri, 06 Nov 2026 12:32:37 +0000",
+    "id": "73b0caf6b6866697",
+    "topics": [
+      "公司并购"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:30.575752+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Weekly Roundup: October 30-November 5, 2026",
+    "authors": "John Roe and Amra Balic / BlackRock",
+    "abstract": "Posted by the Harvard Law School Forum on Corporate Governance, on Friday, November 6, 2026 Editor's Note: This roundup contains a collection of the posts published on the Forum during the week of October 30-November 5, 2026 2026 Global Voting Spotlight Posted by John Roe and Amra Balic, BlackRock, on Friday, October 30, 2026 Tags: BIS , Proxy voting , SEC , Shareholder proposals Investor Perspectives on SEC Disclosure Reform Posted by Linda Pappas, Mike Kesner, and Lane Ringlee, Pay Governance LLC, on Saturday, October 31, 2026 Tags: disclosures , Institutional Investors , investors , SEC Rule 14a-8: Perhaps Slow-Walking Recission is Best Posted by Stefan Padfield and Allen Mendenhall, The Heritage Foundation, on Sunday, November 1, 2026 Tags: Corporate governance , ESG , Rule 14a-8 , Sustainability SEC Staff Streamlines Form S-8, Rule 701, and Section 16 Guidance Posted by Michael Albano, Julia Rozenblit, and Ariel Adler, Cleary Gottlieb Steen & Hamilton LLP, on Monday, November 2, 2026 Tags: Form S-8 , Rule 701 , SEC , Section 16 Guidance Stewardship at an Inflection Point – From Activity to Effectiveness Posted by Dr. Catherine Marchewitz (Governance & Values) and David Mondl (",
+    "keywords": [
+      "Weekly Roundup"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/06/weekly-roundup-october-30-november-5-2026/?utm_source=rss&utm_medium=rss&utm_campaign=weekly-roundup-october-30-november-5-2026",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Fri, 06 Nov 2026 12:30:57 +0000",
+    "id": "e77d43602fc6b9be",
+    "topics": [
+      "公司治理",
+      "证券法"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:32.169187+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "When an Algorithm Reads Your Proxy and AI Is on the Ballot",
+    "authors": "",
+    "abstract": "Posted by Brendan McVeigh, Ken Bertsch, and Maddie Chisholm, Anteris Advisors, on Thursday, November 5, 2026 Editor's Note: Brendan McVeigh is a Partner, Ken Bertsch is a Senior Advisor, and Maddie Chisholm is a Principal at at Anteris Advisors. This post is based on their Anteris Advisors memorandum. AI is entering corporate governance from all sides of the table. Investors are using it to process disclosure, customize voting policies, and prepare for engagements. Proxy advisors are moving toward AI enabled, policy driven research. Shareholder activists are using it to find targets and sharpen strategic theses. Boards are being asked to explain not only how they oversee AI risk, but how they assess its opportunities and broader strategic, capital, and talent implications. At the same time, board members are increasingly using AI to assist in board oversight, a development that raises new governance questions. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "AI",
+      "Corporate governance",
+      "Proxy season",
+      "Shareholder activism"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/05/when-an-algorithm-reads-your-proxy-and-ai-is-on-the-ballot/?utm_source=rss&utm_medium=rss&utm_campaign=when-an-algorithm-reads-your-proxy-and-ai-is-on-the-ballot",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Thu, 05 Nov 2026 12:32:53 +0000",
+    "id": "74487daa9f085e25",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-05",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:33.690826+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SEC Proposes Significant Changes to Custody Rules and Introduces Framework for Custody of Crypto Assets",
+    "authors": "",
+    "abstract": "Posted by Frederick Wertheim, Eric M. Diamond, and Marie-Louise M. Huth, Sullivan & Cromwell LLP, on Thursday, November 5, 2026 Editor's Note: Frederick Wertheim , Eric M. Diamond , and Marie-Louise M. Huth are Partners at Sullivan & Cromwell LLP. This post is based on a Sullivan & Cromwell memorandum by Mr. Wertheim, Mr. Diamond, Ms. Huth, Yael R. Tzipori , and Lauren M. Hobby . Summary On October 1, 2026, the Securities and Exchange Commission (the “SEC”) proposed amendments to the custody rules under the Investment Company Act of 1940 (the “Investment Company Act”) and the Investment Advisers Act of 1940 (the “Advisers Act”) (the “Proposed Rules”). [1] The Proposed Rules would establish new custody arrangements for crypto assets while also revising existing custody requirements for registered investment advisers and regulated funds (registered management investment companies and business development companies (“BDCs”)), [2] including those that do not invest in crypto assets. Among the most significant proposed changes are the following. Permitting new crypto custody arrangements for advisers and regulated funds , including (i) custody of crypto assets [3] with state trust compa",
+    "keywords": [
+      "Practitioner Publications",
+      "Advisers Act",
+      "Crypto Assets",
+      "Investment Company Act",
+      "SEC"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/05/sec-proposes-significant-changes-to-custody-rules-and-introduces-framework-for-custody-of-crypto-assets/?utm_source=rss&utm_medium=rss&utm_campaign=sec-proposes-significant-changes-to-custody-rules-and-introduces-framework-for-custody-of-crypto-assets",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Thu, 05 Nov 2026 12:30:55 +0000",
+    "id": "26b4cebcfee74ceb",
+    "topics": [
+      "区块链"
+    ],
+    "primary_topic": "区块链",
+    "publish_date_norm": "2026-11-05",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:35.124526+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Remarks by Commissioner Uyeda on Corporate Penalties and Individual Accountability",
+    "authors": "",
+    "abstract": "Posted by Mark T. Uyeda, U.S. Securities and Exchange Commission, on Wednesday, November 4, 2026 Editor's Note: Mark T. Uyeda is a Commissioner of the U.S. Securities and Exchange Commission. This post is based on his recent remarks. The views expressed in this post are those of Commissioner Uyeda and do not necessarily reflect those of the Securities and Exchange Commission or its staff. On January 19, 2006, in the clear blue Florida sky, an Atlas V rocketed off from Cape Canaveral carrying a small spacecraft called New Horizons. [1] This mission, planned by NASA (that is the National Aeronautics and Space Administration, not the other NASAA, the North American Securities Administrators Association), exited the Earth at more than 36,000 miles per hour for a long term “voyage to visit the planet Pluto and then beyond.” [2] That same month, the Securities and Exchange Commission launched something of similar importance, at least in my view, [3] namely its Statement Concerning Financial Penalties, also known as the “Corporate Penalty Statement.” [4] Announced in conjunction with two settled accounting fraud cases, one with a $50 million civil penalty and the other with no penalty, [5",
+    "keywords": [
+      "Practitioner Publications",
+      "Corporate Penalty Statement",
+      "Regulations",
+      "SEC",
+      "SPAC"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/04/remarks-by-commissioner-uyeda-on-corporate-penalties-and-individual-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=remarks-by-commissioner-uyeda-on-corporate-penalties-and-individual-accountability",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 04 Nov 2026 12:32:21 +0000",
+    "id": "f4ebdcd61a941a37",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:36.672695+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Untamed Unicorns: Why Startup Finance is Broken and How to Fix It",
+    "authors": "",
+    "abstract": "Posted by Renée Jones (Boston College Law School), on Wednesday, November 4, 2026 Editor's Note: Renée M. Jones is Professor of Law and Dr. Thomas F. Carney Distinguished Scholar at Boston College Law School. This post is based on her recent book . Disgraced Theranos founder Elizabeth Holmes is back in the news, dominating the screen in You Can See Everything which recently opened to critical acclaim and surprising box office success. As voyeuristic entertainment the film delivers, allowing viewers to see and believe what they want to see and believe. By focusing so intently on Holmes’s unknowable state of mind, however, the film leaves a critical question unanswered: Why did so many experienced investors and respected public figures disregard mounting evidence of Holmes’s deception, thereby enabling and helping perpetuate her devastating fraud? When we dwell on Holmes’s pathology, as the film invites us to do, we risk overlooking the flaws in the startup ecosystem that helped propel the Theranos ruse, flaws that have contributed to other major startup scandals. My book, Untamed Unicorns: Why Startup Finance is Broken and How to Fix It (Harvard University Press) , analyzes the lega",
+    "keywords": [
+      "Academic Research",
+      "Financial regulation",
+      "Startup Governance",
+      "Startups",
+      "Theranos",
+      "Venture Capital"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/04/untamed-unicorns-why-startup-finance-is-broken-and-how-to-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=untamed-unicorns-why-startup-finance-is-broken-and-how-to-fix-it",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 04 Nov 2026 12:31:48 +0000",
+    "id": "ab9fd98c378b1756",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:38.140561+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "AI and the Escalating Threat of Nation-State Cyber Operations",
+    "authors": "",
+    "abstract": "Posted by Martin Lipton, Wachtell, Lipton, Rosen & Katz, on Wednesday, November 4, 2026 Editor's Note: Martin Lipton is a Founding Partner at Wachtell, Lipton, Rosen & Katz. This post is based on a Wachtell Lipton memorandum by Mr. Lipton, Kevin S. Schwartz , and David M. Adlerstein . We have previously written about the critical importance of public company boards maintaining focus on cybersecurity risk oversight , including in the face of burgeoning cybersecurity risks arising from the proliferation of advanced AI models and tools. An issue meriting immediate specific focus is the growing threat posed by nation state and state sponsored actors conducting malicious cyber operations, including espionage, theft, and sabotage of critical infrastructure. Nation state and state sponsored cyber actors have inflicted substantial damage on companies and governments for more than a decade. Examples include operations attributed to North Korea (including the Lazarus Group, linked to the 2014 Sony Pictures hack and massive cryptocurrency thefts), Russia (including the SolarWinds supply chain compromise and the NotPetya malware attack), China (including cyber enabled IP theft and efforts to i",
+    "keywords": [
+      "Practitioner Publications",
+      "AI",
+      "cyber risks",
+      "cyber security",
+      "Risks"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/04/ai-and-the-escalating-threat-of-nation-state-cyber-operations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-the-escalating-threat-of-nation-state-cyber-operations",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Wed, 04 Nov 2026 12:30:49 +0000",
+    "id": "e784efa9c4156b3f",
+    "topics": [
+      "区块链"
+    ],
+    "primary_topic": "区块链",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:39.762487+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Pay Leverage, Not Percent of Pay in Equity, Is the Key Measure of Corporate Director Pay",
+    "authors": "",
+    "abstract": "Posted by Stephen F. O’Byrne, Shareholder Value Advisors Inc., on Tuesday, November 3, 2026 Editor's Note: Stephen F. O’Byrne is President and Co-founder of Shareholder Value Advisors Inc. This post is based on his Shareholder Value Advisors memorandum. The objectives of corporate director pay are much the same as the objectives of corporate executive pay, which are to provide strong incentives to increase shareholder value, retain key talent, and limit shareholder cost. The conventional wisdom in executive pay is that the three basic objectives can be achieved by combining median target pay with a high percent of pay at risk. The conventional theory is that a high percent of pay at risk provides a strong incentive, not letting target pay fall below the peer median retains key talent and not letting target pay rise above the peer median limits shareholder cost. These principles have become widely embraced in corporate director pay over the last thirty years. (more…)",
+    "keywords": [
+      "Practitioner Publications",
+      "Corporate governance",
+      "director pay",
+      "executive pay",
+      "Shareholders"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/03/pay-leverage-not-percent-of-pay-in-equity-is-the-key-measure-of-corporate-director-pay/?utm_source=rss&utm_medium=rss&utm_campaign=pay-leverage-not-percent-of-pay-in-equity-is-the-key-measure-of-corporate-director-pay",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 03 Nov 2026 12:32:17 +0000",
+    "id": "c0251b5a09fffde6",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:41.224914+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Explaining Delaware’s Blunder",
+    "authors": "",
+    "abstract": "Posted by Itai Fiegenbaum (St. Thomas University), on Tuesday, November 3, 2026 Editor's Note: Itai Fiegenbaum is an Associate Professor at St. Thomas University. This post is based on his recent article , forthcoming in the American Business Law Journal , and is part of the Controlling Shareholder Series ; links to other posts in the series are available here . Delaware’s judiciary is widely regarded as the most sophisticated corporate law judiciary in the United States. Its judges are not only experts in corporate law, but also keenly aware of the political forces that shape Delaware’s position as the jurisdiction of choice for publicly traded corporations. That institutional sophistication has historically allowed Delaware’s courts to navigate threats to the state’s corporate law franchise without inviting unnecessary confrontation . How, then, did Delaware’s judiciary provoke a political backlash that culminated in the hurried enactment of the 2025 amendments to Delaware’s corporate code, which displaced decades of judge made fiduciary duty doctrine and curtailed shareholder inspection rights? To appreciate the puzzle, consider the judiciary’s handling of the litigation surroun",
+    "keywords": [
+      "Controlling Shareholder Series",
+      "Practitioner Publications",
+      "Controlling shareholders",
+      "corporate law",
+      "delaware",
+      "Shareholders"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/03/explaining-delawares-blunder/?utm_source=rss&utm_medium=rss&utm_campaign=explaining-delawares-blunder",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 03 Nov 2026 12:31:21 +0000",
+    "id": "bccc26031b615c36",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:42.707818+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Tokenized Securities — What Corporations Should Know",
+    "authors": "",
+    "abstract": "Posted by Kevin Schwartz and David Adlerstein, Wachtell, Lipton, Rosen & Katz, on Tuesday, November 3, 2026 Editor's Note: Kevin S. Schwartz is a Partner and David M. Adlerstein is an Of Counsel at Wachtell, Lipton, Rosen & Katz. This post is based on their Wachtell memorandum. The U.S. system for issuing, trading, clearing, and holding securities rests on a book entry framework developed more than half a century ago. Familiar, time tested, and generally reliable, that framework also entails settlement delays, limited trading hours, layers of intermediaries and records, and substantial reconciliation work. Some market participants are now testing whether a different recordkeeping technology can reduce those frictions and modernize this infrastructure through tokenization, which is the representation of securities on a blockchain. Proponents contend that tokenization could enable near instant settlement; 24/7 trading; fewer intermediaries; a potential fix for the tangled recordkeeping that complicates shareholder voting; and greater transparency on public blockchains, where activity is visible to anyone, though participants are pseudonymous. Securities in a programmable environment ",
+    "keywords": [
+      "Practitioner Publications",
+      "DTCC",
+      "SEC",
+      "Tokenized Securities",
+      "Trading"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/03/tokenized-securities-what-corporations-should-know/?utm_source=rss&utm_medium=rss&utm_campaign=tokenized-securities-what-corporations-should-know",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Tue, 03 Nov 2026 12:30:50 +0000",
+    "id": "81def64896f04b47",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:44.035080+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Stewardship at an Inflection Point – From Activity to Effectiveness",
+    "authors": "",
+    "abstract": "Posted by Dr. Catherine Marchewitz (Governance & Values) and David Mondl (Inrate), on Monday, November 2, 2026 Editor's Note: Dr. Catherine Marchewitz is a Managing Director at Governance & Values and David Mondl is the Head of Active Ownership at Inrate. Stewardship is becoming more sophisticated. But is it becoming more effective? Investors have never had more tools, more data or more expectations around stewardship. Engagement programs have become more structured. Voting is increasingly integrated with broader ownership strategies. Sustainability data and analytics have become more sophisticated. Regulation and stewardship codes have raised expectations around transparency and accountability. But there is a question we think deserves more attention. Are we becoming better at stewardship or simply doing more of it? We think this is an important distinction. More engagement meetings do not necessarily mean more influence. More votes do not necessarily mean better outcomes. And a growing number of reported milestones does not necessarily tell us how much an investor contributed to the change. Of course, activity matters. It tells us whether investors are using their stewardship cap",
+    "keywords": [
+      "Practitioner Publications",
+      "Board of Directors",
+      "portfolio",
+      "Stewardship",
+      "Voting"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/02/stewardship-at-an-inflection-point-from-activity-to-effectiveness/?utm_source=rss&utm_medium=rss&utm_campaign=stewardship-at-an-inflection-point-from-activity-to-effectiveness",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 02 Nov 2026 12:32:26 +0000",
+    "id": "38d32dd3f27773bc",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-02",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:45.660447+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SEC Staff Streamlines Form S-8, Rule 701, and Section 16 Guidance",
+    "authors": "",
+    "abstract": "Posted by Michael Albano, Julia Rozenblit, and Ariel Adler, Cleary Gottlieb Steen & Hamilton LLP, on Monday, November 2, 2026 Editor's Note: Michael Albano is a Partner, Julia Rozenblit is a Practice Development Lawyer, and Ariel Adler is an Associate at Cleary Gottlieb Steen & Hamilton LLP. This post is based on a Cleary Gottlieb memorandum by Mr. Albano, Ms. Rozenblit, Mr. Adler, and Bobby Bee. On October 15, 2026, the staff of the U.S. Securities and Exchange Commission’s (SEC) Division of Corporation Finance (the Staff) released a series of new and revised Corporation Finance Interpretations (CFIs, formerly known as Compliance and Disclosure Interpretations, or C&DIs) addressing Rule 701 under the Securities Act of 1933 (the Securities Act), Form S-8 and the related registration fee rules, as well as a Form 4 filing timing question under Section 16 of the Securities Exchange Act of 1934 (the Exchange Act). [1] Most of the guidance is new, although the Staff also revised two longstanding Form S-8 interpretations, including one that reverses the Staff’s prior position on assumed awards held by former employees of an acquired company. Taken together, the new CFIs largely resolve i",
+    "keywords": [
+      "Practitioner Publications",
+      "Form S-8",
+      "Rule 701",
+      "SEC",
+      "Section 16 Guidance"
+    ],
+    "url": "https://corpgov.law.harvard.edu/2026/11/02/sec-staff-streamlines-form-s-8-rule-701-and-section-16-guidance/?utm_source=rss&utm_medium=rss&utm_campaign=sec-staff-streamlines-form-s-8-rule-701-and-section-16-guidance",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "publish_date": "Mon, 02 Nov 2026 12:30:20 +0000",
+    "id": "fb35b25eea2862c1",
+    "topics": [
+      "证券法"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-11-02",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:47.348031+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Worker Directors and the Limits of Shareholder Exclusivity",
+    "authors": "renholding",
+    "abstract": "In 1919, Massachusetts allowed manufacturing companies to let their employees nominate and elect directors. Those directors were to have the same rights and powers, and the same duties and responsibilities, as directors elected by stockholders. Employment could provide access to the board without first being converted into share ownership. The provision never led to broader board representation for U.S. workers, and its current reach is narrow. Its significance is to show that that employee voting rights need not entail employee ownership or a shift from shareholder value to stakeholder governance. In a recent article , I develop this distinction through the European and American histories of worker participation. I separate the reasons for organizing corporate governance around shareholders from the additional argument needed to reserve director selection exclusively to them. That distinction matters because worker participation is often invested with a political significance that exceeds its immediate legal effects. Its association with industrial democracy and struggles over economic power can make even limited board representation seem like a broader transformation of the corpo",
+    "keywords": [
+      "Corporate Governance",
+      "International Developments",
+      "board representation",
+      "economic power",
+      "employee directors",
+      "shareholder governance",
+      "stakholder governance"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/09/worker-directors-and-the-limits-of-shareholder-exclusivity/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Mon, 09 Nov 2026 05:05:45 +0000",
+    "id": "5d8617058f2fe3c0",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-09",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:48.976627+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Covington Discusses Fifth Circuit Decision on Whether Meme Stock Traded in Efficient Market",
+    "authors": "martinyerovi",
+    "abstract": "In securities fraud class actions, plaintiffs must prove that a stock was traded in an efficient market in order to invoke a presumption that—under the fraud-on-the-market theory articulated in Basic Inc. v. Levinson , 485 U.S. 224, 247 (1988)—issues of reliance on defendant’s misrepresentation predominate. But if a stock is traded in an inefficient market, then courts cannot presume that the market price of defendant’s stock reflects all publicly available information (including defendant’s alleged misrepresentations), and thus cannot presume that all class members relied on defendant’s misstatements when they bought or sold defendant’s stock. In Bozorgi v. Cassava Sciences, Inc. , 2026 WL 3160284 (5th Cir. Oct. 16, 2026), the Fifth Circuit overturned a class certification ruling for failing to consider whether defendant’s stock was actually a “meme stock” that was traded in an inefficient market. The plaintiffs alleged that defendant Cassava defrauded investors by misrepresenting the success of its Alzheimer’s drug simufilam. The district court declined to consider defendant’s argument and expert’s analysis that Cassava’s stock was a meme stock traded in an inefficient market, ra",
+    "keywords": [
+      "Securities Regulation",
+      "Basic v. Levinson",
+      "Bozorgi v. Cassava Sciences",
+      "efficient market hypothesis",
+      "meme stocks",
+      "securities class action",
+      "securities litigation"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/09/covington-discusses-fifth-circuit-decision-on-whether-meme-stock-traded-in-efficient-market/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Mon, 09 Nov 2026 05:01:13 +0000",
+    "id": "733e36590abb0308",
+    "topics": [
+      "证券法"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-11-09",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:50.589723+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Implications of the SEC and CFTC’s Stock Market Deregulation",
+    "authors": "renholding",
+    "abstract": "The Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) seem to be racing each other to greenlight retail-facing financial products that are holographic images of stocks . Most of the focus has been around tokenized stocks and prediction markets contracts on securities, but as of November 2, thanks to the one-person CFTC, we can add “perpetual futures” to the list. None of these products come with the rights, protections, or market plumbing guardrails of stocks. At the same time, America’s world-beating real capital markets—actual, not holographic, stocks and bonds—are driving the largest investment boom since the railroads. Are capital markets professionals and scholars seeing what’s at stake with that economic split screen? Economically, stock tokens, prediction market contracts, and “perps” are more or less fancy names for the unprecedented offering of retail-facing security-based swaps. During the 2008 financial crisis, swaps were at the center of the meltdown and bailout, and Congress, the SEC, and CFTC spent over a decade developing and implementing rules to promote fair, orderly, and efficient swaps trading that would promote—and not ",
+    "keywords": [
+      "Securities Regulation",
+      "CFTC",
+      "Commodity Futures Trading Commission",
+      "PCAOB",
+      "perpetual futures",
+      "perps",
+      "SEC",
+      "Securities and Exchange Commission",
+      "SIFMA",
+      "stock tokens"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/06/the-implications-of-the-sec-and-cftcs-stock-market-deregulation/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Fri, 06 Nov 2026 05:05:21 +0000",
+    "id": "2da4d4bf58b628d4",
+    "topics": [
+      "区块链"
+    ],
+    "primary_topic": "区块链",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:52.287805+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "What History Reveals About SEC Rule 14a-8",
+    "authors": "renholding",
+    "abstract": "On September 16, 2026, under Chairman Paul Atkins, the Securities and Exchange Commission published a statement on its proposals to rescind Rule 14a-8 and amend Rule 14a-4 . It said the rescission would not end shareholder proposals, but that Congress has not given the Commission authority to decide which matters are proper subjects for a shareholder vote. The proposing release does not rest on authority alone , and also sets out independent policy reasons for rescission. We wrote the rule’s history, from its adoption in 1942 to the proposal now pending, building it from the primary record and above all from the printed transcript of the 1943 hearings. We filed the paper with the Commission as a comment and have not yet taken a position on the proposal itself. Historical Context Two questions about shareholder proposals are being fought over in American corporate governance right now. The first is who should be allowed to put a proposal in front of a company’s shareholders at the company’s expense. The second is what counts as a relevant subject. Neither question is new. Both were put to the Commission in June 1943, at the first congressional hearings ever held on the shareholder p",
+    "keywords": [
+      "Securities Regulation",
+      "Congress",
+      "corporate law",
+      "proxy voting",
+      "Rule 14(a)-4",
+      "Rule 14a-8",
+      "SEC",
+      "Securities and Exchange Commission",
+      "shareholder proposals"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/05/what-history-reveals-about-sec-rule-14a-8/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Thu, 05 Nov 2026 05:05:24 +0000",
+    "id": "5c5aa58e7d896ad4",
+    "topics": [
+      "证券法",
+      "公司治理"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-11-05",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:53.973894+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Latham Discusses Form S-8 Simplified",
+    "authors": "martinyerovi",
+    "abstract": "On October 15, 2026, the Securities and Exchange Commission’s (SEC’s) Division of Corporation Finance issued new and revised corporation finance interpretations (CFIs) guiding issuers on the use of Form S-8, the streamlined registration statement that registers the offer and sale of compensatory equity securities to employees, directors, and consultants. The CFIs reflect an expanded and more practical SEC staff view on the use of Form S-8 for equity compensation awards. Among other things, the CFIs provide increased flexibility for the registration of pre-initial public offering (IPO) equity awards and equity awards assumed pursuant to mergers or acquisitions. The CFIs also confirm that the registration of awards, such as restricted stock or restricted stock units (RSUs), is not required until vesting if the awards could have been registered on a Form S-8 at grant. This guidance represents a welcome response to a changing market landscape and evolving M&A activity by public companies. The CFIs provide, among other things, that: issuers may register shares underlying outstanding compensatory equity awards granted prior to their IPOs on Form S-8, including RSUs and restricted stock; ",
+    "keywords": [
+      "Securities Regulation",
+      "Division of Corporation Finance",
+      "equity compensation",
+      "Form S-8",
+      "M&A",
+      "SEC",
+      "Securities and Exchange Commission"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/05/latham-discusses-form-s-8-simplified/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Thu, 05 Nov 2026 05:01:54 +0000",
+    "id": "ed562d052453c055",
+    "topics": [
+      "公司并购",
+      "证券法"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-11-05",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:55.553122+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Adjust, Don’t Rescind, Rule 14a-8",
+    "authors": "renholding",
+    "abstract": "The SEC promulgated the shareholder proposal rule, 14a-8, over 80 years ago, less than a decade after the Securities Exchange Act of 1934 was enacted. Shareholder proposals have become a major part of American corporate governance, advancing reforms such as non-staggered boards, majority voting for directors, and proxy access for nominating directors. Yet the SEC is proposing to rescind Rule 14a-8. Its leading argument is that it has been wrong all these decades and Section 14(a) of the ‘34 Act does not authorize the rule after all. Today’s SEC is wrong. Its best argument points not to rescinding the rule but rather to modifying how it treats precatory (advisory) proposals, which constitute a large majority of shareholder proposals. Rule 14a-8 allows shareholders who are bringing a matter to be voted on at a shareholder meeting to have their proposal included in the corporate proxy. This saves them the expense and effort of soliciting proxies on their own, though they may still solicit themselves if they want to or if the rule allows the company to refuse to include the proposal in the corporate proxy. Rule 14a-8 was first promulgated by the SEC in 1942, pursuant to the SEC’s autho",
+    "keywords": [
+      "Securities Regulation",
+      "Rule 14a-8",
+      "s",
+      "SEC",
+      "Securities and Exchange Act of 1934",
+      "Securities and Exchange Commission",
+      "shareholder proporsals"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/04/adjust-dont-rescind-rule-14a-8/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Wed, 04 Nov 2026 05:05:43 +0000",
+    "id": "0032bcb61081b135",
+    "topics": [
+      "公司治理",
+      "证券法"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:57.086799+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Cahill Discusses Circuit Split on PSLRA Safe Harbor Eligibility for Risk Disclosure",
+    "authors": "martinyerovi",
+    "abstract": "When a company makes forward-looking statements about its business, federal law generally shields such prospective comments if they are coupled with meaningful cautionary language. As a result, “risk disclosures” have become ubiquitous, and companies rely on them to safely issue forward-looking remarks that investors find invaluable. Risk disclosures are, therefore, often viewed as a tool for avoiding legal liability, not a means of generating it. However, risk disclosures can amount to statements actionable under federal securities laws if they portray risks to the company’s business as hypothetical when, in reality, those risks have already materialized. But when, exactly, are risk disclosures actionable? The federal circuit courts are deeply divided on this issue, and the Supreme Court—despite hinting just two years ago that it would provide an answer—has turned away from the question entirely. As it stands, nine of the circuit courts have weighed in on the topic, resulting in three meaningfully different interpretations of the law. Moreover, the Second and Ninth Circuits have issued recent rulings consistent with the existing precedent in those Circuits, confirming that fault l",
+    "keywords": [
+      "Securities Regulation",
+      "forward look language",
+      "materiality",
+      "Ninth Circuit",
+      "prospectus",
+      "PSLRA",
+      "Risk Disclosure",
+      "SECOND",
+      "Second Circuit"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/04/cahill-discusses-circuit-split-on-pslra-safe-harbor-eligibility-for-risk-disclosure/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Wed, 04 Nov 2026 05:01:50 +0000",
+    "id": "3f1e7bcd458c8a37",
+    "topics": [
+      "证券法"
+    ],
+    "primary_topic": "证券法",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:37:58.833132+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Why We Need to Unify Business Law",
+    "authors": "renholding",
+    "abstract": "In a new article , we argue that business law’s division into separate disciplines obscures shared problems and generates unnecessary costs. Commercial, financial, bankruptcy, securities, and business-organization law developed largely independently, each responding to particular activities and historical circumstances. Yet these fields repeatedly confront similar difficulties involving information asymmetries, coordination problems, conflicting incentives, and parallel risks. We propose a more integrated legal framework for viewing business law, with the goals of improving efficiency by reducing overlap among the constituent fields, increasing consistency, and more widely disseminating advances across those fields. We mean to merely supplement, not replace, existing regulation, as well as to guide interpretation and encourage useful exchanges across the business-law disciplines. The fragmentation of business law produces overbroad rules, excessive exemptions, and inconsistent treatment. The Investment Company Act’s overbroad definition of securities, for example, inadvertently covers financial assets purchased by securitization vehicles, potentially subjecting those vehicles to ex",
+    "keywords": [
+      "Bankruptcy and Restructuring",
+      "Corporate Governance",
+      "Finance & Economics",
+      "M & A",
+      "Securities Regulation",
+      "bankruptcy",
+      "business law",
+      "commercial law",
+      "conflicts of interest",
+      "Investment Company Act",
+      "market failures",
+      "securities law",
+      "unified business law"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/03/why-we-need-to-unify-business-law/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Tue, 03 Nov 2026 05:05:02 +0000",
+    "id": "a1024acde2bc4bba",
+    "topics": [
+      "破产法"
+    ],
+    "primary_topic": "破产法",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:00.454964+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SEC Chair Atkins Discusses Returning to First Principles",
+    "authors": "renholding",
+    "abstract": "Good afternoon, ladies and gentlemen. And thank you, Luisa [del Rosal], for your generous introduction. Of course, I should also like to thank the Economic Club of Dallas for having me today. Texas is a place where First Principles have clearly found fertile ground, so there is no better place to reflect on the SEC’s return to them than in a state that is setting the standard. Before I go any further, however, I must note the customary disclaimer that the views I express here are my own as SEC Chairman and not necessarily those of the SEC as an institution or of the other Commissioner. Returning to First Principles My priority as SEC Chairman is straightforward: to ensure that America’s capital markets remain the deepest, most competitive, and most innovative in the world, while maintaining the highest degree of investor protection. To do so, we are returning the agency to First Principles. Those principles were established 250 years ago, when our Founders declared the right of a free people to govern themselves; to forge their own destiny through industry and enterprise; to wager everything on an idea and enjoy the fruit of their endeavor; and to allow the forces of competition—ra",
+    "keywords": [
+      "Securities Regulation",
+      "SEC",
+      "SEC Enforcement",
+      "Securities and Exchange Commission",
+      "securities regulation"
+    ],
+    "url": "https://clsbluesky.law.columbia.edu/2026/11/03/sec-chair-atkins-discusses-returning-to-first-principles/",
+    "source": "Columbia Law School Blogs (CLS Blue Sky Blog)",
+    "publish_date": "Tue, 03 Nov 2026 05:01:07 +0000",
+    "id": "49d77835839817ee",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:02.056151+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Reliance Gap in AI Corporate Governance",
+    "authors": "Wen Yi Leong",
+    "abstract": "Leading AI developers have built their safety commitments out of corporate law, such as in the form of public benefit corporations, controlling foundations, special share classes, trusts and published safety frameworks. As it turns out, each of these commitments can be lawfully loosened by those it was meant to constrain, to which few outsiders have the means to object. Yet regulators rely on these commitments when deciding whether to intervene.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/11/reliance-gap-ai-corporate-governance",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Mon, 11/09/2026 - 12:00",
+    "id": "aa87c0d6e2377089",
+    "topics": [
+      "公司治理"
+    ],
+    "primary_topic": "公司治理",
+    "publish_date_norm": "2026-11-09",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:03.787202+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Fintech in the Global South: Rewriting Regulatory Convergence in Financial Regulation",
+    "authors": "Nydia Remolina Leon",
+    "abstract": "In February 2026, India’s Unified Payments Interface (UPI) processed more than 20 billion transactions in a single month, across nearly seven hundred participating banks.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/11/fintech-global-south-rewriting-regulatory-convergence-financial-regulation",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Fri, 11/06/2026 - 12:00",
+    "id": "b40576185605c0df",
+    "topics": [
+      "金融监管",
+      "金融科技"
+    ],
+    "primary_topic": "金融监管",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:05.622099+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Extending the Brussels Ia Regulation to Third State Defendants: a Gift from the EU to London’s Litigation Market?",
+    "authors": "Johannes Ungerer",
+    "abstract": "Businesses, lawyers, and courts appreciate simpler rules, especially for cross-border litigation. But a simpler rulebook is not necessarily a better bargain.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/11/extending-brussels-ia-regulation-third-state-defendants-gift-eu-londons",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Thu, 11/05/2026 - 12:00",
+    "id": "0617b7be83d58f58",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-05",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:07.045974+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "A Rigged Benchmark, an Invalid Contract? The Attribution Problem after Livronsa",
+    "authors": "Ernesto Suárez Puga",
+    "abstract": "A rigged benchmark does not necessarily mean an invalid contract. In Case C-60/25 Livronsa (2026) , the Court of Justice of the European Union rejected the automatic extension of antitrust nullity to a mortgage term referencing Euribor.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/11/rigged-benchmark-invalid-contract-attribution-problem-after-livronsa",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Wed, 11/04/2026 - 12:00",
+    "id": "dbea986fc41a52a9",
+    "topics": [
+      "竞争法和反垄断法"
+    ],
+    "primary_topic": "竞争法和反垄断法",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:08.597624+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "When is AI a product? China’s new approach and the choices facing the UK Law Commission",
+    "authors": "Mohammad Samiul Huq",
+    "abstract": "In September 2026, China’s Supreme People’s Court (SPC) issued new judicial guidance on disputes involving artificial intelligence. Among the issues addressed is a fundamental question for product liability: when should AI itself be treated as a product? China has drawn a relatively clear boundary, keeping product liability connected to AI embodied in physical products rather than standalone AI services.",
+    "keywords": [],
+    "url": "https://blogs.law.ox.ac.uk/oblb/blog-post/2026/11/when-ai-product-chinas-new-approach-and-choices-facing-uk-law-commission",
+    "source": "Oxford Business Law Blog",
+    "publish_date": "Tue, 11/03/2026 - 12:00",
+    "id": "69fbc5d4add95d5c",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:10.210903+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Target What? The Foundations of Poverty Targeting -- by Rema Hanna, Emily Breza, Benjamin A. Olken, Abhijit Banerjee, Arun G. Chandrasekhar, Gideon Moore",
+    "authors": "",
+    "abstract": "Most government transfer programs aim to target the poor. Doing so implicitly assumes that the lowest-consumption households have the highest marginal social valuation, i.e., have the highest social welfare gain from an additional dollar. But this need not be the case. In 600 Indonesian villages, we ask over 5,500 villagers to rank other villagers on how well off they are and how much a modest cash transfer would help them, and compare these rankings to consumption and self-assessed welfare. Targeting consumption misses 77% of households with the highest marginal social valuation. Targeting self-assessed welfare misses 57%. Even targeting those the community ranks worst off in levels, not margins, misses 25%. Divergences between different notions of neediness are statistically predictable. In a randomized controlled trial, proxy means tests best target consumption, self-targeting ordeals capture self-assessed welfare levels, and community targeting comes closest to marginal social valuation. Targeting strategies inescapably embed normative stances.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35984#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "5cfa7b8214c8ee25",
+    "topics": [
+      "实验"
+    ],
+    "primary_topic": "实验",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:11.704528+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Unconventional Monetary Policy and Deposit Retention -- by Philip Strahan, Tuo Yang",
+    "authors": "",
+    "abstract": "The two dimensions of unconventional monetary policy — holding the short rate at the zero-lower bound (ZLB) and quantitative easing (QE) — shifted deposit composition toward more interest-sensitive customers. The ZLB drew these customers by creating rate compression, which limited the benefit of searching for high-yielding liquidity sources. QE also drew rate-sensitive, large depositors from the Federal Reserve’s purchases of bonds from non-banks. Once policy normalized, flow sensitivity and the deposit beta both increased with exposure to QE and the ZLB. We conclude that unconventional monetary policy made deposit retention costlier and riskier for banks.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35985#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "ee90318fba1ffca5",
+    "topics": [
+      "央行和货币政策",
+      "银行",
+      "非银机构"
+    ],
+    "primary_topic": "央行和货币政策",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:13.173409+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale -- by Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil Lewis, Erik Brynjolfsson, Diyi Yang",
+    "authors": "",
+    "abstract": "Understanding how AI is reshaping work requires an accurate account of the tasks workers perform. Workers are often the first to see how their jobs are changing, as new responsibilities and tools often appear in everyday work before these changes reach formal descriptions. Interviews with workers can help capture these emerging changes in job tasks. Yet existing methods support standardized ratings across workers, while open-ended conversations with workers remain costly to collect and synthesize at scale. We introduce the Stanford Task Network (TaskNet), an occupational taxonomy grounded directly in workers’ accounts of their everyday work. To construct TaskNet, we develop a mixed-initiative system that induces task inventories directly from workers. The system conducts interviews, standardizes reports into individual task lists, and aggregates these lists into occupational task inventories. Applied to six occupations spanning a range of education requirements and AI exposure, our system interviews 132 workers and produces 202 task statements from 2726 reports, all of which were accepted by O*NET Center analysts, compared to roughly 65%of workers’ write-in task suggestions collect",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35987#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "15d97949f4ab4b94",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:14.836765+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Hidden Sharpe Ratio -- by Mikhail Chernov, Bryan T. Kelly, Semyon Malamud, Johannes Schwab",
+    "authors": "",
+    "abstract": "We estimate the maximal Sharpe ratio in large cross-sections of assets directly, without constructing the efficient portfolio. Covariance estimation in this setting requires regularization, which suppresses the contribution of small-eigenvalue directions. Our estimator progressively recovers this contribution, yielding tight upper and lower bounds with asymptotic confidence intervals. We further show that ridge-regularized Markowitz portfolios, the construction underlying many existing high-Sharpe benchmarks, deliver out-of-sample Sharpe ratios that fall short of the true maximum by an explicit, non-vanishing multiplicative factor. Applied to U.S. equities, the method delivers an estimated maximal annualized Sharpe ratio of approximately 7.4, or 5.0 once micro-cap stocks are excluded, substantially exceeding existing portfolio-based benchmarks of 1.0–4.0. Adding corporate bonds raises the maximum, though not by a statistically significant margin. Nonlinear portfolio weights dominate linear ones, and characteristics introduced after 2004 contribute little additional Sharpe ratio.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35988#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "1bc3a0ef5cb79204",
+    "topics": [
+      "债券市场"
+    ],
+    "primary_topic": "债券市场",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:16.313013+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Clearing the Fog: Price Transparency, Market Churn, and Consumer Welfare in Short-Term Rentals -- by Ginger Zhe Jin, Liad Wagman, Jingyi Xing",
+    "authors": "",
+    "abstract": "We study California's short-term lodging price transparency law (AB 537), which from July 1, 2024 required Airbnb and other providers to advertise fee-inclusive prices. Using Coarsened Exact Matching to compare Airbnb listings in San Diego and San Francisco with those in Seattle and Chicago, we find that all-in pricing made guests more price-sensitive relative to control cities; yet, contrary to the standard prediction that transparency lowers prices, average daily rates rose by 4.8 percent. We also observe significant market churn: relative to control cities, treated cities saw more exits and entries, listings reliant on cleaning-fee revenue disproportionately exited, higher-quality listings were more likely to stay, and entrants offered lower fees and lower quality than incumbents. A discrete-choice welfare analysis shows that the law removed a sizable “welfare illusion” created by obscured fees and, largely through market churn, raised realized consumer surplus. The net gains, after accounting for price increases, were positive on average but unevenly distributed across treated ZIP codes.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35989#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "ee9518e448c2ded4",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:18.001899+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Financial Advisors and Retirees' Risk-taking -- by Allison T. Cole, Maarten Meeuwis, Alessandro Previtero, Noah Stoffman",
+    "authors": "",
+    "abstract": "Advised retirees keep about two-thirds of their portfolios in equities well into old age—30 to 40 percentage points more than non-advised retirees, target-date funds, or common rules of thumb. These allocations reflect active choices rather than inertia, and they adjust gradually toward a new advisor’s investment style following advisor switches. Equity shares rise with relationship tenure, and advisor influence is strongest among clients with low financial knowledge or risk tolerance, consistent with trust facilitating risk-taking. Given retirees’ modest financial wealth relative to their safe pension income, we rationalize these portfolios in a standard life-cycle model with moderate risk aversion. Modeling advisors as “money doctors” who correct clients’ pessimistic beliefs about the equity premium, we find that, relative to a no-advice counterfactual, the welfare gains from higher risk-taking are of the same order of magnitude as the cost of advice.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35990#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "86aabf619c4f23ef",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:19.662636+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs -- by Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand",
+    "authors": "",
+    "abstract": "Multifaceted poverty Graduation programs that aim to increase income generating activities for low-income households are being rapidly adopted and scaled by nonprofit organizations and governments. This paper conducts a Bayesian hierarchical meta-analysis of 49 studies (encompassing 81 treatment variations) on poverty Graduation programs, defined as containing at least three of five components: consumption support, savings facilitation, skills training, coaching, and a lumpsum transfer. The analysis finds large gains across economic and psychosocial outcomes: monthly consumption rises by 38 USD PPP (11 percent), income by 28 USD PPP (15 percent), alongside improvements in savings, assets, food security, mental health, and women’s empowerment. Beyond these average treatment effects, three results stand out. First, programs with large transfers (at least 400 USD PPP) have larger treatment effects but are not more cost-effective. Second, more expensive programs generate larger treatment effects, but the improvements are not commensurate with the cost increases; thus, lower cost programs tend to be more cost-effective. Third, programs implemented from 2016 onward perform considerably b",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35991#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "938fa39fa6610cdb",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:21.341094+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Policy Deterrence: Strategic Investment in U.S. Broadband -- by Karam Kang, Mo Xiao",
+    "authors": "",
+    "abstract": "Can firms influence policy through investment? Using 2010--2019 U.S. broadband deployment and state policy data, we find that large internet service providers expand capacity more in electorally competitive counties. Greater large-provider capacity in swing counties is associated with fewer subsequent entry- and investment-facilitating policies, especially rights-of-way accommodations that reduce deployment barriers faced by smaller providers. To interpret these patterns, we develop a model in which a large firm's capacity can reduce the policymaker's gain from intervention. In the model, policy deterrence raises the large firm's market share and can reduce total deployment.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35992#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "0230fbc2e4a965c5",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:22.729530+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Peer Influence in College Applications -- by Ana M. Gazmuri, Elena Prager",
+    "authors": "",
+    "abstract": "This paper studies how exposure to peers affects college application behavior. We use neighbors who attend different high schools to mitigate concerns about common shocks. Using granular classroom-level data, we find that exposure to peers who have applied to a program increases application rates. Consistent with an information mechanism, there is no additional effect of peers who are admitted. In counterfactuals, the effect is large enough to close urban-rural gaps and gender gaps in applications to selective college programs. We make the (generally NP-hard) application portfolio choice problem tractable using a setting where admission probabilities are observable and conditionally independent.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35993#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "39e15131b9607607",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:24.292283+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Impact of Climate Change on Fisheries -- by Fabio Cevenini, Christopher Costello, Carlo Fezzi",
+    "authors": "",
+    "abstract": "This paper provides the first causal estimate of the effect of ocean temperature variations on fishing revenue. We develop a simple theoretical model underpinning an empirical specification estimated on 2.5 million spatially explicit observations of fishing revenue from all European vessels for 2013–2022. The identification strategy leverages a novel metric, Marine Degree Days, which quantifies species-specific temperature exposure relative to biologically established thermal tolerance intervals. Within this framework we address key identification challenges, including spatial selection and ecological interdependencies across species. We find that deviations from species’ thermal preferences lead to significant losses in fishing revenue, with heat exposure causing the most pronounced impacts. These effects are mediated by species’ vertical mobility and ecological characteristics. Projections across different climate scenarios point to widespread revenue declines by 2100, reaching €560 million annual losses in the warmest scenario, though impacts are highly spatially heterogeneous. Lower-income, equatorial areas are expected to suffer the most, while some colder regions experience g",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35994#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "98b4333a07b42644",
+    "topics": [
+      "因果推断"
+    ],
+    "primary_topic": "因果推断",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:25.905752+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "When Food Stamps Became Free: Impacts and Implications of Removing the Purchase Requirement -- by Amy Finkelstein, Matthew J. Notowidigdo, Charlie Rafkin",
+    "authors": "",
+    "abstract": "We analyze the food stamp program both as a potential investment in children’s health capital and as a redistributive tool by studying the 1979 reform that made food stamps free. We leverage geographic variation in exposure to the reform, which raised the program’s food subsidy from 65% to 100%. This raised enrollment by 1.85 percentage points (standard error = 0.15), or about 25%, with new enrollees substantially poorer than existing participants. From an investment perspective, we do not find evidence of improvement in infant health, and 95% confidence intervals rule out gains in birth weight from enrolling in food stamps exceeding 2%. From a redistribution perspective, the enrollment response implies that the average recipient of free food stamps acts as if they value them at 59 cents per dollar, with nonparametric bounds of 42–77 cents. Despite this substantial dissipation in transfer value relative to a frictionless cash transfer, under standard redistributive preferences the free food stamp program increases social welfare because of its targeting to very low-income households. The move to free stamps from a partially subsidized program improved targeting on social value but ",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35996#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "c9b3c196072683cb",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:27.547501+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Beyond Overdose Prevention: Naloxone Coprescription Laws and the Path to Treatment -- by Shin-Yi Chou, Jiarun Li, Bingjin Xue",
+    "authors": "",
+    "abstract": "Over one-third of U.S. states have enacted naloxone coprescription laws, requiring physicians to prescribe or offer naloxone alongside high-risk opioids. Using Medicare Part D data, the Treatment Episode Data Set, and a difference-in-differences design, we study how these laws affect naloxone access, broader prescription behavior, and treatment engagement. Coprescription laws increased naloxone prescribing by 275%, with effects twice as large in states requiring prescriptions as in those requiring only offers. We find no evidence of increased opioid or benzodiazepine prescribing, countering moral hazard concerns that broader naloxone access might encourage riskier opioid use. Instead, we document significant increases in prescribing of medications for opioid use disorder (MOUD) and gains in opioid use disorder treatment admissions, primarily in deliberate treatment-seeking settings. These results suggest that coprescription laws may have broader benefits beyond overdose prevention.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35997#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "f3157c2535879082",
+    "topics": [
+      "DID"
+    ],
+    "primary_topic": "DID",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:29.250801+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "(In)Credible Development RCTs: False Discoveries, Low Power, and a Solution -- by Qingyuan Chai, Kevin Lang, Liang Zhong",
+    "authors": "",
+    "abstract": "We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values associated with p-hacking. This suggests many RCTs are underpowered. Estimating an empirical Bayes mixture model that accounts for selective publication, we find that approximately 30 percent of published rejections are false discoveries, with average directional power at only 40 percent. At conventional significance thresholds, the posterior probability of a false discovery reaches 66 percent. Doubling original sample sizes lowers the average false discovery rate by five percentage points, whereas tightening the significance threshold to 0.005 yields a larger reduction at the cost of total discoveries. Finally, we characterize a funder’s optimal replication policy under a fixed budget and an evidence standard. Under standard regularity conditions, replications concentrate in an intermediate interval of origina",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w35999#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "3ddb126d1bcdc559",
+    "topics": [
+      "实验"
+    ],
+    "primary_topic": "实验",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:30.924409+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "When More Prenatal Care Looks Like Less: Selection, Information and Maternal and Infant Health -- by Chien-Tzu Cheng, Shin-Yi Chou, Hsien-Ming Lien",
+    "authors": "",
+    "abstract": "We use Taiwan's 2003 SARS epidemic as a natural experiment, instrumenting prenatal care with gestational exposure to SARS-induced fear that reduced visits by over 20 percent. Adequate prenatal care reduces preventable maternal complications by 3.4 percentage points (26 percent), with no effect on infant outcomes. OLS estimates are perversely signed for maternal complications but overstate benefits for infant outcomes, consistent with competing patient- and provider-driven selection. Mechanism evidence points to prenatal care as a longitudinal information system: repeated contact facilitates detection of evolving risks and generates clinical information that informs delivery decisions, including delivery-mode routing and subsequent management at delivery.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w36000#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "2052393b6c6bd999",
+    "topics": [
+      "因果推断"
+    ],
+    "primary_topic": "因果推断",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:32.232435+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Vigilance, Risk Vulnerability, and the Precautionary Augment -- by Miles S. Kimball, Vincent A. Mastantuno",
+    "authors": "",
+    "abstract": "Risk raises the expected marginal utility of a prudent agent. We define this proportional change as the precautionary augment, which measures risk-induced changes in the marginal value of saving, the Lucas Tree risk-free rate, and asset prices in a derivative-saturated market where market-state securities provide incomplete coverage against idiosyncratic risk. One agent is more vigilant than another if their precautionary augment is larger for all unfair risks. We derive and compare conditions for greater vigilance, showing how to implement the Diffidence Theorem geometrically. Because risk vulnerability is equivalent to decreasing vigilance, classic results about risk vulnerability emerge as corollaries.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w36001#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "7fe9fe310dfca511",
+    "topics": [
+      "衍生品市场"
+    ],
+    "primary_topic": "衍生品市场",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:33.789199+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Knowledge Without Taxation? Experimental Evidence from a Tax Education Program -- by Anders Jensen, Nikhil Kumar, Konstantin Poensgen",
+    "authors": "",
+    "abstract": "A property tax experiment in Ghana randomly provides tax education to property owners and frontline officials. The intervention raises tax knowledge, which spreads through social networks to untreated neighbors, but does not increase tax payments. Educated taxpayers and officials become more engaged in their interactions without developing more collaborative relationships. Taxpayers revise downward their beliefs about enforcement capacity and become more aware of legal ways to reduce their tax burden. Knowledge is a double-edged sword: it can stimulate citizens to engage with the tax system while exposing the state's limited capacity to enforce it.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w36002#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "f03f66b98a78e90e",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:35.490725+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains -- by Panle Jia Barwick, Lu Fang, Jinhan Liu, Huilan Xu, Zhe Yuan",
+    "authors": "",
+    "abstract": "Generative AI improves performance on individual tasks, but whether those gains translate into firm growth, and for which firms, remains an open question. We study a leading Chinese e-commerce platform that in 2024 embedded a generative AI system in the operating software firms use to run their businesses, drawing on centrally developed models and platform-wide data to deliver ready-to-use applications to every firm. Complete records of each firm’s AI use, linked to its monthly operations and sales, let us trace adoption through changes in business capabilities, such as reaching customers and introducing new products, to sales growth. Using a matched difference-in-differences design and focusing on firms with annual sales below RMB 5 million, we find that adoption raises monthly sales by 51.6%, primarily through a 47.0% increase in the number of orders; instrumental-variable estimates confirm these results. Adopters reach more customers, update their product lines faster, and deliver better product and service quality, with the largest proportional gains for the smallest firms. Two mechanisms help explain the results. First, AI lowers the cost of routine work: adopters produce more",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w36003#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "06019537d7f4b1c9",
+    "topics": [
+      "AI",
+      "DID"
+    ],
+    "primary_topic": "AI",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:37.325197+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Main Monetary Policy Shock -- by Christoph Boehm, Husang Kim, T. Niklas Kroner",
+    "authors": "",
+    "abstract": "We propose a novel procedure to identify a main monetary policy (MMP) shock as the linear combination of monetary policy surprises that best explains macroeconomic fluctuations. Implemented with two standard high-frequency yield-curve surprises and the Boehm and Kroner (2024) non-yield shock, the MMP shock explains nontrivial business-cycle variation over the last 30 years, in contrast with prior findings. Moreover, the MMP shock differs markedly from a textbook monetary policy shock: a contractionary shock leaves interest rates mostly unchanged but persistently lowers headline prices and appreciates the dollar, while temporarily tightening financial conditions and depressing industrial production.",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w36004#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "a389899c8fa4f6dc",
+    "topics": [
+      "央行和货币政策"
+    ],
+    "primary_topic": "央行和货币政策",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:39.058072+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Policy Evaluation Beyond Significance Testing: Evidence from Chicago's ShotSpotter Contract -- by Terence Chau, Philip J. Cook, Javier Lopez, Jens Ludwig, Alejandro Roemer, Adam K. Soliman",
+    "authors": "",
+    "abstract": "Program impact estimates that are not statistically significant are often treated as providing little guidance for policy choice, even when economically important effects remain plausible. In such cases, the decision-relevant task is not simply to test whether the effect differs from zero, but to estimate the probability distribution of programmatic effects. The importance of going beyond hypothesis testing is especially clear when evaluations are underpowered relative to the effect needed for benefits to exceed costs. We illustrate this point using Chicago’s contract for ShotSpotter, an acoustical gunshot detection system that reduces police response times and may therefore have improved survival among shooting victims. Using a geographic RD design, we estimate that ShotSpotter reduced the shooting fatality rate by 2.5 percentage points, equivalent to roughly 49 fewer deaths per year. Although the estimate is not statistically significant, its implied benefit far exceeds the cost of the service. To have enough statistical power under the hypothesis testing approach to detect an effect of this size would require 87 years’ worth of Chicago shooting data. We instead implement a decis",
+    "keywords": [],
+    "url": "https://www.nber.org/papers/w36005#fromrss",
+    "source": "NBER Working Paper",
+    "publish_date": "",
+    "id": "854f80d57632c4c0",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:40.658878+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
+    "authors": "Catherine R Schenk",
+    "abstract": "Over the past two centuries, officially issued currencies have become firmly en trenched as a nearly universal institution in economies around the world. But the path to this arrangement has not been smooth: currencies have come and gone, in line with political changes, periods of hyperinflation or currency reforms and, in some cases, entry into currency unions.",
+    "keywords": [],
+    "url": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
+    "source": "BIS Working Paper",
+    "publish_date": "2026-11-06T00:00:00Z",
+    "id": "f729efa1cbac1e20",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:42.251831+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Scenarios for future banking: implications for profitability, liquidity and solvency",
+    "authors": "Oliver Wünsch",
+    "abstract": "Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather than forecasts.",
+    "keywords": [],
+    "url": "https://www.bis.org/publications/scenarios-future-banking-implications-profitability-liquidity-and-solvency",
+    "source": "BIS Working Paper",
+    "publish_date": "2026-11-04T00:00:00Z",
+    "id": "a76b327a497c7fd3",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:43.726141+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+    "authors": "Raphael Auer",
+    "abstract": "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To investigate uncertainty in these reconstructions, this paper systematically compares specifications drawn from the literature for reconstructing quarterly GDP during 1919–1946. The comparison evaluates predictions on concealed postwar quarters and separates variation across specifications from coefficient uncertainty within a model.",
+    "keywords": [],
+    "url": "https://www.bis.org/publications/working-paper-1390-prewar-us-business-cycles-under-uncertainty-reconstructing-quarterly-gdp-1947",
+    "source": "BIS Working Paper",
+    "publish_date": "2026-11-03T00:00:00Z",
+    "id": "202a23faceec0487",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-03",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:45.324441+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation",
+    "authors": "FERHAT AKBAS, \nMINJIE HUANG, \nFELIX MESCHKE",
+    "abstract": "ABSTRACT We reinvestigate Anderson, Reeb, and Zhao's findings that informed short selling is unique to family firms and driven by information leakage from internal disputes. Using the same firm sample and more comprehensive short‐selling data, we find that short selling predicts future returns in both family and nonfamily firms. We also find no significant difference in abnormal short selling before negative earnings announcements. In extended sample periods, short selling continues to predict returns for nonfamily firms under both ownership‐based and familial‐link definitions. Overall, our evidence suggests that short sellers are broadly informed and that family firms are not uniquely vulnerable.",
+    "keywords": [
+      "Original Article"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70098?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Wed, 04 Nov 2026 00:23:15 -0800",
+    "id": "9b15e6ed8ad80e5f",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:46.867042+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Unintended Consequences of Holding Dollar Assets",
+    "authors": "ROBERT CZECH, \nSHIYANG HUANG, \nDONG LOU, \nTIANYU WANG",
+    "abstract": "ABSTRACT We propose and examine a novel mechanism whereby holdings of dollar assets by foreign institutions can have a large, unexpected impact on foreign Treasury yields in crisis periods. Non‐U.S. institutions hold substantial dollar assets and hedge dollar exposures by selling dollars forward. In crisis periods, the dollar appreciates against other currencies. To meet margin calls on foreign exchange (FX) hedging positions, traditionally passive institutions liquidate domestic safe assets to raise cash. We show that during the recent COVID crisis, U.K. institutions with substantial dollar holdings and FX hedging positions sold large amounts of gilts, contributing significantly to the observed gilt yield spike.",
+    "keywords": [
+      "Original Article"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70097?af=R",
+    "source": "Journal of Finance",
+    "publish_date": "Mon, 02 Nov 2026 04:49:41 -0800",
+    "id": "e2ce5d69889a3c39",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-02",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:48.545795+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "A New Jury System to Build Legitimacy: The Case of Argentina",
+    "authors": "Valerie P. Hans, \nAldana Romano, \nSidonie Porterie, \nShari Seidman Diamond, \nJohn Gastil, \nAndrés Harfuch, \nPaula L. Hannaford‐Agor",
+    "abstract": "ABSTRACT In 2015, the province of Neuquén, Argentina held its first jury trial, inaugurating a common law‐style jury system that has since spread to twelve other provinces. This dramatic innovation in what had been a civil law context was an effort to build the legal system's legitimacy through democratic innovation. To assess the operation of and reactions to this effort, we collected and analyzed posttrial surveys from 433 jurors who served in 37 trials to learn their reactions to being summoned, their comprehension of evidence, their deliberative experiences, and their perceptions of the impact of jury service on their attitudes. In addition, we surveyed 34 judges and 108 lawyers from these same trials to assess how they managed the demands of the new system. Despite worries about citizens' reluctance to participate and concerns about the competence of juries, both jurors and legal professionals favorably evaluated the jury's competence, and jurors' ratings of their service experience correlated positively with their posttrial civic attitudes, confidence in public officials, and intention to participate in public life. The discussion places these results in a broader context.",
+    "keywords": [
+      "ORIGINAL ARTICLE"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jels.70044?af=R",
+    "source": "Journal of Empirical Legal Studies",
+    "publish_date": "Wed, 04 Nov 2026 16:11:52 -0800",
+    "id": "e7f3eeab0fd77e84",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-04",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:50.116938+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Attorney Investigation and Discipline Evidence From the State Bar of California",
+    "authors": "Albert Yoon",
+    "abstract": "ABSTRACT While most lawyers never face disciplinary action, a fair number are investigated, and in some cases, disciplined for professional misconduct. This study seeks to better understand the factors that give rise to this regulatory scrutiny. Drawing upon unique data provided by the State Bar of California, this article examines the entire population of lawyers admitted to practice in California from 1990 to 2024 to explore who gets investigated and disciplined, and why. Using detailed individual‐level data—much of it non‐public—we find that disciplinary risk is concentrated among lawyers who graduate from less selective law schools and receive the lowest passing bar exam scores. Demographic characteristics such as gender and ethnicity also correlate with regulatory scrutiny. Tightening entry to the profession along these dimensions could reduce the number of investigations and sanctions, holding other factors constant. Relying on these same factors, however, would exclude many more lawyers who never run afoul of the professional rules. We argue that the existing, largely reactive regulatory framework could benefit from a more proactive, evidence‐based approach. A more promising",
+    "keywords": [
+      "ORIGINAL ARTICLE"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jels.70047?af=R",
+    "source": "Journal of Empirical Legal Studies",
+    "publish_date": "Sun, 01 Nov 2026 19:19:49 -0800",
+    "id": "7dd51bc7edd1adcb",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-01",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:51.721279+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Demand for Artificial Intelligence in Settlement Negotiations",
+    "authors": "Joshua S. Gans, University of Toronto",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 733-754, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735891?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "0d918e404f83e6ff",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:53.488306+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Emergence of Enforcement",
+    "authors": "Luca Anderlini, Leonardo Felli, Michele Piccione, University of Naples Federico IIUniversity of Cambridge, London School of Economics",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 755-788, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/744289?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "43c621361845553d",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:54.988565+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Power of Business Legislation: Evidence from China’s 1904 Company Law",
+    "authors": "Yang Cai, Jiong Zhu, Nanjing University, Peking University",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 933-973, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738356?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "ab9c7715094f3a28",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:56.431794+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "The Effects of Increased Sentencing Severity on Fertility and Family Formation",
+    "authors": "Siobhan M. O’Keefe, Davidson College",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 825-851, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/744285?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "5dc9d1a58f7fb912",
+    "topics": [
+      "司法和执法"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:57.956760+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Big Three (Dis)Engagements",
+    "authors": "Dhruv Aggarwal, Lubomir Litov, Shivaram Rajgopal, Northwestern University, University of Oklahoma, Columbia Business School",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 853-897, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/744286?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "afe603ed0f09f7aa",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:38:59.477687+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Revolutionary Constitutional Compliance",
+    "authors": "Jamie Bologna Pavlik, Justin T. Callais, Andrew T. Young, Texas Tech University, Archbridge Institute, Texas Tech University",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 899-931, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/744287?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "4cf01e227fbba2b3",
+    "topics": [
+      "其他"
+    ],
+    "primary_topic": "其他",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:39:00.985130+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Contractual Remedies in Mergers",
+    "authors": "Dhruv Aggarwal, Albert H. Choi, Geeyoung Min, Northwestern University, Stanford University, Emory University",
+    "abstract": "The Journal of Law and Economics, Volume 69, Issue 4 , Page 789-823, November 2026.",
+    "keywords": [],
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/744288?af=R",
+    "source": "Journal of Law and Economics",
+    "publish_date": "2026-11-06T05:39:52Z",
+    "id": "921ec6fdc7b7683c",
+    "topics": [
+      "公司并购"
+    ],
+    "primary_topic": "公司并购",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:39:02.753997+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "SREP, P2R, and “slow-burning” risks to EU banks (prepared at the request of the European Parliament)",
+    "authors": "Rui Almeida, Rainer Haselmann, Florian Heider, Tobias Tröger",
+    "abstract": "Pillar 2 requirements (P2R) for euro area banks are less responsive to risks that are still building and have yet to materialise. Between 2019 and 2025, P2R are positively associated with weak asset quality and vary by size and business model, but not with exposure to population ageing, geoeconomic fragmentation, the climate transition, or non-bank finance.  The Supervisory Review and Evaluation Process (SREP) was not designed to price slow-burning risks. No capital instrument matches their long horizon and uneven incidence across banks.",
+    "keywords": [],
+    "url": "https://safe-frankfurt.de/publications/pub-details-startseite/publicationname/srep-p2r-and-slow-burning-risks-to-eu-banks-prepared-at-the-request-of-the-european-parliament.html",
+    "source": "SAFE Working Paper Series",
+    "publish_date": "Oct 2026",
+    "id": "a95da832518c849f",
+    "topics": [
+      "非银机构",
+      "绿色金融"
+    ],
+    "primary_topic": "非银机构",
+    "publish_date_norm": "2026-10-09",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:39:04.163658+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
+  },
+  {
+    "title": "Impact assessment of the “Damages Directive”: abuse of dominance cases",
+    "authors": "Dielen, Ilona (ERUDITE (EA, 437), Université Paris-Est Créteil, Créteil, France); Mouton, Jeanne (European Commission, Brussels, Belgium)",
+    "abstract": "This study assesses the effect of Directive 2014/104/EU (the ‘‘Damages Directive’’) on the outcome of private actions for damages following an abuse of a dominant position. Using an original dataset of 194 cases decided in France, Italy, and the United Kingdom between 1988 and 2022, we implement a difference-in-differences design in which stand-alone damages actions, those most exposed to the Directive’s procedural and evidentiary reforms, form the treated group. Conditional on a case being litigated, the adoption of the Directive is associated with an increase of 30.8% points in the probability of a favourable outcome for treated cases. Furthermore, the estimate should be read as an average institutional effect on the likelihood of a favourable judicial outcome across three heterogeneous legal systems. The effect is robust to alternative definitions of the treated group and to functional form, and placebo tests reveal no differential pre-reform trend. In the cross-country analysis, France and the United Kingdom carry more than Italy. The estimate remains positive, but less precise, when treatment is dated from national transposition rather than adoption.",
+    "keywords": [],
+    "url": "https://link.springer.com/article/10.1007/s10657-026-09891-1",
+    "source": "European Journal of Law & Economics",
+    "publish_date": "2026/11/06",
+    "id": "420d202911835ed2",
+    "topics": [
+      "司法和执法",
+      "DID"
+    ],
+    "primary_topic": "司法和执法",
+    "publish_date_norm": "2026-11-06",
+    "week_of": "2026-11-09",
+    "date_added": "2026-11-09T07:39:05.760434+00:00",
+    "title_zh": "",
+    "abstract_zh": ""
   }
 ];
 window.LAST_REPORT = {
-  "period_start": "2026-10-26",
-  "period_end": "2026-11-02",
-  "trend_summary": "本期（2026-10-26 至 2026-11-02）共收录 64 篇新文章，覆盖来源 9 个。从主题分布看，其他（25篇）、司法和执法（11篇）、公司治理（10篇）、非银机构（5篇）、公司并购（3篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（22篇）、Harvard Law School Forum on Corporate Governance（14篇）、Columbia Law School Blogs (CLS Blue Sky Blog)（10篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
-  "generated_at": "2026-11-02 07:08:53"
+  "period_start": "2026-11-02",
+  "period_end": "2026-11-09",
+  "trend_summary": "本期（2026-11-02 至 2026-11-09）共收录 64 篇新文章，覆盖来源 10 个。从主题分布看，其他（22篇）、司法和执法（9篇）、公司治理（7篇）、公司并购（4篇）、证券法（4篇）是本周最集中的研究领域。\n\n本周产出较多的来源包括：NBER Working Paper（19篇）、Harvard Law School Forum on Corporate Governance（15篇）、Columbia Law School Blogs (CLS Blue Sky Blog)（9篇），反映出这些机构在相关议题上的持续关注度。\n\n整体来看，本周研究议题横跨公司治理、金融监管、货币政策与金融市场等多个维度，既有聚焦具体政策评论与实务问题的博客类文章，也有采用实证方法、因果识别策略的学术工作论文，体现出商业法律与金融交叉领域研究方法的多样性。\n\n需要说明的是，由于本次为系统首次运行，数据库中尚无历史基线，因此本期报告呈现的是各数据源当前可获取的全部最新文章（而非严格意义上\"上次运行后新增\"的增量），后续每周运行将仅呈现真正的增量新文章。",
+  "generated_at": "2026-11-09 07:39:07"
 };
